@@ -1,0 +1,31 @@
+@prefix acdh: <https://vocabs.acdh.oeaw.ac.at/schema#> .
+@prefix acdhi: <https://id.acdh.oeaw.ac.at/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+<https://d-nb.info/gnd/118609807> a acdh:Person ;
+    acdh:hasTitle "Schnitzler, Arthur"@de .
+
+<https://id.acdh.oeaw.ac.at/none> a acdh:Person ;
+    acdh:hasTitle "none"@en .
+
+<https://d-nb.info/gnd/1050382196> a acdh:Person ;
+    acdh:hasTitle "Müller, Martin Anton"@de .
+
+<https://d-nb.info/gnd/1043833846> a acdh:Person ;
+    acdh:hasTitle "Andorfer, Peter"@de .
+
+<https://d-nb.info/gnd/1176130706> a acdh:Person ;
+    acdh:hasTitle "Börner, Ingo"@de .
+
+
+<https://id.acdh.oeaw.ac.at/schnitzler-mikrofilme> a acdh:TopCollection ;
+    acdh:hasDescription """Ein super guter Text
+    """@de ;
+    acdh:hasCoverageStartDate "1870-01-01"^^xsd:date ;
+    acdh:hasCoverageEndDate "1930-01-31"^^xsd:date ;
+    acdh:hasTitle "Arthur Schnitzler - Archiv der Zeitungsausschnitte"@de ;
+    acdh:hasLifeCycleStatus <https://vocabs.acdh.oeaw.ac.at/archelifecyclestatus/active> ;
+    acdh:hasCompleteness "Diese Sammlung wird sukzessive erweitert."@de ;
+    acdh:hasUrl "https://schnitzler-mikrofilme.acdh.oeaw.ac.at" ;
+    acdh:hasSubject "Arthur Schnitzler"@de .
