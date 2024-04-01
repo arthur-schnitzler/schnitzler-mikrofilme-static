@@ -12,7 +12,7 @@ from utils import get_id_and_title
 
 print("data crunching")
 
-files = sorted(glob.glob("exports/*/metadata.xml"))[:5]
+files = sorted(glob.glob("exports/*/metadata.xml"))
 
 data = []
 for doc_i, x in tqdm(enumerate(files), total=len(files)):
