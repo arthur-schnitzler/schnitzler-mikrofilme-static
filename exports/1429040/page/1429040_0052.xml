@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:09</Creator>
+        <Created>2023-05-10T13:31:07.169+02:00</Created>
+        <LastChange>2023-08-15T08:09:50.692+02:00</LastChange>
+        <TranskribusMetadata docId="1429040" pageId="55435158" pageNr="52" tsid="132842186" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MFBSKAOWLQKOQPPOOFFQICFN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMSFGDYXISCNOKPPCQBOMVCU" imageId="44709148"/>
+    </Metadata>
+    <Page imageFilename="1429040_0052.jpg" imageWidth="3400" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799337771" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="507,576 2871,576 2871,1275 507,1275"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="493,676 2580,673 2861,650 2861,561 2338,585 1594,425 1491,499 493,573"/>
+                <Baseline points="510,641 540,641 585,641 629,638 674,638 719,638 764,638 808,638 853,635 898,638 943,638 987,638 1032,635 1077,638 1122,638 1167,638 1211,635 1256,635 1301,635 1346,638 1390,635 1435,632 1480,632 1525,635 1569,635 1614,635 1659,632 1704,632 1749,632 1793,632 1838,632 1883,635 1928,635 1972,635 2017,632 2062,632 2107,632 2151,629 2196,629 2241,629 2286,629 2331,632 2375,632 2420,632 2465,629 2510,629 2554,629 2599,629 2644,629 2689,629 2734,629 2778,626 2823,626 2868,626"/>
+                <TextEquiv>
+                    <Unicode>Im II.Akt sagt Merz zu Werburg: Wie hat Ihnen mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="490,803 638,812 717,868 833,839 933,874 1060,836 1361,841 1361,644 1019,735 490,717"/>
+                <Baseline points="507,790 552,790 596,793 641,793 686,793 731,793 776,790 820,793 865,793 910,793 955,790 999,787 1044,787 1089,787 1134,787 1178,787 1223,787 1268,787 1313,787 1358,790 1369,790"/>
+                <TextEquiv>
+                    <Unicode>Einakter gefallen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="490,986 579,960 638,989 706,974 750,989 779,971 841,1004 924,986 963,1010 1004,986 1001,889 880,853 715,868 593,833 487,898"/>
+                <Baseline points="507,952 552,949 596,949 641,949 686,949 731,952 776,949 820,949 865,949 910,949 955,952 999,955 1008,958"/>
+                <TextEquiv>
+                    <Unicode>Nicht gut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="493,1154 2164,1092 2631,1166 2867,1110 2870,974 493,1036"/>
+                <Baseline points="510,1098 543,1101 587,1104 632,1104 677,1107 722,1104 767,1104 811,1104 856,1107 901,1107 946,1107 990,1104 1035,1104 1080,1101 1125,1101 1170,1098 1214,1101 1259,1101 1304,1098 1349,1098 1393,1098 1438,1095 1483,1095 1528,1095 1572,1092 1617,1092 1662,1092 1707,1092 1752,1092 1796,1092 1841,1095 1886,1095 1931,1095 1975,1092 2020,1092 2065,1089 2110,1089 2154,1092 2199,1089 2244,1089 2289,1086 2334,1086 2378,1086 2423,1086 2468,1086 2513,1086 2557,1086 2602,1089 2647,1092 2692,1086 2736,1086 2781,1083 2826,1080 2871,1080"/>
+                <TextEquiv>
+                    <Unicode>Es ist ja nicht der Mühe wert, über diese Dinge zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="567,1397 709,1402 729,1388 771,1414 794,1394 939,1394 1007,1414 1007,1154 906,1146 862,1178 753,1205 723,1187 700,1205 567,1190"/>
+                <Baseline points="582,1262 626,1262 671,1262 716,1259 761,1259 805,1259 850,1259 895,1259 940,1259 984,1262 1011,1265"/>
+                <TextEquiv>
+                    <Unicode>sprechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

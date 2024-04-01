@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:33</Creator>
+        <Created>2023-09-27T14:34:50.749+02:00</Created>
+        <LastChange>2024-01-22T18:33:09.318+01:00</LastChange>
+        <TranskribusMetadata docId="1589033" pageId="60123431" pageNr="50" tsid="145632815" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HHEJTHDOTMNLTUPDSFQRREBK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VXMSYLYVFWRTECTNNIZZSUPJ" imageId="48548509"/>
+    </Metadata>
+    <Page imageFilename="1589033_0050.jpg" imageWidth="2840" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793154500" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="573,275 573,855 2319,855 2319,275"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="560,384 696,378 868,441 1018,382 1650,414 2145,384 2147,312 1937,255 1436,320 1339,276 1175,297 1086,257 861,303 562,252"/>
+                <Baseline points="573,361 656,366 739,367 822,366 905,364 988,364 1071,364 1154,362 1237,364 1320,361 1404,364 1487,358 1570,358 1653,358 1736,353 1819,349 1902,349 1985,344 2068,344 2152,349"/>
+                <TextEquiv>
+                    <Unicode>dcendenantieme Bac</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="609,579 999,549 1131,596 2005,530 2314,636 2316,492 2005,433 1744,505 1504,475 1358,399 1124,401 989,452 759,412 611,437"/>
+                <Baseline points="623,531 707,534 792,537 877,542 962,543 1047,544 1131,546 1216,545 1301,546 1386,543 1471,543 1555,540 1640,543 1725,538 1810,531 1895,531 1979,526 2064,528 2149,531 2234,537 2319,540"/>
+                <TextEquiv>
+                    <Unicode>Ract schrell - Ran in Elchres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="626,764 776,730 872,776 1054,694 1377,751 1597,696 1879,696 2232,776 2232,615 2179,592 1843,666 1595,598 1474,655 1317,634 1199,571 808,619 685,562 626,585"/>
+                <Baseline points="638,698 717,692 797,692 877,688 957,686 1037,685 1117,680 1197,685 1277,688 1357,690 1437,692 1516,692 1596,689 1676,692 1756,692 1836,692 1916,695 1996,691 2076,693 2156,694 2236,695"/>
+                <TextEquiv>
+                    <Unicode>trief. Ute mit mat nike</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="626,838 732,878 963,840 1018,872 1326,834 1413,859 1413,747 1368,738 1218,764 942,738 872,776 626,745"/>
+                <Baseline points="638,815 677,818 716,816 755,817 794,819 833,820 872,819 911,821 950,826 989,824 1028,823 1067,822 1106,821 1145,821 1184,821 1223,821 1262,823 1301,823 1340,823 1379,826 1418,826"/>
+                <TextEquiv>
+                    <Unicode>miltmahr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

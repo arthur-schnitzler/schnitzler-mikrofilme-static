@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:53.372+02:00</Created>
+        <LastChange>2024-01-22T21:15:15.481+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126767" pageNr="57" tsid="145642222" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=SDFWAFFUQRKYQDLXRJLFJEWK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HJXZIHQMMEYGOBEYJMFUTGWE" imageId="48551844"/>
+    </Metadata>
+    <Page imageFilename="1589068_0057.jpg" imageWidth="2888" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787561652" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="665,550 665,1042 2451,1042 2451,550"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="667,634 1580,623 1946,694 2017,645 2099,683 2445,656 2445,521 2181,565 1416,543 1370,574 988,516 742,574 667,525"/>
+                <Baseline points="679,620 767,620 856,620 944,623 1033,621 1122,623 1210,619 1299,617 1387,620 1476,617 1565,617 1653,619 1742,618 1830,617 1919,615 2008,615 2096,615 2185,612 2273,615 2362,615 2451,617"/>
+                <TextEquiv>
+                    <Unicode>Flachköpfe-der Rationalistan, der Materialist,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="654,756 969,762 1106,822 1432,831 1709,782 2150,833 2345,824 2347,700 2265,669 1629,714 654,687"/>
+                <Baseline points="665,746 749,749 833,749 918,752 1002,749 1086,750 1171,747 1255,748 1339,749 1424,749 1508,746 1592,746 1677,746 1761,745 1845,745 1930,743 2014,743 2098,743 2183,743 2267,746 2352,743"/>
+                <TextEquiv>
+                    <Unicode>der Zweifler -? Es kommt imner nur auf den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="663,884 1113,886 1183,935 1472,975 1691,924 1804,966 1950,933 2041,977 2148,942 2374,964 2374,822 2274,813 663,822"/>
+                <Baseline points="674,877 759,877 844,877 929,877 1015,878 1100,877 1185,877 1270,882 1356,880 1441,877 1526,877 1611,877 1697,877 1782,875 1867,874 1952,873 2038,873 2123,874 2208,874 2293,874 2379,871"/>
+                <TextEquiv>
+                    <Unicode>Kopf an, ihr Metaphysiker, Ihr Idealisten, Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="660,1090 709,1095 745,1079 782,1093 855,1068 924,1088 957,1075 977,1090 1042,1075 1037,937 984,966 931,944 836,964 787,946 747,964 698,942 656,949"/>
+                <Baseline points="671,997 697,1000 724,1003 750,1003 777,1005 804,1009 830,1009 857,1009 884,1011 910,1012 937,1012 964,1009 990,1006 1017,1006 1044,1009"/>
+                <TextEquiv>
+                    <Unicode>Gaubige!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

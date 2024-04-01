@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_06:57</Creator>
+        <Created>2023-05-10T15:35:45.278+02:00</Created>
+        <LastChange>2023-08-15T06:57:18.073+02:00</LastChange>
+        <TranskribusMetadata docId="1428922" pageId="55434509" pageNr="1" tsid="132841311" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PWXGYZZAKJDXMMKGBNNQGZEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BIKQRZIXQHYHPPEVAFXJESTY" imageId="44708499"/>
+    </Metadata>
+    <Page imageFilename="1428922_0001.jpg" imageWidth="3624" imageHeight="5160">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801332608" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="447,308 2657,308 2657,3103 447,3103"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2347,334 2359,334 2415,397 2499,351 2540,390 2607,344 2631,370 2650,370 2655,298 2626,301 2605,281 2520,291 2506,281 2465,308 2441,310 2427,293 2381,296 2352,277"/>
+                <Baseline points="2359,376 2388,376 2478,376 2568,364 2657,358"/>
+                <TextEquiv>
+                    <Unicode>.1.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="813,1224 827,1231 863,1287 885,1294 979,1234 991,1236 1025,1097 998,1094 991,1101 979,1082 967,1082 849,1157 827,1159"/>
+                <Baseline points="824,1230 913,1206 1007,1186"/>
+                <TextEquiv>
+                    <Unicode>St-B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="565,1643 1768,1580 1859,1669 1994,1561 2374,1539 2472,1595 2501,1462 2169,1515 1696,1462 1520,1558 1441,1513 770,1597 570,1563"/>
+                <Baseline points="579,1642 621,1636 710,1636 800,1630 889,1624 979,1618 1069,1612 1158,1606 1248,1606 1337,1600 1427,1594 1516,1594 1606,1588 1696,1582 1785,1576 1875,1570 1964,1564 2054,1558 2144,1552 2233,1546 2323,1540 2412,1540 2502,1540"/>
+                <TextEquiv>
+                    <Unicode>LE PRIVILEGE (titre provisoire)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1265,1780 1354,1794 1506,1772 1544,1787 1686,1775 1760,1763 1763,1720 1645,1722 1628,1703 1604,1724 1506,1732 1484,1720 1457,1734 1441,1712 1414,1734 1397,1717 1378,1734 1344,1715 1291,1734 1267,1722"/>
+                <Baseline points="1278,1779 1319,1779 1409,1779 1499,1773 1588,1767 1678,1761 1767,1761"/>
+                <TextEquiv>
+                    <Unicode>Trois actes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1128,2056 2047,2035 2143,2018 2145,1943 1462,1977 1344,2025 1313,1989 1133,1989"/>
+                <Baseline points="1140,2054 1164,2054 1254,2054 1343,2054 1433,2048 1522,2042 1612,2036 1702,2030 1791,2024 1881,2024 1970,2012 2060,2012 2150,2006"/>
+                <TextEquiv>
+                    <Unicode>DE M. ARTHUR SCHNITZLES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="435,3076 592,3112 1847,3030 1881,2941 1207,2965 1150,3018 1070,2977 1020,3023 931,2982 875,3030 823,2987 438,3028"/>
+                <Baseline points="447,3093 537,3093 627,3087 716,3081 806,3075 895,3069 985,3063 1075,3063 1164,3057 1254,3051 1343,3045 1433,3039 1522,3033 1612,3027 1702,3027 1791,3021 1881,3021"/>
+                <TextEquiv>
+                    <Unicode>Adaptation de M. STÉPHANEESTIENNE.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

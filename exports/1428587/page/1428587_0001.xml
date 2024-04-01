@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_01:38</Creator>
+        <Created>2023-05-10T13:39:21.911+02:00</Created>
+        <LastChange>2023-07-30T01:38:02.858+02:00</LastChange>
+        <TranskribusMetadata docId="1428587" pageId="55413239" pageNr="1" tsid="131475496" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WOLZHEXXGMRHMISNXXMNVPCU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMMPXXQPNTLZTVNNKPAVGOXS" imageId="44687380"/>
+    </Metadata>
+    <Page imageFilename="1428587_0001.jpg" imageWidth="2840" imageHeight="2328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790656433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="325,567 2653,567 2653,1950 325,1950"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="310,679 2100,655 2102,526 1960,495 776,571 316,510"/>
+                <Baseline points="325,662 358,662 402,656 447,656 492,656 537,653 582,653 626,653 671,653 716,656 761,656 805,656 850,659 895,659 940,662 984,665 1029,668 1074,668 1119,668 1164,662 1208,656 1253,659 1298,662 1343,656 1387,653 1432,653 1477,650 1522,650 1566,644 1611,641 1656,638 1701,632 1746,632 1790,632 1835,632 1880,626 1925,623 1969,620 2014,626 2059,617 2104,617"/>
+                <TextEquiv>
+                    <Unicode>Author ARTHUR SCHNITZLER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2034,881 2060,889 2121,871 2150,889 2166,881 2208,892 2276,868 2305,895 2323,895 2334,692 2297,689 2276,705 2210,676 2168,684 2158,668 2108,687 2044,671"/>
+                <Baseline points="2050,826 2068,826 2113,826 2157,826 2202,820 2247,814 2292,820 2336,811"/>
+                <TextEquiv>
+                    <Unicode>R R S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="368,892 758,881 1034,966 1639,860 1987,926 2008,692 1805,674 1400,768 1066,721 729,853 589,763 371,766"/>
+                <Baseline points="382,871 399,868 444,868 489,868 534,868 579,865 623,868 668,871 713,877 758,883 802,886 847,886 892,883 937,880 981,883 1026,877 1071,874 1116,871 1161,868 1205,868 1250,868 1295,868 1340,868 1384,865 1429,862 1474,862 1519,856 1563,853 1608,850 1653,850 1698,847 1743,844 1787,844 1832,841 1877,838 1922,838 1966,841 2011,844"/>
+                <TextEquiv>
+                    <Unicode>Title  POSTHUMUS PAPI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2255,1189 2650,1218 2639,1068 2587,1060 2568,1079 2542,1060 2450,1058 2431,1079 2331,1097 2247,1081"/>
+                <Baseline points="2268,1175 2313,1178 2357,1181 2402,1187 2447,1190 2492,1190 2536,1193 2581,1199 2626,1205 2653,1205"/>
+                <TextEquiv>
+                    <Unicode>121-122</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1000,1305 1237,1334 1374,1287 1658,1337 2116,1305 2118,1160 2010,1195 1889,1145 1745,1189 1634,1137 1218,1210 1003,1176"/>
+                <Baseline points="1014,1304 1044,1304 1089,1298 1134,1295 1178,1292 1223,1292 1268,1292 1313,1292 1358,1286 1402,1286 1447,1280 1492,1277 1537,1277 1581,1277 1626,1277 1671,1277 1716,1280 1760,1280 1805,1283 1850,1280 1895,1280 1940,1283 1984,1283 2029,1283 2074,1283 2119,1280"/>
+                <TextEquiv>
+                    <Unicode>Class mark FiLE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="358,1381 460,1379 476,1392 497,1381 560,1405 582,1392 650,1400 650,1176 610,1168 587,1187 542,1179 516,1195 468,1174 403,1195 358,1187"/>
+                <Baseline points="373,1322 417,1319 462,1319 507,1319 552,1319 596,1319 641,1319 656,1322"/>
+                <TextEquiv>
+                    <Unicode>Bate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="374,1631 460,1623 516,1660 695,1637 784,1702 813,1697 813,1479 747,1460 632,1463 568,1434 453,1421 374,1468"/>
+                <Baseline points="388,1563 432,1563 477,1563 522,1560 567,1560 611,1557 656,1557 701,1560 746,1563 790,1563 820,1566"/>
+                <TextEquiv>
+                    <Unicode> v. Library</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="366,1997 1097,1926 1621,1966 1752,1900 2458,1942 2481,1750 371,1855"/>
+                <Baseline points="382,1940 426,1940 471,1940 516,1940 561,1937 605,1937 650,1940 695,1940 740,1940 784,1937 829,1937 874,1934 919,1931 964,1928 1008,1931 1053,1928 1098,1925 1143,1925 1187,1928 1232,1925 1277,1922 1322,1916 1366,1919 1411,1919 1456,1913 1501,1910 1546,1907 1590,1907 1635,1904 1680,1904 1725,1901 1769,1901 1814,1898 1859,1895 1904,1895 1948,1892 1993,1892 2038,1892 2083,1892 2128,1895 2172,1895 2217,1886 2262,1886 2307,1886 2351,1883 2396,1886 2441,1886 2486,1889"/>
+                <TextEquiv>
+                    <Unicode>From¬Cambridge Univ. Libruary, Eng</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

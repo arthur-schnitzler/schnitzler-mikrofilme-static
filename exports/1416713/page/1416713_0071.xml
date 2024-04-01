@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_10:44</Creator>
+        <Created>2023-05-02T07:48:39.398+02:00</Created>
+        <LastChange>2023-07-25T10:44:23.773+02:00</LastChange>
+        <TranskribusMetadata docId="1416713" pageId="54951079" pageNr="71" tsid="130599426" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YUIUUYAIVXCTJRBZBOHXRASX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HOIHRGVFBVDZTIGRPRRAMNMD" imageId="44454805"/>
+    </Metadata>
+    <Page imageFilename="1416713_0071.jpg" imageWidth="3440" imageHeight="3720">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828669366" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="435,1254 1731,1254 1731,1810 435,1810"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="427,1345 597,1375 707,1341 818,1379 1012,1328 1109,1353 1251,1317 1491,1328 1492,1285 1275,1251 1088,1290 808,1259 694,1304 428,1273"/>
+                <Baseline points="435,1325 465,1328 510,1328 555,1328 600,1325 644,1328 689,1328 734,1325 779,1325 824,1322 868,1322 913,1322 958,1319 1003,1316 1047,1316 1092,1316 1137,1313 1182,1313 1227,1310 1271,1307 1316,1307 1361,1304 1406,1304 1450,1304 1495,1304"/>
+                <TextEquiv>
+                    <Unicode>in meiner Kanzlei aufzuhalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="732,1538 1259,1566 1484,1519 1573,1538 1573,1497 1345,1440 1097,1483 732,1469"/>
+                <Baseline points="740,1522 770,1522 815,1522 859,1519 904,1516 949,1519 994,1519 1038,1519 1083,1519 1128,1519 1173,1519 1218,1519 1262,1522 1307,1522 1352,1519 1397,1516 1442,1516 1486,1516 1531,1516 1576,1519"/>
+                <TextEquiv>
+                    <Unicode>Mit verbrießlichsten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="993,1619 1225,1646 1427,1623 1530,1651 1729,1649 1728,1602 1637,1569 1216,1594 1085,1552 993,1564"/>
+                <Baseline points="1000,1618 1044,1618 1089,1618 1134,1618 1179,1618 1224,1621 1268,1621 1313,1621 1358,1618 1403,1618 1447,1615 1492,1615 1537,1618 1582,1618 1627,1624 1671,1633 1716,1636 1731,1639"/>
+                <TextEquiv>
+                    <Unicode>Ihr verschweigwoll ergebener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="996,1788 1171,1771 1293,1800 1322,1777 1427,1773 1666,1817 1664,1777 1534,1737 1484,1745 1444,1717 1383,1736 1342,1716 1163,1728 1099,1695 993,1715"/>
+                <Baseline points="1003,1776 1047,1773 1092,1770 1137,1770 1182,1767 1227,1767 1271,1767 1316,1767 1361,1767 1406,1770 1450,1773 1495,1779 1540,1785 1585,1794 1630,1797 1668,1800"/>
+                <TextEquiv>
+                    <Unicode>Richkofenheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

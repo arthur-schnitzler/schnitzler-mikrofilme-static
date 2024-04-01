@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_13:19</Creator>
+        <Created>2023-05-10T14:20:20.860+02:00</Created>
+        <LastChange>2023-08-14T13:19:33.609+02:00</LastChange>
+        <TranskribusMetadata docId="1428612" pageId="55418552" pageNr="5" tsid="132803072" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FBTXCSZSVJQJLAIRLIXDAZKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LYPKBAGNOUDVZJIVKMMGUWKY" imageId="44692656"/>
+    </Metadata>
+    <Page imageFilename="1428612_0005.jpg" imageWidth="3336" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787140427" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="355,224 2839,224 2839,804 355,804"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1115,285 1124,281 1138,282 1139,279 1144,283 1163,285 1166,288 1178,283 1191,291 1205,289 1202,262 1195,262 1180,252 1166,254 1153,252 1147,247 1145,250 1138,249 1136,253 1112,253"/>
+                <Baseline points="1119,274 1164,277 1206,283"/>
+                <TextEquiv>
+                    <Unicode>lʼauteur de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2102,355 2263,388 2311,353 2389,386 2460,364 2488,389 2521,371 2640,389 2671,370 2695,387 2837,370 2835,282 2813,268 2744,309 2651,249 2556,302 2462,242 2331,306 2205,205 2101,271"/>
+                <Baseline points="2107,358 2152,361 2197,367 2242,367 2286,370 2331,370 2376,373 2421,373 2466,373 2510,376 2555,376 2600,376 2645,376 2689,376 2734,376 2779,376 2824,373 2839,370"/>
+                <TextEquiv>
+                    <Unicode>Der Andere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="610,412 741,515 842,413 838,344 815,336 804,344 770,331 745,345 703,314 633,373 608,373"/>
+                <Baseline points="615,403 659,403 704,412 749,414 794,414 838,414 844,414"/>
+                <TextEquiv>
+                    <Unicode>1/2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="350,794 377,805 395,799 409,810 436,805 436,730 430,730 425,725 421,728 408,726 400,720 387,721 376,732 350,733"/>
+                <Baseline points="355,794 400,791 438,794"/>
+                <TextEquiv>
+                    <Unicode>et le</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

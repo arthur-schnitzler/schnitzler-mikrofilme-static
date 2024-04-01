@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:52.096+02:00</Created>
+        <LastChange>2024-01-22T21:36:57.267+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127440" pageNr="105" tsid="145643102" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JUHRJMVKQGQKHYOUBFLPHTKR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DZKESWNFRKKQZTAGEZEZKQCN" imageId="48552517"/>
+    </Metadata>
+    <Page imageFilename="1589070_0105.jpg" imageWidth="2920" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787184386" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="396,601 396,1125 2467,1125 2467,601"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="383,671 712,720 1601,671 1777,707 2383,666 2458,707 2460,565 2292,588 2111,546 1852,596 1606,528 1427,596 1225,554 813,596 570,544 383,572"/>
+                <Baseline points="396,677 499,674 603,674 706,674 810,674 913,671 1017,676 1120,674 1224,671 1327,669 1431,668 1535,670 1638,668 1742,668 1845,670 1949,668 2052,666 2156,665 2259,665 2363,664 2467,665"/>
+                <TextEquiv>
+                    <Unicode>Das Schlimmste, was einem Dichter passiern kann:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="394,811 679,852 935,813 1023,857 1344,803 1673,850 1728,808 1886,808 1981,860 2085,808 2251,850 2424,808 2424,720 2041,679 1813,681 1722,733 1463,694 1228,743 1093,712 938,746 793,694 394,725"/>
+                <Baseline points="408,808 509,802 610,802 711,805 812,803 913,802 1014,803 1116,802 1217,802 1318,799 1419,799 1520,797 1621,799 1722,799 1824,796 1925,797 2026,799 2127,796 2228,796 2329,796 2431,796"/>
+                <TextEquiv>
+                    <Unicode>Für seinen eigenen Einfall nicht reif zu sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1974,1166 2036,1160 2121,1204 2233,1204 2308,1158 2450,1163 2450,930 2328,974 2051,958 1974,1000"/>
+                <Baseline points="1989,1091 2014,1088 2040,1090 2066,1091 2092,1091 2118,1092 2144,1094 2170,1094 2196,1094 2222,1094 2247,1093 2273,1091 2299,1091 2325,1091 2351,1089 2377,1089 2403,1091 2429,1088 2455,1085"/>
+                <TextEquiv>
+                    <Unicode>Heren 1805</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

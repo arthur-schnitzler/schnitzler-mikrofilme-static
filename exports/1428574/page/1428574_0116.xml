@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_00:03</Creator>
+        <Created>2023-05-10T13:22:01.542+02:00</Created>
+        <LastChange>2023-07-30T00:03:20.233+02:00</LastChange>
+        <TranskribusMetadata docId="1428574" pageId="55411531" pageNr="116" tsid="131470944" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AUNSLMFIPBZPVWFPEJCEBLRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LNEUQYJDZSOIEWOPXFPNWVGZ" imageId="44685674"/>
+    </Metadata>
+    <Page imageFilename="1428574_0116.jpg" imageWidth="2904" imageHeight="4424">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792237302" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="480,1373 1394,1373 1394,1445 480,1445"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="474,1427 867,1455 915,1419 1024,1438 1095,1408 1141,1433 1376,1432 1392,1312 1304,1383 1249,1328 1207,1367 1132,1340 1098,1371 881,1382 817,1318 746,1387 714,1354 662,1389 546,1381 518,1351 474,1386"/>
+                <Baseline points="480,1435 498,1432 543,1429 588,1429 632,1429 677,1432 722,1429 767,1432 811,1432 856,1432 901,1429 946,1426 991,1426 1035,1426 1080,1423 1125,1423 1170,1423 1214,1423 1259,1423 1304,1423 1349,1423 1394,1423"/>
+                <TextEquiv>
+                    <Unicode>Der Gang zum Weiher</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="552,4224 1256,4224 1256,4308 552,4308"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="547,4281 572,4279 588,4290 603,4290 614,4298 628,4296 604,4170 584,4167 580,4172 568,4171 551,4167 540,4159 524,4160"/>
+                <Baseline points="552,4274 597,4280 629,4289"/>
+                <TextEquiv>
+                    <Unicode>G.C.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1065,4302 1091,4292 1104,4304 1128,4292 1145,4298 1161,4289 1188,4296 1214,4284 1254,4288 1254,4212 1065,4224"/>
+                <Baseline points="1071,4298 1077,4298 1122,4295 1167,4295 1211,4295 1256,4295"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

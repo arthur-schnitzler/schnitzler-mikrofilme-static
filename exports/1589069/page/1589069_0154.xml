@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:47</Creator>
+        <Created>2023-09-27T14:42:20.181+02:00</Created>
+        <LastChange>2024-01-22T21:47:00.873+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127384" pageNr="154" tsid="145643821" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LUYSAEQPTNCCFDLDRIBNFGRC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IPNAARWYDLDQGZAWIWHKCFEZ" imageId="48552461"/>
+    </Metadata>
+    <Page imageFilename="1589069_0154.jpg" imageWidth="2808" imageHeight="3400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787454999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="611,518 611,1023 2444,1023 2444,518"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="603,618 916,596 1114,637 1426,578 1867,625 2231,578 2367,603 2369,496 2260,464 1874,500 1462,452 1351,502 1023,437 607,427"/>
+                <Baseline points="614,588 702,595 790,594 878,594 966,591 1054,591 1142,587 1230,582 1318,581 1406,580 1495,578 1583,573 1671,570 1759,569 1847,564 1935,563 2023,558 2111,558 2199,555 2287,549 2376,555"/>
+                <TextEquiv>
+                    <Unicode>Ner hat nen au Ende von der Gerechtigkeite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1965,632 2040,632 2083,655 2137,618 2162,623 2165,587 2144,593 2135,584 2101,587 2085,598 2069,600 2065,593 2049,603 2035,603 2028,593 1967,593"/>
+                <Baseline points="1976,629 2003,626 2030,626 2057,624 2085,622 2112,621 2139,618 2167,614"/>
+                <TextEquiv>
+                    <Unicode>wenge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="598,737 1658,750 2372,696 2374,639 2235,609 2085,655 1940,600 1455,612 1371,655 1285,616 821,648 603,618"/>
+                <Baseline points="611,734 699,734 787,732 875,730 964,725 1052,724 1140,722 1228,721 1317,716 1405,713 1493,710 1581,710 1670,706 1758,701 1846,700 1934,698 2023,695 2111,692 2199,689 2287,686 2376,683"/>
+                <TextEquiv>
+                    <Unicode>Nichts anderes als dass auch dieseute einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="614,873 1198,859 1548,900 1796,839 2065,878 2437,834 2440,728 2008,773 1903,741 1596,778 1455,732 1314,775 1025,734 618,753"/>
+                <Baseline points="626,865 716,862 807,865 898,862 989,860 1080,856 1171,854 1262,853 1353,850 1444,847 1535,845 1625,841 1716,841 1807,833 1898,834 1989,830 2080,826 2171,821 2262,817 2353,820 2444,820"/>
+                <TextEquiv>
+                    <Unicode>Bedauern einflossen, denen man im Grunde alles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="607,1023 900,1005 1098,1035 1203,1012 1378,1046 1382,898 1276,873 1132,903 1030,871 882,900 784,960 609,937"/>
+                <Baseline points="623,1000 661,1000 699,1000 737,1000 775,1000 813,999 851,997 889,997 927,997 965,995 1004,994 1042,993 1080,990 1118,988 1156,988 1194,988 1232,988 1270,988 1308,988 1346,988 1385,988"/>
+                <TextEquiv>
+                    <Unicode>Böse gemunecht hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

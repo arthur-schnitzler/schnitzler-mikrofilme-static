@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:38</Creator>
+        <Created>2023-05-10T11:23:27.848+02:00</Created>
+        <LastChange>2023-08-01T03:38:39.120+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55387160" pageNr="137" tsid="131649334" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XFBZEZDPNNLXGXAYGKDVTZHY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FTSCMVUAWFNDENBBJJZFRHLW" imageId="44662057"/>
+    </Metadata>
+    <Page imageFilename="1428151_0137.jpg" imageWidth="7048" imageHeight="4904">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821487089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="703,212 6210,212 6210,958 703,958"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4258,281 5320,320 5650,412 6206,361 6196,107 5922,279 5243,262 4920,121 4668,209 4411,153 4256,216"/>
+                <Baseline points="4271,262 4361,268 4450,268 4540,268 4629,274 4719,268 4808,280 4898,286 4987,286 5077,298 5166,304 5255,304 5345,304 5434,310 5524,310 5613,310 5703,316 5792,316 5882,316 5971,316 6061,322 6150,322 6210,328"/>
+                <TextEquiv>
+                    <Unicode>de laisser et de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3790,315 3863,313 3885,330 3919,315 3989,325 4057,289 4154,301 4154,216 4127,211 4103,226 4057,206 4035,228 4001,228 3878,150 3848,141 3831,158 3795,143"/>
+                <Baseline points="3806,280 3889,280 3979,280 4068,274 4158,274"/>
+                <TextEquiv>
+                    <Unicode>de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="691,1174 1246,987 1700,1082 1979,960 2219,931 2216,808 1998,735 1802,873 1591,757 1297,885 885,737 686,761"/>
+                <Baseline points="703,918 793,918 882,912 972,912 1061,912 1151,918 1240,924 1330,936 1419,936 1509,942 1598,942 1688,942 1777,948 1867,942 1956,936 2046,930 2135,918 2225,918"/>
+                <TextEquiv>
+                    <Unicode>Jurbrids in d Thecop. 143.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

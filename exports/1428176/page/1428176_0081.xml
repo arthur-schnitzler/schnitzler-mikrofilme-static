@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:08</Creator>
+        <Created>2023-05-10T11:54:26.206+02:00</Created>
+        <LastChange>2023-07-28T21:08:36.105+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55394250" pageNr="81" tsid="131377712" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OOJQPVGUTIDKKJDQBVAEAMBR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HRDSSJLERMTZXQZOWXPKHCGK" imageId="44669134"/>
+    </Metadata>
+    <Page imageFilename="1428176_0081.jpg" imageWidth="3432" imageHeight="4344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801498898" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="211,170 2006,170 2006,436 211,436"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1395,286 1437,299 1504,260 1530,266 1609,239 1696,258 1730,236 1805,263 1816,152 1713,156 1643,187 1604,180 1576,195 1534,163 1405,172"/>
+                <Baseline points="1406,253 1421,256 1465,253 1510,247 1555,238 1600,235 1612,232 1633,232 1677,232 1722,226 1767,223 1812,220"/>
+                <TextEquiv>
+                    <Unicode>de la rivreur de cette</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="275,278 308,283 323,276 338,283 361,273 388,279 424,273 424,220 352,219 325,208 289,222 275,218"/>
+                <Baseline points="283,271 328,271 373,268 417,271 426,271"/>
+                <TextEquiv>
+                    <Unicode>aiee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="205,311 379,306 424,344 457,331 484,349 537,326 598,348 666,342 663,283 637,275 548,288 408,275 203,285"/>
+                <Baseline points="211,298 256,295 301,298 346,298 391,298 435,301 480,305 495,316 534,313 579,310 623,310 668,310"/>
+                <TextEquiv>
+                    <Unicode>crai a lʼhonneur avec le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="229,344 248,344 256,336 278,348 289,344 301,355 311,349 338,364 368,365 371,301 296,316 273,311 252,315 245,306 232,306"/>
+                <Baseline points="238,331 283,331 328,328 373,325"/>
+                <TextEquiv>
+                    <Unicode>G.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="854,422 1566,409 1632,452 1808,406 1951,437 2001,427 2002,336 854,389"/>
+                <Baseline points="862,420 886,417 931,414 976,417 1021,417 1065,414 1110,414 1155,414 1200,412 1244,412 1289,412 1334,409 1379,409 1424,409 1468,409 1513,406 1558,406 1603,403 1648,400 1692,400 1737,397 1782,397 1827,394 1871,391 1916,394 1961,391 2006,391"/>
+                <TextEquiv>
+                    <Unicode>« * * * ^ * *.. * * r * *</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="206,428 591,422 618,442 793,421 781,372 717,392 590,374 552,391 457,366 362,384 281,346 206,362"/>
+                <Baseline points="214,426 259,423 304,423 349,423 394,423 438,423 483,423 528,423 573,420 618,420 662,423 707,420 752,423 797,420"/>
+                <TextEquiv>
+                    <Unicode>« ^ ^ ^ * ^ * * * ^</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:59.298+02:00</Created>
+        <LastChange>2024-01-22T21:10:37.251+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126409" pageNr="83" tsid="145642038" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MKTQUHJHDTBLORALMLGWPGOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UNPCQPSWXZHXRNXXSBAHUFMO" imageId="48551486"/>
+    </Metadata>
+    <Page imageFilename="1589065_0083.jpg" imageWidth="2904" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788343261" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="746,453 746,953 2513,953 2513,453"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="747,537 1891,528 2038,598 2233,528 2505,541 2507,438 2465,432 2242,476 1865,443 1670,482 1497,432 1269,480 947,480 828,436 749,473"/>
+                <Baseline points="761,528 848,528 936,528 1023,528 1111,528 1199,526 1286,526 1374,523 1461,525 1549,522 1637,524 1724,522 1812,522 1899,523 1987,519 2075,520 2162,519 2250,522 2337,522 2425,519 2513,516"/>
+                <TextEquiv>
+                    <Unicode>wirkt manchmal der Unmensch mehr als der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="741,657 1652,664 1788,734 1974,734 2147,671 2259,723 2367,662 2465,668 2465,565 2393,541 2226,605 2005,614 1470,576 1017,614 741,572"/>
+                <Baseline points="752,656 842,656 932,658 1023,659 1113,657 1204,653 1294,653 1385,655 1475,653 1566,653 1656,650 1747,650 1837,650 1928,653 2018,650 2109,650 2199,650 2290,647 2380,647 2471,647"/>
+                <TextEquiv>
+                    <Unicode>Mensch, wahrhaft fördernd nur dieserAl-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="749,824 898,855 1058,809 1284,857 1764,780 2014,866 2391,813 2391,717 1733,738 1659,666 1179,668 1076,741 918,754 749,714"/>
+                <Baseline points="761,784 842,784 924,784 1005,784 1087,783 1169,786 1250,784 1332,784 1413,781 1495,781 1577,781 1658,778 1740,778 1821,780 1903,778 1985,778 2066,778 2148,777 2229,780 2311,775 2393,778"/>
+                <TextEquiv>
+                    <Unicode>les Grosse, Bletkende wird nur durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="734,1010 824,1017 1008,918 1229,942 1345,1006 1440,960 1501,977 1501,852 734,855"/>
+                <Baseline points="746,913 784,916 822,916 860,916 898,916 936,915 974,913 1012,916 1050,916 1088,916 1126,916 1164,916 1202,915 1240,913 1278,913 1316,913 1354,915 1392,915 1430,913 1468,914 1507,922"/>
+                <TextEquiv>
+                    <Unicode>diesen gek istet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

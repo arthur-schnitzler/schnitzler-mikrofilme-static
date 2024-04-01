@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:42.340+02:00</Created>
+        <LastChange>2024-01-22T21:36:41.227+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127134" pageNr="21" tsid="145643013" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FBJGFWTBZXDMWFSKKNEUZKMJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QPZAJQUFPFSUSHDQNDOLYYKT" imageId="48552211"/>
+    </Metadata>
+    <Page imageFilename="1589070_0021.jpg" imageWidth="2968" imageHeight="3848">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787055926" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="785,710 785,1330 2567,1330 2567,710"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="772,837 1262,803 1342,850 1435,803 1580,839 2098,794 2294,852 2490,805 2492,679 2298,732 2212,688 1962,725 1889,683 1359,748 1030,683 774,712"/>
+                <Baseline points="785,788 870,788 956,788 1041,788 1127,788 1212,785 1298,787 1383,785 1469,782 1554,782 1640,782 1725,780 1811,780 1896,777 1982,776 2067,776 2153,774 2238,772 2324,774 2409,776 2495,773"/>
+                <TextEquiv>
+                    <Unicode>Nichts abgeschneckter als der Versuch einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="774,948 1101,943 1202,995 1446,934 2561,946 2561,848 2519,837 2138,868 1880,805 1282,886 777,859"/>
+                <Baseline points="788,916 881,918 975,917 1068,918 1162,916 1256,919 1349,920 1443,913 1537,916 1630,910 1724,911 1817,909 1911,904 2005,906 2098,905 2192,904 2286,901 2379,899 2473,901 2567,895"/>
+                <TextEquiv>
+                    <Unicode>vernünftigen, guten, ja selbst tapferen Tat, die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="779,1088 1088,1115 1255,1059 2189,1077 2525,1041 2496,977 2249,997 2140,961 1842,1003 781,979"/>
+                <Baseline points="794,1044 880,1047 967,1044 1054,1044 1141,1041 1228,1044 1315,1041 1401,1041 1488,1039 1575,1036 1662,1038 1749,1036 1836,1037 1923,1032 2009,1032 2096,1034 2183,1031 2270,1030 2357,1026 2444,1029 2531,1026"/>
+                <TextEquiv>
+                    <Unicode>man aber doch, wie es meist geschieht, nur aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="788,1204 1159,1190 1322,1246 1704,1186 2423,1219 2439,1070 2123,1119 1949,1115 1845,1055 1631,1121 788,1124"/>
+                <Baseline points="800,1179 882,1176 964,1173 1046,1172 1128,1173 1211,1170 1293,1170 1375,1167 1457,1167 1539,1165 1622,1164 1704,1164 1786,1164 1868,1164 1950,1158 2033,1161 2115,1160 2197,1161 2279,1158 2361,1158 2444,1155"/>
+                <TextEquiv>
+                    <Unicode>persönlichen Gründen begktät nachträglich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="779,1366 1649,1386 1931,1326 2412,1366 2385,1197 1811,1255 1375,1224 1273,1262 1137,1197 941,1264 779,1242"/>
+                <Baseline points="791,1298 872,1301 953,1300 1035,1301 1116,1301 1197,1301 1279,1299 1360,1299 1441,1298 1523,1295 1604,1298 1685,1296 1767,1295 1848,1295 1929,1295 2011,1295 2092,1292 2173,1292 2255,1292 2336,1289 2418,1289"/>
+                <TextEquiv>
+                    <Unicode>die tioriole eines Prinzips zu verleihen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

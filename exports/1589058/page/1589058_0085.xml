@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:33</Creator>
+        <Created>2023-09-27T14:39:45.519+02:00</Created>
+        <LastChange>2024-01-22T20:33:02.649+01:00</LastChange>
+        <TranskribusMetadata docId="1589058" pageId="60126019" pageNr="85" tsid="145640034" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GANRJDSRBXVXXFEGDGPDYCBZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SNIYVUXTWGJGLILHQWCPSAON" imageId="48551096"/>
+    </Metadata>
+    <Page imageFilename="1589058_0085.jpg" imageWidth="2984" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789659356" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="728,558 728,1245 2599,1245 2599,558"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="716,723 1124,688 1863,723 2007,660 2192,651 2473,679 2477,582 2359,549 2049,598 1724,538 1411,628 1251,582 1156,628 1061,589 721,596"/>
+                <Baseline points="728,689 815,689 903,687 990,686 1078,684 1166,681 1253,677 1341,674 1428,672 1516,668 1604,664 1691,661 1779,658 1866,652 1954,647 2042,646 2129,638 2217,638 2304,632 2392,626 2480,620"/>
+                <TextEquiv>
+                    <Unicode>Ein Vorgleich, der sich nicht nur in Hin-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="725,876 987,890 1131,823 1511,809 1666,848 1764,800 2552,811 2559,691 2299,658 2016,732 1620,737 1509,691 1349,760 1212,716 915,772 730,758"/>
+                <Baseline points="740,823 831,819 922,817 1013,814 1104,812 1195,808 1286,805 1378,800 1469,797 1560,792 1651,791 1742,785 1833,780 1924,779 2016,774 2107,771 2198,767 2289,759 2380,758 2471,752 2563,746"/>
+                <TextEquiv>
+                    <Unicode>sicht auf einzelne Werke fast aller Künst-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="728,1017 904,950 999,1006 1638,920 2049,964 2162,915 2440,941 2591,902 2593,832 2366,811 2104,853 1729,820 1625,878 1453,839 1328,890 732,878"/>
+                <Baseline points="743,955 835,952 928,950 1020,946 1113,943 1206,940 1298,937 1391,931 1484,931 1576,921 1669,918 1762,913 1854,912 1947,908 2040,901 2132,899 2225,896 2318,890 2410,886 2503,883 2596,883"/>
+                <TextEquiv>
+                    <Unicode>ler. von Rang, sondern vielleicht noch zwang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="735,1098 1557,1098 2121,1043 2239,1078 2552,1027 2596,964 2253,983 2160,939 1968,999 999,1003 922,966 739,1003"/>
+                <Baseline points="749,1086 841,1081 934,1077 1026,1074 1119,1068 1211,1068 1304,1065 1396,1062 1489,1058 1581,1055 1674,1050 1766,1047 1859,1044 1951,1036 2044,1033 2136,1029 2229,1026 2321,1020 2414,1017 2506,1011 2599,1002"/>
+                <TextEquiv>
+                    <Unicode>loser in Hinsichk, auf deren gsammtes Lebens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="739,1231 946,1268 1550,1198 1852,1219 1856,1092 1597,1098 1444,1159 966,1133 742,1170"/>
+                <Baseline points="752,1211 807,1214 862,1212 917,1211 972,1205 1028,1205 1083,1205 1138,1202 1193,1199 1248,1198 1304,1196 1359,1193 1414,1190 1469,1186 1524,1186 1580,1184 1635,1184 1690,1181 1745,1181 1800,1179 1856,1175"/>
+                <TextEquiv>
+                    <Unicode>werk durchführen liesse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

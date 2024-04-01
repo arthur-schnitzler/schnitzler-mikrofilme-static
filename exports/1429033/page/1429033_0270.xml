@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:01</Creator>
+        <Created>2023-05-10T15:11:13.127+02:00</Created>
+        <LastChange>2023-08-15T10:01:04.154+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436431" pageNr="270" tsid="132846450" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NLHLVIQWHDPQHVQQYRMGNDXM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AAYDCDIYHSMXYJMBCIZPPHYO" imageId="44710420"/>
+    </Metadata>
+    <Page imageFilename="1429033_0270.jpg" imageWidth="3707" imageHeight="5528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800518794" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="943,2761 3253,2761 3253,3185 943,3185"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="919,3088 1115,2967 2138,2857 3131,2869 3244,2848 3253,2736 2970,2661 2739,2791 2273,2808 2169,2727 1699,2880 1473,2843 1378,2736 933,2935"/>
+                <Baseline points="943,2996 1014,2996 1104,2984 1193,2972 1283,2966 1373,2955 1462,2943 1552,2937 1641,2931 1731,2919 1820,2907 1910,2895 1999,2889 2089,2877 2178,2871 2268,2865 2358,2859 2447,2853 2537,2847 2626,2841 2716,2835 2805,2835 2895,2829 2984,2823 3074,2817 3163,2817 3253,2811"/>
+                <TextEquiv>
+                    <Unicode>&amp; Toll dies den Kaiser, nelleicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1112,3183 2464,3091 2557,3036 2346,2990 2117,3033 2034,2973 1785,3085 1655,2984 1441,3019 1352,3094 1242,3056 1115,3117"/>
+                <Baseline points="1128,3175 1217,3163 1307,3152 1396,3146 1486,3140 1576,3134 1665,3128 1755,3116 1844,3104 1934,3098 2023,3092 2113,3086 2202,3080 2292,3080 2381,3074 2471,3074 2561,3062"/>
+                <TextEquiv>
+                    <Unicode>wilde stimm</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

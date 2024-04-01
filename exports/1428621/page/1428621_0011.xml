@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_15:12</Creator>
+        <Created>2023-05-10T14:25:19.872+02:00</Created>
+        <LastChange>2023-08-14T15:12:07.235+02:00</LastChange>
+        <TranskribusMetadata docId="1428621" pageId="55419589" pageNr="11" tsid="132810652" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WHIEFDPEOIKQFELYDPVUOEVT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FJEONNJXDIQARCBBMMRGSRCK" imageId="44693692"/>
+    </Metadata>
+    <Page imageFilename="1428621_0011.jpg" imageWidth="3448" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821270964" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1314,1403 2492,1403 2492,2149 1314,2149"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1307,1566 1455,1580 1640,1535 1709,1554 1939,1499 2049,1530 2083,1285 1893,1273 1618,1381 1454,1384 1433,1363 1328,1410"/>
+                <Baseline points="1314,1553 1346,1551 1390,1545 1435,1542 1480,1539 1525,1537 1569,1531 1614,1528 1659,1525 1704,1516 1748,1510 1793,1504 1838,1492 1883,1486 1927,1474 1972,1465 2017,1462 2062,1453"/>
+                <TextEquiv>
+                    <Unicode>Cabet Tod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1447,1879 1517,1901 1608,1868 1687,1891 1752,1873 1789,1890 1855,1869 1873,1699 1790,1686 1738,1716 1708,1708 1603,1735 1532,1703 1465,1703"/>
+                <Baseline points="1453,1862 1459,1862 1504,1862 1548,1862 1593,1859 1638,1856 1683,1853 1728,1847 1772,1838 1817,1829 1862,1817"/>
+                <TextEquiv>
+                    <Unicode>siate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1970,2226 2011,2230 2112,2186 2168,2196 2363,2117 2385,2128 2420,2110 2490,2114 2493,2066 2479,2061 2425,2081 2333,2045 2235,2042 2175,1999 2127,2015 1986,1970"/>
+                <Baseline points="1981,2139 1999,2133 2044,2136 2089,2133 2133,2127 2178,2124 2223,2121 2268,2121 2312,2118 2357,2116 2402,2113 2447,2107 2492,2107"/>
+                <TextEquiv>
+                    <Unicode>klein</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

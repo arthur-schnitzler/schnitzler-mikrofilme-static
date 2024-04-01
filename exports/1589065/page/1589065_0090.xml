@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:59.946+02:00</Created>
+        <LastChange>2024-01-22T21:10:38.371+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126439" pageNr="90" tsid="145642045" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WSMFUOZVIIIGRFLPQGZWSRYR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VCVUOYHGNETWBDHFXSREQPBI" imageId="48551516"/>
+    </Metadata>
+    <Page imageFilename="1589065_0090.jpg" imageWidth="2872" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788353892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="465,389 465,756 2435,756 2435,389"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="457,449 909,469 987,513 1066,481 1135,533 1331,469 2402,516 2429,383 2238,425 1943,418 1872,378 1744,420 1565,354 1366,408 725,378 673,410 550,359 454,388"/>
+                <Baseline points="471,453 569,450 667,453 765,453 863,454 962,456 1060,459 1158,459 1256,459 1354,459 1453,456 1551,462 1649,460 1747,462 1845,467 1944,465 2042,465 2140,465 2238,467 2336,465 2435,468"/>
+                <TextEquiv>
+                    <Unicode>Zwischen dem Politiker und dem Staatsmann ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="452,580 1056,590 1167,634 2297,602 2297,521 2233,496 2100,545 1837,494 1471,540 1240,504 1044,545 585,504 452,538"/>
+                <Baseline points="465,578 556,581 648,581 740,584 832,584 924,584 1016,586 1108,585 1200,586 1292,585 1384,589 1475,588 1567,587 1659,590 1751,593 1843,590 1935,593 2027,596 2119,596 2211,593 2303,596"/>
+                <TextEquiv>
+                    <Unicode>ein ähulicher Unterschied,wie zwischen dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="454,715 1012,781 1660,737 1847,784 1845,675 1488,634 1344,675 1179,629 1095,671 806,626 454,639"/>
+                <Baseline points="468,713 537,710 606,713 675,712 744,713 813,716 882,713 951,713 1020,713 1089,713 1159,714 1228,716 1297,716 1366,716 1435,718 1504,716 1573,718 1642,722 1711,722 1780,722 1850,725"/>
+                <TextEquiv>
+                    <Unicode>Feuilletonisten und dem Dichter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

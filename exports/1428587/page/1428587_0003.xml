@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_01:38</Creator>
+        <Created>2023-05-10T13:39:22.198+02:00</Created>
+        <LastChange>2023-07-30T01:38:05.336+02:00</LastChange>
+        <TranskribusMetadata docId="1428587" pageId="55413247" pageNr="3" tsid="131475498" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MKZBGFYHWIUZUALEMHJNNCAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOHBOBAUAECYPSFMBJJVPQXQ" imageId="44687388"/>
+    </Metadata>
+    <Page imageFilename="1428587_0003.jpg" imageWidth="3352" imageHeight="3944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790657782" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1068,1186 2654,1186 2654,3303 1068,3303"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1058,1326 1743,1253 2322,1302 2327,1182 2104,1196 1898,1143 1590,1212 1401,1163 1062,1204"/>
+                <Baseline points="1068,1277 1074,1277 1119,1274 1164,1277 1209,1280 1253,1277 1298,1274 1343,1274 1388,1271 1433,1268 1477,1265 1522,1265 1567,1265 1612,1262 1657,1259 1701,1259 1746,1259 1791,1256 1836,1253 1880,1253 1925,1250 1970,1247 2015,1247 2060,1247 2104,1247 2149,1245 2194,1242 2239,1239 2283,1236 2328,1236"/>
+                <TextEquiv>
+                    <Unicode>Der Schleier der Pierrette.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2182,1978 2334,1973 2462,2021 2527,1992 2547,2011 2648,2010 2645,1893 2601,1901 2524,1865 2432,1898 2375,1893 2301,1846 2223,1871 2186,1857"/>
+                <Baseline points="2191,1967 2203,1967 2248,1961 2292,1961 2337,1961 2382,1958 2403,1958 2430,1961 2475,1958 2519,1955 2564,1952 2609,1952 2654,1949"/>
+                <TextEquiv>
+                    <Unicode>drei Bilder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1549,1999 1735,2022 2003,1975 2155,2008 2158,1890 2136,1880 2025,1923 1895,1876 1816,1885 1784,1860 1600,1910 1553,1898"/>
+                <Baseline points="1558,1979 1576,1982 1621,1982 1665,1982 1710,1982 1755,1979 1800,1982 1845,1979 1889,1976 1934,1976 1979,1976 2024,1970 2069,1970 2113,1970 2158,1967"/>
+                <TextEquiv>
+                    <Unicode>Pantamime in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1505,2572 1546,2591 1663,2580 1721,2618 1737,2612 1810,2637 1816,2453 1715,2451 1694,2468 1616,2438 1510,2453"/>
+                <Baseline points="1516,2528 1561,2531 1594,2528 1609,2528 1636,2531 1680,2528 1725,2525 1770,2522 1815,2522"/>
+                <TextEquiv>
+                    <Unicode>-ooOoo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1252,3324 1321,3312 1352,3326 1419,3294 1485,3320 1557,3313 1622,3275 1680,3288 1687,3200 1663,3192 1633,3208 1586,3190 1560,3203 1482,3189 1409,3203 1393,3187 1359,3200 1316,3168 1261,3168"/>
+                <Baseline points="1262,3293 1283,3293 1328,3284 1373,3278 1418,3275 1462,3275 1507,3272 1552,3272 1597,3269 1642,3266 1686,3263"/>
+                <TextEquiv>
+                    <Unicode>Wortwein</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

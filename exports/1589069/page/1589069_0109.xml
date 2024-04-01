@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:15.814+02:00</Created>
+        <LastChange>2024-01-22T21:46:53.227+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127222" pageNr="109" tsid="145643775" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EZTUVAPOHYUTIXHEHYRFKROP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LLUVLCBNXNETIKGFEBLXUQOD" imageId="48552299"/>
+    </Metadata>
+    <Page imageFilename="1589069_0109.jpg" imageWidth="2936" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787391205" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="590,549 590,1205 2566,1205 2566,549"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="698,674 1553,709 1893,672 2051,709 2202,660 2364,700 2459,670 2459,600 2195,540 1694,598 1511,538 1228,584 695,547"/>
+                <Baseline points="710,614 797,617 885,617 973,620 1061,620 1148,623 1236,628 1324,630 1412,632 1499,634 1587,635 1675,636 1763,638 1850,639 1938,638 2026,641 2114,647 2201,648 2289,648 2377,651 2465,647"/>
+                <TextEquiv>
+                    <Unicode>Welch ein Lebenskünstler. Er meste sich eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="691,767 2473,832 2445,723 2225,749 1896,672 1467,709 1073,665 853,709 688,670"/>
+                <Baseline points="701,746 789,752 878,755 967,758 1056,758 1145,758 1233,761 1322,764 1411,767 1500,770 1589,770 1677,771 1766,772 1855,778 1944,778 2033,778 2121,779 2210,779 2299,782 2388,783 2477,782"/>
+                <TextEquiv>
+                    <Unicode>trügerische Ferne zu verschaffen,indem er die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="702,950 839,980 1087,929 1228,983 1349,939 1532,978 1847,943 1951,994 2190,941 2417,959 2563,918 2563,860 2357,827 2155,867 1706,827 1143,860 698,811"/>
+                <Baseline points="713,886 805,889 898,889 990,892 1083,895 1176,896 1268,898 1361,901 1454,909 1546,907 1639,909 1732,910 1824,910 1917,913 2010,913 2102,913 2195,916 2288,919 2380,919 2473,919 2566,910"/>
+                <TextEquiv>
+                    <Unicode>welt durch ein vergbuhtes Opernglas betrachte-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="681,1031 1041,1034 1168,1096 1750,1059 2241,1096 2389,1080 2387,959 2070,1006 1592,959 1465,997 1096,948 679,962"/>
+                <Baseline points="695,1017 780,1023 865,1025 950,1026 1035,1028 1120,1032 1205,1032 1290,1034 1375,1036 1460,1038 1545,1038 1630,1041 1715,1040 1800,1044 1885,1046 1970,1050 2055,1049 2140,1048 2225,1051 2310,1053 2396,1053"/>
+                <TextEquiv>
+                    <Unicode>te und schon war auch das wunderbare Gefühl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="579,1221 616,1242 890,1210 1038,1272 1073,1244 1258,1277 1367,1254 1344,1082 1001,1105 929,1073 575,1105"/>
+                <Baseline points="590,1140 628,1143 667,1147 706,1152 745,1156 784,1157 823,1155 861,1155 900,1158 939,1160 978,1163 1017,1162 1056,1162 1095,1164 1133,1164 1172,1167 1211,1164 1250,1168 1289,1172 1328,1173 1367,1173"/>
+                <TextEquiv>
+                    <Unicode>der Bohnsucht da.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

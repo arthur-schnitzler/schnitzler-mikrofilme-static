@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_20:24</Creator>
+        <Created>2023-05-10T11:53:50.993+02:00</Created>
+        <LastChange>2023-07-28T20:24:30.074+02:00</LastChange>
+        <TranskribusMetadata docId="1428174" pageId="55395019" pageNr="224" tsid="131375597" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NOAWJPHBRWVAQTUGHAPFOIPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KJWVPIREBWDIRHGJIRLRPOVK" imageId="44669903"/>
+    </Metadata>
+    <Page imageFilename="1428174_0224.jpg" imageWidth="3416" imageHeight="4424">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801975216" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1137,266 2952,266 2952,460 1137,460"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1217,368 1995,338 2000,286 1750,277 1655,318 1219,329"/>
+                <Baseline points="1232,355 1241,355 1286,352 1331,349 1376,349 1420,346 1465,343 1510,340 1555,340 1600,337 1644,334 1689,331 1734,331 1779,325 1823,322 1868,319 1913,319 1958,319 2003,316"/>
+                <TextEquiv>
+                    <Unicode>uus sos kussi 3. rt Ia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1151,427 1248,409 1335,434 1476,390 2054,397 2070,338 1153,375"/>
+                <Baseline points="1164,397 1182,397 1226,394 1271,391 1316,391 1361,388 1406,385 1450,385 1495,382 1540,382 1585,382 1629,379 1674,376 1719,373 1764,373 1809,373 1853,370 1898,370 1943,370 1988,367 2032,367 2077,367"/>
+                <TextEquiv>
+                    <Unicode>de la nouvelle soutenueusementre avec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1121,477 1957,431 2097,474 2175,429 2878,465 2946,384 1124,404"/>
+                <Baseline points="1137,450 1161,450 1206,450 1250,450 1295,450 1340,447 1385,444 1429,444 1474,441 1519,438 1564,435 1608,435 1653,435 1698,432 1743,432 1788,429 1832,426 1877,426 1922,426 1967,423 2011,420 2056,423 2101,417 2146,417 2191,414 2235,414 2280,414 2325,414 2370,414 2414,414 2459,414 2504,411 2549,411 2594,408 2638,408 2683,408 2728,408 2773,405 2817,405 2862,402 2907,402 2952,400"/>
+                <TextEquiv>
+                    <Unicode>Aufgenommen werden mögen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

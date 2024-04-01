@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:29.902+02:00</Created>
+        <LastChange>2024-01-22T19:42:32.929+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125444" pageNr="50" tsid="145636221" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YMIAUIYBPNSTZJTCWFSTISLD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FGTPJFEWQRRFIDMDNAMIMOYW" imageId="48550521"/>
+    </Metadata>
+    <Page imageFilename="1589055_0050.jpg" imageWidth="2904" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790637702" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="465,705 465,1206 2320,1206 2320,705"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="462,806 619,771 921,815 986,783 1468,813 1588,780 1738,822 2089,792 2089,725 1935,704 1859,741 1575,697 1016,730 670,656 462,706"/>
+                <Baseline points="474,767 555,768 636,769 717,773 798,775 879,773 960,773 1041,773 1122,774 1203,774 1284,775 1365,775 1446,775 1527,778 1608,778 1689,781 1770,781 1851,782 1932,783 2013,782 2095,778"/>
+                <TextEquiv>
+                    <Unicode>Die Wortspirale drehst du nie zu Ende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="464,963 554,979 693,900 1080,960 1415,924 1607,960 1762,919 1999,970 1983,845 1575,815 1392,861 1189,822 1117,852 1020,810 771,870 462,840"/>
+                <Baseline points="474,898 550,901 627,901 703,901 780,904 856,902 933,901 1009,901 1086,903 1162,904 1239,907 1316,909 1392,910 1469,910 1545,910 1622,910 1698,910 1775,910 1851,910 1928,912 2005,910"/>
+                <TextEquiv>
+                    <Unicode>Und ob um eine cpul aus reinem fald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="462,1032 720,1071 806,1039 1171,1039 1242,1076 1976,1057 2313,1136 2311,951 2057,930 1766,993 1625,949 1445,993 1346,949 1261,993 1002,956 462,977"/>
+                <Baseline points="474,1023 566,1026 658,1032 750,1029 843,1033 935,1034 1027,1034 1120,1035 1212,1035 1304,1035 1397,1034 1489,1038 1581,1038 1673,1038 1766,1035 1858,1037 1950,1038 2043,1038 2135,1044 2227,1053 2320,1079"/>
+                <TextEquiv>
+                    <Unicode>ab um ein Härchen, obz um nichts sie rollt.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="453,1201 695,1161 1099,1207 1392,1168 1757,1240 1852,1194 1921,1226 2154,1194 2154,1074 2062,1097 1979,1057 1824,1106 1194,1083 868,1129 453,1085"/>
+                <Baseline points="465,1152 549,1158 634,1160 719,1160 804,1160 888,1163 973,1160 1058,1164 1143,1166 1227,1163 1312,1166 1397,1166 1482,1166 1566,1166 1651,1168 1736,1166 1821,1166 1905,1166 1990,1172 2075,1172 2160,1175"/>
+                <TextEquiv>
+                    <Unicode>Eh du's erkundegt, sinken dir die Hände!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

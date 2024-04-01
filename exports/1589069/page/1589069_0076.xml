@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:12.487+02:00</Created>
+        <LastChange>2024-01-22T21:46:47.063+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127112" pageNr="76" tsid="145643740" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IHMOEGNBTBLKDNCREMMRFKTG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PSWTAACTLTVJYEITTYVMOBTC" imageId="48552189"/>
+    </Metadata>
+    <Page imageFilename="1589069_0076.jpg" imageWidth="2936" imageHeight="3576">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787342522" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="656,706 656,1037 2561,1037 2561,706"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="644,840 819,798 1252,831 1385,781 1489,840 1600,772 2538,755 2538,651 2429,630 2351,672 2266,632 2207,670 2031,644 1873,713 644,668"/>
+                <Baseline points="656,752 750,752 844,749 939,752 1033,752 1127,755 1222,755 1316,755 1410,756 1505,760 1599,758 1693,755 1788,755 1882,750 1976,754 2071,752 2165,755 2259,750 2354,750 2448,752 2543,749"/>
+                <TextEquiv>
+                    <Unicode>Jede Erkenntnis (Erfahrung) wird in unserer See-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="656,956 1188,883 2195,890 2555,945 2552,817 2296,779 2133,845 1937,852 653,826"/>
+                <Baseline points="668,886 762,883 857,883 951,883 1046,883 1141,883 1235,881 1330,880 1425,880 1519,883 1614,883 1709,880 1803,883 1898,885 1993,886 2087,884 2182,885 2277,883 2371,889 2466,883 2561,886"/>
+                <TextEquiv>
+                    <Unicode>le vom hellen licht des Zweifels umleuchtet; der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1186,935 1238,947 1269,933 1321,964 1447,942 1688,959 1688,897 1653,890 1631,902 1544,883 1515,904 1328,885 1241,904 1186,883"/>
+                <Baseline points="1199,928 1225,930 1251,931 1277,931 1303,931 1329,931 1355,931 1381,931 1407,931 1433,930 1460,929 1486,929 1512,931 1538,929 1564,928 1590,930 1616,932 1642,934 1668,935 1695,937"/>
+                <TextEquiv>
+                    <Unicode>in den de el</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="649,1063 798,1042 874,1096 1186,1110 1373,1020 2117,1020 2117,968 2027,954 1366,973 1027,911 649,945"/>
+                <Baseline points="662,1008 735,1007 808,1011 881,1011 954,1014 1027,1011 1100,1013 1173,1014 1246,1014 1319,1014 1392,1017 1465,1014 1538,1014 1611,1014 1684,1014 1757,1011 1830,1008 1903,1011 1976,1014 2049,1014 2122,1017"/>
+                <TextEquiv>
+                    <Unicode>Schatten, den sie wirft,heisst Glaube.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

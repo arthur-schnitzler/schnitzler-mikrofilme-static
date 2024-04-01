@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:58.594+02:00</Created>
+        <LastChange>2024-01-22T19:19:35.618+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125131" pageNr="22" tsid="145635130" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KFMXKMLMGZQJFWGKFGQZYNEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNFTUCBVHTETFEPNVJITECSM" imageId="48550208"/>
+    </Metadata>
+    <Page imageFilename="1589051_0022.jpg" imageWidth="2840" imageHeight="3448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790785592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="528,252 528,932 2424,932 2424,252"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1529,351 1548,351 1565,363 1582,351 1603,349 1620,356 1627,351 1650,372 1662,372 1662,244 1646,244 1636,254 1627,251 1603,263 1591,256 1570,261 1563,254 1546,266 1529,261"/>
+                <Baseline points="1543,316 1568,318 1593,319 1618,319 1643,318 1668,316"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="515,569 972,505 2101,488 2103,391 2058,384 1375,443 858,398 519,446"/>
+                <Baseline points="531,516 609,510 688,509 767,510 846,507 925,502 1003,500 1082,495 1161,492 1240,492 1319,488 1397,486 1476,483 1555,476 1634,474 1713,471 1791,471 1870,466 1949,459 2028,458 2107,459"/>
+                <TextEquiv>
+                    <Unicode>Aus welchen Tiefen steigt so übler Duft?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="512,678 2262,602 2246,507 2077,545 1776,500 1565,569 1352,536 1020,588 903,536 583,595 517,569"/>
+                <Baseline points="528,638 615,641 702,638 789,638 876,635 963,632 1050,626 1137,624 1224,618 1311,615 1398,612 1485,609 1572,606 1659,603 1746,602 1833,594 1920,591 2007,591 2094,582 2181,582 2268,579"/>
+                <TextEquiv>
+                    <Unicode>Ist'’s hier,wo aller laster Quellen fliessen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="515,790 752,768 851,811 1074,759 1183,799 1276,749 1532,778 1688,735 1740,768 2089,752 2184,709 2402,761 2421,650 1861,652 1786,688 1714,650 1601,690 1387,657 1271,704 1086,676 866,718 519,692"/>
+                <Baseline points="528,770 622,773 717,767 812,764 907,761 1002,757 1096,751 1191,748 1286,746 1381,741 1476,737 1570,734 1665,731 1760,725 1855,721 1950,718 2044,714 2139,710 2234,707 2329,704 2424,707"/>
+                <TextEquiv>
+                    <Unicode>Nicht aoch. Du nahst dich nur der dunklen kiuft,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="524,939 1024,884 1658,913 1726,868 1921,906 2201,875 2203,794 2056,771 1906,811 1454,801 1411,839 1048,797 678,858 529,830"/>
+                <Baseline points="540,901 623,899 706,898 789,894 873,892 956,888 1039,880 1123,880 1206,878 1289,874 1373,870 1456,873 1539,868 1622,868 1706,865 1789,863 1872,860 1956,855 2039,852 2122,847 2206,853"/>
+                <TextEquiv>
+                    <Unicode>braus in die Welt sich Iugenden ergiessen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

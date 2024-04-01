@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:44.262+02:00</Created>
+        <LastChange>2024-01-22T21:36:44.623+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127179" pageNr="34" tsid="145643029" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TQXOTDQVCLPVMTTXXKSMNAUK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZBQOVGRFMJGCEMUPFVTVFAWT" imageId="48552256"/>
+    </Metadata>
+    <Page imageFilename="1589070_0034.jpg" imageWidth="2984" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787078422" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="907,780 907,1104 2653,1104 2653,780"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1207,836 1621,865 1965,825 2096,863 2608,825 2608,739 2431,772 2348,712 2069,747 1982,710 1701,778 1637,743 1207,758"/>
+                <Baseline points="1217,820 1286,820 1356,820 1426,820 1495,823 1565,818 1635,820 1704,820 1774,819 1844,817 1914,817 1983,817 2053,816 2123,817 2192,813 2262,812 2332,814 2401,813 2471,814 2541,814 2611,811"/>
+                <TextEquiv>
+                    <Unicode>t es inner gegeben, niemals aber noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1734,916 1807,905 1838,887 1854,898 1870,889 1894,902 1927,898 1929,832 1920,830 1885,856 1874,849 1859,856 1841,840 1816,856 1796,852 1788,860 1767,847 1736,847"/>
+                <Baseline points="1746,883 1772,883 1799,883 1826,881 1853,881 1880,882 1907,881 1934,877"/>
+                <TextEquiv>
+                    <Unicode>gehab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1187,971 1727,951 1894,1013 2042,982 2175,1014 2360,958 2648,960 2648,865 2386,918 2282,878 1803,911 1590,845 1384,922 1187,883"/>
+                <Baseline points="1197,949 1269,952 1342,954 1415,950 1488,952 1561,949 1633,948 1706,943 1779,946 1852,948 1925,945 1997,944 2070,949 2143,947 2216,949 2289,949 2361,949 2434,946 2507,946 2580,948 2653,940"/>
+                <TextEquiv>
+                    <Unicode>chen, der das Recht hatte einen andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="898,1098 1240,1100 1288,1133 1508,1089 1732,1135 1903,1102 1903,1027 1730,996 1617,1036 1373,1002 1222,1042 898,1027"/>
+                <Baseline points="907,1083 957,1082 1007,1083 1057,1083 1107,1083 1157,1083 1207,1083 1257,1084 1307,1084 1357,1081 1407,1083 1457,1083 1507,1083 1557,1080 1607,1080 1657,1081 1707,1081 1757,1080 1807,1080 1857,1083 1907,1074"/>
+                <TextEquiv>
+                    <Unicode>aschen heilig zu sprechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

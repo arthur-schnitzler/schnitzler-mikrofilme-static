@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_08:51</Creator>
+        <Created>2023-05-10T11:17:16.987+02:00</Created>
+        <LastChange>2023-07-28T08:51:48.249+02:00</LastChange>
+        <TranskribusMetadata docId="1428141" pageId="55385635" pageNr="105" tsid="131327126" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GVEEHOBQRXNWESECZUCKKRCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QWHXCATUXKVSQUPBXGFBJZRK" imageId="44660534"/>
+    </Metadata>
+    <Page imageFilename="1428141_0105.jpg" imageWidth="6808" imageHeight="4248">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711822855892" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3997,665 6276,665 6276,1143 3997,1143"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6002,747 6022,755 6036,741 6068,752 6090,741 6108,750 6133,738 6147,750 6173,750 6179,559 6130,581 6096,567 6079,581 6008,570"/>
+                <Baseline points="6019,727 6091,715 6181,721"/>
+                <TextEquiv>
+                    <Unicode>72</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="5124,784 5156,775 5196,795 5275,761 5330,755 5412,795 5435,789 5429,596 5369,590 5312,616 5290,596 5255,598 5230,616 5184,607 5156,630 5121,630"/>
+                <Baseline points="5136,733 5226,733 5315,733 5405,739 5441,745"/>
+                <TextEquiv>
+                    <Unicode>14 6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3981,986 4301,1060 4751,952 5475,915 5632,980 6182,926 6276,789 5347,846 5150,775 3984,921"/>
+                <Baseline points="3997,984 4039,978 4128,978 4218,972 4307,966 4397,966 4486,960 4576,954 4665,948 4755,942 4844,942 4934,936 5023,936 5113,930 5202,930 5292,918 5381,918 5471,912 5560,900 5650,894 5739,894 5829,888 5918,883 6008,883 6097,877 6187,871 6276,865"/>
+                <TextEquiv>
+                    <Unicode>Manchen positive Typ spielt seinen eigenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="5312,998 5361,998 5367,1003 5406,995 5424,1000 5455,986 5469,989 5472,932 5441,923 5424,932 5392,929 5369,946 5349,929 5315,926"/>
+                <Baseline points="5327,984 5387,978 5477,978"/>
+                <TextEquiv>
+                    <Unicode>aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4050,1183 4551,1123 5455,1168 5871,1092 5880,938 4896,1032 4768,989 4549,1060 4058,1040"/>
+                <Baseline points="4069,1133 4092,1133 4182,1127 4271,1127 4361,1121 4450,1121 4540,1115 4629,1109 4719,1109 4808,1103 4898,1097 4987,1097 5077,1085 5166,1079 5256,1073 5345,1067 5435,1062 5524,1062 5614,1056 5703,1050 5793,1050 5882,1056"/>
+                <TextEquiv>
+                    <Unicode>Gegentyp aus Ekel, mane her Minikri.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

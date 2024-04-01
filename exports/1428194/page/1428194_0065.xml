@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_03:55</Creator>
+        <Created>2023-05-10T12:22:19.858+02:00</Created>
+        <LastChange>2023-07-29T03:55:07.413+02:00</LastChange>
+        <TranskribusMetadata docId="1428194" pageId="55401440" pageNr="65" tsid="131394340" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XAJKCFSPKPQXTAVQKBXMHNMM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJZERVDYMKNZAGMTKFEWFCBC" imageId="44676263"/>
+    </Metadata>
+    <Page imageFilename="1428194_0065.jpg" imageWidth="3416" imageHeight="4312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797033535" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="818,768 3126,768 3126,1282 818,1282"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="815,887 1393,829 2361,855 2363,786 2277,743 1690,780 1555,723 1327,774 921,725 818,769"/>
+                <Baseline points="830,845 845,845 889,842 934,842 979,839 1024,839 1069,839 1113,836 1158,836 1203,836 1248,836 1293,833 1337,833 1382,833 1427,830 1472,830 1516,827 1561,827 1606,827 1651,827 1696,827 1740,824 1785,824 1830,824 1875,824 1920,821 1964,824 2009,821 2054,821 2099,821 2144,818 2188,818 2233,821 2278,818 2323,821 2368,824"/>
+                <TextEquiv>
+                    <Unicode>Medardus auf dem Friedhof allein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="809,1022 1059,1071 1385,985 3118,953 3098,861 2614,832 1917,924 1730,858 812,901"/>
+                <Baseline points="824,991 842,988 886,988 931,988 976,988 1021,988 1066,985 1110,985 1155,985 1200,982 1245,982 1290,982 1334,979 1379,979 1424,976 1469,976 1513,976 1558,973 1603,973 1648,976 1693,976 1737,973 1782,973 1827,976 1872,973 1917,967 1961,967 2006,964 2051,961 2096,961 2141,961 2185,961 2230,964 2275,961 2320,961 2365,958 2409,958 2454,958 2499,958 2544,958 2588,955 2633,955 2678,952 2723,952 2768,949 2812,946 2857,943 2902,940 2947,940 2992,940 3036,937 3081,937 3126,940"/>
+                <TextEquiv>
+                    <Unicode>Erfühlt wie er seiner Rache vergisst., nd schwört</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="803,1163 936,1137 1008,1163 1082,1134 1293,1154 1388,1126 1454,1169 1606,1128 1609,1025 1488,1016 1411,1048 1373,1028 1267,1074 1143,1042 1077,1080 1025,1054 895,1082 806,1059"/>
+                <Baseline points="818,1134 851,1131 895,1128 940,1128 985,1128 1030,1125 1075,1128 1119,1125 1164,1125 1209,1119 1254,1119 1298,1119 1343,1116 1388,1116 1433,1113 1478,1113 1522,1110 1567,1113 1612,1113"/>
+                <TextEquiv>
+                    <Unicode>heute geschiehts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="809,1318 2553,1293 3003,1244 3005,1123 812,1198"/>
+                <Baseline points="827,1272 860,1269 904,1266 949,1266 994,1266 1039,1266 1083,1266 1128,1266 1173,1263 1218,1263 1263,1260 1307,1257 1352,1257 1397,1257 1442,1254 1487,1254 1531,1251 1576,1251 1621,1251 1666,1248 1711,1248 1755,1245 1800,1245 1845,1242 1890,1242 1935,1239 1979,1239 2024,1239 2069,1239 2114,1236 2158,1236 2203,1233 2248,1230 2293,1230 2338,1227 2382,1227 2427,1227 2472,1224 2517,1224 2562,1221 2606,1221 2651,1221 2696,1218 2741,1215 2786,1212 2830,1212 2875,1212 2920,1212 2965,1215 3010,1215"/>
+                <TextEquiv>
+                    <Unicode>Er will abends hin und kommt zum Hochzeitsfest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

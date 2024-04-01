@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:08</Creator>
+        <Created>2023-05-10T11:54:31.738+02:00</Created>
+        <LastChange>2023-07-28T21:08:44.261+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55394507" pageNr="115" tsid="131377746" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MPTVLBMRUYATRLVACKSKDDUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NIYPYXWZKODNADHYOACZZPES" imageId="44669391"/>
+    </Metadata>
+    <Page imageFilename="1428176_0115.jpg" imageWidth="3512" imageHeight="4344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801527352" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2785,353 3113,353 3113,424 2785,424"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2776,436 2824,424 2856,442 2892,422 2926,440 2946,420 2998,410 3028,428 3046,420 3062,432 3074,420 3110,430 3106,336 3064,322 3006,340 2994,330 2960,360 2902,336 2812,362 2790,346 2772,348"/>
+                <Baseline points="2785,403 2830,403 2875,403 2919,406 2964,406 3009,409 3054,412 3099,412 3113,414"/>
+                <TextEquiv>
+                    <Unicode>Gouvernement monsieur</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

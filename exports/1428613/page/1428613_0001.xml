@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_13:23</Creator>
+        <Created>2023-05-10T14:20:35.869+02:00</Created>
+        <LastChange>2023-08-14T13:23:10.752+02:00</LastChange>
+        <TranskribusMetadata docId="1428613" pageId="55418566" pageNr="1" tsid="132803193" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WBAEMPTHNMNQHQXSFMYBOEHU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IJYXCRTZVLXVLYXFWDISEBOE" imageId="44692670"/>
+    </Metadata>
+    <Page imageFilename="1428613_0001.jpg" imageWidth="3320" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787119125" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="376,281 2537,281 2537,798 376,798"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1453,440 1517,463 1700,421 1828,484 2067,491 2324,442 2490,493 2532,481 2535,249 2329,246 2140,168 1924,249 1807,229 1601,271 1551,232 1454,276"/>
+                <Baseline points="1462,331 1507,337 1552,340 1597,346 1642,349 1686,349 1731,346 1776,346 1821,346 1865,343 1910,340 1955,340 2000,337 2045,334 2089,334 2134,337 2179,337 2224,340 2268,340 2313,340 2358,340 2403,337 2448,331 2492,334 2537,334"/>
+                <TextEquiv>
+                    <Unicode>Die drei Elizire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1081,460 1089,460 1144,503 1159,496 1170,503 1186,503 1198,491 1202,496 1222,491 1222,424 1205,424 1171,389 1165,386 1126,416 1081,418"/>
+                <Baseline points="1089,471 1134,468 1179,471 1224,468"/>
+                <TextEquiv>
+                    <Unicode>C</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="461,586 475,586 496,603 514,598 523,605 542,603 566,620 583,620 599,445 574,445 562,431 545,443 520,434 485,457 475,457"/>
+                <Baseline points="477,516 507,516 552,510 597,507"/>
+                <TextEquiv>
+                    <Unicode>eing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="371,753 391,749 403,755 433,734 463,729 457,578 418,586 397,581 383,589 365,590"/>
+                <Baseline points="376,674 420,680 465,677"/>
+                <TextEquiv>
+                    <Unicode>11.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1291,743 1447,792 1671,759 2022,779 2156,845 2293,791 2496,866 2493,750 2392,710 1981,717 1897,656 1767,708 1498,707 1396,645 1291,722"/>
+                <Baseline points="1301,755 1346,758 1391,758 1436,761 1480,764 1525,764 1570,764 1615,764 1659,761 1704,761 1749,761 1794,761 1839,761 1883,764 1928,767 1973,773 2018,776 2062,779 2107,782 2152,782 2197,782 2242,785 2286,788 2331,788 2376,785 2421,788 2466,788 2498,788"/>
+                <TextEquiv>
+                    <Unicode>muséralmenast.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

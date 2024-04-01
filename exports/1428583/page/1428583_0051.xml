@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_17:46</Creator>
+        <Created>2023-05-10T13:35:20.745+02:00</Created>
+        <LastChange>2023-07-24T17:46:40.074+02:00</LastChange>
+        <TranskribusMetadata docId="1428583" pageId="55412835" pageNr="51" tsid="130554657" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PYFXKWMHFSWRDKZJLCKAWAJD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MEIOINWDRFOEDABSRIKWQXML" imageId="44686976"/>
+    </Metadata>
+    <Page imageFilename="1428583_0051.jpg" imageWidth="3400" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791251864" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="695,743 2894,743 2894,1003 695,1003"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="679,858 998,913 1463,833 2890,858 2893,732 2150,696 1282,781 682,704"/>
+                <Baseline points="695,841 701,841 745,838 790,838 835,838 880,838 925,838 969,835 1014,835 1059,835 1104,835 1148,835 1193,832 1238,832 1283,829 1327,829 1372,829 1417,826 1462,823 1506,823 1551,823 1596,820 1641,820 1685,820 1730,817 1775,817 1820,820 1864,820 1909,820 1954,820 1999,817 2044,814 2088,814 2133,814 2178,811 2223,811 2267,811 2312,811 2357,811 2402,808 2446,805 2491,805 2536,805 2581,805 2625,802 2670,802 2715,796 2760,796 2804,796 2849,796 2894,793"/>
+                <TextEquiv>
+                    <Unicode>Das Professorensöhnchen, das einen armen Teufel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="690,1045 2370,1006 2390,866 1788,902 1493,847 1356,924 693,927"/>
+                <Baseline points="704,987 740,990 784,993 829,993 874,993 919,993 963,993 1008,993 1053,990 1098,990 1142,990 1187,990 1232,987 1277,987 1321,984 1366,984 1411,981 1456,981 1500,981 1545,978 1590,975 1635,975 1679,975 1724,972 1769,972 1814,972 1858,969 1903,969 1948,969 1993,966 2038,966 2082,969 2127,966 2172,966 2217,963 2261,963 2306,963 2351,963 2396,966"/>
+                <TextEquiv>
+                    <Unicode>von Kollegen litterarisch bestiehlt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2733,3226 2918,3226 2918,3292 2733,3292"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2714,3338 2739,3336 2761,3358 2808,3377 2838,3363 2888,3382 2910,3380 2912,3204 2890,3201 2874,3212 2849,3190 2805,3198 2783,3179 2753,3176 2717,3187"/>
+                <Baseline points="2733,3282 2739,3279 2784,3276 2828,3276 2873,3276 2918,3276"/>
+                <TextEquiv>
+                    <Unicode>e une</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

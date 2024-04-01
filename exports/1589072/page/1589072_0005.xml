@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:53.322+02:00</Created>
+        <LastChange>2024-01-22T21:46:13.538+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127173" pageNr="5" tsid="145643544" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WFUUQDKBCZEGGYRTULCAJKNJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYYEDDPGURSGFTTAVVEBOOUU" imageId="48552250"/>
+    </Metadata>
+    <Page imageFilename="1589072_0005.jpg" imageWidth="2936" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786827828" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="534,603 534,982 2455,982 2455,603"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="521,694 783,733 971,690 1422,726 1586,692 1636,728 2109,675 2419,690 2451,557 2210,536 1727,596 1499,560 1297,620 915,565 658,637 521,603"/>
+                <Baseline points="534,698 630,695 726,692 822,692 918,692 1014,690 1110,689 1206,689 1302,688 1398,685 1494,686 1590,684 1686,680 1782,680 1878,677 1974,674 2070,674 2166,672 2262,672 2358,668 2455,665"/>
+                <TextEquiv>
+                    <Unicode>Du willst dich dafür rächen, dass dich einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="531,853 1016,819 1204,867 1530,855 1583,817 1619,848 1903,802 2254,848 2287,730 2076,750 1922,704 1850,742 1581,694 1485,738 1362,699 1244,742 1052,723 935,771 531,738"/>
+                <Baseline points="545,823 632,823 719,823 806,820 894,818 981,819 1068,818 1156,814 1243,818 1330,818 1418,816 1505,812 1592,814 1679,808 1767,808 1854,804 1941,802 2029,802 2116,802 2203,799 2291,799"/>
+                <TextEquiv>
+                    <Unicode>verleundete? Sprich eindach die Mahrheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="536,966 1004,999 1084,951 1257,947 1614,999 1869,944 2025,990 2198,975 2184,841 1946,875 1802,838 1679,887 1348,855 1261,913 1139,865 867,903 536,870"/>
+                <Baseline points="548,951 630,949 713,951 796,948 879,949 962,948 1044,948 1127,948 1210,946 1293,944 1376,942 1458,943 1541,940 1624,942 1707,939 1790,939 1872,936 1955,936 2038,935 2121,933 2204,936"/>
+                <TextEquiv>
+                    <Unicode>über ihn und Ihr seid quitt geworden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

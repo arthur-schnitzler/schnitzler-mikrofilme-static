@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:51.999+02:00</Created>
+        <LastChange>2024-01-22T21:36:57.144+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127438" pageNr="104" tsid="145643101" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NVABKGSAFEAIAZKBTUWBPEAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AEKVNBZNHWZDHWIXGBUPGRPK" imageId="48552515"/>
+    </Metadata>
+    <Page imageFilename="1589070_0104.jpg" imageWidth="2984" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787183107" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="795,1533 795,1712 1214,1712 1214,1533"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="792,1665 917,1673 1034,1650 1143,1681 1213,1673 1197,1470 1153,1462 1010,1497 957,1487 877,1425 775,1448"/>
+                <Baseline points="795,1633 821,1634 847,1635 873,1635 899,1635 925,1635 952,1641 978,1647 1004,1649 1030,1651 1056,1652 1083,1654 1109,1656 1135,1658 1161,1659 1187,1661 1214,1662"/>
+                <TextEquiv>
+                    <Unicode>Kelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1749,540 1749,1066 2441,1066 2441,540"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1801,632 2112,606 2389,617 2440,601 2441,541 2349,558 2238,534 2142,561 2007,538 1924,571 1860,552 1801,571"/>
+                <Baseline points="1806,611 1837,611 1869,611 1901,611 1933,609 1964,608 1996,608 2028,608 2060,607 2091,606 2123,608 2155,605 2187,603 2218,603 2250,604 2282,604 2314,603 2345,603 2377,603 2409,603 2441,603"/>
+                <TextEquiv>
+                    <Unicode>passiern kann:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1743,802 2382,804 2383,690 2283,661 2163,701 1745,654"/>
+                <Baseline points="1749,740 1780,740 1812,741 1844,743 1876,739 1908,738 1939,740 1971,740 2003,739 2035,738 2067,740 2098,738 2130,736 2162,734 2194,734 2226,734 2257,734 2289,734 2321,734 2353,735 2385,737"/>
+                <TextEquiv>
+                    <Unicode>reif zu sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1964,1071 2066,1086 2095,1067 2159,1075 2264,1051 2348,1070 2427,1057 2428,941 2324,941 2202,974 1966,924"/>
+                <Baseline points="1970,1029 1995,1029 2021,1029 2046,1031 2072,1033 2097,1035 2123,1035 2148,1035 2174,1035 2199,1034 2225,1031 2250,1029 2276,1029 2301,1028 2327,1026 2352,1026 2378,1026 2403,1026 2429,1029"/>
+                <TextEquiv>
+                    <Unicode>Heren 1905</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:24</Creator>
+        <Created>2023-09-27T14:40:42.207+02:00</Created>
+        <LastChange>2024-01-22T21:24:46.057+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126300" pageNr="42" tsid="145642540" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OOJVUMYQCYVGCPUHXRYZKSYF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YSKBBWKIUHXECKDNDWOOSNHF" imageId="48551377"/>
+    </Metadata>
+    <Page imageFilename="1589064_0042.jpg" imageWidth="3064" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788458673" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="552,581 552,1200 2250,1200 2250,581"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="540,681 571,690 593,671 609,684 633,667 692,677 717,656 777,650 789,662 827,650 876,669 878,582 832,571 760,595 722,576 703,588 648,567 626,578 593,559 542,578"/>
+                <Baseline points="552,647 577,648 602,649 627,649 652,647 678,646 703,644 728,646 753,647 779,647 804,646 829,644 854,644 880,644"/>
+                <TextEquiv>
+                    <Unicode>Kr. u.F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="544,798 2171,745 2247,698 2135,643 1729,692 1333,673 1026,728 745,656 548,688"/>
+                <Baseline points="558,779 642,779 727,779 811,773 896,768 981,768 1065,766 1150,763 1234,755 1319,752 1404,749 1488,746 1573,740 1657,740 1742,736 1827,733 1911,733 1996,728 2080,725 2165,725 2250,728"/>
+                <TextEquiv>
+                    <Unicode>Aprioristische Vorteile des Künstlers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="550,933 762,965 1223,906 1858,914 1879,821 554,834"/>
+                <Baseline points="564,910 633,910 702,910 772,909 841,904 911,900 980,898 1049,896 1119,893 1188,888 1258,886 1327,884 1397,883 1466,881 1535,877 1605,874 1674,871 1744,871 1813,868 1883,859"/>
+                <TextEquiv>
+                    <Unicode>Relative Dauer seines Werkes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="557,1054 601,1060 624,1048 650,1050 671,1067 694,1054 703,1064 715,1058 749,1073 760,1062 791,1058 794,1001 764,999 743,986 724,999 694,980 669,980 652,995 618,978 607,986 559,982"/>
+                <Baseline points="570,1041 595,1041 620,1041 646,1041 671,1041 697,1039 722,1038 748,1038 773,1038 799,1038"/>
+                <TextEquiv>
+                    <Unicode>Ruhm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="597,1200 1515,1151 1613,1194 1674,1181 1676,1113 1259,1058 599,1086"/>
+                <Baseline points="608,1169 661,1168 714,1167 768,1165 821,1164 875,1161 928,1160 982,1158 1035,1156 1089,1152 1142,1152 1195,1150 1249,1149 1302,1146 1356,1146 1409,1143 1463,1147 1516,1149 1570,1149 1623,1147 1677,1146"/>
+                <TextEquiv>
+                    <Unicode>Matorielle Vorteile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:15</Creator>
+        <Created>2023-09-27T14:36:33.200+02:00</Created>
+        <LastChange>2024-01-22T18:15:34.882+01:00</LastChange>
+        <TranskribusMetadata docId="1589039" pageId="60124068" pageNr="45" tsid="145632059" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RUUFELWOSGTHKQZPYXITDLKO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKMHIEROMZXLOTZBTOXKWACZ" imageId="48549146"/>
+    </Metadata>
+    <Page imageFilename="1589039_0045.jpg" imageWidth="3440" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792388764" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1903,4075 1903,4269 2241,4269 2241,4075"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1902,4176 2003,4174 2029,4160 2085,4181 2125,4169 2168,4181 2204,4166 2232,4176 2237,4103 2172,4101 2153,4113 2090,4099 2039,4121 1936,4100 1897,4107"/>
+                <Baseline points="1903,4118 1929,4132 1955,4147 1981,4156 2007,4156 2033,4156 2059,4156 2085,4156 2111,4156 2137,4156 2163,4156 2189,4156 2215,4156 2241,4156"/>
+                <TextEquiv>
+                    <Unicode>KLlcti nar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1904,4252 2024,4249 2038,4258 2076,4243 2105,4256 2170,4252 2170,4235 2144,4225 2115,4234 2084,4221 2046,4234 1962,4219 1904,4235"/>
+                <Baseline points="1909,4248 1935,4248 1961,4248 1987,4248 2014,4247 2040,4245 2066,4243 2093,4243 2119,4245 2145,4246 2172,4248"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2299,3942 2299,4320 3061,4320 3061,3942"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2649,4017 2702,4033 2766,4007 2799,4011 2841,4043 2916,4015 2973,4019 2973,3967 2911,3975 2864,3949 2762,3970 2649,3963"/>
+                <Baseline points="2654,4013 2680,4013 2707,4013 2734,4013 2761,4012 2787,4010 2814,4008 2841,4008 2868,4010 2894,4012 2921,4013 2948,4013 2975,4013"/>
+                <TextEquiv>
+                    <Unicode>igi Wars</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2294,4174 2508,4198 2649,4161 3059,4173 3054,4088 2878,4112 2815,4088 2741,4115 2486,4085 2295,4119"/>
+                <Baseline points="2299,4156 2337,4153 2375,4151 2413,4151 2451,4151 2489,4151 2527,4151 2565,4151 2603,4151 2641,4151 2680,4151 2718,4151 2756,4151 2794,4151 2832,4151 2870,4151 2908,4151 2946,4151 2984,4151 3022,4151 3061,4151"/>
+                <TextEquiv>
+                    <Unicode>dass sinn doch sei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2466,4295 2491,4298 2515,4285 2566,4294 2624,4287 2637,4296 2665,4285 2719,4297 2755,4290 2754,4254 2664,4228 2548,4240 2493,4217 2464,4225"/>
+                <Baseline points="2471,4282 2497,4282 2523,4282 2549,4282 2575,4282 2601,4282 2627,4282 2653,4283 2679,4285 2705,4286 2731,4288 2757,4288"/>
+                <TextEquiv>
+                    <Unicode>das de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

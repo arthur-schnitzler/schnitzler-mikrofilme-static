@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:51.736+02:00</Created>
+        <LastChange>2024-01-22T21:36:56.640+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127430" pageNr="101" tsid="145643098" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WCGZVXDVMRVKIUCEESABZWMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EFCVPRKOVVIVSORVSLPJIXFX" imageId="48552507"/>
+    </Metadata>
+    <Page imageFilename="1589070_0101.jpg" imageWidth="3000" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787178865" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="402,1203 402,1837 2561,1837 2561,1203"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="394,1299 1750,1272 1931,1326 2063,1285 2403,1293 2403,1196 2290,1177 2055,1218 1679,1185 1542,1226 1415,1177 1304,1226 599,1180 502,1231 394,1210"/>
+                <Baseline points="408,1280 508,1275 608,1279 708,1277 808,1280 908,1277 1008,1277 1108,1277 1208,1274 1308,1272 1408,1272 1508,1271 1608,1271 1708,1270 1808,1269 1908,1266 2008,1265 2108,1266 2208,1265 2308,1265 2409,1265"/>
+                <TextEquiv>
+                    <Unicode>Der Wert der grossen Persönlichkeiten besteht nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="386,1426 613,1463 926,1412 1590,1442 1671,1404 1847,1447 1925,1407 2190,1447 2365,1399 2557,1415 2557,1326 2487,1320 386,1342"/>
+                <Baseline points="402,1406 515,1410 629,1411 742,1407 856,1406 970,1403 1083,1403 1197,1400 1311,1400 1424,1400 1538,1397 1651,1399 1765,1398 1879,1397 1992,1395 2106,1397 2220,1395 2333,1394 2447,1394 2561,1388"/>
+                <TextEquiv>
+                    <Unicode>darin, dass sie Nachahmer hervorbringen können, sondern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="386,1542 613,1590 761,1544 1285,1582 1536,1536 1944,1588 2257,1526 2449,1558 2452,1461 386,1480"/>
+                <Baseline points="402,1531 504,1539 607,1537 710,1537 812,1534 915,1532 1018,1531 1120,1531 1223,1530 1326,1531 1429,1531 1531,1528 1634,1528 1737,1525 1839,1524 1942,1525 2045,1524 2147,1522 2250,1525 2353,1520 2456,1522"/>
+                <TextEquiv>
+                    <Unicode>dass sie manchen kleinern zu Mut zu Schöpfungen oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="392,1671 481,1706 645,1671 2333,1682 2333,1596 2279,1571 1920,1615 1407,1582 1328,1631 1145,1571 953,1620 392,1585"/>
+                <Baseline points="405,1671 501,1671 598,1668 694,1668 791,1665 888,1667 984,1668 1081,1665 1177,1665 1274,1665 1371,1661 1467,1659 1564,1659 1660,1659 1757,1656 1854,1656 1950,1656 2047,1657 2143,1655 2240,1656 2337,1650"/>
+                <TextEquiv>
+                    <Unicode>Lebensäusserungen geben, die sie sonst nie gewagt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="386,1820 446,1809 532,1817 618,1890 697,1895 694,1763 599,1739 572,1758 491,1739 456,1747 418,1731 386,1739"/>
+                <Baseline points="402,1797 429,1799 456,1800 483,1800 510,1800 537,1800 565,1802 592,1802 619,1798 646,1798 673,1800 701,1806"/>
+                <TextEquiv>
+                    <Unicode>hätten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

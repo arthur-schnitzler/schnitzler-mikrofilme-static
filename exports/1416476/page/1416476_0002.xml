@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_14:58</Creator>
+        <Created>2023-05-01T22:06:35.987+02:00</Created>
+        <LastChange>2023-07-25T14:58:52.155+02:00</LastChange>
+        <TranskribusMetadata docId="1416476" pageId="54948151" pageNr="2" tsid="130690594" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AESGXRMNTURNJDCHBDANREAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RAPCPKEFQRROLVOLDUZDJPHF" imageId="44452194"/>
+    </Metadata>
+    <Page imageFilename="1416476_0002.jpg" imageWidth="5095" imageHeight="4712">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829898724" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="954,874 3763,874 3763,2014 954,2014"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2052,966 2100,980 2216,962 2298,998 2374,950 2434,972 2576,950 2594,690 2474,714 2398,680 2238,754 2190,740 2066,758"/>
+                <Baseline points="2063,960 2135,954 2224,948 2314,942 2403,936 2493,930 2582,924"/>
+                <TextEquiv>
+                    <Unicode>SCHNITZLE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="934,1822 1246,1778 1344,1822 1436,1794 1544,1840 1606,1804 1704,1844 1834,1844 1860,1540 1834,1524 1710,1538 1566,1504 1470,1572 1424,1568 1324,1522 1172,1518 970,1406"/>
+                <Baseline points="954,1717 960,1717 1049,1705 1139,1699 1228,1693 1318,1687 1407,1682 1497,1676 1586,1658 1676,1652 1765,1646 1854,1640"/>
+                <TextEquiv>
+                    <Unicode>eine Rodenberg, Julius</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3478,1830 3530,1850 3574,1846 3636,1822 3706,1848 3716,1838 3736,1852 3758,1846 3760,1684 3700,1682 3672,1662 3632,1672 3580,1660 3556,1668 3522,1654 3504,1666 3480,1664"/>
+                <Baseline points="3489,1801 3578,1807 3668,1807 3757,1801 3763,1801"/>
+                <TextEquiv>
+                    <Unicode>letter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1640,2090 1716,2104 1800,2070 1848,2088 2028,2044 2074,2082 2104,2080 2106,1904 2022,1900 1948,1862 1894,1882 1806,1878 1678,1826 1644,1832"/>
+                <Baseline points="1652,2004 1664,2004 1753,2004 1843,1998 1932,2004 2021,1998 2111,1998"/>
+                <TextEquiv>
+                    <Unicode>12/1898</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

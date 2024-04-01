@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=31_07_2023_23:55</Creator>
+        <Created>2023-05-10T11:34:04.742+02:00</Created>
+        <LastChange>2023-07-31T23:55:37.506+02:00</LastChange>
+        <TranskribusMetadata docId="1428161" pageId="55388260" pageNr="9" tsid="131643563" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PVVXVTOODQAFPCPZZEMKRJIC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BEBMFSTGKTEHUTEYGINKLITM" imageId="44663153"/>
+    </Metadata>
+    <Page imageFilename="1428161_0009.jpg" imageWidth="3864" imageHeight="5544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818972418" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="639,1156 2700,1156 2700,2423 639,2423"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="997,1248 2618,1239 2620,1149 1928,1149 1663,1098 1543,1159 999,1165"/>
+                <Baseline points="1009,1230 1099,1224 1188,1224 1278,1224 1368,1224 1457,1218 1547,1218 1636,1212 1726,1218 1816,1212 1905,1212 1995,1212 2084,1212 2174,1212 2264,1212 2353,1212 2443,1206 2533,1212 2622,1224"/>
+                <TextEquiv>
+                    <Unicode>Es ruft der Thalhof Dir sein Heil,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1003,1380 1800,1427 2063,1376 2658,1401 2698,1279 1003,1300"/>
+                <Baseline points="1015,1374 1105,1374 1194,1374 1284,1374 1374,1368 1463,1374 1553,1368 1642,1368 1732,1368 1822,1368 1911,1368 2001,1368 2090,1362 2180,1362 2270,1362 2359,1362 2449,1362 2539,1362 2628,1362 2700,1374"/>
+                <TextEquiv>
+                    <Unicode>Die Freunde bringen Glückwunsch Dir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1007,1566 1305,1591 1503,1532 1739,1534 2055,1597 2219,1541 2525,1532 2506,1425 2101,1463 1711,1427 1429,1484 1319,1439 1009,1456"/>
+                <Baseline points="1021,1529 1093,1529 1182,1529 1272,1529 1362,1529 1451,1529 1541,1529 1630,1523 1720,1523 1810,1523 1899,1517 1989,1523 2079,1517 2168,1517 2258,1511 2347,1511 2437,1511 2527,1517"/>
+                <TextEquiv>
+                    <Unicode>Ich aber rufe: Bleib' bei mir! -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1713,2074 1734,2072 1741,2080 1764,2074 1812,2099 1834,2103 1844,2095 1865,2114 1916,2116 1920,1958 1884,1958 1865,1971 1852,1960 1836,1964 1819,1943 1783,1933 1768,1947 1751,1954 1745,1947 1716,1962"/>
+                <Baseline points="1726,2055 1744,2055 1834,2055 1923,2049"/>
+                <TextEquiv>
+                    <Unicode>0000</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="626,2424 776,2457 870,2411 976,2462 1399,2346 1526,2377 1549,2164 1442,2126 1079,2188 1003,2160 873,2181 782,2139 655,2160"/>
+                <Baseline points="639,2413 728,2413 818,2407 908,2407 997,2401 1087,2383 1176,2365 1266,2353 1356,2347 1445,2335 1535,2341"/>
+                <TextEquiv>
+                    <Unicode>4.9.86</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:57</Creator>
+        <Created>2023-09-27T14:39:32.685+02:00</Created>
+        <LastChange>2024-01-22T19:57:53.186+01:00</LastChange>
+        <TranskribusMetadata docId="1589057" pageId="60125539" pageNr="51" tsid="145637619" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EJZLNYQTPQLVRGQXLOYGYXOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VAMWEIFDAYVOWQJYTKAPBAGS" imageId="48550616"/>
+    </Metadata>
+    <Page imageFilename="1589057_0051.jpg" imageWidth="3320" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789992542" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="742,341 742,965 2222,965 2222,341"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="734,471 784,475 813,451 872,459 892,444 941,475 991,442 1016,457 1065,428 1063,320 1014,317 986,340 930,344 889,327 851,331 824,313 772,333 732,322"/>
+                <Baseline points="742,402 768,402 795,402 822,402 849,402 876,402 903,402 930,403 957,404 984,404 1011,402 1038,402 1065,402"/>
+                <TextEquiv>
+                    <Unicode>ke Jort.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="773,581 946,561 1101,619 1581,552 1581,433 1432,464 1175,433 1067,466 989,442 898,486 815,450 773,471"/>
+                <Baseline points="784,548 824,542 864,539 904,541 944,544 984,547 1024,547 1064,545 1104,545 1144,546 1184,548 1224,554 1264,551 1304,549 1344,548 1384,548 1424,547 1464,544 1504,541 1544,537 1584,537"/>
+                <TextEquiv>
+                    <Unicode>Min?. Entschiecten?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="773,705 1000,676 1340,739 1435,702 1579,766 2220,691 2221,585 2112,628 1662,541 1300,613 775,595"/>
+                <Baseline points="784,680 855,676 927,677 999,676 1071,680 1143,680 1215,680 1287,683 1359,681 1431,679 1503,683 1574,686 1646,683 1718,679 1790,671 1862,671 1934,668 2006,664 2078,659 2150,658 2222,659"/>
+                <TextEquiv>
+                    <Unicode>tuc. Nein. Er ist heig.. Er ihtaus¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="790,845 971,869 1103,813 1324,865 1392,815 1450,818 1452,752 1367,728 1220,716 1171,739 1142,718 1059,741 1014,720 914,779 847,739 793,759"/>
+                <Baseline points="802,817 834,817 867,814 899,814 932,814 965,814 997,812 1030,811 1063,810 1095,808 1128,808 1161,807 1193,805 1226,802 1259,800 1291,799 1324,799 1357,799 1389,797 1422,798 1455,802"/>
+                <TextEquiv>
+                    <Unicode>deiesahi di mahen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="840,1011 1169,991 1248,934 1390,971 1464,939 1533,980 1847,950 1914,926 1916,881 1682,903 1615,863 1558,898 1385,833 1162,907 842,838"/>
+                <Baseline points="850,936 903,933 956,931 1010,930 1063,933 1117,930 1170,930 1223,933 1277,934 1330,933 1384,936 1437,933 1490,933 1544,933 1597,933 1651,930 1704,927 1757,928 1811,924 1864,919 1918,915"/>
+                <TextEquiv>
+                    <Unicode>Ent, von Abermehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

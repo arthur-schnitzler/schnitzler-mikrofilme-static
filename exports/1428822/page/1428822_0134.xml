@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:06</Creator>
+        <Created>2023-05-10T15:11:59.620+02:00</Created>
+        <LastChange>2023-08-15T08:06:38.203+02:00</LastChange>
+        <TranskribusMetadata docId="1428822" pageId="55432490" pageNr="134" tsid="132842038" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FFHBRSTFKJWBPOEVZHECMUQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UDSLXXYKBQGFOESWQKSGDXUT" imageId="44706527"/>
+    </Metadata>
+    <Page imageFilename="1428822_0134.jpg" imageWidth="3560" imageHeight="5144">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803430706" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="1951,549 3251,549 3251,1303 1951,1303"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2339,634 2407,649 2505,628 2591,651 2638,625 2715,651 2795,622 2828,651 2896,660 2902,474 2784,500 2713,468 2668,500 2576,506 2520,474 2458,500 2407,480 2342,500"/>
+                <Baseline points="2355,611 2373,611 2462,617 2551,617 2640,617 2729,611 2818,605 2907,599"/>
+                <TextEquiv>
+                    <Unicode>OFFICE OF</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1934,832 2517,844 2866,797 3148,835 3240,800 3246,649 2641,625 2387,681 2221,619 2162,651 1940,610"/>
+                <Baseline points="1951,806 2005,800 2094,795 2183,795 2272,789 2361,789 2450,783 2539,789 2628,783 2717,777 2806,771 2895,771 2984,765 3073,771 3162,765 3251,765"/>
+                <TextEquiv>
+                    <Unicode>ALICE KAUSER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2147,971 2251,1001 2304,959 2452,968 2544,942 2772,965 2828,945 2834,800 2600,829 2573,811 2499,844 2156,820"/>
+                <Baseline points="2165,943 2213,943 2302,931 2391,925 2480,919 2569,919 2658,919 2747,913 2836,907"/>
+                <TextEquiv>
+                    <Unicode>1402 BROID</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2384,1386 2496,1336 2739,1341 2869,1282 2994,1336 3121,1333 3109,1093 2840,1108 2686,1063 2529,1099 2369,1078"/>
+                <Baseline points="2391,1257 2480,1263 2569,1263 2658,1263 2747,1257 2836,1263 2925,1281 3014,1287 3103,1293 3126,1287"/>
+                <TextEquiv>
+                    <Unicode>BET No 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="646,2566 3014,2566 3014,2911 646,2911"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="631,2641 2553,2659 3006,2633 3006,2570 2499,2484 1860,2561 1611,2461 631,2573"/>
+                <Baseline points="646,2634 700,2634 789,2634 878,2640 967,2640 1056,2634 1145,2634 1234,2634 1323,2634 1412,2634 1501,2634 1590,2634 1679,2634 1768,2628 1857,2628 1946,2628 2035,2622 2124,2622 2213,2622 2302,2622 2391,2622 2480,2622 2569,2622 2658,2616 2747,2622 2836,2616 2925,2616 3014,2616"/>
+                <TextEquiv>
+                    <Unicode>-:- THE VEIL OF BEATRICE -:-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1359,3035 1531,3003 1623,3041 1744,3026 2082,2926 2283,2949 2283,2787 2203,2813 2144,2772 1937,2843 1750,2801 1661,2825 1549,2781 1415,2846 1359,2837"/>
+                <Baseline points="1376,2901 1400,2901 1489,2901 1578,2901 1667,2901 1756,2895 1845,2901 1934,2901 2023,2895 2112,2895 2201,2895 2290,2895"/>
+                <TextEquiv>
+                    <Unicode>- : - A C T IV —:-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

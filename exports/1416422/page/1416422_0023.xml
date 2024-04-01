@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_00:25</Creator>
+        <Created>2023-05-01T21:53:29.758+02:00</Created>
+        <LastChange>2023-07-25T00:25:26.834+02:00</LastChange>
+        <TranskribusMetadata docId="1416422" pageId="54945663" pageNr="23" tsid="130577970" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UWVOWIVKHMZXTGKAWVALATJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HKQTJLJPNXGMSDCXHPYDNFQD" imageId="44449748"/>
+    </Metadata>
+    <Page imageFilename="1416422_0023.jpg" imageWidth="3784" imageHeight="4231">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832262647" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="280,3748 1954,3748 1954,4097 280,4097"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="266,3832 286,3826 300,3837 329,3817 335,3823 355,3820 341,3676 321,3676 312,3682 297,3673 283,3690 251,3687"/>
+                <Baseline points="280,3798 325,3801 361,3807"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1721,4097 1738,4103 1764,4083 1825,4097 1871,4086 1946,4094 1955,3939 1845,3930 1810,3947 1796,3933 1776,3941 1732,3924"/>
+                <Baseline points="1739,4087 1775,4087 1820,4084 1864,4081 1909,4078 1954,4078"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="808,663 3141,663 3141,1370 808,1370"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="788,846 1060,936 1565,783 1981,892 2905,739 2899,560 2287,653 1920,442 808,445"/>
+                <Baseline points="808,820 814,817 856,808 901,805 945,805 990,802 1035,799 1080,799 1124,799 1169,802 1214,799 1259,796 1303,796 1348,793 1393,793 1438,793 1482,790 1527,787 1572,784 1617,781 1661,781 1706,778 1751,778 1796,772 1840,769 1885,769 1930,769 1975,766 2020,763 2064,760 2109,754 2154,754 2199,751 2243,748 2288,748 2333,745 2378,745 2422,742 2467,739 2512,734 2557,731 2601,731 2646,725 2691,722 2736,725 2780,722 2825,719 2870,719 2915,713"/>
+                <TextEquiv>
+                    <Unicode>Nie sehe ich meine Jugend mir zurück</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="858,1097 1094,1005 1868,956 2065,1031 2492,941 2763,1019 2859,979 2873,759 2385,878 1516,892 1270,826 1091,936 869,901"/>
+                <Baseline points="883,987 901,987 945,996 990,996 1035,996 1080,993 1124,993 1169,990 1214,990 1259,987 1303,987 1348,984 1393,984 1438,981 1482,981 1527,978 1572,975 1617,972 1661,969 1706,963 1751,963 1796,957 1840,954 1885,954 1930,951 1975,948 2020,945 2064,939 2109,936 2154,933 2199,930 2243,927 2288,924 2333,924 2378,921 2422,919 2467,916 2512,913 2557,907 2601,901 2646,895 2691,889 2736,886 2780,883 2825,886 2870,880"/>
+                <TextEquiv>
+                    <Unicode>Zurücke niemals ein vergangnes Jahr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="849,1216 1296,1161 1510,1253 1637,1161 1704,1221 2166,1103 3087,1135 3139,878 2639,1016 1868,956 1031,1019 855,1129"/>
+                <Baseline points="868,1157 898,1163 942,1163 987,1163 1032,1160 1077,1157 1121,1151 1166,1151 1211,1148 1256,1151 1300,1148 1345,1145 1390,1145 1435,1145 1479,1145 1524,1139 1569,1136 1614,1133 1658,1136 1703,1133 1748,1130 1793,1127 1838,1121 1882,1118 1927,1118 1972,1112 2017,1109 2061,1103 2106,1101 2151,1098 2196,1095 2240,1092 2285,1089 2330,1086 2375,1086 2419,1083 2464,1080 2509,1077 2554,1074 2598,1068 2643,1065 2688,1059 2733,1056 2777,1050 2822,1050 2867,1047 2912,1047 2956,1044 3001,1044 3046,1038 3091,1038 3135,1035"/>
+                <TextEquiv>
+                    <Unicode>Und dieses greif ich als mein einzig Flücke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="811,1429 1207,1470 1709,1299 1972,1360 2908,1207 3130,1268 3139,1138 2905,1094 2573,1190 2391,1094 1935,1216 1637,1158 1504,1256 1285,1161 826,1230"/>
+                <Baseline points="832,1360 859,1354 904,1351 948,1345 993,1342 1038,1333 1083,1333 1127,1330 1172,1327 1217,1324 1262,1318 1306,1318 1351,1315 1396,1312 1441,1309 1485,1303 1530,1297 1575,1291 1620,1291 1664,1286 1709,1286 1754,1283 1799,1280 1843,1274 1888,1271 1933,1268 1978,1268 2023,1262 2067,1262 2112,1259 2157,1256 2202,1256 2246,1250 2291,1244 2336,1244 2381,1244 2425,1241 2470,1238 2515,1235 2560,1235 2604,1232 2649,1226 2694,1223 2739,1220 2783,1217 2828,1214 2873,1211 2918,1208 2962,1205 3007,1202 3052,1199 3097,1196 3141,1199"/>
+                <TextEquiv>
+                    <Unicode>Daß ich von Nielem sagen kann: es war</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

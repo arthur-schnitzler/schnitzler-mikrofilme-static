@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_02:39</Creator>
+        <Created>2023-05-10T11:14:36.817+02:00</Created>
+        <LastChange>2023-07-28T02:39:18.430+02:00</LastChange>
+        <TranskribusMetadata docId="1428136" pageId="55384752" pageNr="61" tsid="131314275" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DOBJONOPANOGQTRFOXTLFPQF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JKHMOAKEDIWQFLFLLWPSRJXM" imageId="44659651"/>
+    </Metadata>
+    <Page imageFilename="1428136_0061.jpg" imageWidth="6168" imageHeight="4328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711824376734" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3157,1088 5665,1088 5665,2881 3157,2881"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3140,1252 3527,1223 3817,1303 4223,1177 4767,1160 5079,1228 5099,798 4337,844 3895,706 3155,894"/>
+                <Baseline points="3157,1193 3175,1193 3265,1211 3354,1211 3444,1217 3534,1211 3623,1217 3713,1205 3802,1205 3892,1205 3892,1205 3922,1193 4011,1187 4101,1181 4190,1176 4280,1164 4369,1164 4459,1158 4548,1152 4638,1152 4727,1146 4817,1146 4907,1146 4996,1146 5090,1138"/>
+                <TextEquiv>
+                    <Unicode>Dr. Tekorivant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="5253,2978 5408,2923 5563,2947 5659,2899 5577,2572 5490,2601 5292,2558 5273,2575 5154,2584"/>
+                <Baseline points="5211,2757 5301,2793 5390,2829 5480,2847 5569,2859 5659,2871 5665,2865"/>
+                <TextEquiv>
+                    <Unicode>11 57</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

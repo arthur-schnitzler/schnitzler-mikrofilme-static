@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_02:38</Creator>
+        <Created>2023-05-10T12:09:18.354+02:00</Created>
+        <LastChange>2023-07-29T02:38:53.249+02:00</LastChange>
+        <TranskribusMetadata docId="1428189" pageId="55398271" pageNr="31" tsid="131391109" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BBYTXPVRRIUOROFIPORAMLMX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YOWUHJWRGNZYFYMWJTLTRFJF" imageId="44673149"/>
+    </Metadata>
+    <Page imageFilename="1428189_0031.jpg" imageWidth="3307" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711798858507" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2459,148 2950,148 2950,224 2459,224"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2448,216 2498,236 2608,214 2694,238 2790,240 2816,226 2908,250 2946,242 2948,118 2846,120 2814,142 2780,122 2742,146 2712,128 2654,132 2630,154 2524,140 2496,154 2450,134"/>
+                <Baseline points="2459,214 2503,208 2548,211 2569,214 2593,208 2635,208 2680,208 2724,208 2769,205 2814,205 2859,202 2903,202 2950,198"/>
+                <TextEquiv>
+                    <Unicode> aber würde</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

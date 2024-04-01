@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:37</Creator>
+        <Created>2023-05-10T14:51:59.829+02:00</Created>
+        <LastChange>2023-08-14T22:37:11.738+02:00</LastChange>
+        <TranskribusMetadata docId="1428688" pageId="55427072" pageNr="57" tsid="132828515" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OJTPSVTGUUUEZUVASVXXZLXF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XARZDYCNQHYLJEYOLDTNLVED" imageId="44701147"/>
+    </Metadata>
+    <Page imageFilename="1428688_0057.jpg" imageWidth="3512" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810168456" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="543,779 1880,779 1880,1594 543,1594"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="567,850 610,854 627,842 658,860 691,849 726,859 754,839 854,859 880,847 877,748 859,746 842,762 792,744 766,753 718,719 661,731 628,709 623,716 562,691"/>
+                <Baseline points="576,832 620,829 665,829 710,829 755,832 799,835 844,838 883,841"/>
+                <TextEquiv>
+                    <Unicode>Merval</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="555,1127 762,1154 819,1129 888,1172 983,1137 1286,1167 1359,1144 1409,1178 1475,1145 1474,1074 1397,1034 1178,1084 1074,1062 1031,1096 907,1109 663,1044 554,1066"/>
+                <Baseline points="564,1119 608,1116 653,1122 698,1125 743,1125 787,1128 832,1131 877,1131 922,1131 967,1134 1011,1131 1056,1134 1101,1137 1146,1137 1190,1137 1235,1137 1280,1137 1325,1137 1370,1137 1414,1137 1459,1137 1480,1137"/>
+                <TextEquiv>
+                    <Unicode>Nizet.... Augustion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="547,1341 1222,1276 1301,1313 1563,1291 1667,1361 1878,1349 1875,1236 1548,1243 1409,1185 544,1207"/>
+                <Baseline points="555,1253 599,1256 644,1256 689,1259 734,1259 779,1262 823,1265 868,1268 913,1268 958,1271 1002,1268 1047,1271 1092,1271 1137,1274 1181,1277 1226,1274 1271,1274 1316,1277 1361,1280 1405,1280 1450,1280 1495,1283 1540,1286 1584,1286 1629,1289 1674,1292 1719,1292 1763,1292 1808,1292 1853,1292 1880,1289"/>
+                <TextEquiv>
+                    <Unicode>Nodier... Jugenderinnerungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="535,1571 633,1553 1270,1692 1389,1653 1613,1677 1772,1626 1767,1523 1725,1510 1666,1538 1144,1469 986,1517 804,1460 532,1470"/>
+                <Baseline points="543,1540 587,1543 632,1546 677,1546 722,1549 767,1552 811,1555 856,1558 901,1561 946,1564 990,1564 1035,1566 1080,1566 1125,1569 1170,1569 1214,1569 1259,1572 1304,1575 1349,1578 1393,1578 1438,1578 1483,1581 1528,1584 1572,1584 1617,1584 1662,1584 1707,1584 1752,1584 1772,1584"/>
+                <TextEquiv>
+                    <Unicode>Nozofff... Russie galante</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

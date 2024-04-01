@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_06:25</Creator>
+        <Created>2023-05-10T13:29:28.546+02:00</Created>
+        <LastChange>2023-08-01T06:25:46.496+02:00</LastChange>
+        <TranskribusMetadata docId="1428579" pageId="55412550" pageNr="81" tsid="131652068" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OISFFHTBVTMCVVOJJZYXUIKA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YXMFADVMJVKOZWCPJOLTPAVD" imageId="44686691"/>
+    </Metadata>
+    <Page imageFilename="1428579_0081.jpg" imageWidth="3304" imageHeight="3992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791712114" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="453,355 2882,355 2882,827 453,827"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2766,443 2786,441 2797,446 2831,426 2845,441 2871,441 2879,298 2848,298 2828,307 2794,270 2777,270"/>
+                <Baseline points="2783,411 2792,411 2837,411 2882,405"/>
+                <TextEquiv>
+                    <Unicode>80</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="438,642 1231,719 1475,625 2720,623 2655,503 441,543"/>
+                <Baseline points="453,629 489,626 534,629 578,629 623,629 668,629 713,629 757,629 802,629 847,632 892,629 936,629 981,629 1026,629 1071,629 1115,626 1160,626 1205,626 1250,626 1294,623 1339,620 1384,623 1429,620 1473,617 1518,617 1563,614 1608,617 1652,614 1697,617 1742,614 1787,614 1831,614 1876,617 1921,614 1966,614 2010,614 2055,611 2100,611 2145,611 2189,608 2234,608 2279,608 2324,602 2368,602 2413,602 2458,596 2503,596 2547,596 2592,596 2637,596 2682,596 2726,599"/>
+                <TextEquiv>
+                    <Unicode>Schromm: (laohend) Wir stehen alle in Gottes Hand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="455,858 1930,833 1953,702 455,713"/>
+                <Baseline points="471,805 480,811 525,814 569,817 614,817 659,814 704,814 748,811 793,811 838,808 883,808 927,808 972,811 1017,811 1062,808 1106,805 1151,805 1196,802 1241,802 1285,802 1330,799 1375,799 1420,799 1464,799 1509,796 1554,793 1599,796 1643,793 1688,793 1733,796 1778,796 1822,793 1867,793 1912,790 1957,793"/>
+                <TextEquiv>
+                    <Unicode>Egon und Schromn entfernen sich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

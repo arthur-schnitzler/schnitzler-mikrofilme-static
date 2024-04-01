@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_20:24</Creator>
+        <Created>2023-05-10T11:54:00.453+02:00</Created>
+        <LastChange>2023-07-28T20:24:43.953+02:00</LastChange>
+        <TranskribusMetadata docId="1428174" pageId="55395381" pageNr="278" tsid="131375654" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FYIZSMDNQCFAVFBQSSETMGUL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EOQBPDEXCLEYDDKMYSLNWYKS" imageId="44670265"/>
+    </Metadata>
+    <Page imageFilename="1428174_0278.jpg" imageWidth="3624" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802024634" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1904,173 3232,173 3232,341 1904,341"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2592,266 2678,262 2713,283 2774,253 3096,255 3143,234 3199,249 3228,243 3232,149 3128,174 3086,145 2981,186 2962,168 2918,186 2877,172 2682,201 2596,161"/>
+                <Baseline points="2602,253 2605,253 2650,253 2695,253 2740,250 2784,250 2829,250 2874,244 2919,241 2963,238 3008,235 3053,235 3098,232 3142,232 3187,226 3232,223"/>
+                <TextEquiv>
+                    <Unicode>Votre très avoir de la rue de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1893,299 1918,308 1943,301 1951,310 1978,299 1989,310 2027,306 2060,320 2114,291 2154,302 2158,241 2098,224 2071,235 2060,224 1993,241 1941,216 1897,222"/>
+                <Baseline points="1904,295 1937,292 1981,292 2026,289 2071,286 2116,283 2160,283"/>
+                <TextEquiv>
+                    <Unicode>DATES DES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2225,435 2274,436 2318,400 2338,410 2374,391 2414,410 2477,394 2523,404 2533,178 2479,188 2412,230 2370,216 2301,241 2232,245"/>
+                <Baseline points="2238,331 2262,331 2307,331 2351,328 2396,322 2441,325 2486,322 2531,319"/>
+                <TextEquiv>
+                    <Unicode>Votre</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

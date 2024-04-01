@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:12.634+02:00</Created>
+        <LastChange>2024-01-22T21:46:47.915+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127118" pageNr="78" tsid="145643743" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YURHJVFJEILHBBWSNWSSVWDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TZKKDZDWLEBTRUHOBLPBJJTP" imageId="48552195"/>
+    </Metadata>
+    <Page imageFilename="1589069_0078.jpg" imageWidth="2888" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787345445" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="579,577 579,1230 2603,1230 2603,577"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="580,653 1169,663 1392,737 2288,747 2519,709 2516,570 2250,645 1706,572 1099,602 982,544 848,608 770,559 577,549"/>
+                <Baseline points="591,638 687,644 784,647 881,651 977,653 1074,655 1171,656 1267,662 1364,663 1461,666 1558,668 1654,671 1751,674 1848,677 1944,677 2041,678 2138,682 2234,683 2331,686 2428,689 2525,686"/>
+                <TextEquiv>
+                    <Unicode>Man spricht oft voneiner unbemussten Verlogenheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="590,805 1230,797 1374,861 1577,868 2012,825 2400,881 2397,749 2301,737 2217,770 1471,716 1025,749 888,681 754,706 587,661"/>
+                <Baseline points="603,782 693,779 783,779 873,779 963,782 1053,785 1143,788 1234,791 1324,794 1414,794 1504,797 1594,800 1684,803 1774,806 1865,806 1955,807 2045,809 2135,812 2225,813 2315,815 2406,818"/>
+                <TextEquiv>
+                    <Unicode>gewisser Menschen. Doch Verlogenheit, die nächt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="585,919 1134,924 1301,1010 2319,1012 2314,886 2179,861 1172,873 1053,802 582,833"/>
+                <Baseline points="597,898 683,901 769,904 855,904 941,910 1027,914 1113,914 1199,916 1285,917 1371,920 1458,922 1544,922 1630,925 1716,928 1802,931 1888,934 1974,934 2060,932 2146,937 2232,937 2319,937"/>
+                <TextEquiv>
+                    <Unicode>bemusst ist, ist überhaupt keine. Es ist eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="567,1068 1410,1053 1635,1131 2172,1094 2248,1129 2349,1088 2572,1131 2595,982 1299,1007 676,916 564,985"/>
+                <Baseline points="579,1033 680,1034 781,1036 882,1038 983,1039 1085,1044 1186,1047 1287,1046 1388,1047 1489,1050 1591,1053 1692,1056 1793,1059 1894,1062 1995,1059 2097,1062 2198,1065 2299,1068 2400,1070 2501,1071 2603,1068"/>
+                <TextEquiv>
+                    <Unicode>zwangshafte, im innersten Wesen begründete Komödien-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="572,1210 1192,1180 1344,1263 1476,1233 1714,1266 1853,1225 2045,1258 2043,1147 1957,1121 1301,1139 987,1058 570,1096"/>
+                <Baseline points="585,1164 658,1163 731,1165 804,1167 877,1167 950,1168 1023,1171 1097,1171 1170,1173 1243,1173 1316,1176 1389,1176 1462,1179 1535,1180 1609,1180 1682,1184 1755,1185 1828,1187 1901,1188 1974,1191 2048,1200"/>
+                <TextEquiv>
+                    <Unicode>spielerei im Grossen oder im Kleinen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

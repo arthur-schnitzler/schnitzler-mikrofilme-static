@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:17</Creator>
+        <Created>2023-05-10T11:45:51.991+02:00</Created>
+        <LastChange>2023-07-28T17:17:24.917+02:00</LastChange>
+        <TranskribusMetadata docId="1428171" pageId="55392357" pageNr="224" tsid="131366628" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EOGBMJYILZWSMGUBBHYWEPAN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PVKMFOUIIKURNWKDGIHQMRHJ" imageId="44667242"/>
+    </Metadata>
+    <Page imageFilename="1428171_0224.jpg" imageWidth="3576" imageHeight="4536">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802695560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="179,293 823,293 823,541 179,541"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="706,350 716,350 736,370 742,368 764,378 774,374 780,380 790,378 804,386 818,386 818,292 802,292 794,286 788,292 770,290 754,278 748,284 740,278 706,284"/>
+                <Baseline points="716,343 760,343 805,343 823,343"/>
+                <TextEquiv>
+                    <Unicode>F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="168,570 240,576 310,534 378,532 452,560 610,520 736,554 742,404 632,392 420,448 298,412 170,478"/>
+                <Baseline points="179,531 202,528 247,531 292,531 337,528 381,528 426,528 471,525 516,522 561,522 605,519 650,516 695,516 740,513"/>
+                <TextEquiv>
+                    <Unicode>Février</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

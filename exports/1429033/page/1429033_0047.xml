@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_09:59</Creator>
+        <Created>2023-05-10T15:10:34.310+02:00</Created>
+        <LastChange>2023-08-15T09:59:54.584+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55435151" pageNr="47" tsid="132846210" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NRINUKOEAZGUEYVAACEWKCAO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KIUNICOIZLWXOUPQLFKGJUGV" imageId="44709141"/>
+    </Metadata>
+    <Page imageFilename="1429033_0047.jpg" imageWidth="4520" imageHeight="5480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799916380" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1486,427 3987,427 3987,827 1486,827"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1636,626 2067,694 2834,638 3081,550 3762,544 3775,432 2974,344 2699,504 1645,497"/>
+                <Baseline points="1653,632 1719,638 1808,638 1898,638 1987,638 2077,626 2166,620 2256,620 2346,614 2435,614 2525,608 2614,596 2704,590 2793,585 2883,579 2972,567 3062,555 3151,537 3241,519 3330,507 3420,501 3510,495 3599,489 3689,483 3778,477"/>
+                <TextEquiv>
+                    <Unicode>Besch: Was wehret die dich so? Sie Valin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1467,857 2158,876 2474,766 3822,682 3931,744 3984,566 3650,504 3224,657 2402,619 1476,747"/>
+                <Baseline points="1486,817 1569,817 1659,811 1749,805 1838,799 1928,787 2017,787 2107,782 2196,776 2286,776 2375,770 2465,764 2554,758 2644,752 2734,746 2823,740 2913,740 3002,734 3092,728 3181,716 3271,704 3360,704 3450,692 3539,686 3629,680 3718,674 3808,656 3898,644 3987,626"/>
+                <TextEquiv>
+                    <Unicode>sind königliche Gebließ - das ist kein Zweifel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

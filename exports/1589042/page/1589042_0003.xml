@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:30</Creator>
+        <Created>2023-09-27T14:36:58.847+02:00</Created>
+        <LastChange>2024-01-22T18:30:24.709+01:00</LastChange>
+        <TranskribusMetadata docId="1589042" pageId="60124060" pageNr="3" tsid="145632664" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JMGQBMGZMYDLSKCZJEKGWHKS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XIAMVHEJEDNTYQKTINEJSDFG" imageId="48549138"/>
+    </Metadata>
+    <Page imageFilename="1589042_0003.jpg" imageWidth="2984" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791856458" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="447,897 447,1056 564,1056 564,897"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="439,1016 449,1016 461,1026 493,997 516,1009 530,1004 535,1008 549,995 562,998 565,949 533,948 504,926 488,933 461,957 443,958"/>
+                <Baseline points="447,1006 476,1003 505,1003 534,1001 564,997"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="642,2428 642,2624 1556,2624 1556,2428"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="636,2493 755,2521 914,2488 1023,2522 1230,2482 1347,2505 1406,2468 1535,2506 1554,2384 934,2413 898,2441 637,2426"/>
+                <Baseline points="642,2490 687,2492 733,2493 779,2493 824,2493 870,2493 916,2491 961,2490 1007,2492 1053,2493 1099,2495 1144,2494 1190,2485 1236,2484 1281,2481 1327,2481 1373,2478 1418,2475 1464,2475 1510,2475 1556,2481"/>
+                <TextEquiv>
+                    <Unicode>Allester Plau 180 er Jahre)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1109,2593 1146,2589 1165,2609 1208,2599 1222,2609 1275,2609 1275,2497 1251,2499 1217,2524 1204,2516 1177,2521 1163,2507 1109,2520"/>
+                <Baseline points="1116,2589 1143,2589 1170,2589 1197,2589 1224,2589 1251,2589 1278,2589"/>
+                <TextEquiv>
+                    <Unicode>1912</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="636,2613 660,2600 691,2627 717,2611 747,2625 788,2600 890,2635 928,2621 953,2637 1016,2625 1006,2529 907,2537 864,2560 822,2537 759,2535 737,2553 638,2493"/>
+                <Baseline points="642,2601 667,2595 692,2593 717,2591 742,2589 767,2590 792,2592 817,2592 842,2592 867,2590 892,2589 917,2589 942,2588 967,2586 992,2587 1018,2589"/>
+                <TextEquiv>
+                    <Unicode>Szeuarium</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

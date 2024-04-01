@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_05:06</Creator>
+        <Created>2023-05-02T07:47:26.787+02:00</Created>
+        <LastChange>2023-07-26T05:06:51.284+02:00</LastChange>
+        <TranskribusMetadata docId="1416711" pageId="54951528" pageNr="194" tsid="130896071" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GIHTFYNEXNHTQVRBCBQOEGWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHAXFXDOUXHMIGCYVTUORRUJ" imageId="44455254"/>
+    </Metadata>
+    <Page imageFilename="1416711_0194.jpg" imageWidth="3500" imageHeight="3706">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828847553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1136,2286 2223,2286 2223,2456 1136,2456"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1289,2357 1323,2361 1338,2376 1358,2357 1369,2367 1380,2356 1414,2352 1445,2357 1447,2242 1421,2246 1395,2231 1371,2240 1358,2231 1339,2231 1326,2239 1313,2233 1300,2244 1291,2242"/>
+                <Baseline points="1300,2339 1345,2339 1390,2336 1435,2339 1450,2339"/>
+                <TextEquiv>
+                    <Unicode>Stadtbrücke.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1915,2437 1975,2411 1990,2419 2010,2411 2027,2424 2077,2410 2094,2428 2109,2428 2153,2406 2201,2436 2218,2430 2222,2341 2198,2333 2179,2341 2123,2318 2040,2337 2023,2322 1988,2333 1947,2367 1919,2363"/>
+                <Baseline points="1927,2413 1954,2413 1999,2408 2043,2408 2088,2405 2133,2402 2178,2399 2223,2405"/>
+                <TextEquiv>
+                    <Unicode>Salten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1124,2460 1198,2434 1248,2462 1386,2419 1481,2478 1549,2439 1756,2423 1756,2350 1650,2330 1482,2337 1339,2374 1289,2350 1237,2370 1185,2343 1128,2354"/>
+                <Baseline points="1136,2422 1181,2422 1226,2419 1271,2416 1315,2413 1360,2413 1405,2416 1450,2416 1494,2410 1539,2410 1584,2410 1629,2408 1673,2405 1718,2405 1763,2402"/>
+                <TextEquiv>
+                    <Unicode>Herzliche Grüße.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1926,2463 1954,2465 1979,2484 2021,2478 2051,2463 2088,2489 2105,2478 2118,2489 2157,2488 2161,2408 2112,2423 2099,2410 2083,2417 2073,2408 2025,2424 2006,2408 1992,2417 1975,2410 1951,2430 1928,2430"/>
+                <Baseline points="1936,2446 1942,2446 1987,2443 2032,2437 2076,2437 2121,2434 2166,2434"/>
+                <TextEquiv>
+                    <Unicode>Ostilie M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

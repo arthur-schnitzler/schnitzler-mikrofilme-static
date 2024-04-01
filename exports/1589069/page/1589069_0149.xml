@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:19.715+02:00</Created>
+        <LastChange>2024-01-22T21:46:59.940+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127368" pageNr="149" tsid="145643815" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ATQHAETIAYUWIJEKRCQJDCVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QXUNWJOJQGQAKOADOFIMPOYN" imageId="48552445"/>
+    </Metadata>
+    <Page imageFilename="1589069_0149.jpg" imageWidth="2808" imageHeight="3400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787447459" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="623,311 623,786 2540,786 2540,311"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1647,368 1745,378 1761,366 1907,394 1938,380 1967,402 2015,402 2010,263 1960,244 1914,272 1812,280 1788,268 1766,282 1642,256"/>
+                <Baseline points="1659,364 1684,364 1710,364 1736,366 1762,367 1787,367 1813,368 1839,370 1865,372 1891,374 1916,375 1942,375 1968,373 1994,373 2020,373"/>
+                <TextEquiv>
+                    <Unicode>mie sebr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="617,509 1044,485 1353,564 1522,478 1716,531 1869,490 1938,543 2075,492 2533,485 2498,402 2392,445 2163,382 1998,418 1606,351 1501,404 753,370 617,416"/>
+                <Baseline points="629,468 724,474 820,475 915,477 1011,479 1106,475 1202,477 1297,477 1393,477 1488,478 1584,477 1680,477 1775,480 1871,480 1966,480 2062,480 2157,483 2253,481 2348,483 2444,480 2540,483"/>
+                <TextEquiv>
+                    <Unicode>Wenn sich der Tod- zwar unaufhaltsan, doch mit ab-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="633,655 789,667 832,703 868,679 927,700 1028,674 1121,705 1219,684 1219,535 1032,550 1009,571 707,531 633,552"/>
+                <Baseline points="647,623 677,619 707,616 738,614 768,614 799,614 829,614 860,614 890,614 921,615 951,617 982,617 1012,617 1043,617 1073,617 1104,617 1134,617 1165,617 1195,617 1226,617"/>
+                <TextEquiv>
+                    <Unicode>gewandtem Autit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1613,636 1628,633 1661,655 1685,648 1699,660 1747,657 1747,523 1728,523 1721,531 1704,523 1687,538 1654,535 1632,547 1613,547"/>
+                <Baseline points="1626,620 1651,620 1676,620 1701,620 1726,620 1752,620"/>
+                <TextEquiv>
+                    <Unicode>ert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1843,657 2012,636 2067,667 2146,650 2170,669 2266,633 2433,655 2524,636 2524,574 2462,578 2421,545 2359,566 2239,538 2175,576 1934,550 1843,574"/>
+                <Baseline points="1856,623 1889,623 1923,620 1957,618 1991,623 2024,623 2058,623 2092,623 2126,623 2159,621 2193,621 2227,623 2261,623 2294,623 2328,623 2362,624 2396,626 2429,622 2463,621 2497,622 2531,620"/>
+                <TextEquiv>
+                    <Unicode>sprechen wir von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="612,762 707,758 810,779 834,762 891,760 911,777 942,762 956,777 970,774 966,691 887,691 825,710 801,695 774,707 748,695 722,707 648,669 607,672"/>
+                <Baseline points="623,737 648,739 673,740 698,742 723,744 749,745 774,747 799,749 824,749 849,749 875,749 900,750 925,753 950,756 976,758"/>
+                <TextEquiv>
+                    <Unicode>Genesung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

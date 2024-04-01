@@ -3,7 +3,7 @@ const main_search_field = "full_text"
 
 const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
     server: {
-        apiKey: "rEmTMl199GJGkXRtDEvoP0ZwKekC9FnC",
+        apiKey: "8pSDcoJfazDpvCBkJjVFe8ZydyUfFDLa",
         nodes: [
             {
                 host: "typesense.acdh-dev.oeaw.ac.at",

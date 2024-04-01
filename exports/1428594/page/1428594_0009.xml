@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_06:29</Creator>
+        <Created>2023-05-10T13:47:33.701+02:00</Created>
+        <LastChange>2023-07-30T06:29:11.036+02:00</LastChange>
+        <TranskribusMetadata docId="1428594" pageId="55414330" pageNr="9" tsid="131485346" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UKJEPYRUUFYGPDMRNSUGFEDI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUKFYXDRLWHTXSRNYORMUCVN" imageId="44688464"/>
+    </Metadata>
+    <Page imageFilename="1428594_0009.jpg" imageWidth="3608" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790272083" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1250,1872 2629,1872 2629,2561 1250,2561"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1239,2004 1554,1937 2627,1941 2629,1835 2339,1825 2151,1885 1904,1866 1761,1906 1242,1847"/>
+                <Baseline points="1250,1943 1286,1943 1331,1946 1375,1943 1420,1943 1465,1946 1510,1946 1555,1949 1599,1949 1644,1946 1689,1946 1734,1943 1778,1943 1823,1943 1868,1943 1913,1940 1957,1943 2002,1940 2047,1937 2092,1937 2137,1934 2181,1934 2226,1931 2271,1931 2316,1931 2360,1928 2405,1928 2450,1928 2495,1928 2540,1925 2584,1922 2629,1925"/>
+                <TextEquiv>
+                    <Unicode>Die Gouvernante.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1470,2277 2023,2282 2111,2255 2310,2279 2399,2263 2401,2206 2291,2179 2210,2201 1758,2187 1694,2222 1471,2194"/>
+                <Baseline points="1480,2247 1507,2250 1552,2247 1596,2247 1641,2247 1686,2250 1731,2250 1775,2250 1820,2247 1865,2247 1910,2247 1954,2244 1999,2241 2044,2244 2089,2241 2134,2241 2178,2238 2223,2238 2268,2238 2313,2238 2357,2235 2402,2244"/>
+                <TextEquiv>
+                    <Unicode>Eine Familienacene.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1730,2574 1872,2558 1937,2589 1987,2562 2011,2577 2136,2553 2206,2572 2255,2563 2256,2482 2103,2506 1949,2489 1877,2527 1806,2520 1770,2486 1732,2491"/>
+                <Baseline points="1740,2548 1766,2548 1811,2548 1856,2551 1901,2551 1946,2551 1990,2551 2035,2551 2080,2551 2125,2548 2169,2545 2214,2542 2259,2545"/>
+                <TextEquiv>
+                    <Unicode>-- oo O. O.O.o--</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:27</Creator>
+        <Created>2023-05-02T08:09:58.343+02:00</Created>
+        <LastChange>2023-07-26T22:27:52.617+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54954284" pageNr="283" tsid="131084629" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CQJISNPNBXZBMAJESFDMWFSS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JMQTOBXKQKAKTYCHOUPYGMIE" imageId="44458009"/>
+    </Metadata>
+    <Page imageFilename="1416742_0283.jpg" imageWidth="2207" imageHeight="3478">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827245478" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="244,675 1997,675 1997,1093 244,1093"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="241,752 387,750 408,733 463,750 552,740 552,611 495,609 438,634 416,621 332,683 279,700 241,695"/>
+                <Baseline points="253,728 289,728 334,728 379,725 423,725 468,725 513,725 558,725"/>
+                <TextEquiv>
+                    <Unicode>zu besuchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="311,852 1511,807 1731,841 1991,812 1993,742 311,767"/>
+                <Baseline points="322,812 340,815 385,815 429,815 474,815 519,815 564,815 609,815 653,815 698,812 743,812 788,812 832,809 877,809 922,809 967,809 1012,809 1056,809 1101,806 1146,806 1191,806 1235,806 1280,809 1325,806 1370,806 1415,806 1459,803 1504,806 1549,803 1594,803 1638,803 1683,803 1728,803 1773,800 1818,800 1862,800 1907,800 1952,803 1997,806"/>
+                <TextEquiv>
+                    <Unicode>Ich telegraphierte Ihnen heut, dass die Contrakte abgeschickt seien,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="230,953 1928,917 1898,839 1478,810 233,858"/>
+                <Baseline points="244,904 277,907 322,907 367,907 411,907 456,907 501,907 546,907 591,907 635,907 680,907 725,904 770,904 815,904 859,901 904,901 949,901 994,901 1038,901 1083,898 1128,901 1173,898 1218,898 1262,898 1307,898 1352,895 1397,898 1441,895 1486,895 1531,895 1576,895 1621,895 1665,895 1710,895 1755,895 1800,892 1844,892 1889,892 1934,892"/>
+                <TextEquiv>
+                    <Unicode>ich meiss wohl, dass sie viel früher hatten geschickt werden sollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1086,1004 1154,1021 1220,996 1266,1015 1289,1006 1363,1044 1433,1042 1435,947 1401,936 1359,945 1319,919 1258,934 1234,955 1156,947 1141,932 1086,949"/>
+                <Baseline points="1098,982 1128,985 1173,985 1218,985 1262,982 1307,982 1352,982 1397,982 1441,979"/>
+                <TextEquiv>
+                    <Unicode>Ihre ergebene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="943,1127 1000,1144 1010,1137 1027,1150 1067,1146 1103,1125 1135,1135 1158,1120 1186,1141 1209,1131 1251,1137 1279,1122 1277,1055 1218,1053 1184,1029 1144,1019 1082,1040 1036,1012 1008,1027 981,1002 941,1004"/>
+                <Baseline points="952,1077 997,1080 1041,1080 1086,1080 1131,1080 1176,1080 1221,1083 1265,1083 1283,1083"/>
+                <TextEquiv>
+                    <Unicode>Alice Kaiser.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

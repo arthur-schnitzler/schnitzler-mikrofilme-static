@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_13:19</Creator>
+        <Created>2023-05-10T14:19:21.641+02:00</Created>
+        <LastChange>2023-08-14T13:19:22.634+02:00</LastChange>
+        <TranskribusMetadata docId="1428611" pageId="55418934" pageNr="158" tsid="132803050" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VSEVKOECVPVTBEFVBIDPKJQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HKWDOXIKSMZTUYAXYLCHOHNR" imageId="44693038"/>
+    </Metadata>
+    <Page imageFilename="1428611_0158.jpg" imageWidth="3656" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787445805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="704,591 2545,591 2545,693 704,693"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="702,754 793,739 808,746 826,733 884,752 866,464 826,466 731,514 686,516"/>
+                <Baseline points="704,641 749,641 793,647 838,647 883,653"/>
+                <TextEquiv>
+                    <Unicode>be</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="984,775 1282,752 1441,799 1692,694 1897,702 2096,642 2210,696 2295,654 2423,688 2543,665 2545,627 2204,485 1860,576 1532,541 1433,576 992,489"/>
+                <Baseline points="999,668 1023,665 1068,665 1113,671 1157,671 1202,677 1247,677 1292,677 1337,680 1381,683 1426,680 1471,683 1516,680 1560,674 1605,671 1650,671 1695,662 1739,656 1784,647 1829,647 1874,650 1919,647 1963,647 2008,644 2053,647 2098,644 2142,644 2187,641 2232,641 2277,641 2321,644 2366,644 2411,647 2456,650 2500,650 2545,653"/>
+                <TextEquiv>
+                    <Unicode>1) Er klorft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

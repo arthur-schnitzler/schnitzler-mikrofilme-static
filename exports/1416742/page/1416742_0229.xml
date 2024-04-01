@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:27</Creator>
+        <Created>2023-05-02T08:09:45.478+02:00</Created>
+        <LastChange>2023-07-26T22:27:34.945+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54954049" pageNr="229" tsid="131084516" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YUHIEMJBCQQSUXXYMSWAITJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIXCFZGAGYSEKXEZVUGAPIXN" imageId="44457774"/>
+    </Metadata>
+    <Page imageFilename="1416742_0229.jpg" imageWidth="2744" imageHeight="3399">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827205074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="893,917 2096,917 2096,1521 893,1521"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="885,1026 1505,996 1564,1026 1702,987 1949,1013 2092,983 2095,929 888,957"/>
+                <Baseline points="893,1021 931,1018 976,1018 1021,1015 1066,1012 1111,1012 1155,1009 1200,1006 1245,1006 1290,1003 1335,1000 1379,1000 1424,997 1469,997 1514,997 1559,994 1603,991 1648,988 1693,988 1738,982 1783,985 1827,982 1872,982 1917,976 1962,979 2007,973 2051,970 2096,967"/>
+                <TextEquiv>
+                    <Unicode>Premiere stattfinden? Können wir die Buchausgabe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="891,1126 1031,1150 1293,1100 1878,1103 2060,1066 2062,1034 1925,1002 1746,1044 1588,1013 1361,1060 894,1055"/>
+                <Baseline points="899,1111 902,1111 946,1108 991,1108 1036,1105 1081,1105 1126,1102 1170,1099 1215,1096 1260,1096 1305,1093 1350,1090 1394,1087 1439,1087 1484,1087 1529,1084 1574,1081 1618,1081 1663,1078 1708,1075 1753,1075 1798,1072 1842,1072 1887,1069 1932,1069 1977,1066 2022,1063 2066,1060"/>
+                <TextEquiv>
+                    <Unicode>schon drucken? Ist Ihr Imprimatur mit den letz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="897,1218 1919,1189 1953,1178 1958,1085 1770,1129 1564,1109 1330,1150 1224,1117 898,1159"/>
+                <Baseline points="905,1200 928,1200 973,1200 1018,1197 1063,1194 1108,1194 1152,1191 1197,1191 1242,1188 1287,1185 1332,1182 1376,1182 1421,1179 1466,1179 1511,1176 1556,1173 1600,1173 1645,1173 1690,1170 1735,1167 1780,1164 1824,1164 1869,1161 1914,1161 1959,1161"/>
+                <TextEquiv>
+                    <Unicode>ten Collecturen als erteilt zu betrachten?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1073,1305 1160,1342 1210,1311 1273,1330 1306,1314 1353,1339 1419,1327 1528,1359 1544,1351 1549,1239 1455,1227 1382,1240 1309,1215 1212,1228 1171,1251 1148,1237 1075,1246"/>
+                <Baseline points="1081,1287 1102,1284 1146,1284 1191,1281 1236,1281 1281,1278 1326,1275 1370,1275 1415,1272 1460,1269 1505,1269 1550,1269"/>
+                <TextEquiv>
+                    <Unicode>Mit besten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1547,1367 1576,1370 1589,1361 1603,1364 1610,1361 1616,1367 1627,1359 1645,1361 1645,1311 1634,1308 1628,1311 1621,1305 1595,1317 1589,1312 1574,1314 1555,1300 1547,1299"/>
+                <Baseline points="1556,1361 1559,1359 1603,1356 1648,1359"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1475,1538 1561,1582 1621,1552 1662,1561 1729,1517 1812,1526 1829,1546 1863,1535 1868,1433 1817,1448 1717,1406 1637,1430 1568,1392 1481,1419"/>
+                <Baseline points="1484,1508 1511,1511 1556,1508 1600,1508 1645,1508 1690,1505 1735,1502 1780,1499 1824,1496 1869,1493"/>
+                <TextEquiv>
+                    <Unicode>Fischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

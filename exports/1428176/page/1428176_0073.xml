@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:08</Creator>
+        <Created>2023-05-10T11:54:24.855+02:00</Created>
+        <LastChange>2023-07-28T21:08:33.992+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55394196" pageNr="73" tsid="131377704" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KKIKWUMWEMPAJFTAFMSUWOWO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SMKXQENQDOLIJIQKYOJYTZDS" imageId="44669080"/>
+    </Metadata>
+    <Page imageFilename="1428176_0073.jpg" imageWidth="3400" imageHeight="4280">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801492348" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1957,141 3089,141 3089,329 1957,329"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2395,214 2406,212 2410,217 2436,211 2446,218 2478,224 2478,152 2469,149 2456,152 2450,146 2430,157 2422,149 2395,152"/>
+                <Baseline points="2402,191 2447,191 2480,191"/>
+                <TextEquiv>
+                    <Unicode>"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1949,346 2450,333 2558,368 2950,302 3087,331 3089,231 1950,265"/>
+                <Baseline points="1957,319 1969,316 2014,313 2059,313 2104,313 2148,316 2193,316 2238,316 2283,316 2328,316 2372,319 2417,316 2462,313 2507,313 2551,313 2596,310 2641,307 2686,307 2730,307 2775,304 2820,301 2865,301 2910,301 2954,298 2999,301 3044,295 3089,295"/>
+                <TextEquiv>
+                    <Unicode>mmoi uusurittukset.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

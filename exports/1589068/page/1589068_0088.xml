@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:56.439+02:00</Created>
+        <LastChange>2024-01-22T21:15:21.564+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126929" pageNr="88" tsid="145642254" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IJIBPCMVKNYVWWVVSCDSIYMT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FARLVZJXUCQYGDXAJBHNEVHN" imageId="48552006"/>
+    </Metadata>
+    <Page imageFilename="1589068_0088.jpg" imageWidth="2904" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787604861" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="441,425 441,785 2008,785 2008,425"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="431,502 1194,510 1196,402 1029,361 762,459 645,449 600,412 517,447 431,431"/>
+                <Baseline points="441,492 478,495 516,493 554,492 592,492 629,492 667,491 705,486 743,489 780,491 818,494 856,494 894,491 931,489 969,489 1007,489 1045,487 1082,485 1120,483 1158,483 1196,483"/>
+                <TextEquiv>
+                    <Unicode>Zwang - Sklaverei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="433,637 686,645 847,615 1051,621 1113,647 1115,545 1076,535 921,545 860,592 792,555 537,576 435,551"/>
+                <Baseline points="444,629 477,626 511,626 545,625 579,623 612,623 646,622 680,620 714,620 747,618 781,614 815,612 849,614 882,614 916,614 950,613 984,611 1017,613 1051,614 1085,613 1119,611"/>
+                <TextEquiv>
+                    <Unicode>Mission - Genie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="431,770 653,843 1025,762 1450,794 1584,729 2003,743 2003,680 1923,639 1717,621 1452,686 1290,639 1002,688 661,672 590,711 433,668"/>
+                <Baseline points="441,755 519,755 597,755 676,754 754,752 832,750 911,749 989,749 1067,746 1146,741 1224,742 1302,738 1381,740 1459,735 1537,734 1616,726 1694,731 1772,731 1851,731 1929,731 2008,734"/>
+                <TextEquiv>
+                    <Unicode>Dazwischen Bürgerlichkeit - Pflicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:25</Creator>
+        <Created>2023-05-10T11:40:34.940+02:00</Created>
+        <LastChange>2023-07-28T17:25:23.525+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55390686" pageNr="173" tsid="131366977" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FTBSJUXJKURSORAYPUUDOTYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QJKUHAEYLWOEBOVTJFFXWLES" imageId="44665572"/>
+    </Metadata>
+    <Page imageFilename="1428169_0173.jpg" imageWidth="3400" imageHeight="4072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803511512" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="716,803 2931,803 2931,1213 716,1213"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="701,942 1831,886 2338,953 2925,873 2892,742 2593,812 704,809"/>
+                <Baseline points="716,895 737,895 782,892 826,892 871,892 916,889 961,889 1006,889 1050,886 1095,889 1140,886 1185,886 1229,886 1274,889 1319,886 1364,886 1409,883 1453,883 1498,883 1543,883 1588,880 1632,880 1677,880 1722,880 1767,880 1812,880 1856,877 1901,877 1946,874 1991,871 2036,874 2080,871 2125,871 2170,868 2215,865 2259,865 2304,865 2349,865 2394,865 2439,865 2483,865 2528,865 2573,865 2618,865 2662,865 2707,862 2752,859 2797,856 2842,856 2886,853 2931,859"/>
+                <TextEquiv>
+                    <Unicode>Im Wesen Wegraths liegt vielleicht eine gewisse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="701,1108 2551,1055 2820,1025 2823,945 2244,906 2094,978 1900,928 704,994"/>
+                <Baseline points="719,1044 722,1047 767,1044 812,1044 856,1044 901,1041 946,1041 991,1038 1035,1035 1080,1038 1125,1038 1170,1038 1215,1035 1259,1035 1304,1035 1349,1035 1394,1035 1438,1035 1483,1035 1528,1032 1573,1035 1618,1032 1662,1032 1707,1032 1752,1029 1797,1029 1841,1029 1886,1026 1931,1026 1976,1026 2021,1026 2065,1026 2110,1026 2155,1023 2200,1020 2244,1020 2289,1020 2334,1020 2379,1020 2424,1018 2468,1018 2513,1015 2558,1012 2603,1015 2647,1012 2692,1012 2737,1009 2782,1006 2827,1009"/>
+                <TextEquiv>
+                    <Unicode>Schüchternheit. Er kann seine Liebe nicht or-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="698,1285 1144,1260 1327,1319 1582,1258 1668,1294 1670,1130 1224,1114 1102,1147 964,1094 814,1147 701,1125"/>
+                <Baseline points="716,1203 737,1203 782,1200 826,1200 871,1200 916,1197 961,1200 1006,1197 1050,1197 1095,1197 1140,1197 1185,1194 1229,1194 1274,1194 1319,1194 1364,1191 1409,1191 1453,1191 1498,1191 1543,1191 1588,1191 1632,1191 1677,1197"/>
+                <TextEquiv>
+                    <Unicode>dentlich ausdrücken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

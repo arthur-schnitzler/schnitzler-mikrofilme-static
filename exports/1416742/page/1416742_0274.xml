@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:27</Creator>
+        <Created>2023-05-02T08:09:56.334+02:00</Created>
+        <LastChange>2023-07-26T22:27:49.070+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54954250" pageNr="274" tsid="131084609" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TNOQYROEQBAWXQGAAVTAYOND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OGIQFSAVFMAYAMSMTYQNPSOZ" imageId="44457975"/>
+    </Metadata>
+    <Page imageFilename="1416742_0274.jpg" imageWidth="2213" imageHeight="3479">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827238772" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="623,931 1855,931 1855,1451 623,1451"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="785,1022 1851,1024 1852,955 1658,926 1592,959 1374,933 1244,962 787,926"/>
+                <Baseline points="793,1014 826,1011 871,1011 915,1008 960,1008 1005,1008 1050,1008 1095,1008 1139,1005 1184,1005 1229,1005 1274,1005 1318,1005 1363,1005 1408,1005 1453,1002 1497,1002 1542,1002 1587,999 1632,999 1676,996 1721,993 1766,990 1811,987 1855,981"/>
+                <TextEquiv>
+                    <Unicode>Ob aus seiner Fieger-Beise in blaßen Pett-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="615,1159 702,1173 777,1133 1224,1100 1569,1117 1595,1055 1446,1028 618,1066"/>
+                <Baseline points="623,1124 656,1118 701,1115 745,1115 790,1112 835,1112 880,1109 924,1109 969,1106 1014,1106 1059,1103 1103,1100 1148,1100 1193,1098 1238,1098 1282,1098 1327,1095 1372,1095 1417,1095 1462,1092 1506,1092 1551,1092 1596,1095"/>
+                <TextEquiv>
+                    <Unicode>Jahr noch etwas wird? Ich glaube kann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="882,1209 942,1220 982,1201 1028,1217 1120,1197 1224,1208 1342,1191 1343,1139 1330,1135 1200,1128 1148,1161 1068,1143 1024,1168 885,1131"/>
+                <Baseline points="889,1196 898,1199 942,1199 987,1199 1032,1196 1077,1196 1121,1193 1166,1193 1211,1193 1256,1190 1300,1190 1345,1187"/>
+                <TextEquiv>
+                    <Unicode>Mit besten Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1349,1289 1362,1296 1383,1285 1430,1297 1463,1292 1467,1189 1448,1191 1431,1184 1423,1188 1407,1179 1389,1185 1365,1173 1354,1173"/>
+                <Baseline points="1357,1282 1378,1280 1423,1280 1467,1277"/>
+                <TextEquiv>
+                    <Unicode>tar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1242,1452 1355,1436 1426,1452 1490,1434 1533,1447 1561,1434 1614,1476 1706,1466 1710,1354 1664,1365 1613,1338 1596,1351 1563,1331 1516,1333 1452,1292 1379,1309 1349,1288 1248,1300"/>
+                <Baseline points="1250,1441 1262,1438 1306,1435 1351,1432 1396,1432 1441,1429 1485,1429 1530,1426 1575,1426 1620,1426 1664,1426 1709,1420"/>
+                <TextEquiv>
+                    <Unicode>S. Fischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

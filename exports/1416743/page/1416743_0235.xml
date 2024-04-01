@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:30</Creator>
+        <Created>2023-05-02T08:10:59.672+02:00</Created>
+        <LastChange>2023-07-27T22:30:02.792+02:00</LastChange>
+        <TranskribusMetadata docId="1416743" pageId="54953969" pageNr="235" tsid="131305881" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZOGSHVFPSIEVGUHUYVEOIHTX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AFOKJYWUPYMHABXPIMBZPNRA" imageId="44457694"/>
+    </Metadata>
+    <Page imageFilename="1416743_0235.jpg" imageWidth="3141" imageHeight="3799">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711826287075" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1084,389 2153,389 2153,2500 1084,2500"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1236,488 1562,505 1669,462 1756,496 1873,500 1930,470 2103,491 2148,483 2152,391 1974,423 1790,394 1615,437 1455,400 1239,407"/>
+                <Baseline points="1242,480 1257,480 1302,477 1346,477 1391,477 1436,471 1481,471 1526,468 1570,465 1615,462 1660,459 1705,459 1750,456 1794,456 1839,453 1884,450 1929,447 1974,445 2018,445 2063,442 2108,439 2153,439"/>
+                <TextEquiv>
+                    <Unicode>geschickkante, Berlin Nr. 1662 / Fernspreck-Anschlässen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1548,603 1567,608 1659,560 1798,553 1839,568 1941,544 2022,560 2049,545 2051,496 1936,471 1872,500 1818,483 1762,506 1622,507 1552,535"/>
+                <Baseline points="1556,561 1559,561 1603,561 1648,558 1693,558 1738,555 1783,552 1827,552 1872,546 1917,546 1962,543 2007,540 2051,540"/>
+                <TextEquiv>
+                    <Unicode>ow s r a s</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1246,627 1278,621 1294,628 1306,618 1327,635 1358,616 1377,624 1401,617 1428,632 1453,634 1459,522 1422,523 1402,513 1383,519 1365,499 1345,507 1329,491 1279,495 1252,510"/>
+                <Baseline points="1254,576 1281,576 1326,573 1370,573 1415,570 1460,564"/>
+                <TextEquiv>
+                    <Unicode>V 57. B</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1670,1293 1691,1290 1702,1303 1724,1294 1731,1302 1745,1295 1761,1304 1774,1298 1781,1301 1788,1219 1781,1216 1751,1229 1738,1223 1729,1229 1693,1226 1676,1233"/>
+                <Baseline points="1678,1281 1696,1284 1741,1278 1786,1275"/>
+                <TextEquiv>
+                    <Unicode>Oor,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1076,1349 1141,1339 1180,1352 1308,1313 1358,1319 1386,1344 1430,1326 1506,1346 1512,1237 1442,1245 1419,1230 1374,1255 1326,1253 1240,1245 1153,1208 1082,1214"/>
+                <Baseline points="1084,1311 1108,1311 1152,1308 1197,1305 1242,1305 1287,1299 1332,1296 1376,1299 1421,1296 1466,1293 1511,1293"/>
+                <TextEquiv>
+                    <Unicode>geehrter Herr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1598,2508 1650,2521 1736,2497 1789,2531 1807,2522 1905,2522 1908,2441 1876,2451 1850,2437 1823,2451 1798,2437 1752,2464 1713,2456 1671,2420 1635,2442 1603,2443"/>
+                <Baseline points="1606,2490 1642,2490 1687,2487 1732,2484 1777,2484 1821,2481 1866,2475 1911,2472"/>
+                <TextEquiv>
+                    <Unicode>Rosenhann,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

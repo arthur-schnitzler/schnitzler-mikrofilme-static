@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_10:10</Creator>
+        <Created>2023-05-10T12:30:36.479+02:00</Created>
+        <LastChange>2023-07-29T10:10:21.715+02:00</LastChange>
+        <TranskribusMetadata docId="1428204" pageId="55403508" pageNr="67" tsid="131406762" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VBAJCBTGSTFUPGXXCRDEQVXI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ITIIOFVMHPFFQIOCLHQHOQHM" imageId="44678329"/>
+    </Metadata>
+    <Page imageFilename="1428204_0067.jpg" imageWidth="3400" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795854523" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="856,418 2854,418 2854,708 856,708"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2728,506 2743,509 2762,501 2782,514 2792,514 2824,494 2851,494 2853,374 2833,374 2814,366 2784,388 2775,378 2765,381 2752,374 2733,374"/>
+                <Baseline points="2743,471 2764,471 2809,471 2854,468"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="843,737 2814,636 2816,555 2745,538 1801,602 1619,553 1450,614 850,523"/>
+                <Baseline points="856,698 895,695 940,692 985,689 1030,689 1074,689 1119,686 1164,689 1209,686 1253,680 1298,677 1343,680 1388,677 1433,674 1477,674 1522,674 1567,677 1612,674 1656,668 1701,668 1746,668 1791,665 1836,662 1880,662 1925,662 1970,659 2015,656 2060,653 2104,650 2149,647 2194,647 2239,644 2283,641 2328,641 2373,638 2418,632 2463,632 2507,629 2552,629 2597,626 2642,629 2686,629 2731,626 2776,623 2821,620"/>
+                <TextEquiv>
+                    <Unicode>Marie: kommt. rasch, wie eine Verfolgte</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

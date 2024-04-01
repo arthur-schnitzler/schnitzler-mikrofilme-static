@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:33</Creator>
+        <Created>2023-09-27T14:40:13.658+02:00</Created>
+        <LastChange>2024-01-22T20:33:35.122+01:00</LastChange>
+        <TranskribusMetadata docId="1589058" pageId="60126937" pageNr="253" tsid="145640240" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=AJDYIYVKQGOYEFIQHPLTYAZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WWZOVDGUGBSNLNETBZSACZVI" imageId="48552014"/>
+    </Metadata>
+    <Page imageFilename="1589058_0253.jpg" imageWidth="2776" imageHeight="3352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789900759" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="635,404 635,908 2540,908 2540,404"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="622,493 929,527 1148,484 2466,500 2444,353 2013,419 1942,369 1494,426 1375,393 1148,429 986,386 927,434 624,381"/>
+                <Baseline points="635,483 726,486 818,483 910,483 1002,482 1094,480 1185,482 1277,480 1369,480 1461,477 1553,477 1644,477 1736,472 1828,474 1920,472 2012,471 2103,471 2195,471 2287,471 2379,471 2471,468"/>
+                <TextEquiv>
+                    <Unicode>einer Anatol-Aufführung lässt sich durch keine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="619,639 1232,679 1318,627 1734,667 1873,605 1951,655 2068,612 2537,619 2537,538 2471,531 1806,560 1503,498 1382,567 1272,529 1175,569 720,558 622,519"/>
+                <Baseline points="635,614 730,614 825,614 920,614 1016,611 1111,614 1206,612 1301,611 1397,611 1492,608 1587,606 1682,605 1778,605 1873,605 1968,599 2063,600 2159,600 2254,599 2349,599 2444,605 2540,599"/>
+                <TextEquiv>
+                    <Unicode>noch so vorzügliche Aufführung von Hebbels Gyges</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="624,770 705,753 750,755 770,772 805,760 877,774 893,758 946,755 998,772 1001,672 965,667 922,689 879,681 853,696 712,660 684,681 627,674"/>
+                <Baseline points="638,746 664,748 690,749 716,747 742,746 769,746 795,744 821,743 847,745 873,745 900,743 926,743 952,743 978,745 1005,746"/>
+                <TextEquiv>
+                    <Unicode>erkaufen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="631,939 1303,967 1739,948 1920,877 2368,905 2368,789 1739,781 1637,834 1503,798 631,805"/>
+                <Baseline points="644,874 730,876 817,873 903,871 990,871 1076,868 1163,868 1249,868 1336,868 1422,874 1509,874 1596,868 1682,866 1769,868 1855,865 1942,865 2028,865 2115,865 2201,865 2288,865 2375,865"/>
+                <TextEquiv>
+                    <Unicode>(folgt Kritik über Ggges. Unterschrift: ka.1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

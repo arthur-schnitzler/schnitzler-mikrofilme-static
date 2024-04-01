@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_19:19</Creator>
+        <Created>2023-05-10T14:44:56.111+02:00</Created>
+        <LastChange>2023-08-14T19:19:10.003+02:00</LastChange>
+        <TranskribusMetadata docId="1428659" pageId="55424540" pageNr="14" tsid="132822598" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PKETDJBJYKJXIHXQLCGJVWQN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDBHIJOJQBGTRJCDOSJJVPTW" imageId="44698617"/>
+    </Metadata>
+    <Page imageFilename="1428659_0014.jpg" imageWidth="3432" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814341018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="432,326 2945,326 2945,860 432,860"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2818,436 2849,439 2871,420 2896,414 2921,395 2939,395 2936,262 2918,262 2905,271 2886,258 2874,271 2858,258 2849,258 2843,268 2818,265"/>
+                <Baseline points="2835,376 2880,376 2925,379 2945,376"/>
+                <TextEquiv>
+                    <Unicode>12</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="427,595 2918,560 2918,433 2781,380 2382,467 430,430"/>
+                <Baseline points="447,549 456,549 501,549 546,549 590,546 635,543 680,540 725,543 770,540 814,540 859,537 904,537 949,534 993,534 1038,534 1083,534 1128,534 1172,534 1217,531 1262,531 1307,531 1352,531 1396,531 1441,531 1486,534 1531,534 1575,531 1620,528 1665,531 1710,528 1755,528 1799,525 1844,525 1889,525 1934,525 1978,522 2023,522 2068,522 2113,522 2157,522 2202,522 2247,522 2292,519 2337,519 2381,519 2426,519 2471,519 2516,519 2560,516 2605,516 2650,516 2695,513 2739,513 2784,516 2829,513 2874,513 2921,512"/>
+                <TextEquiv>
+                    <Unicode>Er legte sich zu Bett, nahm aber noch Papier und Blei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="423,750 1320,791 2040,685 2768,760 2927,701 2930,585 423,626"/>
+                <Baseline points="441,698 468,695 513,695 558,692 602,689 647,689 692,689 737,686 781,686 826,686 871,686 916,686 961,686 1005,686 1050,686 1095,686 1140,689 1184,689 1229,692 1274,692 1319,689 1364,689 1408,686 1453,689 1498,689 1543,692 1587,689 1632,686 1677,686 1722,686 1766,686 1811,686 1856,686 1901,680 1946,680 1990,680 2035,677 2080,674 2125,674 2169,674 2214,674 2259,674 2304,671 2348,671 2393,668 2438,668 2483,668 2528,665 2572,665 2617,665 2662,665 2707,665 2751,662 2796,662 2841,662 2886,659 2931,659"/>
+                <TextEquiv>
+                    <Unicode>stift und schrieb, lang, Lang, bis die Kerze verlösch-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="417,940 451,940 467,925 492,937 514,925 529,937 570,925 564,775 520,778 492,797 448,778 411,788"/>
+                <Baseline points="432,847 477,844 522,847 567,850 576,850"/>
+                <TextEquiv>
+                    <Unicode>to.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

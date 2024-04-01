@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_16:09</Creator>
+        <Created>2023-05-10T14:26:43.031+02:00</Created>
+        <LastChange>2023-08-14T16:09:58.946+02:00</LastChange>
+        <TranskribusMetadata docId="1428626" pageId="55420068" pageNr="31" tsid="132813390" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ISAQNNLWUQXZPHBUPAQCMRLI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GCSQTTKJDIYHBJSFDKVNPHJX" imageId="44694170"/>
+    </Metadata>
+    <Page imageFilename="1428626_0031.jpg" imageWidth="3832" imageHeight="4984">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711820492794" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="417,958 1832,958 1832,1257 417,1257"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="405,1142 908,1041 995,1080 1412,1007 1726,1035 1830,1005 1834,942 1609,965 1533,903 1359,958 1188,862 1037,927 917,903 412,1000"/>
+                <Baseline points="417,1092 489,1080 578,1074 668,1068 758,1062 847,1050 937,1044 1026,1038 1116,1026 1205,1020 1295,1014 1384,1014 1474,1008 1563,1008 1653,1008 1742,1014 1832,1014"/>
+                <TextEquiv>
+                    <Unicode>füncht der Bils vorhäng-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="566,1250 630,1250 676,1278 731,1250 781,1257 827,1237 846,1255 892,1230 1000,1232 1064,1207 1168,1218 1172,1174 1067,1152 1044,1165 974,1097 816,1165 765,1161 706,1113 575,1138"/>
+                <Baseline points="578,1247 638,1241 728,1241 817,1235 907,1223 996,1217 1086,1205 1175,1205"/>
+                <TextEquiv>
+                    <Unicode>Frau R...</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="364,4593 519,4593 519,4659 364,4659"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="354,4655 379,4660 407,4685 418,4687 441,4673 462,4683 483,4673 497,4685 515,4687 510,4512 478,4515 464,4531 439,4517 404,4547 350,4544"/>
+                <Baseline points="364,4643 453,4643 519,4649"/>
+                <TextEquiv>
+                    <Unicode>1773</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:10</Creator>
+        <Created>2023-09-27T14:33:39.383+02:00</Created>
+        <LastChange>2024-01-22T18:10:03.904+01:00</LastChange>
+        <TranskribusMetadata docId="1589031" pageId="60123368" pageNr="240" tsid="145631532" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GUPCPGZBSZPFHTZZZEYVNXVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UJDNFUHTVGFTLWVHCJFYKZXJ" imageId="48548446"/>
+    </Metadata>
+    <Page imageFilename="1589031_0240.jpg" imageWidth="3176" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711794447851" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1163,454 1163,1221 2886,1221 2886,454"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2493,565 2508,560 2513,565 2519,558 2588,565 2597,556 2608,567 2620,567 2618,442 2597,440 2586,446 2573,433 2564,442 2549,435 2534,442 2521,435 2491,437"/>
+                <Baseline points="2504,516 2533,516 2563,517 2593,519 2623,516"/>
+                <TextEquiv>
+                    <Unicode>267</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1153,711 1562,653 1666,683 1761,642 2392,677 2358,580 1151,573"/>
+                <Baseline points="1163,629 1224,624 1286,628 1347,632 1409,631 1471,626 1532,632 1594,634 1656,635 1717,634 1779,637 1841,638 1902,641 1964,641 2026,641 2087,641 2149,644 2211,644 2272,644 2334,644 2396,647"/>
+                <TextEquiv>
+                    <Unicode>Ludwig: Es hat übrigens schon m.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1159,776 1489,767 1567,815 1896,780 2631,808 2758,797 2756,722 2595,741 2314,677 2086,724 2034,692 1795,731 1668,692 1157,711"/>
+                <Baseline points="1172,758 1251,763 1331,764 1410,764 1490,762 1569,772 1649,770 1728,772 1808,773 1887,773 1967,775 2047,776 2126,774 2206,778 2285,781 2365,781 2444,782 2524,782 2603,784 2683,786 2763,778"/>
+                <TextEquiv>
+                    <Unicode>fangen. Euf morgen! (rasch nach links abt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1153,903 2881,935 2879,862 2717,847 2183,875 1754,823 1349,851 1151,802"/>
+                <Baseline points="1163,874 1249,891 1335,897 1421,898 1507,900 1593,904 1679,904 1766,907 1852,910 1938,910 2024,914 2110,913 2196,913 2282,913 2369,916 2455,922 2541,916 2627,921 2713,922 2799,925 2886,922"/>
+                <TextEquiv>
+                    <Unicode>4ychard: (nach kurzem Lggern in die Loge III)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1157,1101 2860,1123 2858,981 2489,1017 1948,965 1873,1000 1155,931"/>
+                <Baseline points="1169,1029 1253,1029 1338,1031 1422,1032 1507,1035 1592,1036 1676,1039 1761,1038 1846,1041 1930,1038 2015,1041 2100,1046 2184,1046 2269,1046 2354,1050 2438,1051 2523,1050 2608,1050 2692,1053 2777,1056 2862,1053"/>
+                <TextEquiv>
+                    <Unicode>(Zogenschliessendie Stufen herauf,setzt wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1155,1172 2256,1205 2269,1140 1153,1101"/>
+                <Baseline points="1166,1166 1221,1164 1276,1166 1332,1168 1387,1169 1443,1172 1498,1172 1553,1170 1609,1174 1664,1175 1720,1174 1775,1176 1830,1178 1886,1178 1941,1178 1997,1180 2052,1181 2107,1184 2163,1184 2218,1185 2274,1190"/>
+                <TextEquiv>
+                    <Unicode>früher auf die Bank rechts)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

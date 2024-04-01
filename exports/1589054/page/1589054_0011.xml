@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:30</Creator>
+        <Created>2023-09-27T14:39:25.327+02:00</Created>
+        <LastChange>2024-01-22T19:30:41.561+01:00</LastChange>
+        <TranskribusMetadata docId="1589054" pageId="60125331" pageNr="11" tsid="145635747" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PBXQTWVEZXUMTTMLOHPZITVL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QSZLKBSUFMOUXAIORZPTGPUH" imageId="48550408"/>
+    </Metadata>
+    <Page imageFilename="1589054_0011.jpg" imageWidth="2776" imageHeight="3416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790669351" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="498,393 498,693 2388,693 2388,393"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2058,474 2104,491 2156,479 2189,500 2210,481 2281,489 2321,472 2384,486 2368,364 2248,359 2231,371 2161,362 2104,336 2043,352"/>
+                <Baseline points="2066,429 2092,432 2119,436 2146,440 2173,445 2200,450 2227,452 2253,454 2280,458 2307,461 2334,465 2361,467 2388,471"/>
+                <TextEquiv>
+                    <Unicode>Ezelke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="491,554 2379,547 2379,489 2318,472 2196,503 1921,444 1583,439 1480,505 1158,489 935,423 740,496 491,453"/>
+                <Baseline points="504,534 597,534 691,534 785,534 879,534 973,534 1067,534 1161,534 1255,537 1349,537 1443,537 1536,540 1630,540 1724,540 1818,540 1912,541 2006,543 2100,540 2194,542 2288,541 2382,543"/>
+                <TextEquiv>
+                    <Unicode>seltensten Fällen und da meistens auf ein leteil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="486,665 566,695 618,667 1207,695 1207,639 1116,592 928,601 900,625 824,601 740,622 688,590 634,615 486,599"/>
+                <Baseline points="498,659 533,661 569,662 605,663 640,665 676,662 712,664 747,663 783,663 819,665 855,665 890,663 926,662 962,663 997,665 1033,665 1069,665 1104,665 1140,666 1176,668 1212,671"/>
+                <TextEquiv>
+                    <Unicode>beschränkt finden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_02:39</Creator>
+        <Created>2023-05-10T11:14:41.324+02:00</Created>
+        <LastChange>2023-07-28T02:39:29.703+02:00</LastChange>
+        <TranskribusMetadata docId="1428136" pageId="55384848" pageNr="93" tsid="131314307" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DMTIGNNYRTIQQDUNIEBKJUXK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NKAXMCDXLIJKHKAMNDBDUOTH" imageId="44659747"/>
+    </Metadata>
+    <Page imageFilename="1428136_0093.jpg" imageWidth="6015" imageHeight="3992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711824425776" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3358,386 5719,386 5719,1247 3358,1247"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5391,469 5441,466 5470,492 5500,478 5564,513 5582,501 5596,510 5649,472 5670,472 5670,331 5620,343 5582,375 5546,352 5505,375 5459,337 5441,346 5391,328"/>
+                <Baseline points="5408,448 5497,436 5587,436 5677,448"/>
+                <TextEquiv>
+                    <Unicode>2 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3349,653 4404,642 4404,463 4029,536 3660,460 3583,516 3452,489 3349,530"/>
+                <Baseline points="3364,621 3454,615 3543,615 3633,615 3723,615 3812,615 3902,609 3992,609 4081,609 4171,609 4260,609 4350,615 4410,621"/>
+                <TextEquiv>
+                    <Unicode>Der Mann zum Duell..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3355,826 5705,803 5705,668 5406,724 4542,601 3355,653"/>
+                <Baseline points="3370,770 3460,770 3549,764 3639,770 3729,770 3818,764 3908,764 3997,764 4087,764 4177,764 4266,758 4356,764 4446,758 4535,758 4625,758 4715,758 4804,758 4894,758 4984,758 5073,758 5163,758 5252,758 5342,758 5432,752 5521,758 5611,758 5701,764 5713,770"/>
+                <TextEquiv>
+                    <Unicode>Kurzer Abschied von der Frau, die nichts ahnt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3343,946 3595,935 3774,1014 4093,932 4292,993 4462,926 5078,976 5145,952 5148,823 3346,817"/>
+                <Baseline points="3358,926 3448,920 3537,920 3627,926 3717,920 3806,920 3896,920 3986,914 4075,920 4165,920 4254,914 4344,914 4434,914 4523,914 4613,914 4703,914 4792,914 4882,914 4972,914 5061,914 5151,920"/>
+                <TextEquiv>
+                    <Unicode>Frau und Kinder. Sie entfernt sich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3361,1102 5711,1087 5711,1014 5526,976 3903,952 3774,1014 3361,938"/>
+                <Baseline points="3376,1087 3388,1081 3478,1075 3567,1075 3657,1075 3746,1075 3836,1075 3926,1075 4015,1069 4105,1069 4195,1069 4284,1069 4374,1069 4464,1069 4553,1069 4643,1069 4733,1069 4822,1069 4912,1063 5001,1063 5091,1063 5181,1063 5270,1063 5360,1063 5450,1063 5539,1063 5629,1069 5719,1069"/>
+                <TextEquiv>
+                    <Unicode>Dann die zwei Sekundanten. Einer wieder fort.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3343,1251 3788,1301 3997,1234 4536,1292 4952,1231 4770,1110 4272,1166 3967,1102 3733,1163 3343,1093"/>
+                <Baseline points="3358,1237 3436,1231 3525,1237 3615,1231 3705,1231 3794,1231 3884,1225 3974,1225 4063,1231 4153,1225 4242,1225 4332,1225 4422,1219 4511,1219 4601,1219 4691,1219 4780,1225 4870,1225 4960,1231"/>
+                <TextEquiv>
+                    <Unicode>Und dann die Szene wie füüher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_00:31</Creator>
+        <Created>2023-05-10T12:07:14.452+02:00</Created>
+        <LastChange>2023-07-29T00:31:54.966+02:00</LastChange>
+        <TranskribusMetadata docId="1428186" pageId="55398537" pageNr="194" tsid="131387540" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UTXBFOZNEPDAZARYXBQKTEFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FHWVUOKOAAEYRUIMFQEPPFNY" imageId="44673404"/>
+    </Metadata>
+    <Page imageFilename="1428186_0194.jpg" imageWidth="3320" imageHeight="3992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799636885" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="184,576 2840,576 2840,1113 184,1113"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="176,707 338,697 428,650 464,687 677,654 866,687 942,640 1062,634 1065,524 959,521 886,564 600,534 554,567 494,537 388,607 179,561"/>
+                <Baseline points="193,644 223,644 268,641 313,641 358,641 402,638 447,638 492,638 537,638 581,638 626,635 671,635 716,635 760,635 805,632 850,632 895,632 939,629 984,629 1029,626 1074,626"/>
+                <TextEquiv>
+                    <Unicode>denn auf den Tisch?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="173,843 1171,790 1297,829 1373,786 1556,823 1602,813 1606,664 1247,720 591,660 411,730 176,733"/>
+                <Baseline points="190,793 226,793 271,793 316,793 361,793 405,793 450,790 495,793 540,790 584,790 629,790 674,790 719,790 763,787 808,787 853,784 898,784 942,784 987,781 1032,781 1077,781 1121,781 1166,781 1211,781 1256,781 1300,778 1345,778 1390,778 1435,778 1479,775 1524,775 1569,772 1614,778"/>
+                <TextEquiv>
+                    <Unicode>Räumen Sie doch die Uhren fort!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="169,982 2671,945 2840,826 173,866"/>
+                <Baseline points="187,948 199,945 244,948 289,948 334,948 378,948 423,945 468,945 513,945 557,945 602,945 647,945 692,942 736,942 781,939 826,942 871,939 915,939 960,939 1005,936 1050,939 1094,939 1139,942 1184,939 1229,936 1273,933 1318,933 1363,933 1408,930 1452,930 1497,930 1542,927 1587,927 1632,927 1676,924 1721,927 1766,924 1811,924 1855,924 1900,921 1945,921 1990,921 2034,921 2079,918 2124,918 2169,915 2213,915 2258,915 2303,915 2348,918 2392,915 2437,912 2482,909 2527,912 2571,912 2616,909 2661,909 2706,907 2750,907 2795,904 2840,898"/>
+                <TextEquiv>
+                    <Unicode>Kleopatra singt drin, und er wundert sich: wieso hört sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="163,1211 309,1198 554,1105 664,1148 753,1148 753,1025 571,1028 534,992 494,1012 325,992 242,1009 169,982"/>
+                <Baseline points="184,1103 223,1103 268,1103 313,1103 358,1103 402,1103 447,1100 492,1100 537,1100 581,1097 626,1097 671,1094 716,1094 760,1091"/>
+                <TextEquiv>
+                    <Unicode>denn nichts?</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

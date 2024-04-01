@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:30.571+02:00</Created>
+        <LastChange>2024-01-22T19:42:34.299+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125470" pageNr="57" tsid="145636228" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DWNMRQTKDOGOKRUEROHWJVBA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDAFQRTBOIXUFVCFUXHPZRVV" imageId="48550547"/>
+    </Metadata>
+    <Page imageFilename="1589055_0057.jpg" imageWidth="2952" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790646881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="346,418 346,1087 1939,1087 1939,418"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="335,540 1058,493 1777,509 1833,495 1835,420 1471,441 1174,391 902,453 655,420 337,449"/>
+                <Baseline points="346,516 420,515 495,516 569,514 644,509 719,507 793,505 868,502 942,501 1017,499 1092,497 1166,495 1241,493 1315,492 1390,492 1465,486 1539,486 1614,483 1688,483 1763,481 1838,483"/>
+                <TextEquiv>
+                    <Unicode>Tiefsinn hat nie ein Ding erhellt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="378,709 973,673 1108,626 1926,636 1928,569 1850,538 1519,586 1291,540 1099,588 382,578"/>
+                <Baseline points="390,644 467,644 544,641 621,641 698,641 775,635 852,635 929,633 1006,632 1083,626 1160,627 1237,624 1314,621 1391,620 1468,617 1545,614 1622,614 1699,611 1776,608 1853,608 1931,611"/>
+                <TextEquiv>
+                    <Unicode>Klarsinn schaut tiefer in die Welt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1698,1068 1733,1081 1773,1060 1791,1070 1889,1037 1933,1039 1945,954 1916,948 1860,904 1812,892 1802,898 1773,873 1756,885 1723,873"/>
+                <Baseline points="1710,1056 1735,1052 1760,1047 1786,1045 1811,1043 1837,1040 1862,1037 1888,1035 1913,1029 1939,1020"/>
+                <TextEquiv>
+                    <Unicode>sr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2104,843 2104,998 2280,998 2280,843"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2093,995 2105,997 2141,971 2163,977 2178,968 2217,983 2246,962 2274,962 2278,810 2246,808 2228,792 2205,802 2170,794 2126,794 2113,802 2097,794"/>
+                <Baseline points="2104,946 2129,948 2154,948 2179,947 2204,946 2229,946 2254,945 2280,943"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

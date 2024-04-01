@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_14:24</Creator>
+        <Created>2023-09-27T14:32:11.663+02:00</Created>
+        <LastChange>2024-01-22T14:24:14.426+01:00</LastChange>
+        <TranskribusMetadata docId="1589025" pageId="60121550" pageNr="3" tsid="145611998" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NSJUUCEEZBNCUQRCDMWHFRGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GAEHMDTONIIIOTQOAZUKVUGZ" imageId="48546629"/>
+    </Metadata>
+    <Page imageFilename="1589025_0003.jpg" imageWidth="3032" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796525231" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="262,356 803,356 803,422 262,422"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="252,414 571,395 602,423 641,405 727,436 768,410 800,421 800,349 720,349 655,287 569,375 472,371 436,343 386,373 308,298 250,319"/>
+                <Baseline points="262,406 307,406 352,406 397,406 441,406 486,406 531,409 576,412 621,406 665,412 710,412 755,412 800,412 803,412"/>
+                <TextEquiv>
+                    <Unicode>Eler Sh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_05:12</Creator>
+        <Created>2023-05-01T21:56:29.131+02:00</Created>
+        <LastChange>2023-07-25T05:12:24.789+02:00</LastChange>
+        <TranskribusMetadata docId="1416436" pageId="54946172" pageNr="2" tsid="130585529" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EYBIVPRMCAADJZTJYDLJIPQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DLAYMYRSFJIJGJZDAPJQFKBL" imageId="44450257"/>
+    </Metadata>
+    <Page imageFilename="1416436_0002.jpg" imageWidth="2914" imageHeight="3491">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831537360" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="504,209 2670,209 2670,1397 504,1397"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1354,298 1713,280 1830,325 2155,337 2417,281 2668,317 2668,206 2618,195 2248,252 2103,204 1354,208"/>
+                <Baseline points="1363,274 1372,274 1417,271 1462,265 1506,265 1551,268 1596,265 1641,268 1685,268 1730,274 1775,271 1820,277 1864,277 1909,280 1954,277 1999,277 2043,277 2088,280 2133,280 2178,280 2222,280 2267,280 2312,277 2357,280 2401,274 2446,271 2491,268 2536,265 2580,262 2625,262 2670,259"/>
+                <TextEquiv>
+                    <Unicode>..1.,,,, i,., t, l, 1, j, r, a, f, 4, v, 4; r, 4. r, 1 r,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="831,317 904,338 945,325 960,335 1032,307 1094,316 1133,302 1169,307 1171,226 1105,237 1079,224 1048,235 1019,214 979,211 934,178 875,213 832,209"/>
+                <Baseline points="841,274 862,271 907,274 951,274 996,277 1041,277 1086,271 1130,268 1175,268"/>
+                <TextEquiv>
+                    <Unicode>V. W. &amp; J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="497,1382 512,1382 536,1368 569,1382 605,1377 628,1383 665,1362 685,1362 683,1298 634,1308 610,1300 564,1306 546,1293 535,1298 522,1288 494,1298"/>
+                <Baseline points="504,1348 549,1351 593,1351 638,1354 683,1354 689,1357"/>
+                <TextEquiv>
+                    <Unicode>fe Arth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1012,1383 1059,1383 1071,1395 1092,1391 1097,1396 1117,1398 1113,1297 1089,1297 1058,1306 1055,1311 1027,1300 1009,1301"/>
+                <Baseline points="1020,1363 1065,1366 1109,1366 1118,1366"/>
+                <TextEquiv>
+                    <Unicode>ers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1274,1395 1452,1400 1496,1427 1594,1444 1678,1440 1745,1413 1797,1422 1782,1328 1743,1342 1601,1321 1552,1333 1516,1303 1364,1316 1272,1297"/>
+                <Baseline points="1283,1369 1327,1375 1372,1375 1417,1375 1462,1378 1506,1378 1551,1378 1596,1381 1641,1381 1685,1381 1730,1384 1775,1384 1799,1387"/>
+                <TextEquiv>
+                    <Unicode>o von Hofmannsthal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:10:52.359+02:00</Created>
+        <LastChange>2023-08-15T10:00:32.449+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55435626" pageNr="150" tsid="132846324" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YJHTWNWZOPXHSWSWXZENNPBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMRQZUGMNRVRWXYGGXKUAHHC" imageId="44709616"/>
+    </Metadata>
+    <Page imageFilename="1429033_0150.jpg" imageWidth="3832" imageHeight="5608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800215130" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1193,2354 2977,2354 2977,3917 1193,3917"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1359,2566 1754,2510 1798,2557 1912,2499 2068,2535 2274,2450 2831,2412 2878,2325 2693,2305 2577,2376 2383,2350 1923,2416 1847,2320 1665,2459 1569,2345 1379,2383"/>
+                <Baseline points="1372,2571 1443,2553 1533,2535 1622,2529 1712,2529 1801,2523 1891,2505 1980,2499 2070,2481 2159,2469 2249,2463 2338,2452 2428,2440 2517,2428 2607,2422 2696,2404 2786,2404 2875,2404"/>
+                <TextEquiv>
+                    <Unicode>I chere Guepepute tout</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1180,2756 2796,2657 2972,2635 2976,2570 2736,2575 2657,2517 2579,2586 2437,2530 2173,2608 2117,2546 1928,2633 1776,2537 1629,2664 1468,2678 1430,2631 1185,2695"/>
+                <Baseline points="1193,2750 1276,2738 1366,2738 1455,2732 1545,2726 1634,2720 1724,2708 1813,2696 1903,2690 1992,2684 2082,2672 2171,2666 2261,2654 2350,2648 2440,2648 2529,2642 2619,2636 2708,2630 2798,2630 2887,2625 2977,2630"/>
+                <TextEquiv>
+                    <Unicode>undercil der Fräfel  a étre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1359,2923 1457,2994 1548,2914 2298,2854 2401,2889 2439,2867 2443,2805 2318,2805 2276,2758 2213,2811 1745,2847 1613,2740 1437,2869 1363,2858"/>
+                <Baseline points="1372,2923 1461,2917 1551,2911 1640,2905 1730,2899 1819,2887 1909,2881 1998,2875 2088,2869 2177,2863 2267,2857 2356,2851 2446,2857"/>
+                <TextEquiv>
+                    <Unicode>welche monsilue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1272,3704 1339,3751 1441,3688 1522,3737 1569,3695 1859,3702 1910,3657 2144,3688 2403,3646 2555,3686 2794,3650 2798,3554 2039,3568 2006,3530 1934,3572 1276,3592"/>
+                <Baseline points="1282,3728 1366,3716 1455,3716 1545,3698 1634,3692 1724,3692 1813,3686 1903,3686 1992,3680 2082,3680 2171,3675 2261,3669 2350,3669 2440,3663 2529,3657 2619,3651 2708,3651 2798,3657"/>
+                <TextEquiv>
+                    <Unicode>H. Reven S. dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1198,3909 1769,3858 2247,3871 2439,3844 2443,3780 2022,3807 1986,3766 1943,3804 1700,3811 1658,3769 1488,3856 1386,3829 1209,3695"/>
+                <Baseline points="1211,3907 1282,3895 1372,3883 1461,3877 1551,3871 1640,3865 1730,3859 1819,3859 1909,3854 1998,3859 2088,3854 2177,3848 2267,3842 2356,3836 2446,3830"/>
+                <TextEquiv>
+                    <Unicode>Deutscherte</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:02</Creator>
+        <Created>2023-09-27T14:42:40.552+02:00</Created>
+        <LastChange>2024-01-22T19:02:08.227+01:00</LastChange>
+        <TranskribusMetadata docId="1589071" pageId="60126967" pageNr="3" tsid="145634616" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JKNEQMMUHSABXPTYYWWNPKHJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IFTOPSTICQCOIZJMZBQQFWBW" imageId="48552044"/>
+    </Metadata>
+    <Page imageFilename="1589071_0003.jpg" imageWidth="2792" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786990075" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="791,599 791,882 2293,882 2293,599"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="794,632 1276,667 1353,637 1618,700 1788,655 2187,698 2206,641 1793,552 1642,589 1512,554 790,560"/>
+                <Baseline points="803,627 873,626 943,627 1014,628 1084,632 1155,633 1225,634 1296,639 1366,639 1437,642 1507,645 1577,646 1648,648 1718,650 1789,650 1859,655 1930,656 2000,661 2071,660 2141,662 2212,677"/>
+                <TextEquiv>
+                    <Unicode>Dass mir doch endlich Einer erkläre,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="799,692 1602,722 1600,661 1554,654 1473,674 1350,637 1278,667 1241,643 1110,663 1075,637 797,630"/>
+                <Baseline points="809,686 848,689 888,691 928,692 968,692 1008,693 1048,695 1087,695 1127,695 1167,695 1207,697 1247,698 1287,700 1327,702 1366,704 1406,705 1446,707 1486,707 1526,710 1566,712 1606,713"/>
+                <TextEquiv>
+                    <Unicode>Was dieser bedeutet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1641,735 1777,746 1898,720 2082,755 2230,740 2228,687 2178,698 2106,674 1893,685 1694,657 1639,681"/>
+                <Baseline points="1651,713 1680,715 1709,715 1738,713 1767,715 1796,716 1825,716 1854,718 1883,720 1912,721 1942,722 1971,722 2000,724 2029,725 2058,725 2087,727 2116,728 2145,728 2174,730 2203,732 2233,734"/>
+                <TextEquiv>
+                    <Unicode>fromm zu sein.:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="810,760 2289,803 2287,733 1677,751 808,689"/>
+                <Baseline points="821,749 894,755 968,756 1041,755 1115,760 1189,765 1262,770 1336,772 1409,770 1483,770 1557,777 1630,779 1704,780 1777,785 1851,786 1925,785 1998,790 2072,791 2145,794 2219,795 2293,794"/>
+                <TextEquiv>
+                    <Unicode>Oft igt mir, als ob ich es selber wyre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="781,829 996,827 1084,884 1189,865 1259,908 1353,878 1514,904 1685,856 1681,797 1630,784 1456,806 1294,770 779,759"/>
+                <Baseline points="791,821 835,818 880,818 925,821 970,824 1015,824 1059,824 1104,827 1149,830 1194,830 1239,830 1283,833 1328,836 1373,836 1418,836 1463,842 1507,839 1552,845 1597,842 1642,845 1687,842"/>
+                <TextEquiv>
+                    <Unicode>Und keiner müsst, es als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1797,891 1873,902 2073,869 2235,899 2243,818 2167,801 2132,816 2095,797 2047,818 1978,794 1952,812 1885,788 1792,790"/>
+                <Baseline points="1806,851 1832,849 1858,848 1884,850 1910,851 1936,851 1962,854 1988,857 2014,857 2040,857 2066,857 2092,857 2118,857 2144,860 2170,863 2196,865 2222,867 2248,868"/>
+                <TextEquiv>
+                    <Unicode>tt allein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

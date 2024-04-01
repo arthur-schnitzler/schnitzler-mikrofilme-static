@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:33</Creator>
+        <Created>2023-09-27T14:40:07.909+02:00</Created>
+        <LastChange>2024-01-22T20:33:31.673+01:00</LastChange>
+        <TranskribusMetadata docId="1589058" pageId="60126808" pageNr="233" tsid="145640220" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OWSZVLSXJBTIQXBVSYZAHHEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQKVLHFNQIDAVGQGPCHZGTQQ" imageId="48551885"/>
+    </Metadata>
+    <Page imageFilename="1589058_0233.jpg" imageWidth="2856" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789874192" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="573,525 573,1668 2499,1668 2499,525"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="596,650 1235,641 1344,603 1583,600 1717,646 2058,593 2372,612 2369,534 1262,555 987,502 775,543 593,509"/>
+                <Baseline points="609,594 697,591 785,591 874,588 962,591 1051,594 1139,592 1227,592 1316,593 1404,592 1493,597 1581,597 1669,599 1758,600 1846,599 1935,601 2023,599 2111,601 2200,597 2288,600 2377,594"/>
+                <TextEquiv>
+                    <Unicode>...Stössel ist wieder der ersté, der ein Ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="562,762 653,805 905,755 1219,809 1742,732 2308,764 2385,750 2383,632 1919,684 1512,646 1260,680 1103,625 964,684 862,648 559,666"/>
+                <Baseline points="573,719 663,719 754,722 845,719 936,719 1027,719 1118,724 1209,723 1300,724 1391,725 1482,728 1572,728 1663,725 1754,728 1845,730 1936,729 2027,732 2118,731 2209,731 2300,730 2391,737"/>
+                <TextEquiv>
+                    <Unicode>wicht für Wiey in die Wagschale zu legen hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="653,1580 887,1564 939,1523 1605,1530 1587,1439 1346,1453 1221,1407 1048,1457 650,1414"/>
+                <Baseline points="665,1499 712,1499 759,1496 806,1493 853,1496 901,1497 948,1499 995,1499 1042,1499 1089,1500 1137,1500 1184,1501 1231,1502 1278,1502 1325,1502 1373,1502 1420,1502 1467,1502 1514,1502 1561,1502 1609,1505"/>
+                <TextEquiv>
+                    <Unicode>luz Ernst in einem Artike</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2117,1573 2178,1587 2215,1558 2285,1569 2362,1521 2403,1537 2494,1530 2494,1398 2410,1423 2378,1405 2312,1444 2281,1442 2249,1410 2199,1442 2169,1423 2117,1428"/>
+                <Baseline points="2129,1508 2155,1509 2181,1511 2208,1511 2234,1511 2261,1511 2287,1511 2314,1511 2340,1511 2366,1511 2393,1511 2419,1511 2446,1511 2472,1509 2499,1505"/>
+                <TextEquiv>
+                    <Unicode>als Kunst?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="646,1712 796,1696 941,1633 991,1660 1139,1637 1348,1660 1362,1564 1317,1555 1282,1583 1219,1558 1098,1589 1030,1564 643,1576"/>
+                <Baseline points="656,1630 691,1632 727,1631 763,1630 798,1630 834,1630 870,1630 905,1630 941,1631 977,1633 1013,1633 1048,1631 1084,1632 1120,1633 1155,1633 1191,1633 1227,1633 1262,1633 1298,1634 1334,1636 1370,1633"/>
+                <TextEquiv>
+                    <Unicode>G,Berlin,19.8.1810</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

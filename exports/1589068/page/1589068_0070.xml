@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:54.602+02:00</Created>
+        <LastChange>2024-01-22T21:15:17.417+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126834" pageNr="70" tsid="145642236" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JFMGSFLZWGITOEOUXNWSITRP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGCCTDXDXEMUHLEBDBJJEMRL" imageId="48551911"/>
+    </Metadata>
+    <Page imageFilename="1589068_0070.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787581009" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="373,288 373,450 597,450 597,288"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="362,409 442,446 468,472 515,463 528,478 554,468 585,478 598,279 530,266 472,290 461,281 433,288 416,275 368,288"/>
+                <Baseline points="373,400 401,398 429,396 457,394 485,391 513,388 541,388 569,388 597,388"/>
+                <TextEquiv>
+                    <Unicode>kl 1e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="689,490 689,993 2426,993 2426,490"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="684,576 2317,567 2319,439 2215,468 1702,418 1145,483 686,452"/>
+                <Baseline points="695,555 776,561 857,565 938,567 1019,567 1101,566 1182,567 1263,564 1344,561 1425,558 1507,558 1588,559 1669,558 1750,558 1831,558 1913,558 1994,560 2075,559 2156,555 2237,552 2319,552"/>
+                <TextEquiv>
+                    <Unicode>nie schmer, wie undenkber ist es gegen ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="678,712 2364,697 2364,561 981,615 678,589"/>
+                <Baseline points="689,686 773,693 857,695 941,692 1025,692 1109,692 1193,695 1277,695 1361,691 1445,689 1529,688 1613,686 1697,686 1781,686 1865,684 1949,683 2033,683 2117,681 2201,680 2285,677 2370,674"/>
+                <TextEquiv>
+                    <Unicode>Menschen vellig wahr zu sein, den wir schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="684,844 2091,844 2405,827 2423,760 2146,769 1938,710 1645,751 1453,706 686,723"/>
+                <Baseline points="695,818 781,822 868,822 954,821 1041,823 1127,821 1214,821 1300,818 1387,821 1473,818 1560,818 1647,818 1733,816 1820,816 1906,815 1993,815 2079,811 2166,809 2252,806 2339,806 2426,802"/>
+                <TextEquiv>
+                    <Unicode>durch die halbe Wahrheit zu verlieren in Ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="695,996 1260,968 1260,849 1241,842 1113,827 1067,855 695,851"/>
+                <Baseline points="707,952 734,954 762,956 790,958 818,959 846,961 874,959 902,958 930,958 958,960 986,960 1013,959 1041,959 1069,961 1097,959 1125,958 1153,958 1181,958 1209,959 1237,961 1265,961"/>
+                <TextEquiv>
+                    <Unicode>Lehr schneben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:06</Creator>
+        <Created>2023-05-10T15:11:39.398+02:00</Created>
+        <LastChange>2023-08-15T08:06:02.618+02:00</LastChange>
+        <TranskribusMetadata docId="1428822" pageId="55431578" pageNr="16" tsid="132841919" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MOMRPWEYCXPXESZRCKFCXATC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LQZEJMIHAISSYPBMYHBTVGXE" imageId="44705615"/>
+    </Metadata>
+    <Page imageFilename="1428822_0016.jpg" imageWidth="3368" imageHeight="5192">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803184033" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="460,2520 2699,2520 2699,2878 460,2878"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="445,2618 1123,2674 1714,2548 1848,2624 2691,2624 2694,2512 448,2453"/>
+                <Baseline points="460,2598 510,2598 594,2598 679,2593 763,2593 847,2593 931,2593 1015,2593 1100,2593 1184,2593 1268,2587 1352,2587 1436,2587 1521,2587 1605,2587 1689,2587 1773,2587 1857,2587 1942,2587 2026,2581 2110,2581 2194,2581 2278,2581 2363,2581 2447,2576 2531,2576 2615,2570 2699,2570"/>
+                <TextEquiv>
+                    <Unicode>-:- THE VEIL OF BEATRICE :-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1095,2906 1240,2918 1366,2867 1453,2912 1562,2876 1683,2932 1756,2906 1935,2923 1935,2803 1744,2808 1694,2769 1593,2834 1529,2786 1411,2772 1095,2836"/>
+                <Baseline points="1111,2862 1195,2868 1279,2868 1363,2862 1448,2862 1532,2862 1616,2862 1700,2862 1784,2862 1869,2862 1942,2862"/>
+                <TextEquiv>
+                    <Unicode>—:— A C T I —:—</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2144,668 3244,668 3244,1373 2144,1373"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2128,792 2173,820 2517,762 2923,759 3016,739 3024,605 2458,644 2139,568"/>
+                <Baseline points="2144,774 2183,774 2267,774 2351,763 2436,757 2520,757 2604,752 2688,746 2772,746 2857,740 2941,735 3025,718"/>
+                <TextEquiv>
+                    <Unicode>ALICE KAD</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2302,913 2632,893 2867,924 2982,876 3195,882 3240,865 3245,767 2990,798 2850,756 2604,820 2450,773 2307,784"/>
+                <Baseline points="2318,898 2402,903 2486,898 2570,892 2654,892 2739,886 2823,881 2907,875 2991,870 3075,864 3160,858 3244,858"/>
+                <TextEquiv>
+                    <Unicode>1402 BROADWAY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2486,1050 2542,1070 2660,1022 2710,1042 2820,1005 2859,1028 3013,1002 3133,1022 3142,899 3058,916 2993,890 2864,927 2822,902 2654,907 2562,949 2492,932"/>
+                <Baseline points="2503,1015 2553,1015 2638,1010 2722,1004 2806,999 2890,999 2974,993 3059,987 3143,987"/>
+                <TextEquiv>
+                    <Unicode>Kavak york</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2377,1490 2433,1504 2635,1453 2716,1481 2867,1397 3007,1394 3114,1428 3097,1193 2957,1221 2839,1190 2778,1215 2741,1187 2649,1221 2570,1179 2383,1221"/>
+                <Baseline points="2396,1358 2447,1363 2531,1363 2615,1358 2699,1352 2784,1341 2868,1341 2952,1352 3036,1352 3120,1352"/>
+                <TextEquiv>
+                    <Unicode>BET No 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

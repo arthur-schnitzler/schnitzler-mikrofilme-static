@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:52.825+02:00</Created>
+        <LastChange>2024-01-22T21:36:58.589+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127463" pageNr="113" tsid="145643110" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=AIMNTTFKDHWWNEHTGRHIXXXL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOQWVLAOEVOBVJCFRBYCRHWL" imageId="48552540"/>
+    </Metadata>
+    <Page imageFilename="1589070_0113.jpg" imageWidth="2920" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787194919" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="110,717 110,2928 2543,2928 2543,717"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="503,810 1333,833 1696,922 1795,878 1970,911 2216,873 2346,919 2539,894 2534,797 2298,764 1945,810 1521,731 1229,772 1127,721 751,739 495,696"/>
+                <Baseline points="513,782 614,783 716,790 817,794 919,800 1020,806 1122,811 1223,815 1325,822 1426,830 1528,836 1629,838 1731,842 1832,847 1934,852 2035,859 2137,865 2238,870 2340,876 2441,880 2543,877"/>
+                <TextEquiv>
+                    <Unicode>Es ist keine Höflichkeit, einem Lhman den Stock zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="490,916 526,929 561,919 602,947 625,934 652,957 680,934 724,952 754,937 800,952 795,848 757,845 746,858 721,848 696,868 673,856 652,878 579,853 553,871 523,863 490,876"/>
+                <Baseline points="504,913 529,913 554,913 579,915 604,917 629,918 655,919 680,919 705,920 730,922 755,924 780,925 806,925"/>
+                <TextEquiv>
+                    <Unicode>tragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="99,2980 221,2947 447,2970 571,2927 726,2953 838,2930 871,2909 868,2788 741,2749 561,2762 361,2704 201,2732 129,2780 91,2762"/>
+                <Baseline points="110,2872 148,2877 186,2878 225,2878 263,2877 301,2875 340,2875 378,2872 416,2875 455,2875 493,2875 531,2876 570,2879 608,2882 646,2887 685,2890 723,2892 761,2895 800,2896 838,2896 877,2896"/>
+                <TextEquiv>
+                    <Unicode>v. Asch. Wsch. 5/r86</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:47.383+02:00</Created>
+        <LastChange>2024-01-22T21:15:04.058+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126527" pageNr="3" tsid="145642166" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RVOMVJHMEEVOKFFAESGMUDFW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWYUMSNLJKPAKWCHFVBIEJBY" imageId="48551604"/>
+    </Metadata>
+    <Page imageFilename="1589068_0003.jpg" imageWidth="2920" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787481278" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="271,375 271,533 453,533 453,375"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="255,518 288,508 310,518 325,513 367,533 387,523 444,528 451,387 347,354 317,377 263,382"/>
+                <Baseline points="271,483 297,481 323,480 349,478 375,476 401,475 427,475 453,477"/>
+                <TextEquiv>
+                    <Unicode>Mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="603,604 603,1110 2585,1110 2585,604"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="595,662 828,704 1933,689 2000,729 2451,689 2543,731 2541,595 2409,654 2033,578 1874,635 1299,563 954,570 875,620 595,607"/>
+                <Baseline points="609,665 706,672 803,674 900,674 997,677 1094,677 1191,677 1288,677 1385,678 1482,680 1579,683 1676,683 1773,686 1870,683 1967,684 2064,686 2161,686 2258,686 2355,686 2452,686 2549,686"/>
+                <TextEquiv>
+                    <Unicode>An der Tiefe des Frlebnisses gemessen, aus dem mif</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="590,868 1314,892 1809,818 1990,855 2578,830 2578,746 2429,734 2179,773 1894,736 1750,773 590,746"/>
+                <Baseline points="603,806 702,805 801,803 900,806 999,806 1098,806 1197,810 1296,809 1395,809 1494,809 1594,812 1693,812 1792,812 1891,812 1990,812 2089,813 2188,814 2287,815 2386,817 2485,815 2585,806"/>
+                <TextEquiv>
+                    <Unicode>eine Heisheit gewonnen haben, muss diese selbst im-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="597,947 1009,934 1187,1009 1455,939 2459,969 2456,900 2214,860 1993,897 1807,858 595,873"/>
+                <Baseline points="609,925 701,931 794,931 887,932 980,934 1073,935 1166,937 1258,937 1351,938 1444,939 1537,937 1630,940 1723,937 1816,943 1908,940 2001,940 2094,943 2187,943 2280,942 2373,940 2466,937"/>
+                <TextEquiv>
+                    <Unicode>mer platt erscheinen; oder iet es weder ein Er-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="592,1133 979,1165 1041,1125 1467,1158 1515,1125 2166,1177 2209,1138 2300,1155 2300,1009 590,996"/>
+                <Baseline points="606,1059 690,1059 775,1059 860,1061 945,1065 1030,1065 1115,1065 1200,1067 1285,1066 1370,1065 1455,1068 1539,1068 1624,1068 1709,1068 1794,1071 1879,1068 1964,1071 2049,1071 2134,1071 2219,1074 2304,1080"/>
+                <TextEquiv>
+                    <Unicode>lebris gewesen noch eine Neishelt geworden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

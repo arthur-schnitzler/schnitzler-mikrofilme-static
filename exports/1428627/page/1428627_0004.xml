@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_16:14</Creator>
+        <Created>2023-05-10T14:27:09.155+02:00</Created>
+        <LastChange>2023-08-14T16:14:36.503+02:00</LastChange>
+        <TranskribusMetadata docId="1428627" pageId="55419962" pageNr="4" tsid="132814086" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FAIWNQKANQZAYHWCBDWGOGRI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZMETEKXAGUJOWTQSHZKXRBU" imageId="44694064"/>
+    </Metadata>
+    <Page imageFilename="1428627_0004.jpg" imageWidth="3800" imageHeight="4968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711820393594" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="585,887 3379,887 3379,4554 585,4554"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="554,1323 3232,966 3246,817 2518,845 2213,727 1261,901 599,814"/>
+                <Baseline points="585,1188 644,1170 734,1158 824,1152 913,1140 1003,1128 1092,1110 1182,1092 1271,1086 1361,1080 1450,1068 1540,1074 1630,1074 1719,1068 1809,1068 1898,1062 1988,1038 2077,1027 2167,1015 2257,1009 2346,997 2436,991 2525,985 2615,979 2704,973 2794,967 2884,961 2973,949 3063,943 3152,937 3242,943"/>
+                <TextEquiv>
+                    <Unicode>Zabgeehrt: so bekend dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="623,1510 707,1489 793,1566 859,1541 901,1555 1008,1503 1032,1524 1167,1510 1202,1548 1240,1545 1254,1354 1122,1334 1081,1289 959,1250 876,1302 765,1264 710,1292 637,1278"/>
+                <Baseline points="644,1492 716,1492 806,1486 895,1486 985,1480 1074,1468 1164,1468 1253,1445"/>
+                <TextEquiv>
+                    <Unicode>Orbs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="707,1915 2102,1635 2213,1728 2865,1534 3079,1559 3093,1462 2587,1340 2137,1462 1753,1441 1437,1621 1160,1538 980,1638 755,1548"/>
+                <Baseline points="742,1789 764,1791 853,1773 943,1773 1033,1767 1122,1761 1212,1755 1301,1749 1391,1737 1480,1725 1570,1713 1659,1689 1749,1677 1839,1665 1928,1654 2018,1642 2107,1624 2197,1612 2286,1600 2376,1588 2466,1570 2555,1564 2645,1558 2734,1540 2824,1534 2913,1534 3003,1528 3093,1534"/>
+                <TextEquiv>
+                    <Unicode>C. antwerk - def. d ceci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="575,2251 1039,2109 2324,2075 2906,1870 3363,1905 3401,1576 2567,1756 1974,1718 1344,1985 610,1964"/>
+                <Baseline points="609,2149 692,2143 782,2125 871,2107 961,2107 1050,2101 1140,2095 1230,2083 1319,2083 1409,2071 1498,2054 1588,2036 1677,2024 1767,2000 1857,1976 1946,1958 2036,1952 2125,1934 2215,1922 2304,1916 2394,1910 2484,1910 2573,1892 2663,1880 2752,1868 2842,1868 2931,1863 3021,1857 3110,1857 3200,1863 3290,1863 3379,1863"/>
+                <TextEquiv>
+                    <Unicode>gave you I was not patilist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="720,4544 901,4531 949,4572 1136,4496 1334,4486 1479,4555 1638,4482 1884,4503 1905,4181 1524,4136 1237,4208 748,4070"/>
+                <Baseline points="740,4544 824,4526 913,4520 1003,4508 1092,4502 1182,4496 1271,4490 1361,4484 1450,4478 1540,4478 1630,4478 1719,4478 1809,4472 1898,4466"/>
+                <TextEquiv>
+                    <Unicode>Gall qui vermenten</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

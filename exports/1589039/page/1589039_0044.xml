@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:15</Creator>
+        <Created>2023-09-27T14:36:33.099+02:00</Created>
+        <LastChange>2024-01-22T18:15:34.710+01:00</LastChange>
+        <TranskribusMetadata docId="1589039" pageId="60124063" pageNr="44" tsid="145632058" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XWRPLNTFUMSKOXWAWUSRWBUY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULVZTINYZVPBZMMDXRMEFAJQ" imageId="48549141"/>
+    </Metadata>
+    <Page imageFilename="1589039_0044.jpg" imageWidth="3440" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792386174" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1634,4026 2081,4026 2081,4092 1634,4092"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1624,4120 1674,4104 1722,4116 1770,4102 1790,4120 1892,4102 1930,4124 2032,4090 2076,4098 2076,4028 2032,4020 1960,4012 1906,4040 1790,4026 1764,4048 1624,4040"/>
+                <Baseline points="1634,4076 1720,4076 1806,4082 1892,4082 1978,4076 2064,4076 2081,4076"/>
+                <TextEquiv>
+                    <Unicode>anl Stecher.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_13:19</Creator>
+        <Created>2023-05-10T14:20:28.723+02:00</Created>
+        <LastChange>2023-08-14T13:19:46.393+02:00</LastChange>
+        <TranskribusMetadata docId="1428612" pageId="55418698" pageNr="48" tsid="132803124" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QWOGJYSCDDCJPIAZYAXADISE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YYMFQQJDSSADNKPCAWYGOMVW" imageId="44692802"/>
+    </Metadata>
+    <Page imageFilename="1428612_0048.jpg" imageWidth="3144" imageHeight="4184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787176380" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="522,376 2539,376 2539,1120 522,1120"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2284,450 2298,450 2305,443 2317,448 2341,436 2353,443 2360,436 2396,460 2413,462 2413,352 2387,347 2363,364 2348,352 2320,362 2310,357 2284,362"/>
+                <Baseline points="2297,426 2342,426 2387,426 2417,426"/>
+                <TextEquiv>
+                    <Unicode>20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="508,793 604,829 1014,755 1157,808 1435,745 1519,774 1783,731 1821,642 1550,676 1208,642 1016,704 951,657 728,714 520,649"/>
+                <Baseline points="522,796 525,793 570,796 614,793 659,790 704,784 749,781 793,778 838,772 883,769 928,766 972,763 1017,760 1062,755 1107,752 1151,752 1196,746 1241,743 1286,740 1331,737 1375,731 1420,728 1465,725 1510,719 1554,719 1599,716 1644,713 1689,713 1733,710 1778,707 1823,710"/>
+                <TextEquiv>
+                    <Unicode>eten unter meinen Füssen!...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="683,949 2413,829 2530,808 2540,690 1790,803 690,853"/>
+                <Baseline points="695,937 704,937 749,937 793,934 838,931 883,928 928,925 972,925 1017,919 1062,916 1107,913 1151,907 1196,904 1241,898 1286,895 1331,892 1375,889 1420,886 1465,883 1510,877 1554,874 1599,871 1644,868 1689,865 1733,859 1778,856 1823,853 1868,850 1912,844 1957,841 2002,838 2047,832 2092,829 2136,829 2181,823 2226,820 2271,814 2315,811 2360,808 2405,805 2450,802 2494,796 2539,790"/>
+                <TextEquiv>
+                    <Unicode>Abende, Nächte lang starre ich in diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="525,1133 1704,1042 2022,1112 2442,1042 2454,899 1994,944 1891,889 843,1040 542,927"/>
+                <Baseline points="540,1110 575,1107 620,1104 665,1101 710,1098 755,1098 799,1092 844,1089 889,1086 934,1083 978,1080 1023,1074 1068,1071 1113,1065 1157,1062 1202,1059 1247,1056 1292,1053 1336,1047 1381,1044 1426,1041 1471,1035 1516,1032 1560,1026 1605,1023 1650,1020 1695,1020 1739,1014 1784,1008 1829,1005 1874,1002 1918,999 1963,996 2008,993 2053,987 2097,984 2142,981 2187,978 2232,978 2277,975 2321,972 2366,969 2411,966 2456,966"/>
+                <TextEquiv>
+                    <Unicode>kommen, lächelnden, rätselhaften Augen....</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_10:26</Creator>
+        <Created>2023-05-10T13:59:58.655+02:00</Created>
+        <LastChange>2023-07-30T10:26:10.258+02:00</LastChange>
+        <TranskribusMetadata docId="1428600" pageId="55416114" pageNr="98" tsid="131494488" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ROISTTDALNWJLQWYFKKAYIWZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VWZBFQXPAVUWNFMOSDJCWTQI" imageId="44690221"/>
+    </Metadata>
+    <Page imageFilename="1428600_0098.jpg" imageWidth="3480" imageHeight="4184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789574738" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="522,391 2975,391 2975,1167 522,1167"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2810,549 2837,555 2859,577 2887,558 2914,580 2929,580 2948,282 2929,279 2899,291 2853,267 2825,267"/>
+                <Baseline points="2832,447 2855,447 2900,444 2945,441"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="503,883 2067,755 2224,822 2960,721 2969,614 1896,681 1687,617 1380,733 512,758"/>
+                <Baseline points="522,850 558,847 602,847 647,844 692,841 737,841 781,838 826,832 871,829 916,826 960,823 1005,820 1050,814 1095,811 1140,808 1184,808 1229,802 1274,799 1319,796 1363,796 1408,790 1453,787 1498,781 1542,778 1587,775 1632,772 1677,769 1721,766 1766,760 1811,758 1856,755 1901,749 1945,746 1990,743 2035,740 2080,737 2124,737 2169,731 2214,731 2259,728 2303,722 2348,719 2393,716 2438,713 2482,710 2527,707 2572,704 2617,701 2662,698 2706,695 2751,692 2796,686 2841,683 2885,680 2930,674 2975,671"/>
+                <TextEquiv>
+                    <Unicode>Josef ist bekannt mit dem Vice-Bürgermeister, dessen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="558,1083 1371,1037 1632,969 2040,1003 2052,810 571,917"/>
+                <Baseline points="581,1005 617,1002 662,999 707,996 752,993 796,990 841,987 886,984 931,981 975,975 1020,975 1065,969 1110,966 1154,963 1199,960 1244,957 1289,954 1333,951 1378,949 1423,946 1468,943 1513,940 1557,940 1602,934 1647,931 1692,925 1736,922 1781,919 1826,916 1871,910 1915,910 1960,904 2005,904 2050,904"/>
+                <TextEquiv>
+                    <Unicode>Sohn in Kalksburg erzogen wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="521,1202 727,1230 807,1196 1138,1199 1294,1144 1491,1163 1500,1018 1252,1012 1135,1061 908,1077 791,1052 687,1101 629,1067 531,1083"/>
+                <Baseline points="540,1157 564,1157 608,1154 653,1151 698,1151 743,1148 787,1145 832,1140 877,1137 922,1134 966,1131 1011,1128 1056,1125 1101,1122 1145,1119 1190,1116 1235,1110 1280,1107 1325,1104 1369,1101 1414,1101 1459,1098 1504,1095"/>
+                <TextEquiv>
+                    <Unicode>Josef verkehrt oben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

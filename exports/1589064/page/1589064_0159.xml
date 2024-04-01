@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:41:00.362+02:00</Created>
+        <LastChange>2024-01-22T21:25:07.221+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126933" pageNr="159" tsid="145642663" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XBYAELWQUEQNSXHOXCRPTQSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFEPHGWYOPPUFGETYOBXOGKW" imageId="48552010"/>
+    </Metadata>
+    <Page imageFilename="1589064_0159.jpg" imageWidth="2920" imageHeight="3720">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788664811" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="495,518 495,1120 2483,1120 2483,518"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="479,690 603,640 636,673 1025,640 1487,688 1822,596 1807,499 1187,556 1023,521 861,578 484,561"/>
+                <Baseline points="495,638 561,633 628,629 694,627 761,625 828,622 894,620 961,619 1027,618 1094,618 1161,612 1227,612 1294,609 1360,604 1427,600 1493,598 1560,594 1627,592 1693,591 1760,591 1827,588"/>
+                <TextEquiv>
+                    <Unicode>Kritik-und Fälschung.Methoden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="484,829 1130,876 1281,827 1398,866 1683,792 2078,804 2212,765 2475,822 2480,673 2217,717 1993,680 1847,727 1728,688 1442,745 1231,698 1072,767 847,737 685,770 489,695"/>
+                <Baseline points="498,824 597,824 696,824 795,820 895,818 994,813 1093,809 1192,803 1292,800 1391,798 1490,792 1589,788 1689,783 1788,781 1887,776 1986,770 2086,767 2185,764 2284,761 2383,758 2483,743"/>
+                <TextEquiv>
+                    <Unicode>Gesteigerte und dadurch heruntersetzende Aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="494,986 1400,1033 1777,916 2463,916 2468,814 2214,765 2108,822 1946,782 1755,859 1259,834 834,904 496,864"/>
+                <Baseline points="507,955 605,952 703,953 801,949 900,946 998,946 1096,940 1194,937 1293,934 1391,931 1489,931 1587,922 1686,918 1784,913 1882,907 1980,907 2079,897 2177,894 2275,890 2373,886 2472,880"/>
+                <TextEquiv>
+                    <Unicode>drüoko, wie z.B. „8l18,rschwalzig" für senti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="492,1139 660,1122 770,1162 879,1122 946,1157 998,1154 1000,1043 921,1003 864,1028 792,1000 559,1038 494,1018"/>
+                <Baseline points="507,1089 533,1087 559,1086 585,1084 611,1083 637,1083 663,1084 689,1086 715,1084 741,1083 768,1081 794,1080 820,1080 846,1078 872,1076 898,1073 924,1072 950,1073 976,1075 1003,1077"/>
+                <TextEquiv>
+                    <Unicode>mental etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

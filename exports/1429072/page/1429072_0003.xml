@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_19:59</Creator>
+        <Created>2023-05-10T15:29:47.107+02:00</Created>
+        <LastChange>2023-08-14T19:59:33.611+02:00</LastChange>
+        <TranskribusMetadata docId="1429072" pageId="55436156" pageNr="3" tsid="132823936" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JNVMRMJUNZYGWECQIHCJFJJS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGBWLJCFUNCCXFGZTOKFFDJT" imageId="44710145"/>
+    </Metadata>
+    <Page imageFilename="1429072_0003.jpg" imageWidth="4255" imageHeight="5890">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797459703" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1541,3086 2574,3086 2574,3486 1541,3486"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1533,3186 1650,3214 1734,3165 2010,3197 2112,3153 2238,3203 2334,3171 2520,3202 2530,2880 2442,2875 2362,2940 2249,2916 2092,3029 1948,3030 1830,3081 1537,3072"/>
+                <Baseline points="1541,3166 1630,3166 1720,3160 1810,3154 1899,3154 1989,3148 2078,3148 2168,3142 2258,3142 2347,3136 2437,3142 2526,3142"/>
+                <TextEquiv>
+                    <Unicode>LITERATURE,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1786,3341 1812,3331 1873,3348 1905,3330 1952,3358 2038,3330 2099,3363 2178,3326 2248,3366 2250,3235 2214,3233 2186,3209 2131,3214 2076,3183 2031,3205 1980,3186 1962,3197 1883,3169 1840,3194 1788,3190"/>
+                <Baseline points="1792,3315 1804,3309 1893,3309 1983,3309 2072,3303 2162,3303 2252,3303"/>
+                <TextEquiv>
+                    <Unicode>A Comedy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1551,3496 1759,3559 2059,3476 2123,3514 2355,3457 2560,3498 2574,3350 2417,3358 2324,3316 2137,3386 1848,3358 1791,3385 1646,3325 1556,3358"/>
+                <Baseline points="1559,3476 1588,3476 1678,3476 1768,3470 1857,3464 1947,3464 2037,3464 2126,3458 2216,3452 2305,3452 2395,3452 2485,3446 2574,3440"/>
+                <TextEquiv>
+                    <Unicode>By Arthur Schnitzler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

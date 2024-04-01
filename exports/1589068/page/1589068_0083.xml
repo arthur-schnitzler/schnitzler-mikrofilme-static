@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:55.995+02:00</Created>
+        <LastChange>2024-01-22T21:15:20.373+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126903" pageNr="83" tsid="145642249" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ABQUSDAIFRJMLSASQUXHTUJQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IAAJYNRZIZARKPTRPGVPPTSV" imageId="48551980"/>
+    </Metadata>
+    <Page imageFilename="1589068_0083.jpg" imageWidth="2888" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787598370" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="570,661 570,1535 2492,1535 2492,661"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="556,797 2359,751 2361,634 1569,680 1481,630 1405,668 1333,632 1119,711 558,649"/>
+                <Baseline points="570,770 659,767 749,764 839,761 929,761 1019,758 1109,758 1198,755 1288,755 1378,752 1468,752 1558,752 1648,749 1738,749 1827,746 1917,743 2007,743 2097,740 2187,737 2277,734 2367,734"/>
+                <TextEquiv>
+                    <Unicode>was als Pervönlichkeit wirkt, ist das Leuchten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="558,930 937,954 1085,913 1178,949 1393,906 2442,897 2442,840 2249,787 2168,828 1977,799 1565,854 1054,830 806,866 560,830"/>
+                <Baseline points="573,916 666,916 760,917 853,910 947,908 1041,907 1134,907 1228,901 1321,901 1415,901 1509,898 1602,895 1696,891 1789,891 1883,889 1977,886 2070,883 2164,883 2257,881 2351,880 2445,877"/>
+                <TextEquiv>
+                    <Unicode>aller wirklichen Möglichkeiten eines Charaktere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="572,1083 1650,1088 1722,1052 1884,1097 1951,1049 2483,1045 2485,987 2344,954 1913,997 1455,964 832,1026 575,999"/>
+                <Baseline points="585,1068 680,1065 775,1063 871,1062 966,1062 1061,1059 1157,1058 1252,1058 1347,1055 1443,1051 1538,1050 1633,1047 1729,1047 1824,1047 1919,1043 2015,1043 2110,1041 2205,1036 2301,1035 2396,1030 2492,1021"/>
+                <TextEquiv>
+                    <Unicode>hinter seinen wirkchen zufälligen Lebensäusse-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="582,1278 634,1274 673,1250 708,1266 727,1255 761,1274 775,1259 804,1262 832,1235 866,1238 868,1166 797,1171 754,1147 684,1173 651,1150 584,1166"/>
+                <Baseline points="597,1218 624,1216 651,1218 679,1218 706,1220 734,1224 761,1221 788,1218 816,1216 843,1214 871,1212"/>
+                <TextEquiv>
+                    <Unicode>rungen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1348,1510 1500,1507 1643,1548 1646,1431 1603,1421 1524,1441 1486,1431 1414,1455 1350,1414"/>
+                <Baseline points="1361,1498 1387,1495 1413,1493 1439,1491 1466,1489 1492,1490 1518,1492 1544,1490 1571,1489 1597,1489 1623,1491 1650,1495"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

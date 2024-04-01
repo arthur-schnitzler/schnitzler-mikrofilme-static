@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:58.674+02:00</Created>
+        <LastChange>2024-01-22T19:19:35.760+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125135" pageNr="23" tsid="145635131" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EBNMGJABGMZQYKRVPYNNOLEG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMEHOGPZOBJDDNUXIVOKQGJN" imageId="48550212"/>
+    </Metadata>
+    <Page imageFilename="1589051_0023.jpg" imageWidth="2776" imageHeight="3400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790786692" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="552,491 552,977 1916,977 1916,491"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="554,564 1002,606 1212,559 1350,598 1810,561 1810,460 1657,436 1357,482 1229,426 990,508 554,490"/>
+                <Baseline points="564,555 626,555 689,555 751,558 814,558 876,558 939,556 1001,552 1064,558 1126,556 1189,555 1251,557 1314,555 1376,555 1439,556 1501,555 1564,556 1626,556 1689,555 1751,555 1814,555"/>
+                <TextEquiv>
+                    <Unicode>Und immer wieder zweigen sich P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="564,704 1884,709 1884,618 564,626"/>
+                <Baseline points="573,683 638,683 704,683 770,686 836,686 902,686 967,683 1033,683 1099,683 1165,683 1231,683 1296,683 1362,683 1428,683 1494,679 1560,679 1625,680 1691,680 1757,680 1823,682 1889,680"/>
+                <TextEquiv>
+                    <Unicode>Und neue Namen müht Ihr Euch zu f:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="561,837 1911,839 1893,754 561,756"/>
+                <Baseline points="570,817 637,814 704,814 771,810 839,811 906,811 973,814 1041,813 1108,814 1175,814 1243,811 1310,810 1377,808 1444,814 1512,811 1579,812 1646,811 1714,811 1781,811 1848,810 1916,805"/>
+                <TextEquiv>
+                    <Unicode>Wozu-? Am Ende weiss der Kluge nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="542,961 1568,960 1568,908 1453,874 542,894"/>
+                <Baseline points="552,937 602,940 653,943 704,944 755,946 806,944 857,943 908,946 959,946 1010,943 1061,943 1111,943 1162,941 1213,942 1264,943 1315,943 1366,943 1417,943 1468,942 1519,942 1570,946"/>
+                <TextEquiv>
+                    <Unicode>Von Sehenden und Blinden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2122,705 2122,861 2391,861 2391,705"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2113,839 2155,825 2180,835 2270,825 2330,842 2389,830 2391,727 2329,737 2300,758 2214,741 2191,756 2179,749 2148,766 2115,766"/>
+                <Baseline points="2122,811 2148,809 2175,808 2202,808 2229,808 2256,808 2283,808 2310,807 2337,806 2364,805 2391,805"/>
+                <TextEquiv>
+                    <Unicode>zwei'n:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

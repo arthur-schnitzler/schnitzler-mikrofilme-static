@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_23:03</Creator>
+        <Created>2023-05-10T14:57:53.055+02:00</Created>
+        <LastChange>2023-08-14T23:03:08.671+02:00</LastChange>
+        <TranskribusMetadata docId="1428694" pageId="55427570" pageNr="7" tsid="132829474" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MQPFHXHPIQDGBOIAHLKGRACC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IUJEOHVRDIXQRSWDXQRJWQKP" imageId="44701643"/>
+    </Metadata>
+    <Page imageFilename="1428694_0007.jpg" imageWidth="2776" imageHeight="2168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711808690585" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="191,377 1355,377 1355,1010 191,1010"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="183,472 377,486 590,565 866,433 1351,463 1356,284 1228,351 1111,307 923,364 756,266 578,363 406,253 185,368"/>
+                <Baseline points="191,435 235,435 280,441 325,450 370,456 415,459 459,459 504,456 549,453 594,447 639,441 683,438 728,435 773,433 818,433 863,430 907,430 952,427 997,427 1042,430 1086,430 1131,430 1176,430 1221,433 1266,430 1310,427 1355,427"/>
+                <TextEquiv>
+                    <Unicode>Clauffor Seudi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="414,732 575,714 699,744 797,703 963,709 973,542 868,533 687,558 510,666 418,679"/>
+                <Baseline points="424,704 430,701 474,710 519,713 564,710 609,707 653,707 698,701 743,695 788,692 833,689 877,686 922,683 967,689"/>
+                <TextEquiv>
+                    <Unicode>20.5.88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="770,986 850,990 931,960 1031,970 1129,945 1255,971 1267,826 1220,836 1165,818 1095,842 936,746 852,776 789,741"/>
+                <Baseline points="779,976 815,967 860,955 904,961 949,961 994,952 1039,946 1084,946 1128,943 1173,940 1218,931 1263,931"/>
+                <TextEquiv>
+                    <Unicode>Sarap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="239,1005 271,1018 303,999 389,1024 473,999 527,1022 601,987 660,1016 746,996 753,859 632,871 491,807 347,830 249,820"/>
+                <Baseline points="247,1000 256,997 301,994 346,991 391,988 435,982 480,979 525,979 570,979 615,973 659,970 704,970 749,979"/>
+                <TextEquiv>
+                    <Unicode>Ästora</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

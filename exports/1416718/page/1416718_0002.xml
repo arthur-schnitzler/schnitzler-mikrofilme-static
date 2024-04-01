@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_01:38</Creator>
+        <Created>2023-05-02T07:52:31.342+02:00</Created>
+        <LastChange>2023-07-26T01:38:35.115+02:00</LastChange>
+        <TranskribusMetadata docId="1416718" pageId="54951458" pageNr="2" tsid="130868064" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BLGSRCAKLZJCWTYNHGEEKVVC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZKGIBLIZXTYHZNXENESSILAW" imageId="44455184"/>
+    </Metadata>
+    <Page imageFilename="1416718_0002.jpg" imageWidth="5767" imageHeight="4631">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828506330" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1503,1155 4416,1155 4416,1961 1503,1961"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2314,1293 2392,1301 2491,1226 2606,1253 2645,1289 2733,1282 2750,910 2715,922 2649,903 2582,925 2553,901 2397,940 2332,903"/>
+                <Baseline points="2327,1223 2381,1217 2470,1217 2560,1211 2649,1205 2739,1205"/>
+                <TextEquiv>
+                    <Unicode>ETTERS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1491,1729 2049,1664 2353,1754 2856,1760 2873,1510 2604,1459 2286,1471 1927,1587 1683,1537 1501,1578"/>
+                <Baseline points="1503,1706 1527,1718 1617,1712 1706,1700 1796,1688 1885,1676 1975,1665 2064,1653 2154,1653 2243,1647 2333,1641 2422,1641 2512,1635 2601,1629 2691,1629 2780,1617 2870,1617"/>
+                <TextEquiv>
+                    <Unicode>C.C.H. Renck-Notzing, Bar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4131,1958 4172,1966 4222,1951 4263,1968 4294,1958 4340,1973 4412,1960 4417,1830 4378,1809 4360,1816 4330,1804 4294,1818 4275,1802 4251,1825 4210,1835 4186,1821 4157,1842 4135,1843"/>
+                <Baseline points="4141,1951 4147,1951 4237,1945 4326,1945 4416,1939"/>
+                <TextEquiv>
+                    <Unicode>letter</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

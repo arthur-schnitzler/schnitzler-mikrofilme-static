@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:15.098+02:00</Created>
+        <LastChange>2024-01-22T21:46:51.666+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127192" pageNr="101" tsid="145643767" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UZAEFQSLDWTNFKJGROJHANDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OCKYYMNPFFFQEEPCKMPBFXLA" imageId="48552269"/>
+    </Metadata>
+    <Page imageFilename="1589069_0101.jpg" imageWidth="2920" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787379129" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="546,512 546,1040 2408,1040 2408,512"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="532,622 1367,659 1460,622 2362,611 2365,488 2193,456 1964,532 1789,500 1657,548 1252,553 1064,502 912,555 534,546"/>
+                <Baseline points="546,599 637,605 728,604 819,602 910,602 1001,601 1092,599 1184,599 1275,597 1366,593 1457,593 1548,593 1639,590 1730,588 1822,586 1913,585 2004,585 2095,582 2186,582 2277,582 2369,579"/>
+                <TextEquiv>
+                    <Unicode>Ein geschickter Akrobat kann von Tag. zu Tag g</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="546,764 757,824 946,759 1310,803 1483,754 2221,766 2402,724 2404,683 2254,643 2043,671 1944,627 1661,666 1596,636 1428,694 1004,657 884,687 791,641 548,671"/>
+                <Baseline points="558,743 650,743 743,740 835,740 928,737 1020,737 1113,734 1205,734 1298,731 1390,729 1483,728 1575,730 1668,724 1760,722 1853,722 1945,719 2038,714 2130,715 2223,713 2315,710 2408,719"/>
+                <TextEquiv>
+                    <Unicode>schwindere Purzelbäume schlagen und immer mehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="544,944 791,884 1256,942 1617,868 2399,882 2399,777 2064,745 1765,817 1245,796 1050,835 879,791 678,842 546,824"/>
+                <Baseline points="558,874 650,875 742,874 835,874 927,874 1019,871 1112,871 1204,867 1296,868 1389,864 1481,865 1573,865 1666,861 1758,859 1850,859 1943,856 2035,853 2127,851 2220,850 2312,853 2405,862"/>
+                <TextEquiv>
+                    <Unicode>Das hat aber mit Vervollkommnung oder mit Ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="548,1064 842,1099 1000,1041 1044,1078 1460,1090 1462,919 551,944"/>
+                <Baseline points="564,1005 609,1008 654,1008 699,1008 744,1008 790,1008 835,1008 880,1002 925,1005 970,1008 1016,1005 1061,1005 1106,1004 1151,999 1196,1002 1242,1002 1287,1002 1332,1002 1377,999 1422,1000 1468,1005"/>
+                <TextEquiv>
+                    <Unicode>wicklung nichts zu tun.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

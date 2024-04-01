@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_00:21</Creator>
+        <Created>2023-05-10T15:00:50.287+02:00</Created>
+        <LastChange>2023-08-15T00:21:45.151+02:00</LastChange>
+        <TranskribusMetadata docId="1428699" pageId="55428317" pageNr="2" tsid="132832064" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RVWTIJCGPLMKKVOSGBNFZLMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBVTYLCKIMMEGJBDPJEDBGQE" imageId="44702390"/>
+    </Metadata>
+    <Page imageFilename="1428699_0002.jpg" imageWidth="3640" imageHeight="4664">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711807600398" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1561,374 3344,374 3344,1126 1561,1126"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2336,473 2400,514 2556,493 2619,520 2949,447 3038,493 3129,447 3340,443 3350,331 3288,306 3016,388 2682,318 2523,382 2346,318"/>
+                <Baseline points="2343,477 2358,480 2403,483 2448,483 2493,483 2538,483 2582,480 2627,477 2672,477 2717,471 2761,468 2806,462 2851,456 2896,456 2941,450 2985,450 3030,444 3075,441 3120,429 3165,424 3209,426 3254,429 3299,429 3344,429"/>
+                <TextEquiv>
+                    <Unicode>Flucht in die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1552,554 1571,555 1660,625 1684,612 1708,617 1755,665 1817,655 1828,442 1749,406 1716,431 1660,407 1615,444 1557,450"/>
+                <Baseline points="1561,546 1600,546 1645,546 1690,546 1734,543 1779,540 1824,531"/>
+                <TextEquiv>
+                    <Unicode>99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2506,719 2630,728 2696,702 2740,721 2823,696 2937,723 3050,695 3137,721 3211,690 3214,621 3125,592 3023,625 2961,607 2899,622 2776,559 2618,616 2510,586"/>
+                <Baseline points="2514,686 2544,695 2588,695 2633,695 2678,692 2723,692 2767,689 2812,689 2857,689 2902,686 2947,683 2991,683 3036,680 3081,680 3126,683 3171,680 3215,677"/>
+                <TextEquiv>
+                    <Unicode>Küsternis,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2036,975 2289,956 2346,996 2387,960 2452,1005 2541,955 2595,977 2771,919 3074,1002 3096,877 2879,831 2685,891 2308,886 2169,926 2040,885"/>
+                <Baseline points="2045,946 2069,943 2114,952 2158,955 2203,955 2248,955 2293,952 2337,949 2382,946 2427,946 2472,943 2517,940 2561,937 2606,931 2651,925 2696,919 2741,919 2785,916 2830,913 2875,913 2920,913 2965,913 3009,910 3054,907 3099,907"/>
+                <TextEquiv>
+                    <Unicode>Newspaper - sonce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2077,1113 2171,1135 2488,1093 2738,1102 2788,1075 2848,1091 2907,1044 2866,1010 2827,1031 2804,1010 2579,1034 2544,1015 2433,1035 2375,1083 2303,1043 2169,1097 2081,1051"/>
+                <Baseline points="2084,1113 2102,1113 2146,1116 2191,1113 2236,1113 2281,1113 2326,1107 2370,1101 2415,1098 2460,1095 2505,1092 2549,1089 2594,1089 2639,1086 2684,1083 2729,1077 2773,1074 2818,1071 2863,1068 2908,1062"/>
+                <TextEquiv>
+                    <Unicode>Irot sketches</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

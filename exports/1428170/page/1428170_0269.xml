@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:35</Creator>
+        <Created>2023-05-10T11:41:33.243+02:00</Created>
+        <LastChange>2023-07-28T18:35:30.529+02:00</LastChange>
+        <TranskribusMetadata docId="1428170" pageId="55391530" pageNr="269" tsid="131370759" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TDDAXPEMZYDYPUWFDBXPDOIX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MIONRBOPXVUMHDKDOIWODHZR" imageId="44666415"/>
+    </Metadata>
+    <Page imageFilename="1428170_0269.jpg" imageWidth="3419" imageHeight="4296">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803115143" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1328,2496 2024,2496 2024,2643 1328,2643"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1870,2566 1884,2566 1890,2560 1894,2564 1918,2546 1936,2554 1946,2552 1952,2558 1962,2554 1976,2568 1996,2562 2006,2568 2020,2566 2020,2510 2008,2512 1988,2496 1980,2502 1964,2500 1958,2494 1950,2498 1932,2480 1926,2482 1896,2464 1872,2468"/>
+                <Baseline points="1880,2549 1925,2552 1970,2546 2015,2549 2024,2549"/>
+                <TextEquiv>
+                    <Unicode>wch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1318,2654 1344,2642 1358,2654 1374,2648 1398,2664 1430,2632 1448,2642 1462,2632 1496,2646 1496,2490 1458,2492 1448,2482 1436,2486 1428,2480 1414,2488 1398,2474 1376,2478 1354,2468 1318,2476"/>
+                <Baseline points="1328,2630 1373,2633 1418,2630 1462,2633 1498,2630"/>
+                <TextEquiv>
+                    <Unicode>Y</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

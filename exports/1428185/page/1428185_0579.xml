@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:16</Creator>
+        <Created>2023-05-10T12:06:56.157+02:00</Created>
+        <LastChange>2023-07-29T01:16:01.727+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55400570" pageNr="579" tsid="131389587" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FPVSKBEDKPKUGTAABTELBJOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHLNHQWNCLUZWWMQABMMHUDC" imageId="44675393"/>
+    </Metadata>
+    <Page imageFilename="1428185_0579.jpg" imageWidth="3512" imageHeight="4616">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800355915" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="830,415 3003,415 3003,493 830,493"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="815,563 1125,478 1364,533 1750,473 2332,579 2677,476 3000,582 2981,408 815,397"/>
+                <Baseline points="830,465 874,465 919,468 964,465 1009,465 1053,465 1098,465 1143,468 1188,468 1200,471 1209,471 1212,471 1257,468 1301,471 1346,471 1391,471 1436,474 1480,474 1525,474 1570,477 1615,477 1660,477 1704,474 1749,474 1794,474 1839,477 1884,477 1928,474 1973,474 2018,477 2063,477 2107,474 2152,471 2197,474 2242,471 2287,477 2331,474 2376,477 2421,480 2466,477 2511,477 2555,480 2600,480 2645,477 2690,477 2734,480 2779,480 2824,483 2869,480 2914,477 2958,468 3003,468"/>
+                <TextEquiv>
+                    <Unicode>uusuksen ettämme omaarvo</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

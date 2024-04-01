@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:29.629+02:00</Created>
+        <LastChange>2024-01-22T19:42:32.431+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125437" pageNr="47" tsid="145636218" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HFKBDSBAFTWYZIJYBTZUGJBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JWFEGOWLREJKVVXCSXFHNVYQ" imageId="48550514"/>
+    </Metadata>
+    <Page imageFilename="1589055_0047.jpg" imageWidth="2904" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790633664" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="337,611 337,1266 1979,1266 1979,611"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="400,701 1611,717 1735,754 1802,723 1800,658 894,656 756,587 396,585"/>
+                <Baseline points="411,674 480,674 550,674 620,677 690,683 759,683 829,687 899,694 969,690 1038,695 1108,695 1178,698 1248,701 1317,701 1387,701 1457,707 1527,710 1596,710 1666,713 1736,715 1806,719"/>
+                <TextEquiv>
+                    <Unicode>Vom Wirbel grosser Zeit unfasst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="327,833 1481,837 1700,902 1698,790 323,729"/>
+                <Baseline points="337,806 405,803 473,806 542,808 610,809 678,810 747,812 815,815 883,818 952,820 1020,821 1088,823 1157,824 1225,828 1293,830 1362,832 1430,833 1498,838 1567,839 1635,841 1704,853"/>
+                <TextEquiv>
+                    <Unicode>So stürmt ihr weiter ohne Rast,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="341,942 1645,989 1625,914 969,884 865,916 772,865 691,914 552,861 339,861"/>
+                <Baseline points="352,925 416,931 481,931 546,936 611,936 676,941 741,941 806,943 871,946 936,949 1001,950 1065,952 1130,956 1195,956 1260,958 1325,960 1390,961 1455,963 1520,965 1585,972 1650,973"/>
+                <TextEquiv>
+                    <Unicode>Nur ich bin stehn geblieben.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="345,1089 1944,1129 1972,1038 341,999"/>
+                <Baseline points="355,1059 436,1059 517,1061 598,1066 679,1069 761,1071 842,1071 923,1076 1004,1077 1085,1080 1167,1081 1248,1083 1329,1088 1410,1089 1491,1092 1573,1096 1654,1098 1735,1102 1816,1103 1897,1110 1979,1116"/>
+                <TextEquiv>
+                    <Unicode>Und was zuch in den Kram nicht passt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="325,1190 800,1253 1666,1237 1664,1178 1351,1135 1190,1176 514,1127 439,1158 323,1119"/>
+                <Baseline points="337,1188 403,1188 470,1191 537,1191 603,1197 670,1198 737,1200 803,1201 870,1206 937,1206 1004,1209 1070,1210 1137,1217 1204,1215 1270,1218 1337,1216 1404,1218 1470,1221 1537,1221 1604,1226 1671,1235"/>
+                <TextEquiv>
+                    <Unicode>Das hab ich nicht geschrieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

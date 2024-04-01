@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_05:06</Creator>
+        <Created>2023-05-02T07:47:24.307+02:00</Created>
+        <LastChange>2023-07-26T05:06:17.128+02:00</LastChange>
+        <TranskribusMetadata docId="1416711" pageId="54951467" pageNr="179" tsid="130895991" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UTRARFRFWYJFMYCRSNWDVJPY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UTOUCNMNKUBUVDQUMCQJOIWS" imageId="44455193"/>
+    </Metadata>
+    <Page imageFilename="1416711_0179.jpg" imageWidth="3462" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828835532" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="358,1245 1402,1245 1402,1696 358,1696"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="351,1339 1386,1344 1373,1251 740,1304 354,1241"/>
+                <Baseline points="358,1325 361,1325 405,1325 450,1325 495,1325 540,1322 584,1322 629,1322 674,1325 719,1325 764,1322 808,1322 853,1319 898,1319 943,1316 987,1316 1032,1313 1077,1310 1122,1307 1167,1307 1211,1301 1256,1298 1301,1295 1346,1295 1390,1295"/>
+                <TextEquiv>
+                    <Unicode>treffen kann, war es mir schl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="449,1484 781,1451 937,1484 1282,1417 1387,1454 1401,1393 998,1378 885,1415 538,1436 453,1411"/>
+                <Baseline points="456,1474 462,1471 507,1468 552,1468 596,1465 641,1462 686,1459 731,1453 776,1450 820,1447 865,1447 910,1444 955,1441 999,1438 1044,1438 1089,1435 1134,1426 1178,1423 1223,1417 1268,1414 1313,1414 1358,1414 1402,1423"/>
+                <TextEquiv>
+                    <Unicode>Urschmals abängten Dank.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="798,1599 829,1592 901,1626 1058,1593 1112,1610 1165,1586 1271,1602 1271,1495 1135,1516 996,1503 877,1517 852,1504 798,1522"/>
+                <Baseline points="805,1566 850,1569 895,1572 940,1572 984,1572 1029,1569 1074,1569 1119,1566 1164,1569 1208,1572 1253,1569 1274,1569"/>
+                <TextEquiv>
+                    <Unicode>verzeichnet sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1201,1747 1240,1733 1267,1748 1284,1734 1294,1744 1333,1743 1358,1760 1373,1751 1393,1757 1379,1595 1347,1601 1296,1571 1238,1615 1191,1618"/>
+                <Baseline points="1202,1671 1247,1674 1292,1680 1337,1683 1381,1686 1390,1683"/>
+                <TextEquiv>
+                    <Unicode>Sulte</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

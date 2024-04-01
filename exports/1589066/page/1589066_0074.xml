@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:05</Creator>
+        <Created>2023-09-27T14:41:08.805+02:00</Created>
+        <LastChange>2024-01-22T21:05:40.683+01:00</LastChange>
+        <TranskribusMetadata docId="1589066" pageId="60126484" pageNr="74" tsid="145641877" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WYRUKDOQAIZMDBHFUAXFHNKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIPAPZNMAZXGDFUEFUZQGUXC" imageId="48551561"/>
+    </Metadata>
+    <Page imageFilename="1589066_0074.jpg" imageWidth="3096" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788151471" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1265,618 1265,1401 2802,1401 2802,618"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1831,699 1982,701 2009,719 2145,701 2180,716 2197,699 2280,714 2282,624 2166,642 2118,609 1972,604 1952,587 1901,611 1833,605"/>
+                <Baseline points="1841,683 1867,683 1893,683 1919,683 1945,682 1971,680 1997,680 2023,680 2049,680 2075,680 2101,680 2127,678 2153,678 2179,681 2205,683 2231,683 2257,682 2283,680"/>
+                <TextEquiv>
+                    <Unicode>widerlegen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1840,824 2740,813 2740,753 2558,716 2352,743 2237,712 2046,734 1998,771 1840,756"/>
+                <Baseline points="1850,805 1894,808 1939,808 1983,808 2028,805 2073,802 2117,805 2162,805 2206,805 2251,805 2296,805 2340,799 2385,802 2429,805 2474,802 2519,799 2563,799 2608,799 2652,799 2697,799 2742,793"/>
+                <TextEquiv>
+                    <Unicode>e Art der objektiv ano-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1719,957 1961,977 2031,949 2156,990 2699,964 2712,874 2153,857 1720,894"/>
+                <Baseline points="1728,946 1777,946 1826,943 1876,942 1925,940 1975,940 2024,938 2073,937 2123,937 2172,940 2222,937 2271,937 2320,937 2370,935 2419,936 2469,934 2518,934 2567,934 2617,932 2666,931 2716,931"/>
+                <TextEquiv>
+                    <Unicode>erflächlichkeit, Feigheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1321,1242 2751,1216 2797,1203 2799,1141 2530,1073 2315,1139 1647,1163 1540,1117 1323,1163"/>
+                <Baseline points="1331,1226 1404,1224 1478,1223 1551,1220 1625,1217 1698,1220 1772,1217 1845,1215 1919,1213 1992,1211 2066,1205 2140,1204 2213,1202 2287,1201 2360,1199 2434,1196 2507,1196 2581,1193 2654,1193 2728,1189 2802,1181"/>
+                <TextEquiv>
+                    <Unicode>ispiel: H.G., Feuilleten in der Neuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1255,1398 2188,1360 2191,1235 1746,1271 1575,1244 1257,1303"/>
+                <Baseline points="1265,1369 1311,1368 1357,1366 1404,1365 1450,1363 1497,1361 1543,1360 1589,1358 1636,1356 1682,1355 1729,1355 1775,1355 1821,1351 1868,1349 1914,1349 1961,1344 2007,1343 2053,1343 2100,1343 2146,1340 2193,1340"/>
+                <TextEquiv>
+                    <Unicode>en Presse 19. April 1901.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

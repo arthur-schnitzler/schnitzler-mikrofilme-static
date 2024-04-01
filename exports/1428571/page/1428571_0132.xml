@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_00:25</Creator>
+        <Created>2023-05-10T13:15:18.979+02:00</Created>
+        <LastChange>2023-07-30T00:25:33.016+02:00</LastChange>
+        <TranskribusMetadata docId="1428571" pageId="55410710" pageNr="132" tsid="131471786" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WFGHHMGCGEYOGROFJHTPPIII&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TZQSSURGWQBZBBHICGAISRQJ" imageId="44684853"/>
+    </Metadata>
+    <Page imageFilename="1428571_0132.jpg" imageWidth="6856" imageHeight="4568">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792859656" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4382,594 6353,594 6353,1461 4382,1461"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6056,693 6091,698 6130,666 6147,684 6179,664 6189,671 6201,664 6230,674 6255,671 6262,578 6243,581 6235,573 6211,588 6186,583 6164,590 6154,583 6135,590 6130,581 6113,578 6086,588 6066,578"/>
+                <Baseline points="6072,662 6084,656 6174,656 6263,644"/>
+                <TextEquiv>
+                    <Unicode>115</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4378,936 5054,853 6262,870 6346,850 6350,693 5174,806 4386,774"/>
+                <Baseline points="4394,871 4472,871 4562,865 4651,865 4741,859 4830,859 4920,853 5009,847 5099,847 5189,841 5278,841 5368,835 5457,835 5547,830 5636,830 5726,824 5815,818 5905,818 5995,818 6084,812 6174,806 6263,800 6353,800"/>
+                <TextEquiv>
+                    <Unicode>Ambros: Ich bin noch zu einer Hochzeit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4368,1051 5111,1063 5228,1002 5544,1039 5833,980 5998,1029 6179,973 6184,853 4785,970 4682,919 4373,941"/>
+                <Baseline points="4382,1027 4394,1027 4484,1021 4573,1021 4663,1015 4753,1009 4842,1009 4932,1003 5021,1003 5111,997 5200,991 5290,985 5380,985 5469,985 5559,979 5648,979 5738,979 5827,973 5917,967 6007,961 6096,961 6186,955"/>
+                <TextEquiv>
+                    <Unicode>geladen. Elisabeth Fenz. Wo ist Max?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4381,1245 4809,1181 5211,1230 5672,1147 6294,1205 6299,1027 5640,1071 5449,1009 4959,1100 4388,1090"/>
+                <Baseline points="4400,1170 4418,1170 4508,1170 4597,1170 4687,1164 4776,1164 4866,1158 4956,1152 5045,1152 5135,1146 5224,1140 5314,1140 5403,1140 5493,1134 5583,1128 5672,1128 5762,1122 5851,1122 5941,1116 6030,1116 6120,1110 6210,1110 6299,1104"/>
+                <TextEquiv>
+                    <Unicode>Judith: Entweder bei Aurelie oder bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4393,1343 4439,1370 4488,1352 4528,1370 4608,1367 4635,1387 4741,1345 4787,1357 4829,1330 4890,1350 4917,1340 4920,1247 4667,1240 4606,1279 4518,1254 4491,1274 4395,1262"/>
+                <Baseline points="4406,1325 4478,1325 4568,1319 4657,1319 4747,1313 4836,1313 4926,1301"/>
+                <TextEquiv>
+                    <Unicode>Seraphine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="4621,1480 4795,1517 4947,1477 5005,1512 5074,1502 5138,1539 5182,1529 5206,1330 5123,1333 5089,1357 4961,1352 4920,1384 4851,1360 4807,1387 4763,1350 4635,1374"/>
+                <Baseline points="4639,1451 4669,1445 4759,1439 4848,1427 4938,1415 5027,1403 5117,1391 5206,1385"/>
+                <TextEquiv>
+                    <Unicode>frieuse gesellschaft</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

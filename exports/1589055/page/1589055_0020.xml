@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:26.808+02:00</Created>
+        <LastChange>2024-01-22T19:42:26.579+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125375" pageNr="20" tsid="145636180" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VCQCQRJUZPINDYZKUSZFZLVI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EMXTENVIJBIXBMSESLXPGCMB" imageId="48550452"/>
+    </Metadata>
+    <Page imageFilename="1589055_0020.jpg" imageWidth="2936" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790597258" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="519,554 519,1037 2457,1037 2457,554"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="553,633 1345,620 1503,654 1694,613 1740,650 2436,650 2436,565 1937,567 1857,521 1372,577 1190,533 1115,572 553,538"/>
+                <Baseline points="567,615 660,615 754,615 848,616 942,619 1035,618 1129,618 1223,619 1317,620 1410,621 1504,624 1598,621 1692,624 1785,622 1879,623 1973,622 2067,624 2160,629 2254,629 2348,626 2442,630"/>
+                <TextEquiv>
+                    <Unicode>Nicht bis ins Tiefste, dass dich nicht graut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="540,763 2300,778 2298,708 2104,669 1956,715 1568,662 1386,715 1197,674 654,683 538,618"/>
+                <Baseline points="555,740 642,740 730,743 817,743 905,746 992,746 1080,746 1167,747 1255,748 1342,748 1430,750 1517,750 1605,752 1692,749 1780,750 1867,754 1955,756 2042,754 2130,752 2217,755 2305,758"/>
+                <TextEquiv>
+                    <Unicode>Darfst du in Herzen und Himbeern gucken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="509,902 928,875 1214,914 1389,885 1442,933 1646,914 1629,795 1183,851 1047,795 509,810"/>
+                <Baseline points="522,880 578,871 634,871 691,871 747,869 804,871 860,871 917,873 973,871 1030,874 1086,875 1142,877 1199,874 1255,877 1312,877 1368,877 1425,874 1481,874 1538,875 1594,877 1651,877"/>
+                <TextEquiv>
+                    <Unicode>Im süssen Safte ungeschaut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="507,1020 674,1047 802,1013 967,1076 1306,1008 1418,1064 1612,1011 1774,1074 2184,1011 2341,1069 2450,1057 2450,948 2322,899 2114,962 1903,921 1682,962 1491,919 906,948 507,914"/>
+                <Baseline points="519,1000 615,997 712,999 809,1003 906,1002 1003,1003 1100,1003 1197,1000 1294,1007 1391,1003 1488,1003 1584,1003 1681,1003 1778,1003 1875,1006 1972,1006 2069,1006 2166,1006 2263,1000 2360,1006 2457,1003"/>
+                <TextEquiv>
+                    <Unicode>Sollst Falschheit und Würmer hinunterschluck</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

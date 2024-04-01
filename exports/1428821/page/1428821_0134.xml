@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:57.510+02:00</Created>
+        <LastChange>2023-08-15T04:28:29.145+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55432059" pageNr="134" tsid="132838865" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JAHHMDZIQRBCQUWPGEQQECVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PLOOWNKYDZXFZJNNCDVWPXNN" imageId="44706096"/>
+    </Metadata>
+    <Page imageFilename="1428821_0134.jpg" imageWidth="4024" imageHeight="5368">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803947755" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="340,505 3624,505 3624,1162 340,1162"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1242,621 1361,662 1498,612 1595,649 2241,599 2247,412 1945,487 1392,481 1352,515 1245,484"/>
+                <Baseline points="1259,591 1265,585 1355,579 1445,579 1534,579 1624,579 1713,567 1803,567 1892,561 1982,561 2071,561 2161,555 2251,561"/>
+                <TextEquiv>
+                    <Unicode>GRIECHISCHE TÄNZERIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1111,1111 3284,1130 3614,1055 3621,874 1117,930"/>
+                <Baseline points="1128,1056 1206,1068 1295,1062 1385,1050 1474,1044 1564,1044 1653,1038 1743,1038 1833,1038 1922,1032 2012,1032 2101,1021 2191,1015 2280,1015 2370,1009 2460,1003 2549,1003 2639,1003 2728,1003 2818,1003 2907,997 2997,991 3087,991 3176,985 3266,979 3355,973 3445,973 3534,967 3624,979"/>
+                <TextEquiv>
+                    <Unicode>2, January 10, 1905: Hermann Ubell: "Wiener Novellen"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="453,1099 515,1127 556,1108 618,1108 640,1092 718,1086 755,1099 755,927 531,968 453,943"/>
+                <Baseline points="471,1068 561,1068 650,1080 740,1068 764,1068"/>
+                <TextEquiv>
+                    <Unicode>teraris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="312,1289 556,1208 783,1236 908,1170 1064,1192 1077,971 939,949 840,974 690,1092 515,1127 371,996 331,993"/>
+                <Baseline points="340,1146 358,1146 447,1152 537,1152 626,1152 716,1152 806,1140 895,1128 985,1116 1074,1116"/>
+                <TextEquiv>
+                    <Unicode>VIII, pp. 11-16</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

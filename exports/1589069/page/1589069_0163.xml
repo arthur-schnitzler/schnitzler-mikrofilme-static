@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:47</Creator>
+        <Created>2023-09-27T14:42:21.024+02:00</Created>
+        <LastChange>2024-01-22T21:47:02.373+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127417" pageNr="163" tsid="145643830" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NMYTKCLAQWPOBOCPXCXSJRAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQOEJWNASQMWGFZKDUWVFKGJ" imageId="48552494"/>
+    </Metadata>
+    <Page imageFilename="1589069_0163.jpg" imageWidth="2808" imageHeight="3384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787468138" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="546,399 546,1060 2482,1060 2482,399"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="533,508 1119,538 1230,494 2099,511 2366,470 2366,424 2237,387 1608,429 1414,375 1223,414 697,387 535,441"/>
+                <Baseline points="546,492 637,490 728,492 819,491 911,489 1002,485 1093,484 1185,486 1276,486 1367,483 1459,478 1550,477 1641,477 1732,477 1824,469 1915,468 2006,469 2098,468 2189,463 2280,462 2372,468"/>
+                <TextEquiv>
+                    <Unicode>Je mehr der Determinist überzeugt ist von der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="533,644 2433,620 2436,477 2247,516 1455,492 1370,535 1242,499 1143,545 651,513 535,552"/>
+                <Baseline points="546,632 640,629 735,629 829,623 924,623 1019,620 1113,618 1208,617 1302,617 1397,617 1492,614 1586,611 1681,611 1775,608 1870,607 1965,602 2059,602 2154,600 2248,599 2343,599 2438,599"/>
+                <TextEquiv>
+                    <Unicode>Mleinherrschaft der Kausalität, unso mehr müsste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="535,780 1252,768 1525,806 1896,746 2123,784 2375,755 2375,651 2237,627 1395,622 1329,659 1143,634 1007,692 538,690"/>
+                <Baseline points="552,766 643,762 734,760 825,758 917,757 1008,757 1099,757 1191,754 1282,753 1373,752 1465,749 1556,751 1647,747 1738,745 1830,744 1921,741 2012,739 2104,737 2195,734 2286,734 2378,731"/>
+                <TextEquiv>
+                    <Unicode>er auch denjenigen verstehen, der an den freien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="540,910 1496,935 1649,879 2148,918 2349,869 2477,903 2477,811 2244,765 1525,806 1252,768 830,809 542,782"/>
+                <Baseline points="555,889 651,895 747,895 844,894 940,893 1036,891 1133,889 1229,886 1325,887 1422,886 1518,882 1614,880 1711,877 1807,877 1903,871 2000,874 2096,873 2192,868 2289,868 2385,865 2482,862"/>
+                <TextEquiv>
+                    <Unicode>Willen glaubt, da ny ja auch dieser Glaube für den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="530,1041 2479,1036 2479,910 2402,896 1966,932 1864,886 1673,893 1496,935 1317,898 1218,937 533,952"/>
+                <Baseline points="546,1029 642,1029 739,1029 836,1029 933,1025 1030,1025 1126,1023 1223,1023 1320,1017 1417,1019 1514,1017 1610,1015 1707,1016 1804,1011 1901,1008 1998,1007 2094,1008 2191,1005 2288,1005 2385,1005 2482,1005"/>
+                <TextEquiv>
+                    <Unicode>Determinieten eine Notwendigkeit bedeuten müsste.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

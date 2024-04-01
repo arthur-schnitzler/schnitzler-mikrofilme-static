@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:15</Creator>
+        <Created>2023-09-27T14:36:34.329+02:00</Created>
+        <LastChange>2024-01-22T18:15:37.166+01:00</LastChange>
+        <TranskribusMetadata docId="1589039" pageId="60124121" pageNr="56" tsid="145632070" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JAASBMTYXZMBHAXAICNKORKQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NACTFWCLBLFIMNBFISGZJWEI" imageId="48549199"/>
+    </Metadata>
+    <Page imageFilename="1589039_0056.jpg" imageWidth="3540" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792416325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1888,3711 1888,4274 2377,4274 2377,3711"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2002,3826 2064,3814 2140,3838 2210,3816 2266,3842 2292,3830 2372,3842 2372,3730 2284,3766 2228,3762 2188,3732 2138,3770 2108,3758 2002,3778"/>
+                <Baseline points="2012,3811 2038,3813 2064,3815 2090,3816 2116,3816 2142,3814 2168,3812 2194,3811 2220,3811 2246,3811 2272,3811 2298,3811 2324,3811 2350,3811 2377,3811"/>
+                <TextEquiv>
+                    <Unicode>an scton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1876,4244 1934,4234 1948,4248 1974,4250 2070,4224 2118,4230 2122,4126 2060,4130 2016,4156 1956,4160 1922,4176 1908,4166 1882,4168"/>
+                <Baseline points="1888,4224 1914,4221 1940,4219 1966,4217 1992,4215 2019,4214 2045,4212 2071,4211 2097,4209 2124,4207"/>
+                <TextEquiv>
+                    <Unicode>sich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

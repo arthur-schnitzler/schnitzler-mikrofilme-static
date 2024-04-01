@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_04:50</Creator>
+        <Created>2023-05-02T07:56:57.770+02:00</Created>
+        <LastChange>2023-07-26T04:50:57.237+02:00</LastChange>
+        <TranskribusMetadata docId="1416738" pageId="54952399" pageNr="49" tsid="130893175" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PAXFBVYASWGMCVACKLIKYBFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNYMCHFUATKEPVEYBZQWIEPI" imageId="44456125"/>
+    </Metadata>
+    <Page imageFilename="1416738_0049.jpg" imageWidth="4500" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828138895" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="757,1286 3031,1286 3031,2761 757,2761"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="962,1409 2945,1381 2967,1294 2812,1244 2258,1321 2165,1269 967,1319"/>
+                <Baseline points="975,1411 1002,1411 1047,1411 1092,1411 1136,1411 1181,1408 1226,1405 1271,1405 1316,1405 1360,1402 1405,1402 1450,1399 1495,1399 1539,1396 1584,1393 1629,1393 1674,1390 1718,1387 1763,1384 1808,1381 1853,1381 1897,1378 1942,1375 1987,1375 2032,1372 2076,1372 2121,1369 2166,1372 2211,1369 2256,1369 2300,1366 2345,1366 2390,1366 2435,1363 2479,1360 2524,1360 2569,1357 2614,1357 2658,1354 2703,1354 2748,1351 2793,1348 2837,1345 2882,1342 2927,1339 2972,1336"/>
+                <TextEquiv>
+                    <Unicode>Sie auch sehen zu dürfen. In Verehrung getreu Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2235,1611 2355,1631 2438,1608 2547,1643 2682,1611 2792,1631 3024,1608 3024,1506 2917,1526 2722,1466 2632,1518 2595,1491 2540,1501 2405,1424 2235,1456"/>
+                <Baseline points="2250,1605 2270,1605 2315,1608 2360,1605 2405,1605 2449,1605 2494,1605 2539,1608 2584,1608 2629,1611 2673,1608 2718,1611 2763,1608 2808,1605 2852,1602 2897,1602 2942,1602 2987,1599 3031,1602"/>
+                <TextEquiv>
+                    <Unicode>Sectan Ewen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="744,2757 769,2750 809,2770 849,2755 882,2770 897,2760 917,2775 972,2775 967,2677 942,2670 909,2700 899,2690 877,2695 852,2677 822,2690 739,2662"/>
+                <Baseline points="757,2736 802,2736 847,2739 892,2742 937,2745 975,2745"/>
+                <TextEquiv>
+                    <Unicode>auch, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2463,2765 2498,2770 2515,2760 2552,2767 2562,2760 2572,2767 2585,2752 2625,2760 2620,2687 2592,2690 2577,2680 2565,2687 2557,2682 2542,2695 2512,2680 2498,2687 2458,2685"/>
+                <Baseline points="2473,2739 2518,2742 2563,2742 2608,2745 2629,2745"/>
+                <TextEquiv>
+                    <Unicode>le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1224,2767 1766,2760 1856,2807 1996,2752 2100,2777 2175,2747 2270,2785 2300,2777 2300,2682 1558,2682 1506,2725 1224,2695"/>
+                <Baseline points="1238,2745 1283,2742 1327,2742 1372,2745 1417,2745 1462,2745 1506,2745 1527,2745 1557,2745 1602,2742 1647,2745 1692,2742 1736,2745 1781,2745 1826,2745 1871,2745 1915,2748 1960,2745 2005,2748 2050,2745 2094,2745 2139,2748 2184,2748 2229,2748 2273,2751 2306,2751"/>
+                <TextEquiv>
+                    <Unicode>.3.3 1/4.m rue ruecht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

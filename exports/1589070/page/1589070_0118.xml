@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:53.320+02:00</Created>
+        <LastChange>2024-01-22T21:36:59.351+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127476" pageNr="118" tsid="145643115" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OIWPHEFKENZOYGLAGEZLJQBQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGTAJVNHMYSEBMDXBVHEKCCC" imageId="48552553"/>
+    </Metadata>
+    <Page imageFilename="1589070_0118.jpg" imageWidth="2888" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787201352" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="522,389 522,982 2594,982 2594,389"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="508,485 796,505 922,464 1236,516 1441,466 1692,510 1783,464 2591,466 2558,365 2358,350 2187,402 1933,337 1620,407 1508,334 1386,407 1215,363 1026,409 508,391"/>
+                <Baseline points="522,471 625,462 729,464 832,462 936,465 1040,462 1143,462 1247,462 1350,459 1454,459 1558,459 1661,459 1765,460 1868,460 1972,462 2076,458 2179,457 2283,459 2386,459 2490,457 2594,450"/>
+                <TextEquiv>
+                    <Unicode>Es ist keine Höflichkeit einem Lahmen den Stock</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="516,689 656,700 840,619 935,640 1086,609 1153,635 1259,617 1259,508 1130,492 959,536 834,485 661,542 516,487"/>
+                <Baseline points="531,594 567,594 604,596 641,597 677,596 714,594 751,594 787,594 824,594 861,594 898,594 934,594 971,592 1008,593 1044,594 1081,594 1118,594 1154,591 1191,591 1228,593 1265,594"/>
+                <TextEquiv>
+                    <Unicode>tragen zu wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2021,876 2135,912 2244,863 2267,881 2366,860 2425,871 2454,863 2457,767 2376,749 2285,770 2247,749 2216,767 2135,749 2102,775 2052,751 2024,759"/>
+                <Baseline points="2036,853 2062,856 2089,856 2115,855 2142,853 2168,854 2195,856 2221,856 2248,855 2274,853 2301,853 2327,853 2354,853 2380,852 2407,848 2433,848 2460,850"/>
+                <TextEquiv>
+                    <Unicode>Ahahred.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2195,995 2228,1003 2278,979 2317,1000 2366,974 2384,990 2469,969 2472,865 2415,884 2366,863 2337,891 2288,889 2247,865 2223,876 2197,868"/>
+                <Baseline points="2209,949 2235,951 2262,951 2289,950 2316,950 2343,952 2369,952 2396,951 2423,947 2450,946 2477,946"/>
+                <TextEquiv>
+                    <Unicode>511286</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

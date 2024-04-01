@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:03</Creator>
+        <Created>2023-05-10T11:39:23.346+02:00</Created>
+        <LastChange>2023-07-28T17:03:24.647+02:00</LastChange>
+        <TranskribusMetadata docId="1428168" pageId="55390285" pageNr="148" tsid="131365877" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FAGCODXLDTRKQINOSTAGVGCD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IJUISPXGWGETYZWPZBKIPZBT" imageId="44665171"/>
+    </Metadata>
+    <Page imageFilename="1428168_0148.jpg" imageWidth="4488" imageHeight="5736">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818404715" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="823,648 3754,648 3754,1311 823,1311"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1891,737 1964,755 2060,722 2140,740 2232,726 2261,748 2485,722 2492,612 2353,645 2254,594 2217,605 2162,579 1895,667"/>
+                <Baseline points="1910,728 1957,722 2047,722 2136,716 2226,710 2315,704 2405,704 2494,698"/>
+                <TextEquiv>
+                    <Unicode>zu Seite 39.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="803,993 3181,854 3738,916 3749,726 1668,700 1220,861 810,821"/>
+                <Baseline points="823,943 889,943 978,937 1068,937 1157,937 1247,931 1337,925 1426,919 1516,913 1605,907 1695,907 1784,901 1874,901 1963,901 2053,895 2142,889 2232,889 2321,877 2411,877 2500,877 2590,871 2679,871 2769,865 2859,859 2948,853 3038,853 3127,847 3217,847 3306,841 3396,841 3485,835 3575,829 3664,829 3754,817"/>
+                <TextEquiv>
+                    <Unicode>1) Diese ganze erste Szene hat gar nichts zu bedeuten, die Hand-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="799,1176 3027,1045 3438,1140 3680,1074 3687,916 1631,931 806,1063"/>
+                <Baseline points="823,1122 913,1122 1002,1116 1092,1116 1181,1110 1271,1104 1360,1104 1450,1098 1539,1092 1629,1086 1719,1086 1808,1080 1898,1080 1987,1074 2077,1068 2166,1068 2256,1068 2345,1062 2435,1056 2524,1050 2614,1044 2703,1038 2793,1044 2882,1038 2972,1032 3061,1032 3151,1026 3241,1026 3330,1020 3420,1014 3509,1008 3599,1002 3688,990"/>
+                <TextEquiv>
+                    <Unicode>lung ist seit dem ersten Akt nicht fortgeschritten,man könnte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="803,1312 3548,1257 3551,1085 810,1173"/>
+                <Baseline points="823,1301 871,1301 960,1301 1050,1295 1140,1295 1229,1289 1319,1283 1408,1277 1498,1277 1587,1271 1677,1271 1766,1265 1856,1259 1945,1259 2035,1253 2124,1253 2214,1247 2303,1247 2393,1235 2483,1235 2572,1229 2662,1229 2751,1223 2841,1223 2930,1217 3020,1217 3109,1211 3199,1205 3288,1199 3378,1199 3467,1193 3557,1187"/>
+                <TextEquiv>
+                    <Unicode>in ein paar Worten das sagen, wozu Du 12 Seiten gebrauchst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_23:14</Creator>
+        <Created>2023-05-10T11:11:32.116+02:00</Created>
+        <LastChange>2023-07-27T23:14:11.983+02:00</LastChange>
+        <TranskribusMetadata docId="1428129" pageId="55383507" pageNr="1" tsid="131308239" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ENHGLJBNQRMNPRCEKLRMGRRH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHRIEOCDWTDKASCFBBDRFSEY" imageId="44658594"/>
+    </Metadata>
+    <Page imageFilename="1428129_0001.jpg" imageWidth="5768" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711824943968" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3284,391 4770,391 4770,1610 3284,1610"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3270,584 3461,621 3665,533 3976,610 4400,524 4578,567 4762,537 4770,370 4573,320 4428,388 4231,318 3892,411 3632,362 3348,416 3279,375"/>
+                <Baseline points="3284,507 3337,501 3427,501 3516,501 3606,495 3696,489 3785,483 3875,483 3964,477 4054,471 4143,465 4233,459 4323,459 4412,453 4502,447 4591,447 4681,441 4770,447"/>
+                <TextEquiv>
+                    <Unicode>Nicht korrigiertes Exemplar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3428,1639 3569,1619 3651,1647 3814,1597 3870,1625 3942,1578 4063,1599 4190,1561 4242,1587 4474,1556 4480,1439 4333,1433 4058,1338 3768,1370 3442,1344"/>
+                <Baseline points="3439,1600 3487,1600 3576,1600 3666,1594 3755,1588 3845,1582 3934,1576 4024,1570 4114,1564 4203,1564 4293,1564 4382,1558 4478,1553"/>
+                <TextEquiv>
+                    <Unicode>Du Sekinard</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

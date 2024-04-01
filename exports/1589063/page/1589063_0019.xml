@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:46</Creator>
+        <Created>2023-09-27T14:40:27.146+02:00</Created>
+        <LastChange>2024-01-22T20:46:13.861+01:00</LastChange>
+        <TranskribusMetadata docId="1589063" pageId="60125928" pageNr="19" tsid="145640892" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HLCYSARMDDHOHQBJOVEJBEBK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SRHMMCBHBRFPBYLLVLAAIOWN" imageId="48551005"/>
+    </Metadata>
+    <Page imageFilename="1589063_0019.jpg" imageWidth="5784" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788782717" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3576,708 3576,1332 5379,1332 5379,708"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3564,791 4196,780 4357,833 4563,780 5320,800 5300,724 5161,748 4977,690 4713,726 4554,647 4413,647 4274,717 4010,726 3754,665 3564,719"/>
+                <Baseline points="3576,770 3663,770 3750,770 3838,770 3925,770 4013,770 4100,770 4188,770 4275,775 4363,776 4450,771 4537,774 4625,776 4712,772 4800,770 4887,774 4975,776 5062,776 5150,776 5237,776 5325,776"/>
+                <TextEquiv>
+                    <Unicode>Die Frauen vermögen, andere Menschen nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3575,932 3933,923 4263,986 4807,927 5031,961 5313,934 5313,851 5033,820 4946,856 4476,800 4218,858 4081,818 4007,869 3860,822 3575,840"/>
+                <Baseline points="3588,895 3674,895 3761,895 3847,895 3934,900 4020,901 4107,901 4193,901 4280,901 4366,901 4453,905 4540,903 4626,901 4713,901 4799,901 4886,904 4972,904 5059,904 5145,907 5232,909 5319,919"/>
+                <TextEquiv>
+                    <Unicode>durch das Medium der Liebe oder das der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3582,1064 3725,1030 4151,1071 4220,1037 4637,1080 4758,1044 5255,1091 5367,1062 5367,977 5226,952 5107,992 4955,934 4901,979 4484,961 4435,1001 4352,956 4164,992 3582,959"/>
+                <Baseline points="3594,1026 3687,1026 3781,1026 3874,1026 3968,1027 4062,1032 4155,1032 4249,1032 4343,1032 4436,1032 4530,1032 4623,1035 4717,1038 4811,1038 4904,1038 4998,1034 5092,1032 5185,1037 5279,1033 5373,1038"/>
+                <TextEquiv>
+                    <Unicode>Entfernung zu sehen und zu begreifen.(Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3575,1183 3940,1156 4404,1203 4599,1169 4973,1263 5183,1187 5376,1205 5374,1102 5000,1042 4619,1093 4339,1044 4162,1102 3989,1044 3573,1060"/>
+                <Baseline points="3588,1152 3677,1152 3767,1152 3856,1152 3946,1158 4035,1158 4125,1158 4214,1158 4304,1158 4393,1158 4483,1164 4573,1164 4662,1164 4752,1164 4841,1170 4931,1170 5020,1164 5110,1164 5199,1164 5289,1164 5379,1164"/>
+                <TextEquiv>
+                    <Unicode>braucht nicht obor eine räunliche Patter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3573,1391 3678,1371 3727,1389 3893,1328 4043,1375 4099,1340 4220,1364 4216,1183 3927,1252 3653,1192 3568,1210"/>
+                <Baseline points="3582,1283 3615,1285 3649,1287 3682,1289 3716,1289 3750,1289 3783,1290 3817,1293 3851,1295 3884,1293 3918,1290 3951,1290 3985,1292 4019,1294 4052,1295 4086,1295 4120,1295 4153,1297 4187,1300 4221,1301"/>
+                <TextEquiv>
+                    <Unicode>Mae 24501n.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_15:24</Creator>
+        <Created>2023-05-10T12:04:30.657+02:00</Created>
+        <LastChange>2023-07-27T15:24:06.981+02:00</LastChange>
+        <TranskribusMetadata docId="1428184" pageId="55396459" pageNr="29" tsid="131253572" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ANOVYWPUDMXNSBPZUJVSCNUW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IYYVGJWXVTKVSBWJQANCUJSC" imageId="44671337"/>
+    </Metadata>
+    <Page imageFilename="1428184_0029.jpg" imageWidth="3608" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800474987" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="707,630 3106,630 3106,1508 707,1508"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1279,818 1442,889 1644,805 1983,879 2297,765 2612,802 2769,733 2775,450 2655,413 2483,489 2234,459 1881,529 1285,468"/>
+                <Baseline points="1292,695 1295,695 1339,698 1384,704 1429,707 1474,710 1518,716 1563,716 1608,722 1653,728 1697,725 1742,728 1787,722 1832,719 1877,716 1921,722 1966,719 2011,725 2056,722 2100,722 2145,722 2190,716 2235,713 2279,713 2324,707 2369,701 2414,698 2458,695 2503,695 2548,692 2593,692 2637,686 2682,683 2727,686 2772,680"/>
+                <TextEquiv>
+                    <Unicode>eit Auf dk. Gesch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="696,718 798,739 889,796 994,776 1059,809 1153,815 1170,479 1002,485 903,516 846,487 774,505 707,494"/>
+                <Baseline points="707,716 749,725 793,728 838,728 883,725 928,719 942,716 942,716 984,713 1029,713 1074,713 1119,707 1163,698"/>
+                <TextEquiv>
+                    <Unicode>in 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2159,1250 2290,1276 2627,1105 2806,1185 2942,1150 3097,1163 3106,903 2986,946 2695,742 2592,811 2462,796 2172,870"/>
+                <Baseline points="2175,1110 2217,1119 2261,1116 2306,1113 2351,1110 2396,1110 2441,1104 2485,1101 2530,1098 2575,1092 2620,1086 2664,1083 2709,1086 2727,1080 2772,1086 2817,1086 2861,1089 2906,1092 2951,1095 2996,1092 3040,1089 3085,1083 3106,1086"/>
+                <TextEquiv>
+                    <Unicode>Ihr fevrier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="724,1144 811,1129 913,1187 968,1151 1124,1131 1309,1203 1361,1177 1375,974 1314,948 1129,939 1053,983 922,979 778,855 744,853"/>
+                <Baseline points="734,1133 746,1128 790,1125 835,1122 880,1113 925,1110 969,1101 1014,1101 1059,1095 1104,1092 1148,1089 1193,1083 1238,1083 1283,1089 1327,1089 1372,1089"/>
+                <TextEquiv>
+                    <Unicode>August j</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="994,1583 1161,1537 1214,1557 1272,1538 1355,1572 1464,1574 1531,1548 1529,1416 1503,1407 1481,1424 1270,1361 1187,1375 1131,1355 1100,1370 990,1363"/>
+                <Baseline points="1003,1485 1050,1486 1095,1489 1139,1492 1184,1495 1229,1495 1274,1495 1318,1498 1363,1495 1408,1495 1453,1495 1498,1495 1536,1489"/>
+                <TextEquiv>
+                    <Unicode>us in</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

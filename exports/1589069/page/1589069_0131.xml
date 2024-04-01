@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:17.788+02:00</Created>
+        <LastChange>2024-01-22T21:46:56.856+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127302" pageNr="131" tsid="145643797" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KRBPPXOGWYMFOMPRPQKSTYCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FMZIMULYWGMFCNYGVAZVUXVK" imageId="48552379"/>
+    </Metadata>
+    <Page imageFilename="1589069_0131.jpg" imageWidth="2888" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787422140" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="662,421 662,786 2536,786 2536,421"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="649,513 2534,499 2534,429 2386,396 1683,448 1420,401 1320,450 1195,412 998,455 649,417"/>
+                <Baseline points="662,495 755,491 849,492 943,494 1036,492 1130,492 1224,491 1317,491 1411,492 1505,492 1599,489 1692,492 1786,491 1880,489 1973,489 2067,489 2161,487 2254,485 2348,484 2442,488 2536,492"/>
+                <TextEquiv>
+                    <Unicode>Der Hass der Grösse gegen die Kleinheit ist der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="656,647 1371,626 1453,661 1538,623 2112,663 2325,626 2459,663 2459,565 2320,539 2173,581 1770,548 1003,584 659,534"/>
+                <Baseline points="668,623 757,623 847,623 937,623 1026,623 1116,620 1206,620 1295,623 1385,620 1475,620 1565,620 1654,620 1744,617 1834,617 1923,623 2013,614 2103,617 2192,617 2282,611 2372,611 2462,611"/>
+                <TextEquiv>
+                    <Unicode>Ekel; der Hass der Kleinheit gegen die Grösse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="652,757 717,755 797,797 940,778 991,811 1036,795 1071,804 1071,736 1045,738 975,698 952,708 858,682 816,715 769,698 652,701"/>
+                <Baseline points="665,752 690,752 716,752 741,752 767,750 792,747 818,747 843,749 869,751 895,752 920,752 946,752 971,752 997,753 1022,755 1048,755 1074,752"/>
+                <TextEquiv>
+                    <Unicode>der Neid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

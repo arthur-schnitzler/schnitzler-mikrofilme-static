@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:09</Creator>
+        <Created>2023-05-10T11:54:55.844+02:00</Created>
+        <LastChange>2023-07-28T21:09:13.674+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55395392" pageNr="235" tsid="131377866" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PBKCYBTMORKIWUTOLGBIWMUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IJCYMJFJSYHONBRPMQTNWUZP" imageId="44670275"/>
+    </Metadata>
+    <Page imageFilename="1428176_0235.jpg" imageWidth="3560" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801630507" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2080,173 2883,173 2883,308 2080,308"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2073,273 2540,259 2593,234 2821,248 2879,236 2881,197 2594,206 2521,164 2075,219"/>
+                <Baseline points="2080,244 2122,250 2166,250 2211,247 2256,244 2301,247 2346,244 2390,241 2435,241 2480,238 2525,235 2569,232 2614,232 2659,229 2704,226 2748,226 2793,223 2838,223 2883,223"/>
+                <TextEquiv>
+                    <Unicode>uusesti läänissä.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2208,292 2324,312 2439,298 2461,316 2486,296 2522,294 2572,317 2623,292 2680,295 2680,267 2628,257 2588,273 2552,263 2536,277 2450,281 2409,261 2208,265"/>
+                <Baseline points="2214,289 2259,292 2304,298 2349,298 2393,298 2438,298 2483,292 2528,289 2572,289 2617,289 2662,286 2683,289"/>
+                <TextEquiv>
+                    <Unicode>m m m m r w „ „</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

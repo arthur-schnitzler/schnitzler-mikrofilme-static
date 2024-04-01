@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:56</Creator>
+        <Created>2023-09-27T14:37:17.793+02:00</Created>
+        <LastChange>2024-01-22T18:56:51.167+01:00</LastChange>
+        <TranskribusMetadata docId="1589044" pageId="60124265" pageNr="2" tsid="145633821" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WHLYJGBLPZJTTQHVTOEBNQAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DAVBGCJMQXAQKQLLVCZHIDFV" imageId="48549343"/>
+    </Metadata>
+    <Page imageFilename="1589044_0002.jpg" imageWidth="3224" imageHeight="4008">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791492745" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1517,342 1517,499 1803,499 1803,342"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1506,444 1536,454 1554,442 1596,458 1636,442 1662,458 1694,438 1724,452 1746,440 1768,462 1798,460 1796,354 1762,376 1720,336 1702,356 1644,364 1626,350 1596,352 1540,310 1502,312"/>
+                <Baseline points="1517,442 1543,442 1569,443 1595,444 1621,445 1647,445 1673,445 1699,445 1725,448 1751,449 1777,446 1803,447"/>
+                <TextEquiv>
+                    <Unicode>Nr. 36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2568,3758 2568,3914 2756,3914 2756,3758"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2560,3830 2686,3830 2716,3860 2734,3868 2752,3864 2756,3784 2654,3780 2598,3728 2584,3740 2564,3740"/>
+                <Baseline points="2568,3864 2594,3864 2621,3864 2648,3862 2675,3860 2702,3859 2729,3858 2756,3858"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

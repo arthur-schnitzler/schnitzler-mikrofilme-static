@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_04:09</Creator>
+        <Created>2023-05-10T12:24:00.314+02:00</Created>
+        <LastChange>2023-07-29T04:09:09.832+02:00</LastChange>
+        <TranskribusMetadata docId="1428195" pageId="55401808" pageNr="39" tsid="131394666" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TWRXVEUHTGMWJPVSYWYVETJM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMXZNPKRZKTMJNVHHFTCLPVV" imageId="44676630"/>
+    </Metadata>
+    <Page imageFilename="1428195_0039.jpg" imageWidth="3384" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796933433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="767,472 3002,472 3002,1003 767,1003"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2872,578 2895,578 2908,592 2936,575 2956,553 2995,553 2984,435 2950,433 2936,421 2897,419 2889,413 2872,427 2858,427"/>
+                <Baseline points="2883,522 2928,528 2972,531 3002,534"/>
+                <TextEquiv>
+                    <Unicode>35</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="765,742 1365,681 2794,717 2794,519 2409,625 1957,544 1647,606 1465,547 765,581"/>
+                <Baseline points="779,665 823,662 868,665 913,668 958,668 1002,668 1047,668 1092,671 1137,671 1181,671 1226,671 1271,671 1316,674 1361,674 1405,674 1450,674 1495,671 1540,674 1584,674 1629,674 1674,674 1719,674 1763,674 1808,674 1853,674 1898,677 1943,677 1987,677 2032,677 2077,677 2122,677 2166,677 2211,677 2256,680 2301,680 2345,680 2390,683 2435,683 2480,683 2525,686 2569,683 2614,683 2659,683 2704,683 2748,683 2793,686 2802,689"/>
+                <TextEquiv>
+                    <Unicode>Vorteil der fheatralischen Wirkung noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="751,843 1050,902 1315,826 2138,902 2995,854 2995,726 2839,717 751,731"/>
+                <Baseline points="767,814 811,817 856,820 901,820 946,820 990,820 1035,820 1080,823 1125,823 1170,823 1214,823 1259,823 1304,826 1349,826 1393,826 1438,826 1483,826 1528,829 1572,829 1617,829 1662,829 1707,829 1752,829 1796,829 1841,832 1886,832 1931,832 1975,832 2020,832 2065,835 2110,838 2154,835 2199,832 2244,832 2289,835 2334,835 2378,835 2423,835 2468,835 2513,838 2557,838 2602,838 2647,841 2692,841 2736,841 2781,841 2826,841 2871,838 2916,838 2960,838 2999,838"/>
+                <TextEquiv>
+                    <Unicode>stärker in der Erscheinung als in der jetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="756,1008 1100,1047 1287,988 1569,1041 1845,1022 1842,868 1789,851 1518,846 1312,916 756,865"/>
+                <Baseline points="773,973 817,973 862,973 907,976 952,976 996,976 1041,978 1086,976 1131,976 1175,976 1220,978 1265,978 1310,978 1355,978 1399,981 1444,981 1489,981 1534,981 1578,981 1623,984 1668,984 1713,987 1758,990 1802,990 1847,993"/>
+                <TextEquiv>
+                    <Unicode>vorliegenden Fassung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

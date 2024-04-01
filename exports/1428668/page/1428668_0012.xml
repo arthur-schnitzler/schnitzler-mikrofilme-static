@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_19:32</Creator>
+        <Created>2023-05-10T14:45:43.955+02:00</Created>
+        <LastChange>2023-08-14T19:32:40.138+02:00</LastChange>
+        <TranskribusMetadata docId="1428668" pageId="55424706" pageNr="12" tsid="132822986" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QJRWNEQKYUCBAWJHAUEVHIMW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GTVAXBQIMPWQFIACRIGLOCJG" imageId="44698783"/>
+    </Metadata>
+    <Page imageFilename="1428668_0012.jpg" imageWidth="3560" imageHeight="4184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814080186" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="474,540 3145,540 3145,1015 474,1015"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2949,645 2973,648 2989,638 3003,645 3013,635 3023,645 3033,638 3063,638 3066,501 3049,501 3026,521 3009,511 2986,521 2973,508 2953,508"/>
+                <Baseline points="2966,593 2987,593 3032,590 3076,590"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="454,895 2739,782 3046,872 3133,848 3140,661 1637,668 835,812 458,748"/>
+                <Baseline points="474,850 504,847 549,850 593,847 638,844 683,841 728,841 772,838 817,838 862,835 907,835 951,832 996,832 1041,832 1086,829 1131,829 1175,826 1220,823 1265,820 1310,820 1354,817 1399,814 1444,811 1489,814 1533,811 1578,811 1623,808 1668,805 1712,802 1757,802 1802,802 1847,799 1892,796 1936,796 1981,793 2026,790 2071,787 2115,787 2160,784 2205,784 2250,784 2294,781 2339,778 2384,778 2429,775 2473,772 2518,769 2563,766 2608,763 2653,760 2697,760 2742,760 2787,758 2832,758 2876,755 2921,752 2966,752 3011,752 3055,755 3100,752 3145,755"/>
+                <TextEquiv>
+                    <Unicode>wird er sehr krank. Auf dem Totenbett geht ihm die Ahnung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="471,1042 882,1116 1222,1045 1343,1092 1700,1019 1934,1042 2064,1009 2071,848 474,932"/>
+                <Baseline points="489,1005 510,1005 555,1005 599,1005 644,1002 689,999 734,1002 778,999 823,996 868,993 913,993 957,990 1002,990 1047,987 1092,981 1137,981 1181,981 1226,978 1271,975 1316,972 1360,972 1405,969 1450,966 1495,966 1539,966 1584,960 1629,960 1674,957 1718,957 1763,957 1808,954 1853,954 1898,951 1942,949 1987,946 2032,937 2077,937"/>
+                <TextEquiv>
+                    <Unicode>auf, warum ihn Flimmer betrogen. -</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:24</Creator>
+        <Created>2023-05-02T08:21:39.457+02:00</Created>
+        <LastChange>2023-07-27T22:24:49.969+02:00</LastChange>
+        <TranskribusMetadata docId="1416758" pageId="54954784" pageNr="76" tsid="131305508" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FJNZIWJGLADHLXIFXSOIFREZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCZZHSVJAYIRSFXBZGAUPWFJ" imageId="44458509"/>
+    </Metadata>
+    <Page imageFilename="1416758_0076.jpg" imageWidth="5923" imageHeight="3732">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825603659" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2263,75 4759,75 4759,684 2263,684"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4486,130 4528,140 4550,132 4570,142 4666,136 4680,148 4720,140 4736,156 4756,154 4754,102 4706,102 4692,110 4486,104"/>
+                <Baseline points="4496,125 4585,125 4675,131 4759,131"/>
+                <TextEquiv>
+                    <Unicode>T</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2254,584 2280,590 2342,568 2388,596 2414,578 2444,590 2464,580 2510,600 2588,576 2584,338 2250,336"/>
+                <Baseline points="2263,495 2352,501 2442,507 2531,501 2591,501"/>
+                <TextEquiv>
+                    <Unicode>amusts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3058,622 3138,646 3168,620 3228,634 3264,608 3288,622 3448,606 3476,628 3508,612 3596,614 3594,474 3556,464 3508,490 3472,484 3366,516 3288,490 3056,516"/>
+                <Baseline points="3069,591 3158,597 3248,597 3337,597 3427,603 3517,597 3600,597"/>
+                <TextEquiv>
+                    <Unicode>Arthur Schnitzle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3252,708 3310,718 3338,704 3420,724 3440,712 3496,724 3516,712 3534,724 3592,720 3590,614 3452,610 3426,630 3384,630 3338,606 3294,618 3250,604"/>
+                <Baseline points="3260,674 3349,668 3439,674 3528,674 3594,674"/>
+                <TextEquiv>
+                    <Unicode>Spoettelgasse 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

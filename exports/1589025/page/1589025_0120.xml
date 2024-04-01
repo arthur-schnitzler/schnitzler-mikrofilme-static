@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_14:24</Creator>
+        <Created>2023-09-27T14:32:22.846+02:00</Created>
+        <LastChange>2024-01-22T14:24:35.740+01:00</LastChange>
+        <TranskribusMetadata docId="1589025" pageId="60122020" pageNr="120" tsid="145612121" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RZFOTQALSYFGJLBNFTIISDSK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LHCDDXHWMEIOBONUEVIWLXLM" imageId="48547099"/>
+    </Metadata>
+    <Page imageFilename="1589025_0120.jpg" imageWidth="2936" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796696021" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="268,266 1050,266 1050,338 268,338"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="263,363 422,388 585,346 1048,335 1048,205 875,249 773,212 688,280 580,289 498,233 393,299 311,229 263,255"/>
+                <Baseline points="268,322 313,322 358,322 394,325 409,325 423,322 468,325 513,322 558,322 603,328 647,322 692,325 737,319 782,322 826,325 871,325 916,325 961,322 1006,319 1050,316"/>
+                <TextEquiv>
+                    <Unicode>1 Hlans Brlit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

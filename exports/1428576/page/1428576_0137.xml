@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_05:01</Creator>
+        <Created>2023-05-10T13:29:19.133+02:00</Created>
+        <LastChange>2023-07-30T05:01:28.488+02:00</LastChange>
+        <TranskribusMetadata docId="1428576" pageId="55412684" pageNr="137" tsid="131483458" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YMWUZAMUKDVHAJIWPZOFTJKO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QQFORQXTNFGTGBUUKOIJKAGW" imageId="44686825"/>
+    </Metadata>
+    <Page imageFilename="1428576_0137.jpg" imageWidth="3352" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791964240" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="632,418 2822,418 2822,997 632,997"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2580,482 2626,487 2673,526 2692,512 2717,515 2720,340 2681,337 2662,326 2635,345 2607,334 2583,342"/>
+                <Baseline points="2596,471 2634,471 2679,471 2724,468"/>
+                <TextEquiv>
+                    <Unicode>70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="616,701 1016,715 1098,668 1473,729 1613,668 2060,712 2133,696 2136,570 1583,518 1328,600 1189,583 1126,638 789,572 619,597"/>
+                <Baseline points="632,677 665,677 710,677 754,677 799,677 844,677 889,677 934,674 978,671 1023,668 1068,668 1113,668 1157,665 1202,665 1247,665 1292,665 1336,662 1381,662 1426,662 1471,659 1515,659 1560,656 1605,656 1650,656 1694,653 1739,650 1784,653 1829,653 1874,650 1918,650 1963,647 2008,644 2053,647 2097,647 2142,647"/>
+                <TextEquiv>
+                    <Unicode>Gegen den Geist der Umsturzes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="616,868 833,931 1038,857 1326,907 2785,822 2815,709 1613,671 1208,775 619,775"/>
+                <Baseline points="632,838 674,832 719,832 763,832 808,832 853,832 898,829 942,826 987,826 1032,826 1077,823 1122,817 1166,820 1211,820 1256,820 1301,817 1345,817 1390,817 1435,814 1480,814 1524,811 1569,811 1614,808 1659,808 1703,805 1748,805 1793,805 1838,802 1882,802 1927,799 1972,799 2017,799 2062,799 2106,796 2151,796 2196,796 2241,793 2285,790 2330,790 2375,790 2420,784 2464,784 2509,784 2554,781 2599,781 2643,781 2688,781 2733,781 2778,781 2822,784"/>
+                <TextEquiv>
+                    <Unicode>Funk ist berauscht von dem Parfum, den Frl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="619,1013 1832,1052 2246,994 2249,901 1123,923 1065,879 622,928"/>
+                <Baseline points="635,978 641,981 686,984 731,984 775,984 820,984 865,987 910,987 954,984 999,981 1044,978 1089,975 1133,975 1178,975 1223,975 1268,972 1313,972 1357,972 1402,969 1447,969 1492,969 1536,966 1581,963 1626,963 1671,963 1715,963 1760,960 1805,957 1850,957 1894,960 1939,957 1984,954 2029,954 2073,951 2118,948 2163,951 2208,948 2253,954"/>
+                <TextEquiv>
+                    <Unicode>Negedy hier zurückgelassen hat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

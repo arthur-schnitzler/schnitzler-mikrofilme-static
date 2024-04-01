@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:17</Creator>
+        <Created>2023-05-10T11:45:45.483+02:00</Created>
+        <LastChange>2023-07-28T17:17:13.468+02:00</LastChange>
+        <TranskribusMetadata docId="1428171" pageId="55392049" pageNr="184" tsid="131366587" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BJUQGIACQZULCFNPLLJBNWYB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OSBQKQZNAWMMYVTBESBRPNBL" imageId="44666934"/>
+    </Metadata>
+    <Page imageFilename="1428171_0184.jpg" imageWidth="3608" imageHeight="4600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802657601" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="716,302 1856,302 1856,532 716,532"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1392,382 1420,378 1448,392 1538,368 1564,366 1584,384 1616,370 1648,380 1666,368 1742,368 1748,282 1700,296 1688,286 1660,312 1638,296 1594,308 1582,298 1508,304 1486,290 1436,308 1396,298"/>
+                <Baseline points="1402,370 1435,370 1480,367 1525,364 1570,364 1614,361 1659,358 1704,355 1749,352"/>
+                <TextEquiv>
+                    <Unicode>peut-être au moins en lisant comme ces</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="704,444 890,436 960,454 1004,432 1088,438 1092,342 996,360 976,352 942,368 904,346 876,356 842,344 776,368 706,366"/>
+                <Baseline points="716,397 728,397 773,394 817,391 862,385 907,385 952,385 961,388 1005,382 1050,382 1095,379"/>
+                <TextEquiv>
+                    <Unicode>r o a e e e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1462,436 1578,448 1632,424 1644,436 1686,420 1712,432 1732,420 1762,432 1800,414 1810,426 1834,424 1838,380 1794,376 1782,386 1760,374 1664,368 1638,378 1618,368 1582,382 1564,366 1524,388 1512,376 1466,380"/>
+                <Baseline points="1474,426 1483,426 1528,426 1573,423 1617,420 1662,414 1707,411 1752,405 1797,402 1841,400"/>
+                <TextEquiv>
+                    <Unicode>ue de cette rivière me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1336,502 1368,494 1374,496 1380,490 1392,494 1406,484 1420,492 1444,490 1448,450 1412,456 1402,462 1398,458 1390,466 1382,460 1370,460 1360,466 1338,462"/>
+                <Baseline points="1349,483 1361,483 1405,480 1450,477"/>
+                <TextEquiv>
+                    <Unicode>a e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1330,548 1374,570 1390,556 1460,570 1570,518 1658,524 1768,496 1804,526 1848,528 1854,456 1590,470 1560,486 1512,474 1482,494 1402,486 1334,504"/>
+                <Baseline points="1343,522 1364,519 1408,516 1453,513 1498,513 1543,507 1588,501 1632,501 1677,498 1722,492 1767,489 1811,483 1856,480"/>
+                <TextEquiv>
+                    <Unicode>* * * *'' * * - * *</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

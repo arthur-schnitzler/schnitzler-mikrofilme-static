@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_17:40</Creator>
+        <Created>2023-05-02T08:00:59.519+02:00</Created>
+        <LastChange>2023-07-27T17:40:06.384+02:00</LastChange>
+        <TranskribusMetadata docId="1416741" pageId="54952417" pageNr="3" tsid="131275757" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PZNFDPBZVXSPWDQHEMXLKJWN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NFNGXVODHVWASSHYQFTRCHXL" imageId="44456143"/>
+    </Metadata>
+    <Page imageFilename="1416741_0003.jpg" imageWidth="3898" imageHeight="3512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827580736" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="310,2736 1714,2736 1714,2811 310,2811"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="300,2802 314,2806 380,2802 378,2682 356,2684 320,2720 298,2724"/>
+                <Baseline points="310,2786 355,2786 385,2789"/>
+                <TextEquiv>
+                    <Unicode>31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1498,2812 1518,2812 1526,2804 1542,2810 1550,2802 1572,2800 1660,2804 1676,2792 1710,2792 1712,2744 1602,2750 1562,2746 1550,2736 1502,2742"/>
+                <Baseline points="1508,2801 1535,2798 1579,2798 1624,2795 1669,2792 1714,2792"/>
+                <TextEquiv>
+                    <Unicode>[S]o 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

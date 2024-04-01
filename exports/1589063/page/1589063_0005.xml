@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:46</Creator>
+        <Created>2023-09-27T14:40:25.215+02:00</Created>
+        <LastChange>2024-01-22T20:46:11.351+01:00</LastChange>
+        <TranskribusMetadata docId="1589063" pageId="60125839" pageNr="5" tsid="145640878" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KULMRXWMJTTUCIKUCDBUKPEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQEAXDDENCENGRCLQAJGOEYR" imageId="48550916"/>
+    </Metadata>
+    <Page imageFilename="1589063_0005.jpg" imageWidth="5832" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788736705" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1290,2749 1290,2911 1547,2911 1547,2749"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1277,2887 1309,2889 1337,2916 1399,2897 1453,2907 1468,2921 1540,2889 1543,2733 1510,2730 1481,2748 1458,2738 1389,2783 1322,2775 1280,2788"/>
+                <Baseline points="1290,2861 1315,2857 1341,2853 1367,2849 1392,2849 1418,2849 1444,2849 1469,2850 1495,2852 1521,2853 1547,2855"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="3387,516 3387,1579 5394,1579 5394,516"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3373,645 3678,672 3750,632 4090,622 4211,680 4563,625 4744,675 5134,583 5317,618 5320,503 4868,489 4769,436 4586,541 4298,548 4149,491 3998,538 3660,466 3504,503 3375,474"/>
+                <Baseline points="3387,633 3483,627 3580,627 3677,623 3774,621 3871,621 3967,616 4064,615 4161,615 4258,609 4355,608 4451,603 4548,603 4645,603 4742,603 4839,596 4935,587 5032,585 5129,580 5226,585 5323,591"/>
+                <TextEquiv>
+                    <Unicode>Jonahd zu Gotner geltehten: Ie eibt einen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3385,779 3715,811 4030,756 4362,781 4953,719 5039,756 5297,712 5364,746 5367,642 4997,657 4955,622 4744,675 4360,635 4241,684 3938,630 3656,682 3390,672"/>
+                <Baseline points="3399,764 3497,758 3596,758 3694,756 3793,752 3891,749 3990,746 4088,742 4187,740 4285,740 4384,734 4483,734 4581,733 4680,728 4778,726 4877,719 4975,716 5074,712 5172,710 5271,705 5370,710"/>
+                <TextEquiv>
+                    <Unicode>metaxhysischen Beweis dafür, dass die Intreue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3395,940 3765,890 3913,955 4253,883 4806,918 5077,846 5387,870 5389,769 5270,729 4953,769 4434,751 4201,823 4099,774 3923,818 3663,779 3398,831"/>
+                <Baseline points="3411,890 3510,890 3609,884 3708,883 3807,880 3906,884 4005,881 4105,874 4204,872 4303,872 4402,872 4501,866 4600,860 4699,860 4799,860 4898,857 4997,851 5096,844 5195,842 5294,837 5394,842"/>
+                <TextEquiv>
+                    <Unicode>der Frauen schwerer zu nehnen lef als di der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3385,1042 3487,1054 3549,1104 3628,1094 3656,1118 3700,1104 3745,1114 3747,930 3690,923 3641,950 3601,918 3561,940 3534,920 3514,937 3470,923 3440,945 3422,932 3388,942"/>
+                <Baseline points="3399,1027 3424,1025 3449,1023 3474,1022 3499,1020 3524,1018 3549,1017 3575,1015 3600,1015 3625,1015 3650,1015 3675,1016 3700,1018 3725,1019 3751,1021"/>
+                <TextEquiv>
+                    <Unicode>Wanner.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3370,1317 3693,1287 3842,1324 4214,1265 4509,1309 4776,1247 4905,1287 5034,1242 5280,1245 5282,1168 5218,1131 5059,1173 4501,1133 4191,1210 3941,1153 3455,1168 3373,1210"/>
+                <Baseline points="3387,1278 3482,1278 3577,1272 3672,1272 3767,1272 3862,1266 3957,1265 4052,1260 4147,1262 4242,1262 4337,1254 4432,1251 4527,1248 4622,1244 4717,1242 4812,1242 4907,1237 5002,1236 5097,1236 5192,1230 5287,1230"/>
+                <TextEquiv>
+                    <Unicode>enn ich mir etwa eine Intrage zuschulden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3395,1448 3958,1409 4097,1458 4271,1389 4506,1433 4764,1376 5297,1386 5302,1262 5163,1235 4856,1327 4687,1277 4469,1322 4050,1307 4010,1347 3400,1327"/>
+                <Baseline points="3411,1415 3505,1409 3600,1403 3695,1403 3789,1397 3884,1397 3979,1397 4073,1395 4168,1389 4263,1386 4358,1383 4452,1380 4547,1380 4642,1380 4736,1376 4831,1374 4926,1374 5020,1369 5115,1363 5210,1362 5305,1368"/>
+                <TextEquiv>
+                    <Unicode>konmen liesse, könnte ich sie mir ohnendterd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3373,1577 3465,1605 3586,1557 3675,1577 3710,1543 3904,1619 4075,1595 4152,1629 4268,1605 4273,1428 3522,1488 3375,1446"/>
+                <Baseline points="3387,1547 3431,1544 3476,1541 3520,1538 3565,1535 3609,1535 3654,1535 3698,1535 3743,1535 3787,1535 3832,1535 3876,1532 3921,1529 3965,1526 4010,1523 4054,1523 4099,1523 4143,1523 4188,1523 4232,1526 4277,1529"/>
+                <TextEquiv>
+                    <Unicode>verzeiken. Dir nte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

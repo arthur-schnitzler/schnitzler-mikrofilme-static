@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:43:00.549+02:00</Created>
+        <LastChange>2024-01-22T21:46:21.535+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127376" pageNr="51" tsid="145643611" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HMTWYWKQCCABNYRHCQUTUJVX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DHNIIWOCOFEGJCCZJRJXVHIG" imageId="48552453"/>
+    </Metadata>
+    <Page imageFilename="1589072_0051.jpg" imageWidth="2936" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786902754" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="355,534 355,1080 2425,1080 2425,534"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="384,675 566,700 989,654 1221,688 1313,631 2060,610 2127,649 2289,639 2328,631 2333,518 2212,487 1962,551 1488,525 1357,566 1257,528 1056,590 963,548 386,566"/>
+                <Baseline points="399,662 495,659 592,656 689,653 785,650 882,650 979,645 1075,641 1172,644 1269,634 1366,629 1462,626 1559,626 1656,620 1752,620 1849,616 1946,610 2042,605 2139,602 2236,599 2333,593"/>
+                <TextEquiv>
+                    <Unicode>Nas kümme-rt Fuch fuere Anzulänglichkeit Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="353,809 1416,762 1869,796 2060,744 2109,783 2225,731 2377,752 2382,628 1839,688 1290,708 942,654 845,713 355,711"/>
+                <Baseline points="366,784 467,787 568,784 669,784 770,781 871,778 972,774 1073,770 1174,763 1275,760 1376,759 1477,752 1578,748 1679,748 1780,745 1881,742 1982,736 2083,732 2184,726 2285,724 2386,724"/>
+                <TextEquiv>
+                    <Unicode>Glüekliehen? Ihr nennt sie einfach problematik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="353,930 626,940 700,984 937,927 1179,948 1622,886 1893,924 2240,860 2418,883 2420,791 1939,814 1723,767 1563,809 1223,778 963,852 523,821 355,865"/>
+                <Baseline points="366,924 474,918 582,915 691,909 799,906 907,906 1016,898 1124,895 1232,894 1341,890 1449,885 1558,881 1666,877 1774,874 1883,868 1991,867 2099,862 2208,859 2316,853 2425,856"/>
+                <TextEquiv>
+                    <Unicode>und bringt es an Ende noch fertig ir euch etwas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="340,1097 592,1045 716,1089 852,1035 1251,1056 1254,984 1022,930 876,984 615,950 574,986 342,999"/>
+                <Baseline points="355,1050 400,1048 445,1047 490,1047 536,1047 581,1045 626,1039 672,1038 717,1035 762,1035 808,1035 853,1032 898,1032 943,1032 989,1027 1034,1026 1079,1023 1125,1023 1170,1023 1215,1023 1261,1023"/>
+                <TextEquiv>
+                    <Unicode>auf sie einzubilden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

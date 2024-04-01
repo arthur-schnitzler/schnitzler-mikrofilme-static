@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:24</Creator>
+        <Created>2023-09-27T14:40:52.108+02:00</Created>
+        <LastChange>2024-01-22T21:24:58.411+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126623" pageNr="106" tsid="145642609" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VIFSXMELMLHNBHOWJJZSMKAF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLLXXLUFGVFWILUMRRNSQQGG" imageId="48551700"/>
+    </Metadata>
+    <Page imageFilename="1589064_0106.jpg" imageWidth="2888" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788576071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="367,765 367,918 498,918 498,765"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="354,880 377,880 389,890 416,877 454,892 478,880 491,880 491,816 471,816 441,788 414,791 397,808 354,803"/>
+                <Baseline points="367,865 393,865 419,865 445,865 471,866 498,868"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="557,487 557,980 2578,980 2578,487"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="543,575 711,612 1044,570 1172,617 1244,575 1594,555 1596,466 1420,491 1212,436 1016,516 545,508"/>
+                <Baseline points="557,557 609,557 661,560 713,560 765,560 817,560 869,560 921,560 973,563 1025,563 1078,561 1130,557 1182,557 1234,557 1286,554 1338,552 1390,552 1442,551 1494,551 1546,550 1599,546"/>
+                <TextEquiv>
+                    <Unicode>Hr. u. Fitsch. (hetter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="734,721 776,724 808,746 835,734 850,741 868,724 939,746 967,734 982,746 999,731 1014,741 1053,734 1051,682 1014,679 991,694 930,677 902,687 873,664 828,689 791,679 766,697 731,692"/>
+                <Baseline points="748,716 773,714 799,713 825,711 850,711 876,713 902,713 927,713 953,713 979,713 1004,715 1030,719 1056,725"/>
+                <TextEquiv>
+                    <Unicode>e e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="583,833 962,818 1267,877 1562,828 1921,882 2320,823 2575,853 2561,731 2323,776 2005,709 1745,776 1348,778 1145,724 583,741"/>
+                <Baseline points="596,817 695,814 794,815 893,817 992,817 1091,814 1190,815 1289,814 1388,817 1487,817 1587,817 1686,819 1785,819 1884,817 1983,817 2082,818 2181,820 2280,818 2379,817 2478,817 2578,820"/>
+                <TextEquiv>
+                    <Unicode>Wilikrlich etwas erfinden,was dem Andern zu sagen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="543,944 873,957 991,1019 1123,974 1227,1006 1331,947 1505,994 1596,959 1686,994 2060,967 2057,920 1914,877 1576,902 1413,855 1190,910 949,865 543,900"/>
+                <Baseline points="557,936 632,939 707,943 783,945 858,949 933,947 1009,948 1084,946 1159,949 1235,948 1310,945 1385,942 1461,945 1536,945 1611,948 1687,948 1762,948 1837,946 1913,948 1988,948 2064,951"/>
+                <TextEquiv>
+                    <Unicode>niemals einfiel, und es dann anfechten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

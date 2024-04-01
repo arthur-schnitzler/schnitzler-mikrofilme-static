@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:57.177+02:00</Created>
+        <LastChange>2024-01-22T21:46:18.059+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127282" pageNr="30" tsid="145643589" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IYHTHTTXFTWLAWCNPUMUCPQU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWFAJTWTPRCCKSWHNAKUEBWF" imageId="48552359"/>
+    </Metadata>
+    <Page imageFilename="1589072_0030.jpg" imageWidth="2936" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786868264" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="379,398 379,557 531,557 531,398"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="365,512 406,514 437,529 449,529 461,517 473,526 507,509 526,514 531,423 471,420 452,408 430,411 404,432 368,440"/>
+                <Baseline points="379,507 404,502 429,505 455,505 480,502 505,500 531,498"/>
+                <TextEquiv>
+                    <Unicode>Sin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="534,592 534,1213 2470,1213 2470,592"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="533,678 733,687 870,747 1216,694 1540,735 1694,692 1814,750 2133,702 2232,742 2460,687 2460,608 2304,627 2040,548 1739,569 1622,509 1329,603 1021,521 759,579 531,533"/>
+                <Baseline points="546,654 642,657 738,657 834,658 930,661 1026,660 1122,660 1218,660 1314,663 1410,666 1506,666 1602,665 1698,669 1794,669 1890,669 1986,669 2082,670 2178,672 2274,676 2370,673 2467,672"/>
+                <TextEquiv>
+                    <Unicode>Ein Harferf von unbeglichenen Rechnungen, -von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="531,831 2314,826 2311,704 2232,742 2169,706 1836,747 1360,702 1249,750 1002,718 867,747 733,687 529,745"/>
+                <Baseline points="543,785 631,785 720,785 809,788 898,788 987,788 1076,788 1164,791 1253,791 1342,796 1431,795 1520,797 1609,798 1698,794 1786,798 1875,797 1964,799 2053,800 2142,800 2231,805 2320,809"/>
+                <TextEquiv>
+                    <Unicode>solchen,deren Bezahlung man uns schuldig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="531,947 2383,959 2383,826 2136,812 2004,865 1751,831 1478,877 1357,831 1213,862 531,831"/>
+                <Baseline points="543,910 635,913 727,913 819,916 912,914 1004,916 1096,919 1189,920 1281,923 1373,922 1466,922 1558,924 1650,925 1742,925 1835,925 1927,930 2019,934 2112,928 2204,928 2296,928 2389,928"/>
+                <TextEquiv>
+                    <Unicode>blieb und sölehen, die wir nicht begleichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="536,1093 1043,1052 1528,1129 1946,1129 2467,1072 2467,995 2359,975 1624,999 1478,956 1372,1009 1156,966 766,997 536,947"/>
+                <Baseline points="549,1042 645,1042 741,1045 837,1045 933,1048 1029,1052 1125,1051 1221,1054 1317,1054 1413,1054 1509,1053 1605,1054 1701,1055 1797,1054 1893,1060 1989,1057 2085,1062 2181,1060 2277,1060 2373,1059 2470,1060"/>
+                <TextEquiv>
+                    <Unicode>konnten, das ist d am Ende die Bilanz unseres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="524,1237 586,1247 694,1237 769,1276 805,1259 822,1269 850,1259 848,1129 812,1134 750,1110 709,1132 627,1098 591,1108 521,1091"/>
+                <Baseline points="534,1176 560,1173 587,1171 614,1172 640,1174 667,1176 694,1173 720,1170 747,1172 774,1174 800,1176 827,1179 854,1182"/>
+                <TextEquiv>
+                    <Unicode>Lebens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

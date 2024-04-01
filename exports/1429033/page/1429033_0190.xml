@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:10:59.016+02:00</Created>
+        <LastChange>2023-08-15T10:00:42.706+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55435887" pageNr="190" tsid="132846367" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OFKZPSXFXZDOWHIPRUWEGHAA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SKSUWYPXALTDRLPXYNDDSBJR" imageId="44709877"/>
+    </Metadata>
+    <Page imageFilename="1429033_0190.jpg" imageWidth="3827" imageHeight="5608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800315571" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1586,2366 2923,2366 2923,2748 1586,2748"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1735,2543 2900,2438 2931,2306 2590,2363 2448,2432 2194,2380 2030,2433 1752,2374"/>
+                <Baseline points="1742,2535 1759,2529 1849,2529 1938,2517 2028,2511 2117,2505 2207,2499 2296,2481 2386,2475 2475,2469 2565,2457 2654,2446 2744,2434 2833,2422 2923,2416"/>
+                <TextEquiv>
+                    <Unicode>Seule draive mede</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1576,2753 1896,2689 2113,2756 2426,2685 2633,2716 2652,2497 2334,2568 2219,2543 2098,2597 1924,2592 1841,2550 1746,2592 1593,2581"/>
+                <Baseline points="1586,2738 1658,2720 1748,2708 1837,2696 1927,2684 2016,2672 2105,2672 2195,2666 2284,2648 2374,2642 2463,2630 2553,2642 2642,2642"/>
+                <TextEquiv>
+                    <Unicode>dee chere herente</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

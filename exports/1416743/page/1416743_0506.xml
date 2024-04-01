@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:32</Creator>
+        <Created>2023-05-02T08:11:36.295+02:00</Created>
+        <LastChange>2023-07-27T22:32:15.977+02:00</LastChange>
+        <TranskribusMetadata docId="1416743" pageId="54954824" pageNr="506" tsid="131306175" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FCWEMXYKEVPOJKOSUZFKLEMK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AJWKPAFWLXPPLHCCYACWKFMI" imageId="44458549"/>
+    </Metadata>
+    <Page imageFilename="1416743_0506.jpg" imageWidth="2926" imageHeight="3912">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711826495630" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1433,3551 2577,3551 2577,3727 1433,3727"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2040,3621 2166,3668 2249,3649 2274,3664 2299,3640 2396,3674 2449,3632 2574,3612 2573,3468 2416,3533 2273,3512 2189,3540 2099,3505 2039,3514"/>
+                <Baseline points="2048,3601 2093,3604 2138,3607 2182,3607 2227,3607 2272,3607 2317,3607 2362,3607 2406,3610 2451,3610 2496,3610 2541,3607 2577,3607"/>
+                <TextEquiv>
+                    <Unicode>torisierten Auf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1425,3750 1704,3712 2549,3743 2549,3632 2377,3668 2051,3617 1822,3673 1425,3622"/>
+                <Baseline points="1433,3705 1478,3708 1522,3708 1567,3708 1612,3708 1657,3708 1702,3708 1746,3708 1791,3711 1836,3711 1881,3714 1926,3714 1970,3711 2015,3711 2060,3711 2105,3711 2150,3711 2194,3714 2239,3714 2284,3714 2329,3714 2374,3714 2418,3717 2463,3717 2508,3717 2553,3717"/>
+                <TextEquiv>
+                    <Unicode>Scheeveningen, erhielt ich heute</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

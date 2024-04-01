@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_16:10</Creator>
+        <Created>2023-05-10T14:25:56.498+02:00</Created>
+        <LastChange>2023-08-14T16:10:24.860+02:00</LastChange>
+        <TranskribusMetadata docId="1428623" pageId="55419705" pageNr="1" tsid="132813444" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CZWCOMHGPYYHLPEQFJWFNSNV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQZMAFZJNPWPDNAYHNYDZSJF" imageId="44693808"/>
+    </Metadata>
+    <Page imageFilename="1428623_0001.jpg" imageWidth="3560" imageHeight="4648">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711820619645" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="731,1200 2119,1200 2119,2266 731,2266"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="721,1380 960,1361 1012,1396 1356,1295 1455,1346 1884,1306 2115,1245 2122,1162 2024,1179 1821,1087 1722,1151 1425,1184 1129,1294 811,1160 736,1174"/>
+                <Baseline points="731,1346 749,1349 794,1349 838,1343 883,1340 928,1337 973,1334 1017,1331 1062,1328 1107,1325 1152,1325 1197,1322 1241,1316 1286,1316 1331,1310 1376,1304 1420,1301 1465,1295 1510,1295 1532,1290 1537,1289 1582,1286 1626,1286 1671,1280 1716,1274 1761,1274 1806,1268 1850,1265 1895,1265 1940,1259 1985,1259 2029,1256 2074,1253 2119,1250"/>
+                <TextEquiv>
+                    <Unicode>Thameyer St. Prof.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1978,2316 1993,2325 2004,2320 2021,2325 2026,2334 2044,2337 2054,2354 2078,2353 2136,2111 2101,2104 2070,2116 2054,2108 2026,2108"/>
+                <Baseline points="2003,2256 2020,2253 2065,2241 2110,2232"/>
+                <TextEquiv>
+                    <Unicode>De</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

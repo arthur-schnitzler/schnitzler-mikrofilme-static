@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:08</Creator>
+        <Created>2023-05-10T11:54:15.563+02:00</Created>
+        <LastChange>2023-07-28T21:08:20.458+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55393754" pageNr="16" tsid="131377645" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RGDYKYTBFQXDHFIQFHYZVKCP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQELGLPJESEMITQTLYOHVPYF" imageId="44668639"/>
+    </Metadata>
+    <Page imageFilename="1428176_0016.jpg" imageWidth="3496" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801446116" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="262,415 1540,415 1540,1171 262,1171"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="358,512 1205,462 1535,534 1514,332 1111,377 963,340 794,437 361,342"/>
+                <Baseline points="367,504 376,501 420,498 465,489 510,489 555,489 599,486 644,480 689,477 734,474 779,471 823,471 868,468 913,468 958,468 1002,468 1047,468 1092,465 1137,468 1182,465 1226,465 1271,465 1316,468 1361,474 1405,474 1450,480 1495,483 1540,492"/>
+                <TextEquiv>
+                    <Unicode>St at in Art Cillebor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="286,834 696,732 1180,768 1391,722 1397,597 1247,575 1112,659 757,606 296,625"/>
+                <Baseline points="298,737 322,737 367,737 411,737 456,734 501,731 546,731 591,734 635,731 680,734 725,731 770,728 814,725 859,728 904,725 949,722 993,722 1038,713 1083,710 1128,707 1173,707 1217,704 1262,701 1307,692 1352,692 1396,689"/>
+                <TextEquiv>
+                    <Unicode>(4) Eteibt de i es ist da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="252,947 521,989 710,932 948,988 1202,891 1397,897 1406,772 1236,738 1095,826 257,883"/>
+                <Baseline points="262,934 283,937 328,934 373,937 417,940 462,943 507,940 552,940 596,937 641,931 686,928 731,928 776,922 820,922 865,919 910,922 955,922 999,913 1044,904 1089,901 1134,892 1179,883 1223,880 1268,874 1313,874 1358,874 1402,874"/>
+                <TextEquiv>
+                    <Unicode>einigen äusserteil kost</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="323,1170 490,1200 561,1178 625,1212 671,1215 753,1175 775,1184 779,1076 735,1080 687,1043 622,1048 536,1008 470,1048 326,1062"/>
+                <Baseline points="331,1161 376,1161 420,1155 465,1152 510,1152 555,1149 599,1149 644,1149 689,1152 734,1149 779,1143"/>
+                <TextEquiv>
+                    <Unicode>gebracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

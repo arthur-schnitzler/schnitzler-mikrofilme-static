@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:55</Creator>
+        <Created>2023-09-27T14:40:03.612+02:00</Created>
+        <LastChange>2024-01-22T20:55:36.487+01:00</LastChange>
+        <TranskribusMetadata docId="1589056" pageId="60126899" pageNr="253" tsid="145641541" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VFOEVDBAGQCLYKOJKUNABKLD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CCMXQASVKNBLYLLQBRRNXYPK" imageId="48551976"/>
+    </Metadata>
+    <Page imageFilename="1589056_0253.jpg" imageWidth="2968" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790495729" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+                <RegionRefIndexed index="3" regionRef="tr_4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="838,1093 838,1245 999,1245 999,1093"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="828,1252 890,1240 906,1248 920,1236 944,1236 976,1258 996,1254 996,1120 964,1114 932,1086 904,1104 880,1092 828,1098"/>
+                <Baseline points="838,1193 864,1193 891,1194 918,1195 945,1195 972,1193 999,1193"/>
+                <TextEquiv>
+                    <Unicode>Mrher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1137,684 1137,840 1286,840 1286,684"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1126,792 1146,792 1184,816 1202,804 1230,814 1254,798 1284,798 1284,678 1248,664 1226,680 1182,690 1170,682 1146,702 1126,700"/>
+                <Baseline points="1137,787 1166,788 1196,790 1226,790 1256,788 1286,784"/>
+                <TextEquiv>
+                    <Unicode>She</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="1372,822 1372,978 1578,978 1578,822"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1362,942 1418,946 1428,936 1484,932 1520,948 1574,938 1574,890 1542,884 1526,892 1502,874 1484,880 1468,866 1460,872 1446,860 1416,864 1406,856 1362,878"/>
+                <Baseline points="1372,922 1397,924 1423,925 1449,925 1475,926 1500,928 1526,927 1552,925 1578,922"/>
+                <TextEquiv>
+                    <Unicode>wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_4" custom="readingOrder {index:3;}">
+            <Coords points="1916,1126 1916,1282 2035,1282 2035,1126"/>
+            <TextLine id="tr_4_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1906,1228 1916,1226 1954,1248 1960,1242 1982,1246 1998,1238 2030,1238 2024,1140 2008,1140 1956,1118 1952,1122 1902,1118"/>
+                <Baseline points="1916,1226 1945,1230 1975,1232 2005,1232 2035,1232"/>
+                <TextEquiv>
+                    <Unicode>lhl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_12:48</Creator>
+        <Created>2023-05-10T12:32:28.863+02:00</Created>
+        <LastChange>2023-07-29T12:48:36.726+02:00</LastChange>
+        <TranskribusMetadata docId="1428213" pageId="55404028" pageNr="49" tsid="131419487" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XCRLUQMIUTFGLNWDJEYWZVOT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MQLUHVCMKEYBTDIWRRPJOMNY" imageId="44678800"/>
+    </Metadata>
+    <Page imageFilename="1428213_0049.jpg" imageWidth="3735" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795557513" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1211,1337 2575,1337 2575,2003 1211,2003"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1199,1485 1467,1457 1523,1508 1704,1445 1955,1485 2409,1407 2470,1444 2495,1238 1208,1286"/>
+                <Baseline points="1211,1441 1238,1444 1283,1444 1328,1444 1372,1441 1417,1441 1462,1441 1507,1435 1552,1429 1596,1432 1641,1435 1686,1429 1731,1429 1775,1423 1820,1423 1865,1426 1910,1426 1954,1423 1999,1423 2044,1420 2089,1420 2134,1420 2178,1417 2223,1414 2268,1411 2313,1411 2357,1405 2402,1402 2447,1393 2492,1387"/>
+                <TextEquiv>
+                    <Unicode>lieber Gisses, nicht um ½ 1 -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1234,1688 1427,1606 1572,1638 2090,1568 2183,1656 2572,1555 2575,1485 2425,1442 1925,1510 1781,1462 1578,1532 1385,1498 1243,1547"/>
+                <Baseline points="1247,1635 1277,1629 1322,1620 1366,1614 1411,1608 1456,1605 1501,1602 1546,1596 1590,1593 1635,1590 1680,1587 1725,1587 1769,1581 1814,1575 1859,1575 1904,1575 1949,1572 1993,1575 2038,1572 2083,1569 2128,1569 2172,1572 2217,1575 2262,1575 2307,1569 2351,1563 2396,1555 2441,1552 2486,1543 2531,1546 2575,1552"/>
+                <TextEquiv>
+                    <Unicode>barbejunkt eines findet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1226,1824 1306,1846 1429,1817 1527,1859 1621,1824 1704,1842 1804,1784 1975,1784 1982,1694 1912,1683 1864,1711 1754,1670 1693,1711 1618,1686 1555,1713 1332,1691 1231,1728"/>
+                <Baseline points="1235,1817 1265,1814 1310,1814 1355,1808 1399,1802 1444,1802 1489,1796 1534,1793 1578,1790 1623,1787 1668,1784 1713,1781 1757,1781 1802,1781 1847,1778 1892,1775 1937,1769 1981,1766"/>
+                <TextEquiv>
+                    <Unicode>der Sache statt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1802,2045 1940,2062 2020,2018 2090,2037 2161,2005 2311,2023 2312,1839 2233,1826 2133,1861 2110,1851 2072,1886 2025,1872 1995,1894 1930,1899 1894,1876 1846,1899 1804,1887"/>
+                <Baseline points="1814,1993 1823,1990 1868,1993 1913,1987 1957,1987 2002,1984 2047,1990 2092,1990 2137,1987 2181,1990 2226,1990 2271,1984 2316,1981"/>
+                <TextEquiv>
+                    <Unicode>Dr. W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_01:53</Creator>
+        <Created>2023-05-02T07:44:23.963+02:00</Created>
+        <LastChange>2023-07-26T01:53:27.246+02:00</LastChange>
+        <TranskribusMetadata docId="1416706" pageId="54950308" pageNr="4" tsid="130869887" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PRFNJTTVKTQCESMSRXCQESRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IDWLWCMBMWXPHORRYQWFVEZD" imageId="44454034"/>
+    </Metadata>
+    <Page imageFilename="1416706_0004.jpg" imageWidth="2572" imageHeight="4105">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829222729" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="558,854 2322,854 2322,1383 558,1383"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1080,926 1116,939 1125,930 1203,936 1272,915 1342,939 1385,915 1418,922 1418,877 1382,871 1353,846 1251,871 1239,862 1203,867 1160,835 1080,843"/>
+                <Baseline points="1092,904 1137,904 1182,907 1227,907 1271,907 1316,907 1361,907 1406,907 1424,907"/>
+                <TextEquiv>
+                    <Unicode>Telegramm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2025,919 2046,919 2088,943 2105,932 2133,934 2156,951 2211,930 2251,955 2272,936 2321,924 2319,850 2293,858 2226,807 2198,822 2162,805 2154,812 2114,803 2095,822 2025,812"/>
+                <Baseline points="2036,925 2053,922 2098,919 2143,919 2188,922 2233,922 2277,922 2322,922"/>
+                <TextEquiv>
+                    <Unicode>Feb 95</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="545,1144 2215,1156 2245,1078 2071,1036 1890,1084 1556,1051 1327,1101 545,1105"/>
+                <Baseline points="558,1149 591,1146 635,1149 680,1152 725,1152 770,1152 815,1149 859,1149 904,1146 949,1146 994,1146 1038,1143 1083,1143 1128,1143 1173,1140 1218,1143 1262,1140 1307,1140 1352,1140 1397,1140 1441,1140 1486,1137 1531,1137 1576,1137 1621,1134 1665,1131 1710,1131 1755,1131 1800,1131 1845,1131 1889,1128 1934,1128 1979,1128 2024,1125 2068,1125 2113,1125 2158,1125 2203,1128 2248,1128"/>
+                <TextEquiv>
+                    <Unicode>Wollen Sie uns Ihr Schauspiel Liebelei zur Aufführung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="556,1279 780,1321 968,1268 2114,1283 2181,1260 2184,1184 556,1239"/>
+                <Baseline points="567,1271 573,1271 617,1274 662,1271 707,1271 752,1271 797,1271 841,1268 886,1268 931,1268 976,1268 1021,1265 1065,1265 1110,1262 1155,1262 1200,1262 1244,1259 1289,1262 1334,1262 1379,1259 1424,1259 1468,1259 1513,1259 1558,1256 1603,1256 1647,1256 1692,1253 1737,1253 1782,1253 1827,1250 1871,1250 1916,1250 1961,1250 2006,1250 2051,1250 2095,1247 2140,1247 2185,1247"/>
+                <TextEquiv>
+                    <Unicode>am deutschen Theater für nächste Saison überlassen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1733,1442 1746,1439 1773,1450 1799,1433 1860,1423 1873,1433 1947,1439 1949,1332 1913,1323 1898,1336 1883,1325 1852,1336 1833,1327 1801,1336 1776,1317 1735,1323"/>
+                <Baseline points="1746,1373 1776,1373 1821,1370 1865,1370 1910,1370 1955,1370"/>
+                <TextEquiv>
+                    <Unicode>Brahm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

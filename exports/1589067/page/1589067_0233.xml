@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:06.211+02:00</Created>
+        <LastChange>2024-01-22T21:46:15.075+01:00</LastChange>
+        <TranskribusMetadata docId="1589067" pageId="60127564" pageNr="233" tsid="145643562" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FMMFADYFPVQIJNINMWDISJSZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SXHJWLAEPAMSFJPRPBSUYQUL" imageId="48552641"/>
+    </Metadata>
+    <Page imageFilename="1589067_0233.jpg" imageWidth="2920" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787994927" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="597,370 597,1212 2684,1212 2684,370"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="610,478 852,441 1216,458 1281,499 1433,470 2545,524 2540,441 1877,420 1657,359 1452,388 1349,316 1276,352 1081,306 876,374 606,347"/>
+                <Baseline points="621,430 717,433 813,436 910,440 1006,446 1103,449 1199,456 1296,456 1392,463 1489,469 1585,470 1681,473 1778,477 1874,480 1971,483 2067,489 2164,493 2260,497 2357,504 2453,504 2550,498"/>
+                <TextEquiv>
+                    <Unicode>Ein Sophiema ist nur solten eine blanke Un-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="601,560 2171,651 2239,630 2234,514 2116,562 1773,536 1674,569 1544,511 1187,526 953,463 897,499 598,495"/>
+                <Baseline points="615,555 696,557 778,560 859,562 941,568 1022,573 1104,573 1185,578 1267,581 1348,585 1430,589 1511,591 1593,594 1674,599 1756,601 1837,606 1919,615 2000,615 2082,615 2163,620 2245,630"/>
+                <TextEquiv>
+                    <Unicode>wahrheit; meist ist sie eingesunder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="598,690 917,741 1042,700 1452,755 1554,721 1730,767 1812,738 2417,777 2412,685 2236,695 1978,618 1807,695 1233,581 1078,656 970,601 596,610"/>
+                <Baseline points="612,680 702,680 793,686 883,692 974,692 1064,701 1155,698 1245,704 1336,710 1426,714 1517,720 1607,720 1698,728 1788,732 1879,736 1969,737 2060,743 2150,749 2241,752 2331,755 2422,761"/>
+                <TextEquiv>
+                    <Unicode>Frank lüge - der aber durch einen Tropfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="586,854 741,815 1141,868 1421,835 1645,868 1669,733 996,772 777,712 581,753"/>
+                <Baseline points="597,803 651,803 705,804 759,810 813,812 868,812 922,816 976,819 1030,821 1084,824 1139,830 1193,833 1247,835 1301,836 1355,836 1410,836 1464,840 1518,842 1572,844 1626,848 1681,857"/>
+                <TextEquiv>
+                    <Unicode>Nahrheit vergiftet würde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2188,1204 2287,1189 2415,1216 2492,1172 2538,1172 2579,1204 2610,1189 2675,1209 2680,1119 2564,1095 2526,1131 2434,1103 2289,1129 2193,1100"/>
+                <Baseline points="2204,1182 2229,1180 2254,1179 2279,1179 2305,1179 2330,1178 2355,1175 2380,1172 2406,1168 2431,1167 2456,1167 2481,1167 2507,1167 2532,1165 2557,1164 2582,1162 2608,1161 2633,1161 2658,1162 2684,1164"/>
+                <TextEquiv>
+                    <Unicode>ea</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_06:58</Creator>
+        <Created>2023-05-10T12:15:55.720+02:00</Created>
+        <LastChange>2023-07-29T06:58:15.688+02:00</LastChange>
+        <TranskribusMetadata docId="1428190" pageId="55401117" pageNr="298" tsid="131398095" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BQWQYWZXZPWRYKRPQFNSWQDR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQCMOJAQJYGHZQIESWWZYDCT" imageId="44675939"/>
+    </Metadata>
+    <Page imageFilename="1428190_0298.jpg" imageWidth="3592" imageHeight="4312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711798584118" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1239,218 3216,218 3216,1165 1239,1165"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1387,299 1429,304 1444,289 1461,299 1506,279 1545,294 1587,274 1619,289 1657,270 1674,282 1711,272 1713,171 1674,156 1580,180 1501,153 1390,156"/>
+                <Baseline points="1400,271 1445,271 1490,271 1534,271 1579,268 1624,268 1669,271 1714,271 1717,271"/>
+                <TextEquiv>
+                    <Unicode>le dernier ses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1221,801 1375,823 1728,707 1827,757 2003,687 3209,618 3214,539 2868,480 2660,576 2505,534 2294,588 1827,512 1674,616 1239,546"/>
+                <Baseline points="1239,731 1245,731 1290,722 1334,719 1379,710 1424,707 1469,704 1513,701 1558,698 1603,698 1648,692 1693,689 1737,689 1782,683 1827,677 1872,677 1917,674 1961,674 2006,668 2051,662 2096,659 2141,656 2185,653 2230,650 2275,647 2320,642 2365,639 2409,633 2454,627 2499,627 2544,621 2588,621 2633,618 2678,615 2723,612 2768,612 2812,612 2857,606 2902,609 2947,609 2992,603 3036,603 3081,603 3126,603 3171,606 3216,609"/>
+                <TextEquiv>
+                    <Unicode>fite. He kars ien wis...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1434,935 1998,969 2272,900 2468,937 2685,868 3160,868 3172,695 2532,796 2332,747 2163,823 1444,774"/>
+                <Baseline points="1448,928 1466,934 1510,931 1555,931 1600,928 1645,931 1690,925 1734,922 1779,916 1824,913 1869,907 1914,904 1958,901 2003,895 2048,895 2093,892 2138,889 2182,886 2227,886 2272,883 2317,877 2362,871 2406,865 2451,860 2496,857 2541,848 2586,845 2630,842 2675,839 2720,836 2765,833 2809,833 2854,833 2899,833 2944,833 2989,830 3033,827 3078,824 3123,821 3168,824"/>
+                <TextEquiv>
+                    <Unicode>nandle sellst uitspiels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1533,1229 1642,1207 1713,1251 1765,1249 1854,1207 1943,1197 1980,1167 2057,1187 2129,1165 2129,1098 2060,1093 1916,989 1701,1078 1642,1068 1592,1098 1535,1100"/>
+                <Baseline points="1549,1155 1552,1155 1597,1152 1642,1149 1687,1149 1731,1146 1776,1146 1821,1146 1866,1143 1911,1140 1955,1137 2000,1137 2045,1137 2090,1140 2135,1146"/>
+                <TextEquiv>
+                    <Unicode>Cupen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

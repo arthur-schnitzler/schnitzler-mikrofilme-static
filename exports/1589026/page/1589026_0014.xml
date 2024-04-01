@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_15:28</Creator>
+        <Created>2023-09-27T14:32:13.615+02:00</Created>
+        <LastChange>2024-01-22T15:28:54.101+01:00</LastChange>
+        <TranskribusMetadata docId="1589026" pageId="60121644" pageNr="14" tsid="145619695" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OEEVCVEJGJHVVTUXHOJARZRM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DCVZWQUULWNTHVTOTXYPESLR" imageId="48546723"/>
+    </Metadata>
+    <Page imageFilename="1589026_0014.jpg" imageWidth="3032" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796225541" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="492,1207 492,1829 2074,1829 2074,1207"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="485,1298 1973,1308 1991,1203 1474,1223 1350,1179 485,1247"/>
+                <Baseline points="495,1289 569,1289 644,1286 719,1288 794,1287 869,1286 944,1286 1019,1284 1094,1286 1169,1283 1244,1280 1318,1280 1393,1277 1468,1277 1543,1274 1618,1275 1693,1271 1768,1271 1843,1271 1918,1269 1993,1268"/>
+                <TextEquiv>
+                    <Unicode>Doch nun zu pette, um bei neuer Sonne)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="487,1437 1935,1427 1995,1411 1997,1326 1187,1342 892,1300 487,1363"/>
+                <Baseline points="498,1414 573,1417 648,1417 723,1415 798,1416 873,1414 948,1412 1023,1411 1098,1411 1173,1408 1248,1407 1323,1408 1398,1405 1473,1404 1548,1402 1623,1402 1698,1399 1773,1399 1848,1399 1923,1399 1999,1399"/>
+                <TextEquiv>
+                    <Unicode>Nou mitzutummeln im Getriob des Tages,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="487,1555 2024,1557 2010,1460 1472,1506 1282,1452 1144,1508 1074,1468 487,1490"/>
+                <Baseline points="498,1545 574,1546 651,1540 727,1542 804,1543 880,1541 957,1542 1033,1541 1110,1537 1186,1537 1263,1537 1340,1534 1416,1533 1493,1531 1569,1531 1646,1528 1722,1528 1799,1528 1875,1528 1952,1525 2029,1519"/>
+                <TextEquiv>
+                    <Unicode>Wo jeder Nichtig tur mit seinem Dasein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="481,1688 1993,1680 2072,1668 2074,1573 481,1585"/>
+                <Baseline points="492,1674 571,1676 650,1671 729,1671 808,1665 887,1668 966,1668 1045,1665 1124,1665 1203,1665 1283,1662 1362,1662 1441,1659 1520,1659 1599,1658 1678,1659 1757,1656 1836,1653 1915,1653 1994,1653 2074,1650"/>
+                <TextEquiv>
+                    <Unicode>Als wär es gar so wunderschön zu leben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="497,1844 1258,1860 1260,1723 1231,1716 1035,1729 974,1761 948,1733 883,1763 762,1741 659,1771 590,1731 499,1743"/>
+                <Baseline points="507,1796 544,1799 582,1799 620,1799 658,1798 696,1796 734,1796 772,1793 810,1796 848,1798 886,1796 923,1793 961,1793 999,1793 1037,1793 1075,1795 1113,1796 1151,1795 1189,1793 1227,1793 1265,1793"/>
+                <TextEquiv>
+                    <Unicode>und - gar so nötig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

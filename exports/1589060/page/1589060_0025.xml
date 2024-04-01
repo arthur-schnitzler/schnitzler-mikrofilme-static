@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:04</Creator>
+        <Created>2023-09-27T14:39:38.127+02:00</Created>
+        <LastChange>2024-01-22T20:04:05.834+01:00</LastChange>
+        <TranskribusMetadata docId="1589060" pageId="60125483" pageNr="25" tsid="145638159" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YOBPCBMFKVHTZQEKPJHDXRCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBSAFRPQEJGLZQNJIXYBYEAH" imageId="48550560"/>
+    </Metadata>
+    <Page imageFilename="1589060_0025.jpg" imageWidth="3384" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789413744" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="978,423 978,923 3070,923 3070,423"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1015,547 1350,494 2022,528 2394,497 2553,539 2768,481 2917,513 2917,395 2543,353 2449,419 2174,345 1724,406 1544,374 1376,421 1180,382 1015,411"/>
+                <Baseline points="1029,489 1123,489 1218,486 1313,489 1407,492 1502,492 1597,494 1691,496 1786,495 1881,492 1976,492 2070,493 2165,495 2260,496 2354,496 2449,497 2544,495 2638,501 2733,495 2828,496 2923,498"/>
+                <TextEquiv>
+                    <Unicode>Der vritiker ist für eine kürze Nede in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="965,623 1363,662 2888,631 2888,557 2724,576 2525,515 2321,578 2148,505 1933,557 1489,502 1201,565 965,528"/>
+                <Baseline points="981,617 1076,617 1172,620 1267,620 1363,620 1459,620 1554,623 1650,626 1746,629 1841,623 1937,623 2033,625 2128,626 2224,626 2320,626 2415,626 2511,626 2607,627 2702,624 2798,626 2894,629"/>
+                <TextEquiv>
+                    <Unicode>Uebermapht ihn gegenüber,denn hinter jenem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="963,761 1311,767 1374,806 1470,772 1570,806 1651,761 2344,808 2873,761 2993,808 3066,772 3066,706 2896,704 2797,633 2506,693 2300,651 2232,678 2161,628 2043,680 1876,638 1763,675 1567,633 1376,667 1298,617 963,685"/>
+                <Baseline points="978,748 1082,748 1187,748 1291,751 1396,753 1501,757 1605,754 1710,755 1814,751 1919,753 2024,753 2128,754 2233,754 2337,756 2442,757 2547,757 2651,757 2756,757 2860,757 2965,757 3070,739"/>
+                <TextEquiv>
+                    <Unicode>stohek in geschlossener Phalank,wennauch zu ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="999,892 1525,934 1682,895 1949,939 2410,913 2407,790 1729,767 1368,806 997,767"/>
+                <Baseline points="1014,880 1087,877 1161,877 1234,880 1308,879 1382,879 1455,880 1529,882 1603,880 1676,880 1750,883 1823,883 1897,885 1971,883 2044,883 2118,883 2192,889 2265,886 2339,886 2413,892"/>
+                <TextEquiv>
+                    <Unicode>rätorel bereit, alte seine lespr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

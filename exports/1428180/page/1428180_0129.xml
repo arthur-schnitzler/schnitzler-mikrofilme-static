@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_02:57</Creator>
+        <Created>2023-05-10T11:57:16.916+02:00</Created>
+        <LastChange>2023-07-25T02:57:39.570+02:00</LastChange>
+        <TranskribusMetadata docId="1428180" pageId="55395181" pageNr="129" tsid="130581327" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BJVFGJWGFQCGCCHNFGMTYJEJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONMMSEHFPZDEDXQMHTQLRWBB" imageId="44670065"/>
+    </Metadata>
+    <Page imageFilename="1428180_0129.jpg" imageWidth="3496" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801256976" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="361,576 3134,576 3134,980 361,980"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="343,683 1127,721 1488,631 1789,725 2396,635 2809,773 3124,725 3121,406 2829,534 1827,506 1512,361 1047,468 340,336"/>
+                <Baseline points="361,644 406,644 450,644 495,644 540,644 585,644 629,641 674,641 719,644 764,644 809,647 853,647 898,650 943,659 988,659 1033,662 1077,662 1122,659 1167,659 1212,656 1256,653 1301,650 1346,644 1391,644 1436,644 1480,641 1525,647 1570,647 1615,647 1660,644 1704,644 1749,644 1794,644 1839,644 1883,641 1928,632 1973,635 2018,632 2063,632 2107,632 2152,632 2197,632 2242,629 2287,626 2331,629 2376,632 2421,638 2466,641 2510,641 2555,644 2600,647 2645,644 2690,644 2734,647 2779,650 2824,656 2869,662 2914,671 2958,677 3003,683 3048,689 3093,695 3134,695"/>
+                <TextEquiv>
+                    <Unicode>Marsilio Ficius 1911-1455 pplo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="420,1009 704,985 936,1075 1169,964 1793,985 2112,884 2632,964 2646,725 2080,770 1411,641 881,780 593,714 433,770"/>
+                <Baseline points="441,952 450,952 495,949 540,955 585,952 629,952 674,952 719,952 764,952 809,952 853,955 898,955 943,961 988,967 1033,970 1077,958 1122,955 1167,952 1212,946 1256,943 1301,943 1346,937 1391,934 1436,931 1480,928 1525,925 1570,919 1615,919 1660,913 1704,910 1749,907 1794,907 1839,901 1883,895 1928,892 1973,892 2018,889 2063,883 2107,880 2152,871 2197,865 2242,859 2287,859 2331,859 2376,859 2421,859 2466,856 2510,850 2555,847 2600,844 2647,845"/>
+                <TextEquiv>
+                    <Unicode>Christoforo Samtus 1914 -1004</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

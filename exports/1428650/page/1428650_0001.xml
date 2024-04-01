@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_18:12</Creator>
+        <Created>2023-05-10T14:43:37.093+02:00</Created>
+        <LastChange>2023-08-14T18:12:16.939+02:00</LastChange>
+        <TranskribusMetadata docId="1428650" pageId="55424040" pageNr="1" tsid="132820642" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UCRZVKNYMEWMOMSGNAJONGPW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MFBJNDNZGOYEEUSUQHGNEFPJ" imageId="44698118"/>
+    </Metadata>
+    <Page imageFilename="1428650_0001.jpg" imageWidth="2760" imageHeight="2232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814850550" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="283,516 2414,516 2414,1880 283,1880"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="277,600 674,584 1069,666 1199,608 2052,616 2049,477 1975,464 1500,517 1271,453 1117,520 957,442 640,418 421,498 274,466"/>
+                <Baseline points="289,566 334,566 378,569 423,569 468,569 513,569 558,569 602,572 647,572 692,575 737,584 781,587 826,590 871,593 916,593 960,596 1005,602 1050,602 1095,605 1139,602 1184,599 1229,602 1274,605 1318,602 1363,599 1408,602 1453,599 1497,599 1542,599 1587,596 1632,593 1676,593 1721,593 1766,593 1811,593 1856,593 1900,593 1945,593 1990,590 2035,590 2058,590"/>
+                <TextEquiv>
+                    <Unicode>Anthor ARTHUR SCHNITZLER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="312,874 336,869 360,890 386,879 416,901 445,882 482,909 512,882 552,885 578,869 672,885 669,712 546,717 498,682 482,696 453,688 397,645 349,677 306,669"/>
+                <Baseline points="325,781 370,781 414,781 459,784 504,784 549,784 593,784 638,790 677,790"/>
+                <TextEquiv>
+                    <Unicode>Title</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1975,903 2044,882 2135,826 2148,837 2177,826 2193,839 2228,813 2281,821 2279,664 2244,666 2196,696 2172,674 2140,696 2092,704 1972,690"/>
+                <Baseline points="1990,796 2035,796 2079,799 2124,802 2169,796 2214,796 2258,802 2288,802"/>
+                <TextEquiv>
+                    <Unicode>R.S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="797,847 1069,829 1189,885 1231,847 1394,837 1636,909 1743,850 1887,839 1889,698 1746,653 1663,701 1532,669 1394,717 938,666 800,720"/>
+                <Baseline points="811,817 817,814 862,811 907,811 951,814 996,814 1041,811 1086,811 1130,811 1175,814 1220,814 1265,817 1309,814 1354,814 1399,811 1444,811 1488,811 1533,808 1578,808 1623,808 1668,805 1712,805 1757,808 1802,805 1847,805 1891,799"/>
+                <TextEquiv>
+                    <Unicode>POSTHUMUS LA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="296,1247 314,1239 373,1261 397,1247 461,1258 485,1245 570,1250 581,1237 626,1245 624,1170 576,1162 522,1133 504,1149 442,1138 413,1119 402,1133 365,1135 336,1111 293,1135"/>
+                <Baseline points="307,1229 352,1229 396,1232 441,1232 486,1232 531,1235 575,1235 620,1235 629,1235"/>
+                <TextEquiv>
+                    <Unicode>Date</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="919,1231 1274,1317 1522,1279 1666,1335 1836,1274 2100,1372 2396,1269 2393,1093 2332,1085 2121,1165 1892,1098 1418,1146 1231,1077 919,1141"/>
+                <Baseline points="933,1238 966,1232 1011,1232 1056,1232 1101,1235 1145,1235 1190,1235 1235,1235 1280,1235 1324,1235 1369,1235 1414,1232 1459,1232 1503,1232 1548,1235 1593,1235 1638,1235 1682,1241 1727,1238 1772,1247 1817,1250 1861,1253 1906,1259 1951,1259 1996,1262 2041,1262 2085,1259 2130,1253 2175,1247 2220,1235 2264,1238 2309,1238 2354,1241 2399,1235"/>
+                <TextEquiv>
+                    <Unicode>1  Class mark FiLE 166</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="306,1636 330,1642 373,1607 445,1636 613,1535 869,1572 863,1423 762,1426 650,1383 584,1396 541,1362 469,1383 408,1362 293,1372"/>
+                <Baseline points="313,1477 358,1477 402,1474 447,1474 492,1477 537,1477 581,1477 626,1477 671,1480 716,1486 760,1491 805,1497 850,1497 874,1500"/>
+                <TextEquiv>
+                    <Unicode> v. 2.10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="269,1895 815,1975 1426,1884 1687,1948 2406,1927 2404,1759 2311,1735 2143,1799 1815,1740 1618,1815 1098,1716 826,1780 266,1695"/>
+                <Baseline points="283,1856 328,1853 372,1853 417,1853 462,1856 507,1856 552,1859 596,1861 641,1864 686,1861 731,1864 775,1864 820,1864 865,1864 910,1864 954,1861 999,1861 1044,1864 1089,1864 1133,1867 1178,1867 1223,1861 1268,1861 1312,1867 1357,1864 1402,1864 1447,1864 1491,1864 1536,1861 1581,1861 1626,1861 1671,1861 1715,1864 1760,1864 1805,1864 1850,1861 1894,1861 1939,1861 1984,1864 2029,1867 2073,1870 2118,1867 2163,1864 2208,1867 2252,1864 2297,1861 2342,1867 2387,1867 2414,1867"/>
+                <TextEquiv>
+                    <Unicode>From¬Cambridge,Univ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

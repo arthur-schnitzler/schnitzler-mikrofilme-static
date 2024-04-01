@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:26.505+02:00</Created>
+        <LastChange>2024-01-22T19:42:26.099+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125369" pageNr="17" tsid="145636177" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XJNDVGLFCVYMZNQMEVKPWLPB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZUJZIVQDANTIUSGRJLZVOPRZ" imageId="48550446"/>
+    </Metadata>
+    <Page imageFilename="1589055_0017.jpg" imageWidth="2856" imageHeight="3400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790593276" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="501,490 501,977 2486,977 2486,490"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="509,598 1584,556 1710,593 2011,541 2229,576 2381,549 2383,449 1892,499 1542,454 1460,405 1318,499 1214,462 1055,504 511,464"/>
+                <Baseline points="522,561 615,562 708,563 801,558 895,559 988,558 1081,558 1175,555 1268,558 1361,552 1455,553 1548,553 1641,548 1734,546 1828,546 1921,546 2014,543 2108,543 2201,540 2294,543 2388,540"/>
+                <TextEquiv>
+                    <Unicode>Oarmèr Bach,wie seicht rinnt dein Geriesel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="487,735 772,693 1216,688 1308,730 1480,690 1569,730 1770,688 1966,727 2065,683 2271,693 2271,631 2016,598 1765,638 1604,581 1174,636 732,603 556,643 487,603"/>
+                <Baseline points="501,698 589,694 678,689 766,689 855,688 944,689 1032,686 1121,686 1210,686 1298,685 1387,685 1476,683 1564,683 1653,683 1742,682 1830,674 1919,677 2008,674 2096,674 2185,677 2274,671"/>
+                <TextEquiv>
+                    <Unicode>Auf deiüem Grunde zähl ich jeden stein:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="484,871 953,822 1246,864 1549,814 1867,854 1986,807 2482,812 2482,757 2396,730 2090,755 1984,717 1892,770 1656,735 1457,775 1226,715 1080,757 847,742 755,787 487,735"/>
+                <Baseline points="501,820 600,820 699,820 798,820 898,817 997,819 1096,817 1195,814 1295,811 1394,815 1493,814 1592,808 1692,808 1791,807 1890,804 1989,805 2089,802 2188,799 2287,800 2386,798 2486,794"/>
+                <TextEquiv>
+                    <Unicode>Nicht seicht,nur klar,sprach drauf das Wässer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2197,894 2232,889 2274,923 2304,911 2324,916 2331,909 2341,919 2376,914 2376,822 2361,822 2329,804 2276,822 2239,802 2197,809"/>
+                <Baseline points="2211,865 2239,865 2268,865 2296,865 2325,865 2353,865 2382,865"/>
+                <TextEquiv>
+                    <Unicode>lein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="730,976 1013,1000 1132,958 1231,993 1604,943 1849,948 1946,1000 2199,976 2202,842 1857,901 1470,859 1167,906 1053,879 991,911 916,859 827,904 730,884"/>
+                <Baseline points="743,952 816,946 889,947 962,950 1035,947 1108,946 1181,943 1254,943 1327,944 1400,943 1474,940 1547,941 1620,943 1693,940 1766,937 1839,937 1912,938 1985,937 2058,937 2131,934 2205,937"/>
+                <TextEquiv>
+                    <Unicode>immelsglanz vergoldet meine riesel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

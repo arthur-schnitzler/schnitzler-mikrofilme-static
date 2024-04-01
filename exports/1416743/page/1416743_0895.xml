@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:34</Creator>
+        <Created>2023-05-02T08:12:30.364+02:00</Created>
+        <LastChange>2023-07-27T22:34:47.617+02:00</LastChange>
+        <TranskribusMetadata docId="1416743" pageId="54955595" pageNr="895" tsid="131306589" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HGTSURROGQTLREAKJIUGSLTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MMMPUQVHVUPKHMMLXFDRNQSI" imageId="44459320"/>
+    </Metadata>
+    <Page imageFilename="1416743_0895.jpg" imageWidth="3336" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711826798288" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1346,1373 2459,1373 2459,1863 1346,1863"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1339,1432 2059,1454 2055,1336 1922,1382 1338,1355"/>
+                <Baseline points="1346,1423 1391,1426 1435,1426 1480,1426 1525,1429 1570,1432 1614,1432 1659,1432 1704,1435 1749,1435 1794,1438 1838,1441 1883,1441 1928,1441 1973,1444 2017,1444 2062,1444"/>
+                <TextEquiv>
+                    <Unicode>### ausgefertigten Telegrammen bedeuten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1420,1492 2457,1517 2453,1404 2330,1388 2217,1428 2108,1398 2040,1454 1418,1431"/>
+                <Baseline points="1426,1465 1471,1465 1516,1465 1561,1468 1605,1471 1650,1471 1695,1471 1740,1474 1785,1477 1829,1474 1874,1477 1919,1480 1964,1480 2008,1483 2053,1483 2098,1486 2143,1486 2188,1489 2232,1492 2277,1489 2322,1492 2367,1495 2411,1495 2456,1498 2459,1498"/>
+                <TextEquiv>
+                    <Unicode>denummer, 3. die Wottzahl (allenfalls in Bruchform), 4. den Monate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1807,1535 1837,1524 1877,1538 1892,1525 1927,1521 1966,1525 1989,1542 2071,1528 2085,1538 2105,1525 2118,1530 2118,1499 2087,1490 2076,1502 2012,1486 1978,1495 1965,1485 1928,1498 1909,1482 1883,1498 1842,1477 1806,1493"/>
+                <Baseline points="1814,1513 1859,1519 1904,1516 1949,1519 1994,1519 2038,1519 2083,1522 2122,1519"/>
+                <TextEquiv>
+                    <Unicode>Minute der Aufgabe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1966,1789 1978,1788 1988,1781 1992,1784 2002,1775 2010,1773 2018,1780 2027,1773 2029,1776 2042,1776 2042,1711 2034,1710 2027,1715 2012,1711 2005,1705 1987,1710 1975,1700 1966,1700"/>
+                <Baseline points="1973,1755 2017,1755 2044,1755"/>
+                <TextEquiv>
+                    <Unicode>G.C.H.P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1808,1886 1826,1887 1839,1874 1877,1891 1886,1882 1914,1890 1932,1877 1944,1887 1998,1879 1996,1798 1957,1786 1931,1793 1925,1786 1882,1812 1835,1793 1806,1802"/>
+                <Baseline points="1814,1847 1859,1850 1904,1853 1949,1853 1994,1853 2000,1850"/>
+                <TextEquiv>
+                    <Unicode>Cela nʼentraîne</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

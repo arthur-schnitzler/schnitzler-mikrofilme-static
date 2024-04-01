@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_18:09</Creator>
+        <Created>2023-05-02T07:46:24.970+02:00</Created>
+        <LastChange>2023-07-25T18:09:50.376+02:00</LastChange>
+        <TranskribusMetadata docId="1416710" pageId="54950450" pageNr="6" tsid="130770947" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QRPENSPSTQMMBPIUJDGEFRVE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SPGBIYHZVSGTQLEPXCHCVNFJ" imageId="44454176"/>
+    </Metadata>
+    <Page imageFilename="1416710_0006.jpg" imageWidth="5075" imageHeight="4714">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828992082" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="471,558 4881,558 4881,2617 471,2617"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3126,678 3704,765 4146,661 4848,741 4877,547 3128,519"/>
+                <Baseline points="3138,638 3228,632 3317,638 3407,638 3496,638 3586,638 3675,638 3765,632 3854,626 3944,620 4033,614 4123,620 4212,614 4302,614 4391,608 4481,620 4570,626 4660,626 4749,632 4839,632 4881,638"/>
+                <TextEquiv>
+                    <Unicode>'1 '1' 1 '1 '' 1' 1" 1" ;',',, -: -; -'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="460,645 473,645 484,654 499,652 512,661 521,652 543,650 556,637 578,647 595,634 615,641 615,510 597,517 573,512 558,519 543,506 523,512 460,508"/>
+                <Baseline points="471,626 560,626 620,626"/>
+                <TextEquiv>
+                    <Unicode>1.° 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="695,741 730,741 752,719 789,746 844,730 876,752 940,754 961,730 998,754 1044,750 1033,558 985,554 944,528 852,562 687,567"/>
+                <Baseline points="704,632 793,632 883,638 972,644 1044,650"/>
+                <TextEquiv>
+                    <Unicode>'   ̃  :  :: ::</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2302,2163 2361,2171 2415,2143 2474,2165 2518,2139 2579,2158 2657,2128 2775,2163 2821,2139 2854,2152 2915,2123 2954,2132 2956,2073 2871,2082 2841,2060 2788,2082 2640,2054 2555,2097 2487,2062 2361,2093 2304,2084"/>
+                <Baseline points="2315,2130 2333,2136 2422,2136 2512,2130 2601,2130 2691,2124 2780,2118 2870,2118 2959,2118"/>
+                <TextEquiv>
+                    <Unicode>FERDINAND VON SAAR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2047,2378 2139,2341 2328,2424 2426,2350 2670,2341 2782,2415 2950,2324 3076,2306 3078,2241 2930,2149 2466,2269 2313,2232 2054,2258"/>
+                <Baseline points="2064,2309 2100,2309 2189,2309 2279,2309 2368,2303 2458,2297 2547,2297 2637,2291 2726,2279 2816,2273 2905,2267 2995,2261 3084,2255"/>
+                <TextEquiv>
+                    <Unicode>partuliret herzlich zum feßly</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1942,2631 2169,2601 2326,2681 2564,2575 2703,2612 2847,2601 2856,2500 2681,2485 2431,2553 2311,2524 2178,2559 1953,2500"/>
+                <Baseline points="1957,2607 1963,2607 2052,2601 2142,2601 2231,2595 2321,2589 2410,2583 2500,2577 2589,2571 2679,2559 2768,2541 2858,2524"/>
+                <TextEquiv>
+                    <Unicode>Wien - Oobling, 11 Octbr 1895.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

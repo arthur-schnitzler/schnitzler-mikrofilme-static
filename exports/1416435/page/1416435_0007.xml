@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_05:13</Creator>
+        <Created>2023-05-01T21:55:48.534+02:00</Created>
+        <LastChange>2023-07-25T05:13:14.130+02:00</LastChange>
+        <TranskribusMetadata docId="1416435" pageId="54946029" pageNr="7" tsid="130585649" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ICLYQIGYDTNQTKQNVLYFFSYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RUJDHCVGVUHONFDFAOSOLGZQ" imageId="44450114"/>
+    </Metadata>
+    <Page imageFilename="1416435_0007.jpg" imageWidth="5010" imageHeight="4249">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831639906" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2906,3405 4756,3405 4756,3721 2906,3721"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2892,3565 3095,3614 3482,3570 3595,3501 4649,3487 4712,3386 4419,3367 4227,3436 3688,3404 3233,3492 2899,3427"/>
+                <Baseline points="2906,3526 2924,3526 3013,3526 3103,3526 3192,3520 3282,3514 3371,3509 3461,3509 3550,3497 3640,3491 3729,3491 3819,3491 3908,3491 3998,3479 4087,3479 4177,3473 4266,3467 4356,3467 4445,3467 4535,3461 4624,3455 4714,3455"/>
+                <TextEquiv>
+                    <Unicode>Vielleicht kann ich das Manuscript mit der Neun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2894,3729 3549,3628 4499,3637 4751,3593 4755,3506 3083,3616 2904,3575"/>
+                <Baseline points="2912,3658 2965,3658 3055,3658 3144,3652 3234,3646 3324,3640 3413,3634 3503,3628 3592,3622 3682,3622 3771,3616 3861,3610 3950,3604 4040,3598 4129,3598 4219,3592 4308,3592 4398,3586 4487,3580 4577,3568 4666,3562 4756,3568"/>
+                <TextEquiv>
+                    <Unicode>Dtsch. Kundschau wiederbekommen? Herzlichen dank</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4043,3741 4089,3734 4140,3775 4184,3750 4230,3766 4486,3750 4633,3819 4645,3639 4622,3628 4603,3639 4550,3609 4497,3637 4440,3614 4373,3651 4313,3621 4218,3651 4190,3632 4154,3648 4050,3632"/>
+                <Baseline points="4058,3711 4111,3694 4201,3688 4290,3688 4380,3682 4469,3676 4559,3664 4648,3664"/>
+                <TextEquiv>
+                    <Unicode>für Ihre Karte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

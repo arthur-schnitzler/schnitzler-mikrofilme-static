@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:57</Creator>
+        <Created>2023-09-27T14:39:37.529+02:00</Created>
+        <LastChange>2024-01-22T19:57:59.933+01:00</LastChange>
+        <TranskribusMetadata docId="1589057" pageId="60125730" pageNr="86" tsid="145637660" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RERKKYXETIMMHAOZUNZFPQYI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZSSWBERMQQYAELBCGJDXGGP" imageId="48550807"/>
+    </Metadata>
+    <Page imageFilename="1589057_0086.jpg" imageWidth="3336" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790057354" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="833,530 833,790 2780,790 2780,530"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="818,784 996,730 1130,765 1700,718 1924,750 2038,689 2165,716 2420,657 2540,711 2730,701 2771,692 2781,548 2700,528 2391,601 2050,550 1848,628 1459,650 1395,618 1339,655 823,677"/>
+                <Baseline points="833,740 930,734 1027,728 1125,725 1222,721 1319,715 1417,707 1514,701 1611,695 1709,691 1806,683 1903,680 2001,670 2098,666 2195,657 2293,656 2390,647 2487,642 2585,640 2682,636 2780,630"/>
+                <TextEquiv>
+                    <Unicode>Die Reise, die drei Freunde und die Masserlsiche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2834,282 2834,450 2989,450 2989,282"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2817,421 2834,424 2861,409 2868,416 2885,404 2924,441 2939,433 2941,441 2976,443 2990,314 2920,304 2893,287 2871,290 2834,273"/>
+                <Baseline points="2834,400 2859,396 2885,389 2911,385 2937,385 2963,384 2989,382"/>
+                <TextEquiv>
+                    <Unicode>904</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

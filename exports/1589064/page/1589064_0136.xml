@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:40:56.515+02:00</Created>
+        <LastChange>2024-01-22T21:25:03.475+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126788" pageNr="136" tsid="145642640" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JJIUUGHFAKLWRBIXNLJMOITU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHWVFBQHLFOLOQSQMENSHGRR" imageId="48551865"/>
+    </Metadata>
+    <Page imageFilename="1589064_0136.jpg" imageWidth="2888" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788627136" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="587,580 587,1836 2453,1836 2453,580"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="632,667 656,663 691,679 719,667 749,693 798,663 852,679 905,665 903,581 824,572 779,593 721,565 628,581"/>
+                <Baseline points="644,644 670,642 697,642 723,646 750,647 776,647 803,649 829,650 856,650 882,649 909,646"/>
+                <TextEquiv>
+                    <Unicode>Kr. U.F</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="581,784 623,791 656,819 716,786 831,803 894,786 938,812 985,796 980,691 863,707 810,688 775,712 681,693 651,712 579,688"/>
+                <Baseline points="593,767 619,770 645,773 672,773 698,774 725,776 751,778 778,779 804,779 831,779 857,779 884,779 910,779 937,780 963,783 990,787"/>
+                <TextEquiv>
+                    <Unicode>Mothoden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="574,957 789,931 1587,978 1848,929 2450,992 2420,835 969,863 894,814 572,798"/>
+                <Baseline points="587,895 680,901 773,904 866,904 960,904 1053,908 1146,910 1240,910 1333,913 1426,913 1520,918 1613,916 1706,919 1799,919 1893,922 1986,917 2079,922 2173,925 2266,925 2359,928 2453,919"/>
+                <TextEquiv>
+                    <Unicode>Man mondet zur Charaktorisierung des Autors</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="574,1078 2301,1099 2299,1011 2168,976 1979,1013 1846,955 1750,1011 1258,962 1160,999 574,966"/>
+                <Baseline points="587,1032 672,1032 758,1031 844,1035 930,1035 1016,1038 1102,1038 1187,1039 1273,1041 1359,1041 1445,1044 1531,1047 1617,1047 1703,1047 1788,1047 1874,1047 1960,1049 2046,1052 2132,1053 2218,1054 2304,1053"/>
+                <TextEquiv>
+                    <Unicode>ein in Mieskredit geratenes Wort an: er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="616,1235 677,1197 905,1232 1081,1193 1601,1258 2131,1244 2128,1102 1613,1127 1543,1081 1102,1132 824,1076 614,1092"/>
+                <Baseline points="627,1166 702,1164 777,1167 853,1167 928,1169 1003,1170 1079,1172 1154,1172 1229,1171 1305,1172 1380,1171 1455,1174 1531,1175 1606,1178 1681,1178 1757,1179 1832,1181 1907,1180 1983,1184 2058,1184 2134,1181"/>
+                <TextEquiv>
+                    <Unicode>geisselt, er legt diersonde an ete.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1207,1865 1258,1872 1314,1855 1351,1867 1365,1851 1440,1832 1466,1853 1512,1860 1508,1729 1438,1732 1412,1715 1363,1715 1312,1683 1251,1676 1202,1706"/>
+                <Baseline points="1217,1802 1244,1798 1271,1797 1298,1798 1325,1798 1352,1796 1380,1800 1407,1802 1434,1802 1461,1803 1488,1805 1516,1805"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

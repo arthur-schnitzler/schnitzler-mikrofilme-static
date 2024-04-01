@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:26.885+02:00</Created>
+        <LastChange>2024-01-22T19:42:26.721+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125376" pageNr="21" tsid="145636181" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LGKSPFHGXYUCSACIBQXPJITM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RANWPALSPVBAIILRSUBASYLM" imageId="48550453"/>
+    </Metadata>
+    <Page imageFilename="1589055_0021.jpg" imageWidth="2920" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790598572" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="549,564 549,912 2602,912 2602,564"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="536,674 801,628 906,671 1509,628 1965,676 2139,623 2193,659 2563,605 2448,559 2068,585 1692,523 1600,556 1465,500 1103,577 1016,518 786,562 687,495 539,511"/>
+                <Baseline points="549,656 650,631 751,627 852,628 953,626 1054,629 1155,629 1256,632 1357,629 1458,631 1559,632 1660,632 1761,632 1862,628 1963,626 2064,626 2165,623 2266,627 2367,628 2468,631 2569,635"/>
+                <TextEquiv>
+                    <Unicode>Iu viele Mahrheit hatt ich über ihn vernommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="546,763 738,766 847,827 1281,768 1394,837 1705,812 1794,763 2598,763 2598,684 2555,676 2264,707 1664,661 1519,733 1463,689 546,692"/>
+                <Baseline points="561,758 663,756 765,758 867,758 969,758 1071,760 1173,761 1275,761 1377,761 1479,761 1581,759 1683,758 1785,759 1887,758 1989,761 2091,758 2193,758 2295,758 2397,758 2499,757 2602,755"/>
+                <TextEquiv>
+                    <Unicode>so musst ich wohl ein falsches Bild von ihm be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2075,878 2106,896 2152,886 2216,909 2274,883 2292,896 2310,883 2387,891 2387,837 2318,827 2264,840 2203,817 2175,830 2157,814 2108,817 2073,796"/>
+                <Baseline points="2089,877 2114,877 2139,877 2165,877 2190,877 2215,877 2241,878 2266,880 2291,880 2317,880 2342,880 2367,881 2393,883"/>
+                <TextEquiv>
+                    <Unicode>kommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

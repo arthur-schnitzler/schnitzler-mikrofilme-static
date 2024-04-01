@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:09</Creator>
+        <Created>2023-05-10T11:55:16.646+02:00</Created>
+        <LastChange>2023-07-28T21:09:46.392+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55396059" pageNr="356" tsid="131377990" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HPHDOMUSLLGOVKDJNORLCCOX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYNNVYEWMKMFPAGYEPWUGMUN" imageId="44670937"/>
+    </Metadata>
+    <Page imageFilename="1428176_0356.jpg" imageWidth="2264" imageHeight="3400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801752845" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="931,239 1940,239 1940,341 931,341"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1758,317 1782,314 1789,307 1797,312 1812,302 1826,309 1838,304 1867,312 1876,308 1883,313 1891,306 1900,314 1937,312 1942,231 1917,230 1892,246 1888,242 1874,249 1843,244 1815,263 1782,258 1773,266 1761,260"/>
+                <Baseline points="1764,301 1805,298 1850,295 1895,289 1940,295"/>
+                <TextEquiv>
+                    <Unicode>sond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="926,327 988,342 1020,321 1031,331 1068,334 1098,327 1114,338 1154,325 1173,331 1186,324 1196,216 1159,217 1094,270 1063,272 1034,246 987,286 930,286"/>
+                <Baseline points="931,331 964,331 1008,328 1053,322 1098,319 1143,313 1188,313"/>
+                <TextEquiv>
+                    <Unicode>erlaicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1245,319 1280,327 1294,317 1346,370 1391,376 1403,364 1434,366 1465,380 1483,369 1543,374 1545,264 1497,276 1454,266 1423,278 1396,267 1355,273 1330,261 1245,286"/>
+                <Baseline points="1250,319 1277,319 1322,313 1367,316 1411,313 1456,313 1501,313 1546,313"/>
+                <TextEquiv>
+                    <Unicode>dans un peu de</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="1277,2120 2056,2120 2056,3039 1277,3039"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1876,2203 1890,2206 1901,2198 1916,2199 1942,2182 1961,2186 1989,2175 2000,2183 2035,2167 2054,2173 2057,2131 2017,2125 2007,2116 1999,2119 1984,2103 1956,2111 1935,2101 1907,2121 1882,2121"/>
+                <Baseline points="1883,2182 1922,2179 1967,2176 2011,2173 2056,2170"/>
+                <TextEquiv>
+                    <Unicode>men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1272,3046 1303,3049 1334,3034 1363,3057 1388,3031 1440,3061 1477,3034 1490,3045 1514,3028 1550,3053 1654,3033 1653,2944 1612,2923 1508,2929 1479,2901 1431,2901 1405,2876 1271,2973"/>
+                <Baseline points="1277,3029 1322,3023 1367,3023 1411,3029 1456,3029 1501,3029 1546,3029 1591,3029 1635,3029 1656,3029"/>
+                <TextEquiv>
+                    <Unicode>pilisme</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

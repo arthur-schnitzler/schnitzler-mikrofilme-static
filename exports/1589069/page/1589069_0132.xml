@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:17.874+02:00</Created>
+        <LastChange>2024-01-22T21:46:57.026+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127305" pageNr="132" tsid="145643798" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=THTKGYEFBYTFOVBIIFVDRNAM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EIHZEOBZMUQOYRUSCJSLIGUD" imageId="48552382"/>
+    </Metadata>
+    <Page imageFilename="1589069_0132.jpg" imageWidth="2872" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787423424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="525,503 525,850 2590,850 2590,503"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="513,565 735,603 941,567 1093,621 1671,578 1751,611 1805,572 1849,606 1893,567 2117,627 2584,609 2581,441 2530,428 2125,505 2066,469 1970,505 1431,467 1217,526 962,487 696,511 513,464"/>
+                <Baseline points="528,552 631,555 734,557 837,558 940,562 1043,561 1146,564 1249,567 1352,570 1455,568 1559,573 1662,574 1765,576 1868,576 1971,576 2074,579 2177,576 2280,581 2383,584 2486,584 2590,587"/>
+                <TextEquiv>
+                    <Unicode>Ist Goit der Fraum der Menschheit? Er wäre zu schön.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1661,640 1689,650 1715,645 1723,652 1738,652 1754,640 1808,652 1852,647 1852,591 1823,593 1805,575 1774,588 1751,611 1725,588 1674,609 1661,606"/>
+                <Baseline points="1674,638 1700,638 1726,638 1752,636 1778,635 1804,635 1830,635 1856,635"/>
+                <TextEquiv>
+                    <Unicode>vele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="516,743 941,709 1068,761 1578,712 1818,768 2233,719 2496,784 2509,645 2298,652 2207,611 2094,660 1681,652 1604,606 1457,652 1377,611 1302,650 1142,606 972,647 789,603 691,645 513,624"/>
+                <Baseline points="531,686 630,683 729,686 829,688 928,689 1027,692 1127,695 1226,692 1325,698 1425,698 1524,698 1623,700 1723,704 1822,707 1921,710 2021,713 2120,716 2219,717 2319,719 2418,722 2518,719"/>
+                <TextEquiv>
+                    <Unicode>Ist die Menschheit ddten Traumf Er wäre zu abscheu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="511,851 549,864 572,856 619,882 660,882 743,913 740,779 694,766 640,771 603,743 511,743"/>
+                <Baseline points="525,823 552,823 579,822 606,821 634,821 661,823 688,823 715,824 743,826"/>
+                <TextEquiv>
+                    <Unicode>lich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

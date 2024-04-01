@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:18</Creator>
+        <Created>2023-05-10T14:49:54.843+02:00</Created>
+        <LastChange>2023-08-14T22:18:02.142+02:00</LastChange>
+        <TranskribusMetadata docId="1428681" pageId="55426667" pageNr="71" tsid="132828185" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IWIGOPNVSUXLMQUUGVHPDCWO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LFQPAJNEUDJDRUFULVBSFFJR" imageId="44700743"/>
+    </Metadata>
+    <Page imageFilename="1428681_0071.jpg" imageWidth="6664" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810914545" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3951,606 6070,606 6070,1126 3951,1126"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3935,755 4632,670 6066,758 6066,591 5499,617 4937,538 4799,617 4545,559 3935,602"/>
+                <Baseline points="3951,656 4040,662 4130,662 4220,662 4309,656 4399,662 4488,662 4578,656 4667,662 4757,662 4846,662 4936,662 5025,656 5115,662 5204,662 5294,662 5384,656 5473,656 5563,656 5652,656 5742,656 5831,662 5921,662 6010,656 6070,662"/>
+                <TextEquiv>
+                    <Unicode>schönes, wenn auch nicht durchaus gutes Stück.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3943,867 5822,874 5981,856 5981,734 3943,755"/>
+                <Baseline points="3957,811 4017,811 4106,811 4196,817 4285,811 4375,817 4464,811 4554,805 4643,805 4733,805 4822,811 4912,811 5001,811 5091,811 5181,811 5270,817 5360,817 5449,817 5539,811 5628,811 5718,805 5807,811 5897,811 5986,799"/>
+                <TextEquiv>
+                    <Unicode>30.12. Wedekind, Franziska, (Raimundth.) Carl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4502,922 4537,912 4547,925 4608,896 4680,898 4696,914 4757,898 4815,912 4868,898 4929,906 4932,837 4900,843 4881,824 4728,832 4701,853 4645,827 4603,840 4574,827 4502,845"/>
+                <Baseline points="4518,889 4578,883 4667,889 4757,883 4846,883 4936,877"/>
+                <TextEquiv>
+                    <Unicode>glänzende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3935,988 5154,1049 5973,988 5973,917 5854,874 4190,928 3935,872"/>
+                <Baseline points="3951,955 4011,961 4100,966 4190,966 4279,966 4369,966 4458,966 4548,961 4637,961 4727,966 4816,966 4906,961 4996,961 5085,961 5175,961 5264,961 5354,961 5443,961 5533,966 5622,966 5712,966 5801,961 5891,955 5980,949"/>
+                <TextEquiv>
+                    <Unicode>Heinz Martins Regie des genialisch¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3943,1179 4333,1155 4457,1203 4669,1126 4958,1203 5077,1126 5271,1126 5597,1190 5597,1068 5491,1036 3943,1047"/>
+                <Baseline points="3957,1116 3993,1116 4082,1116 4172,1116 4261,1116 4351,1116 4440,1116 4530,1116 4619,1116 4709,1116 4799,1116 4888,1116 4978,1116 5067,1116 5157,1116 5246,1116 5336,1116 5425,1116 5515,1116 5604,1110"/>
+                <TextEquiv>
+                    <Unicode>trockenen,schwachgeistigen Stückes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

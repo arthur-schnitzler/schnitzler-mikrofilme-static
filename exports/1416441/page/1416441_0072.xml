@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_14:44</Creator>
+        <Created>2023-05-01T21:59:25.851+02:00</Created>
+        <LastChange>2023-07-25T14:44:48.422+02:00</LastChange>
+        <TranskribusMetadata docId="1416441" pageId="54947114" pageNr="72" tsid="130683869" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZYYADQVPPNPMCHITVDJPXYYO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GVAMEOQDJKLOWBOMWMHDRVAT" imageId="44451199"/>
+    </Metadata>
+    <Page imageFilename="1416441_0072.jpg" imageWidth="2169" imageHeight="3335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830636370" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="310,663 1680,663 1680,1192 310,1192"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="860,764 890,761 900,754 917,759 924,753 943,761 953,753 970,753 965,637 943,632 917,615 880,627 868,618 854,620"/>
+                <Baseline points="868,713 913,716 958,716 973,716"/>
+                <TextEquiv>
+                    <Unicode>(54)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="319,754 465,761 523,744 606,761 756,759 756,664 664,664 625,686 527,674 505,690 450,664 319,680"/>
+                <Baseline points="328,728 358,722 403,725 447,725 492,725 537,725 582,725 626,722 671,725 716,725 761,722"/>
+                <TextEquiv>
+                    <Unicode>A.S. an H.v.H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="301,877 926,815 1016,849 1349,822 1500,851 1515,751 1269,722 1063,776 301,761"/>
+                <Baseline points="310,809 355,812 400,812 444,815 489,815 534,812 579,812 624,812 668,812 713,812 758,812 803,812 847,812 892,812 937,812 982,812 1027,812 1071,809 1116,812 1161,809 1206,812 1250,809 1295,809 1340,809 1385,806 1430,806 1474,803 1519,803"/>
+                <TextEquiv>
+                    <Unicode>Sie schreiben mir bald nach Wien, nicht wahr?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="742,934 764,939 785,933 797,939 802,934 805,938 814,934 822,926 839,926 841,849 832,849 824,841 807,853 804,849 800,853 770,839 756,848 744,848"/>
+                <Baseline points="752,898 755,898 800,895 844,895"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="853,1001 892,1002 919,992 929,999 968,999 987,992 1018,1007 1041,997 1063,1004 1063,965 1035,963 1007,941 963,939 956,945 950,938 900,955 877,939 853,941"/>
+                <Baseline points="862,985 907,988 952,988 997,988 1042,985 1068,988"/>
+                <TextEquiv>
+                    <Unicode>Arthur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="313,1104 1651,1108 1675,984 1437,1031 313,1023"/>
+                <Baseline points="322,1077 337,1077 382,1080 426,1083 471,1080 516,1080 561,1080 606,1080 650,1083 695,1083 740,1083 785,1083 830,1080 874,1080 919,1080 964,1080 1009,1080 1053,1080 1098,1080 1143,1080 1188,1080 1233,1080 1277,1080 1322,1077 1367,1077 1412,1077 1457,1077 1501,1077 1546,1077 1591,1074 1636,1074 1680,1071"/>
+                <TextEquiv>
+                    <Unicode>Grüssen Sie P.A. (Poldi Andrian), wenn er schon bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="314,1186 372,1194 406,1213 459,1213 486,1194 555,1223 612,1220 608,1123 576,1119 533,1133 522,1125 499,1136 476,1123 433,1142 420,1130 374,1135 343,1121 313,1136"/>
+                <Baseline points="322,1170 367,1176 412,1179 456,1179 501,1182 546,1182 591,1182 612,1182"/>
+                <TextEquiv>
+                    <Unicode>Ihnen ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:09</Creator>
+        <Created>2023-09-27T14:33:27.313+02:00</Created>
+        <LastChange>2024-01-22T18:09:42.122+01:00</LastChange>
+        <TranskribusMetadata docId="1589031" pageId="60122855" pageNr="123" tsid="145631377" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EEHOOOQWBHDEDWZEHRJBRCRZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFRXJUXIINTLGKBTCNYRQADD" imageId="48547933"/>
+    </Metadata>
+    <Page imageFilename="1589031_0123.jpg" imageWidth="2872" imageHeight="3448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711794261810" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="182,320 823,320 823,410 182,410"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="170,544 271,533 364,577 514,568 583,533 721,556 757,528 813,536 826,274 764,290 632,228 463,253 339,205 186,205"/>
+                <Baseline points="182,394 197,394 241,397 286,394 331,397 376,397 420,400 465,397 510,391 555,385 600,385 644,379 689,376 734,373 779,370 823,373"/>
+                <TextEquiv>
+                    <Unicode>Freser Kels</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

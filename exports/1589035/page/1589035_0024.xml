@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_17:15</Creator>
+        <Created>2023-09-27T14:35:13.961+02:00</Created>
+        <LastChange>2024-01-22T17:15:01.281+01:00</LastChange>
+        <TranskribusMetadata docId="1589035" pageId="60123133" pageNr="24" tsid="145628194" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GGLDTYNFCUUDJMUTLPEOCKGJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GKVSCEGHEYFZXUOHISOMHPAL" imageId="48548211"/>
+    </Metadata>
+    <Page imageFilename="1589035_0024.jpg" imageWidth="3320" imageHeight="4376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792976928" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1426,3974 1426,4130 1632,4130 1632,3974"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1416,4104 1462,4104 1490,4092 1524,4102 1542,4086 1556,4092 1596,4076 1628,4078 1626,3966 1574,3944 1558,3946 1508,3916 1458,3942 1430,3930 1414,3934"/>
+                <Baseline points="1426,4074 1451,4076 1477,4077 1503,4077 1529,4077 1554,4077 1580,4077 1606,4077 1632,4080"/>
+                <TextEquiv>
+                    <Unicode>U</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1785,3320 1785,4136 2355,4136 2355,3320"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1774,3450 1860,3426 1910,3454 1948,3432 2032,3482 2068,3452 2106,3462 2202,3430 2266,3442 2264,3308 2198,3284 2060,3376 1942,3352 1866,3394 1772,3388"/>
+                <Baseline points="1785,3420 1810,3422 1836,3423 1861,3423 1887,3424 1912,3426 1938,3426 1964,3426 1989,3428 2015,3429 2040,3431 2066,3432 2091,3432 2117,3432 2143,3432 2168,3432 2194,3432 2219,3430 2245,3428 2271,3426"/>
+                <TextEquiv>
+                    <Unicode>vehe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1988,4106 2024,4080 2046,4092 2076,4082 2100,4104 2164,4088 2350,4104 2350,4000 2308,3988 2152,3994 2116,4010 2086,4004 2060,4024 1988,4010"/>
+                <Baseline points="1999,4086 2024,4083 2049,4081 2075,4084 2100,4086 2126,4086 2151,4086 2177,4086 2202,4084 2227,4083 2253,4083 2278,4083 2304,4083 2329,4084 2355,4086"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="2423,3980 2423,4172 2805,4172 2805,3980"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2414,4112 2560,4094 2618,4112 2798,4114 2792,4038 2768,4030 2732,4030 2714,4048 2622,4030 2556,4060 2452,4028 2408,4032"/>
+                <Baseline points="2423,4080 2448,4085 2473,4090 2499,4093 2524,4096 2550,4097 2575,4099 2601,4101 2626,4103 2652,4105 2677,4108 2703,4111 2728,4112 2754,4114 2779,4116 2805,4122"/>
+                <TextEquiv>
+                    <Unicode>cmme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

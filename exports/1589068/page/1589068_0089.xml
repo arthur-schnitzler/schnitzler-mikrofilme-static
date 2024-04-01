@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:56.545+02:00</Created>
+        <LastChange>2024-01-22T21:15:21.726+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126935" pageNr="89" tsid="145642255" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LBOCKZWRPJCIRVJVNQQXLTQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KTWOZQXQGLPNLDBPBOAVHSDU" imageId="48552012"/>
+    </Metadata>
+    <Page imageFilename="1589068_0089.jpg" imageWidth="2904" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787606295" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="680,176 680,994 2653,994 2653,176"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2444,253 2472,256 2489,275 2523,289 2539,275 2599,289 2625,277 2644,287 2649,150 2611,150 2575,131 2532,150 2513,129 2475,153 2446,148"/>
+                <Baseline points="2456,244 2484,246 2512,242 2540,241 2568,241 2596,239 2624,238 2653,238"/>
+                <TextEquiv>
+                    <Unicode>1811</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="666,607 769,643 996,580 1228,607 1529,557 1710,604 2291,537 2527,583 2530,473 1904,480 1653,432 896,504 800,449 669,473"/>
+                <Baseline points="680,575 772,571 865,572 957,570 1050,567 1143,567 1235,561 1328,561 1421,558 1513,557 1606,555 1699,552 1791,549 1884,546 1977,543 2069,540 2162,537 2255,534 2347,534 2440,534 2533,540"/>
+                <TextEquiv>
+                    <Unicode>so weit schauen als möglich, aber von dort,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="678,736 1070,702 1159,752 1307,707 1455,705 1455,633 1316,633 1252,597 977,643 846,626 681,650"/>
+                <Baseline points="695,704 733,704 771,702 809,702 847,703 886,701 924,701 962,698 1000,698 1038,698 1077,698 1115,697 1153,694 1191,692 1229,695 1268,695 1306,693 1344,691 1382,690 1420,692 1459,695"/>
+                <TextEquiv>
+                    <Unicode>wo man hingehört.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="676,846 963,872 1096,834 1280,886 1443,827 2028,867 2594,812 2597,681 2131,750 1918,748 1854,705 1686,750 1082,719 915,779 678,767"/>
+                <Baseline points="689,838 784,832 880,830 975,829 1071,829 1166,826 1262,823 1357,820 1453,819 1548,814 1644,809 1739,805 1835,805 1930,802 2026,799 2121,796 2217,793 2312,793 2408,788 2503,784 2599,781"/>
+                <TextEquiv>
+                    <Unicode>Die Augen schäufen,aber nicht den standpunkt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="666,1015 774,1010 807,989 944,967 994,987 1089,987 1092,910 1008,908 979,884 944,896 877,879 781,908 755,901 669,948"/>
+                <Baseline points="683,963 708,961 734,963 760,963 786,963 812,963 838,963 864,963 890,963 916,963 942,961 968,960 994,960 1020,960 1046,960 1072,959 1098,957"/>
+                <TextEquiv>
+                    <Unicode>wechseln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

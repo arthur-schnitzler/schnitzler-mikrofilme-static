@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:55</Creator>
+        <Created>2023-05-10T11:48:13.954+02:00</Created>
+        <LastChange>2023-07-28T18:55:14.833+02:00</LastChange>
+        <TranskribusMetadata docId="1428173" pageId="55393087" pageNr="220" tsid="131372311" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ECZRORSGZCDCTEFKZQHORRRT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONBSGZSJDQAFVMSQTMMNENZW" imageId="44667972"/>
+    </Metadata>
+    <Page imageFilename="1428173_0220.jpg" imageWidth="3704" imageHeight="4408">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802256241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2858,105 3320,105 3320,275 2858,275"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2898,212 2936,212 3014,178 3032,188 3166,162 3246,182 3310,162 3310,116 3232,120 3136,86 2900,98"/>
+                <Baseline points="2908,170 2911,167 2956,164 3001,164 3046,164 3090,161 3135,161 3180,161 3225,161 3270,158 3314,155"/>
+                <TextEquiv>
+                    <Unicode>Auße ses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2848,292 2918,308 2998,288 3028,310 3142,308 3212,338 3296,338 3314,332 3316,210 3174,234 3074,222 3002,232 2956,198 2904,226 2848,230"/>
+                <Baseline points="2858,265 2872,265 2917,265 2962,265 3007,262 3052,262 3096,262 3141,259 3186,259 3231,259 3276,265 3320,262"/>
+                <TextEquiv>
+                    <Unicode>a une lettre est même de ses autres.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

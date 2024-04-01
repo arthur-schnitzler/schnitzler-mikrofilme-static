@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:09</Creator>
+        <Created>2023-05-10T11:54:52.764+02:00</Created>
+        <LastChange>2023-07-28T21:09:09.081+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55395232" pageNr="217" tsid="131377848" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZHXOIFOVNQWAUMLITNYITTRC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USBNJQHYQNYDLLGNMMLPFZSS" imageId="44670116"/>
+    </Metadata>
+    <Page imageFilename="1428176_0217.jpg" imageWidth="3480" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801614855" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1805,164 2369,164 2369,353 1805,353"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1792,286 1922,272 1960,298 2030,302 2100,268 2360,252 2370,172 1974,192 1914,236 1796,238"/>
+                <Baseline points="1805,271 1832,268 1877,265 1922,265 1966,259 2011,253 2056,247 2101,241 2146,238 2190,232 2235,223 2280,220 2325,217 2369,214"/>
+                <TextEquiv>
+                    <Unicode>de la riviere de la vie de lui faire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1818,242 1850,242 1856,238 1872,242 1882,234 1886,238 1896,234 1900,238 1906,234 1926,236 1930,196 1916,196 1904,204 1898,200 1882,210 1878,206 1868,210 1850,196 1840,198 1838,194 1820,198"/>
+                <Baseline points="1829,232 1841,232 1886,229 1931,226"/>
+                <TextEquiv>
+                    <Unicode>G.C.P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1990,360 2004,358 2010,364 2016,360 2046,378 2054,374 2056,378 2068,376 2084,366 2098,370 2104,272 2092,270 2076,284 2068,278 2036,300 2018,296 2014,300 2004,290 1994,290"/>
+                <Baseline points="2002,340 2014,340 2059,334 2104,334"/>
+                <TextEquiv>
+                    <Unicode>Ouilu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1858,376 1870,378 1894,360 1904,364 1922,352 1932,358 1948,350 1962,352 1962,294 1950,290 1944,294 1936,286 1930,286 1922,294 1906,300 1898,294 1894,298 1888,294 1872,304 1858,302"/>
+                <Baseline points="1868,340 1913,343 1958,340 1966,340"/>
+                <TextEquiv>
+                    <Unicode>Deine</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

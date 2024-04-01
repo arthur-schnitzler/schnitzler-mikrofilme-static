@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_14:49</Creator>
+        <Created>2023-05-01T22:06:08.327+02:00</Created>
+        <LastChange>2023-07-25T14:49:50.972+02:00</LastChange>
+        <TranskribusMetadata docId="1416474" pageId="54948043" pageNr="3" tsid="130685957" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AZQIYREQTEJUPYOWQWYGIINC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZMWYIVERTJDUHTLSHFEUVFZ" imageId="44452094"/>
+    </Metadata>
+    <Page imageFilename="1416474_0003.jpg" imageWidth="5067" imageHeight="4712">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829918132" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="864,1101 3865,1101 3865,2133 864,2133"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1400,1349 1949,1453 2025,1408 2336,1462 2725,1368 2925,1431 2991,940 1421,999"/>
+                <Baseline points="1419,1246 1461,1246 1550,1234 1640,1234 1729,1228 1819,1222 1908,1216 1998,1204 2087,1198 2177,1192 2266,1192 2356,1180 2445,1180 2534,1175 2624,1169 2713,1169 2803,1163 2892,1157 2982,1151"/>
+                <TextEquiv>
+                    <Unicode>Letters to ARTHUR SCHNITELER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="850,1374 907,1392 956,1380 1058,1437 1122,1449 1128,1013 1052,1001 1026,1015 921,991 876,1019 856,1013"/>
+                <Baseline points="864,1306 954,1312 1043,1306 1127,1306"/>
+                <TextEquiv>
+                    <Unicode>83</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="886,1806 1097,1814 1228,1752 1284,1779 1363,1724 1482,1699 1541,1722 1613,1685 1885,1728 1892,1541 1587,1552 1439,1494 1097,1546 964,1462 901,1470"/>
+                <Baseline points="900,1711 906,1711 996,1705 1085,1705 1175,1705 1264,1699 1353,1699 1443,1693 1532,1687 1622,1682 1711,1676 1801,1670 1890,1664"/>
+                <TextEquiv>
+                    <Unicode>Die-Andro, Therese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1038,1922 1488,1937 1617,2035 1767,1984 1910,2008 1992,1977 2076,2010 2172,1980 2174,1765 2113,1779 2037,1724 1834,1783 1760,1742 1582,1763 1351,1834 1040,1795"/>
+                <Baseline points="1049,1878 1103,1884 1192,1890 1282,1896 1371,1902 1461,1902 1550,1902 1640,1902 1729,1896 1819,1896 1908,1896 1998,1884 2087,1878 2177,1866"/>
+                <TextEquiv>
+                    <Unicode>1X"es 1927 | 22 | 12 | 29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3294,2133 3410,2152 3558,2096 3701,2121 3759,2100 3861,2117 3871,1953 3818,1937 3646,1969 3623,1945 3580,1961 3497,1943 3419,1961 3304,1953"/>
+                <Baseline points="3304,2123 3328,2123 3417,2117 3507,2105 3596,2099 3686,2099 3775,2093 3865,2093"/>
+                <TextEquiv>
+                    <Unicode>2 letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

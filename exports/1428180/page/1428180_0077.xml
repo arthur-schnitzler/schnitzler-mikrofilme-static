@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_02:57</Creator>
+        <Created>2023-05-10T11:57:09.443+02:00</Created>
+        <LastChange>2023-07-25T02:57:26.347+02:00</LastChange>
+        <TranskribusMetadata docId="1428180" pageId="55394854" pageNr="77" tsid="130581275" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PYDNZGDOFGNYBWHEPZKAXIOK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGUGBWJEMNVDCJNEIFZAPAMT" imageId="44669738"/>
+    </Metadata>
+    <Page imageFilename="1428180_0077.jpg" imageWidth="3768" imageHeight="5128">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801206074" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1122,1651 3241,1651 3241,1914 1122,1914"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1108,1786 2200,1778 2494,1701 3233,1752 3238,1582 2348,1659 1672,1587 1110,1688"/>
+                <Baseline points="1122,1749 1182,1743 1271,1743 1361,1743 1450,1737 1540,1737 1629,1737 1719,1731 1808,1731 1898,1731 1987,1719 2077,1719 2167,1719 2256,1719 2346,1713 2435,1713 2525,1707 2614,1707 2704,1707 2793,1707 2883,1701 2972,1701 3062,1701 3152,1701 3241,1701"/>
+                <TextEquiv>
+                    <Unicode>Komm, Kleine, lass' uns gehn - heut ohne ihn,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1113,1934 3180,1897 3180,1802 3048,1794 2128,1765 1754,1863 1116,1783"/>
+                <Baseline points="1128,1898 1217,1898 1307,1904 1396,1898 1486,1892 1576,1892 1665,1892 1755,1886 1844,1886 1934,1886 2023,1880 2113,1880 2202,1874 2292,1880 2381,1874 2471,1874 2561,1868 2650,1862 2740,1862 2829,1856 2919,1856 3008,1850 3098,1850 3187,1856"/>
+                <TextEquiv>
+                    <Unicode>Ein andermal, wenn er bei bessrer Laune</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

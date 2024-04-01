@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_03:04</Creator>
+        <Created>2023-05-10T11:15:44.367+02:00</Created>
+        <LastChange>2023-07-28T03:04:36.341+02:00</LastChange>
+        <TranskribusMetadata docId="1428139" pageId="55385029" pageNr="70" tsid="131314935" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GSOWTXIYDBBNUTYWNHGGBVFL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KPROVRENZKWVATCTXVMZIECW" imageId="44659928"/>
+    </Metadata>
+    <Page imageFilename="1428139_0070.jpg" imageWidth="3448" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711823281578" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1065,1406 1480,1406 1480,3481 1065,3481"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1052,1480 1116,1466 1138,1488 1186,1494 1246,1530 1260,1528 1268,1376 1226,1366 1196,1374 1168,1358 1148,1368 1062,1310"/>
+                <Baseline points="1065,1465 1089,1465 1134,1459 1179,1459 1223,1456 1268,1456"/>
+                <TextEquiv>
+                    <Unicode>sollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1174,3502 1216,3510 1232,3494 1252,3504 1306,3490 1338,3500 1366,3526 1390,3518 1400,3530 1446,3504 1476,3516 1480,3360 1446,3364 1428,3352 1402,3368 1390,3360 1344,3400 1298,3414 1278,3402 1236,3422 1176,3420"/>
+                <Baseline points="1185,3471 1211,3471 1256,3465 1301,3465 1346,3465 1391,3462 1435,3462 1480,3465"/>
+                <TextEquiv>
+                    <Unicode>Tobredel</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

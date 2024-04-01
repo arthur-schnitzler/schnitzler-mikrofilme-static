@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:56.764+02:00</Created>
+        <LastChange>2024-01-22T21:46:17.548+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127267" pageNr="27" tsid="145643586" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GWNXTBDQZFDALYUEOFTTWUEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVDAFOLXNTSSPKPVLGCZSFLT" imageId="48552344"/>
+    </Metadata>
+    <Page imageFilename="1589072_0027.jpg" imageWidth="2904" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786863513" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="247,341 247,503 393,503 393,341"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="231,520 294,503 335,544 359,539 381,546 389,357 372,350 350,357 340,347 311,342 260,389 238,384"/>
+                <Baseline points="247,450 276,449 305,453 334,451 363,448 393,441"/>
+                <TextEquiv>
+                    <Unicode>Spr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="459,338 459,897 2410,897 2410,338"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="595,483 624,498 750,440 848,474 877,452 947,474 1069,449 1076,248 867,221 607,226"/>
+                <Baseline points="611,426 636,423 662,423 688,423 713,423 739,420 765,417 791,417 816,415 842,410 868,408 893,408 919,408 945,408 971,408 996,409 1022,411 1048,412 1074,414"/>
+                <TextEquiv>
+                    <Unicode>Hur. Nr 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="454,610 1098,639 1348,597 1627,634 2230,602 2407,685 2407,546 2084,486 1654,549 1200,481 991,551 588,508 454,542"/>
+                <Baseline points="468,596 565,596 662,602 759,599 856,598 953,596 1050,597 1147,596 1244,599 1341,596 1439,598 1536,596 1633,598 1730,599 1827,599 1924,602 2021,596 2118,596 2215,595 2312,593 2410,593"/>
+                <TextEquiv>
+                    <Unicode>Die Probleme der Sittlichkeit liegen auf dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="444,755 1416,733 1625,794 1839,731 2336,746 2336,636 2302,627 2208,685 1642,648 1460,682 1270,629 916,690 699,648 444,670"/>
+                <Baseline points="459,727 553,727 647,724 741,724 835,726 929,726 1023,725 1117,727 1211,724 1305,724 1400,727 1494,730 1588,733 1682,728 1776,726 1870,725 1964,727 2058,727 2152,726 2246,724 2341,724"/>
+                <TextEquiv>
+                    <Unicode>Debiete der Veräntwortung, die der Sitte auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="452,937 1314,959 1314,833 1074,760 962,818 874,758 452,767"/>
+                <Baseline points="465,856 507,856 550,856 593,856 636,858 679,857 721,856 764,858 807,859 850,859 893,857 935,856 978,857 1021,858 1064,856 1107,856 1149,856 1192,857 1235,859 1278,861 1321,865"/>
+                <TextEquiv>
+                    <Unicode>don der Mradition.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

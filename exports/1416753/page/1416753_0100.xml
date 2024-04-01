@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_19:30</Creator>
+        <Created>2023-05-02T08:19:30.652+02:00</Created>
+        <LastChange>2023-07-27T19:30:05.464+02:00</LastChange>
+        <TranskribusMetadata docId="1416753" pageId="54954460" pageNr="100" tsid="131288694" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZSGXLGDWXUCSLENHRXNPOSVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDWJHSCDKQKITMZXPOBPVGYE" imageId="44458185"/>
+    </Metadata>
+    <Page imageFilename="1416753_0100.jpg" imageWidth="4280" imageHeight="3625">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825802176" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2176,956 3000,956 3000,1404 2176,1404"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2167,1045 2286,1079 2509,1029 2584,1068 2853,1004 2996,1040 2998,918 2843,963 2589,929 2445,967 2169,922"/>
+                <Baseline points="2176,1015 2194,1018 2239,1018 2284,1021 2329,1021 2373,1024 2418,1024 2463,1024 2508,1021 2553,1021 2597,1018 2642,1018 2687,1018 2732,1018 2776,1012 2821,1015 2866,1009 2911,1006 2956,1006 3000,1012"/>
+                <TextEquiv>
+                    <Unicode>noch 8-14 Zys in die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2194,1254 2256,1270 2288,1252 2375,1282 2434,1247 2523,1259 2682,1245 2730,1207 2814,1218 2891,1191 2893,1075 2759,1075 2602,1118 2527,1097 2461,1120 2297,1072 2195,1107"/>
+                <Baseline points="2203,1170 2215,1170 2260,1176 2305,1179 2349,1179 2394,1182 2439,1182 2484,1182 2529,1182 2573,1179 2618,1179 2663,1173 2708,1173 2754,1169 2754,1169 2800,1167 2845,1167 2890,1170 2896,1167"/>
+                <TextEquiv>
+                    <Unicode>Beichl. Sehr herzlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2620,1430 2650,1423 2730,1450 2807,1432 2855,1450 2987,1396 2989,1314 2928,1305 2901,1280 2816,1295 2766,1255 2712,1263 2666,1243 2622,1247"/>
+                <Baseline points="2630,1391 2648,1391 2693,1388 2738,1382 2759,1376 2803,1382 2848,1382 2893,1382 2938,1385 2983,1394 2991,1394"/>
+                <TextEquiv>
+                    <Unicode>fr. suyr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

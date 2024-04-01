@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:08</Creator>
+        <Created>2023-05-10T11:54:15.249+02:00</Created>
+        <LastChange>2023-07-28T21:08:19.671+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55393742" pageNr="14" tsid="131377643" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NDLVSOVCCFZHYCBSXITNVKUV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MTAMZYENOKORKIHKIGZYHJBQ" imageId="44668627"/>
+    </Metadata>
+    <Page imageFilename="1428176_0014.jpg" imageWidth="3512" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801444528" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="253,436 1689,436 1689,1192 253,1192"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="392,541 880,587 1090,489 1221,501 1223,428 1119,435 1035,379 963,368 859,401 807,359 598,408 393,334"/>
+                <Baseline points="402,504 420,498 465,498 510,498 555,498 599,498 644,498 689,501 734,501 779,498 823,498 868,498 913,498 958,498 1002,495 1047,489 1092,492 1137,492 1182,486 1226,486"/>
+                <TextEquiv>
+                    <Unicode>lampf lasse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1256,717 1324,708 1383,731 1444,701 1494,699 1568,747 1582,736 1624,744 1635,578 1611,573 1559,595 1543,586 1500,605 1419,569 1342,578 1297,562 1265,575"/>
+                <Baseline points="1265,714 1274,713 1319,707 1364,707 1408,707 1453,704 1498,701 1543,695 1587,692 1632,686"/>
+                <TextEquiv>
+                    <Unicode>mit un</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="377,792 503,745 654,747 799,787 947,738 1042,774 1121,726 1180,744 1184,632 1008,573 939,595 905,568 853,604 648,577 596,587 474,683 381,708"/>
+                <Baseline points="388,767 423,749 468,743 513,740 558,740 602,737 647,734 692,731 737,728 782,731 826,728 871,722 916,722 961,719 1005,719 1050,719 1095,719 1140,719 1185,719"/>
+                <TextEquiv>
+                    <Unicode>beknt (b &amp; 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="242,977 329,1011 562,965 656,1022 864,1027 999,965 1509,1040 1687,993 1688,828 1356,833 1252,909 1148,842 934,878 710,801 550,916 242,930"/>
+                <Baseline points="253,973 256,973 301,973 346,967 391,964 435,961 480,958 525,958 570,961 614,961 659,964 704,964 749,961 793,961 838,961 883,958 928,961 973,961 1017,961 1062,961 1107,964 1152,961 1196,961 1241,964 1286,964 1331,967 1376,967 1420,967 1465,958 1510,955 1555,949 1599,943 1644,940 1689,940"/>
+                <TextEquiv>
+                    <Unicode>einnt) Und das ich schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="305,1198 499,1178 697,1203 871,1308 1211,1218 1211,1146 939,1029 873,1033 736,1117 521,1063 305,1098"/>
+                <Baseline points="316,1173 361,1170 405,1170 450,1173 495,1173 540,1176 585,1176 629,1179 674,1182 719,1182 764,1182 808,1179 853,1176 898,1176 943,1173 988,1173 1032,1173 1077,1173 1122,1173 1167,1173 1211,1173 1214,1173"/>
+                <TextEquiv>
+                    <Unicode>d Rent offairer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

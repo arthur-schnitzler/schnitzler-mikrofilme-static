@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_05:15</Creator>
+        <Created>2023-05-10T13:17:33.819+02:00</Created>
+        <LastChange>2023-08-15T05:15:00.121+02:00</LastChange>
+        <TranskribusMetadata docId="1428826" pageId="55432583" pageNr="27" tsid="132839186" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HPQLWTOUPCBNWNPXWYMOOSNN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UZDFWZAWABLDILJRMWEXYKTV" imageId="44706619"/>
+    </Metadata>
+    <Page imageFilename="1428826_0027.jpg" imageWidth="3304" imageHeight="3928">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802473382" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="316,1370 1961,1370 1961,1738 316,1738"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="311,1514 335,1520 356,1504 374,1512 392,1496 414,1496 428,1482 436,1488 468,1474 506,1482 496,1336 472,1340 446,1326 426,1344 382,1332 360,1312 354,1318 335,1314 299,1334"/>
+                <Baseline points="316,1420 361,1426 405,1429 450,1432 495,1432 504,1432"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1872,1591 1882,1593 1890,1585 1908,1587 1916,1579 1928,1577 1932,1581 1952,1581 1958,1454 1940,1456 1922,1470 1910,1464 1890,1476 1878,1474"/>
+                <Baseline points="1886,1534 1916,1534 1961,1531"/>
+                <TextEquiv>
+                    <Unicode>n</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="884,1637 930,1615 970,1623 1002,1599 1056,1623 1083,1613 1103,1623 1173,1597 1179,1472 1101,1450 1071,1476 1048,1466 1026,1480 1000,1468 976,1484 940,1460 910,1484 890,1486"/>
+                <Baseline points="898,1584 910,1581 955,1578 999,1575 1044,1572 1089,1570 1134,1570 1178,1570"/>
+                <TextEquiv>
+                    <Unicode>Anseln</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="745,1617 757,1615 771,1629 789,1627 795,1635 809,1625 817,1631 834,1629 838,1494 821,1486 801,1492 781,1480 775,1484 751,1482"/>
+                <Baseline points="755,1584 796,1584 841,1581"/>
+                <TextEquiv>
+                    <Unicode>It</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1633,1701 1693,1713 1749,1701 1769,1719 1808,1721 1830,1737 1912,1715 1954,1721 1956,1611 1888,1615 1858,1635 1790,1603 1755,1601 1721,1621 1685,1615 1657,1635 1635,1635"/>
+                <Baseline points="1644,1686 1689,1683 1734,1680 1778,1677 1823,1674 1868,1671 1913,1680 1958,1680"/>
+                <TextEquiv>
+                    <Unicode>preteils.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="771,1778 878,1749 966,1774 1060,1747 1103,1763 1187,1725 1255,1751 1330,1745 1336,1647 1193,1649 1135,1613 1054,1623 1002,1599 970,1623 910,1599 781,1627"/>
+                <Baseline points="785,1728 805,1728 850,1725 895,1725 940,1722 984,1719 1029,1716 1074,1716 1098,1710 1113,1710 1158,1710 1202,1707 1247,1704 1292,1701 1337,1698"/>
+                <TextEquiv>
+                    <Unicode>Au et du suretai</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

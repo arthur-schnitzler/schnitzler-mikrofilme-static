@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:49.563+02:00</Created>
+        <LastChange>2024-01-22T21:15:06.874+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126607" pageNr="21" tsid="145642184" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HJTIOTIVGPRUMGJIRKXZABWC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BTKEUCHHHQDPBEWWUGFZTFHM" imageId="48551684"/>
+    </Metadata>
+    <Page imageFilename="1589068_0021.jpg" imageWidth="2936" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787507869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="387,326 387,490 560,490 560,326"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="379,505 421,498 446,510 451,503 510,538 565,528 552,354 523,352 483,330 456,325 443,332 411,315 406,322 386,312 364,320"/>
+                <Baseline points="387,426 415,430 444,432 473,432 502,437 531,440 560,438"/>
+                <TextEquiv>
+                    <Unicode>Bez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="617,567 617,1069 2616,1069 2616,567"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="622,652 2002,659 2272,731 2609,696 2606,600 2547,580 2341,624 2240,572 2155,624 1962,582 1791,612 1709,555 810,585 619,538"/>
+                <Baseline points="635,629 734,633 833,636 932,638 1031,644 1130,644 1229,647 1328,650 1427,650 1526,653 1625,656 1724,656 1823,659 1922,661 2021,665 2120,665 2219,665 2318,667 2417,670 2516,668 2616,665"/>
+                <TextEquiv>
+                    <Unicode>Im Leben jedes Menschen erscheinen die ihm zugehö-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="629,790 2051,793 2153,852 2386,875 2542,825 2539,758 2341,721 1286,733 1155,654 627,652"/>
+                <Baseline points="644,766 739,766 834,767 929,771 1024,769 1119,773 1214,775 1309,781 1404,778 1499,781 1594,784 1689,785 1784,787 1879,789 1974,790 2069,793 2164,793 2259,799 2354,798 2449,796 2545,796"/>
+                <TextEquiv>
+                    <Unicode>rigen Expen: Vater, Mutter, Freund, Verräter, Freun-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="617,912 788,949 1140,904 2024,924 2091,981 2250,1001 2537,964 2534,827 2386,875 2304,840 1868,880 1306,865 1105,773 614,795"/>
+                <Baseline points="629,892 724,895 820,898 915,899 1011,901 1107,903 1202,904 1298,907 1394,910 1489,910 1585,911 1681,914 1776,920 1872,921 1968,921 2063,924 2159,924 2255,927 2350,927 2446,930 2542,927"/>
+                <TextEquiv>
+                    <Unicode>din, Geliebte imner wieder unter den verschieden-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="605,1026 974,1033 1036,1065 1075,1041 1202,1046 1214,949 1155,912 961,934 924,917 785,946 753,917 666,934 602,907"/>
+                <Baseline points="617,1023 647,1021 677,1021 707,1023 738,1023 768,1024 798,1026 829,1028 859,1028 889,1026 920,1026 950,1026 980,1027 1010,1031 1041,1032 1071,1032 1101,1032 1132,1032 1162,1033 1192,1035 1223,1038"/>
+                <TextEquiv>
+                    <Unicode>sten Gestalten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

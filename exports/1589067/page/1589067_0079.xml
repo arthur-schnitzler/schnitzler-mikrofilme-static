@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:45</Creator>
+        <Created>2023-09-27T14:41:43.625+02:00</Created>
+        <LastChange>2024-01-22T21:45:48.952+01:00</LastChange>
+        <TranskribusMetadata docId="1589067" pageId="60127056" pageNr="79" tsid="145643394" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TMKGSEHNQBUVKKTBFEWOJTXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AILFBBRCLKNNSWADGXOUDYQW" imageId="48552134"/>
+    </Metadata>
+    <Page imageFilename="1589067_0079.jpg" imageWidth="3224" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787752299" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="328,3183 328,3450 501,3450 501,3183"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="346,3360 484,3352 472,3047 452,3052 414,3037 399,3047 333,3042"/>
+                <Baseline points="355,3256 381,3256 407,3256 433,3258 459,3260 486,3262"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="313,3496 348,3496 371,3514 406,3521 434,3511 457,3509 464,3516 489,3509 494,3370 439,3373 421,3357 399,3365 378,3355 353,3365 318,3360"/>
+                <Baseline points="328,3414 356,3412 385,3411 414,3411 443,3411 472,3408 501,3402"/>
+                <TextEquiv>
+                    <Unicode>193</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="800,520 800,2930 2817,2930 2817,520"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1566,666 1672,651 1718,684 1768,684 1877,631 2089,653 2081,502 1983,504 1874,454 1781,482 1556,464"/>
+                <Baseline points="1576,591 1601,593 1627,595 1653,598 1679,602 1705,604 1730,605 1756,605 1782,607 1808,608 1834,608 1859,608 1885,608 1911,611 1937,614 1963,616 1988,618 2014,619 2040,620 2066,620 2092,614"/>
+                <TextEquiv>
+                    <Unicode>Pet. Vleit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="895,911 1181,885 1319,941 1529,946 1781,906 1892,969 2308,984 2371,946 2560,961 2558,878 2089,875 1862,815 1466,853 1264,742 888,769"/>
+                <Baseline points="907,868 990,865 1073,866 1156,873 1239,877 1322,884 1405,883 1488,892 1571,897 1654,903 1737,904 1820,908 1903,913 1986,916 2069,916 2152,922 2235,926 2318,934 2401,940 2484,941 2567,940"/>
+                <TextEquiv>
+                    <Unicode>ais Eebenblüge manchen stagteg wie manchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="890,1070 1022,1027 1486,1105 1680,1057 1849,1150 2111,1080 2659,1138 2666,1037 883,936"/>
+                <Baseline points="901,1005 989,1008 1078,1011 1167,1017 1256,1023 1345,1029 1433,1032 1522,1038 1611,1041 1700,1044 1789,1055 1877,1062 1966,1062 2055,1064 2144,1070 2233,1076 2321,1079 2410,1083 2499,1089 2588,1094 2677,1095"/>
+                <TextEquiv>
+                    <Unicode>Individupnai. Dans ais Ah den Bankerott noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="883,1201 1148,1269 1191,1236 1445,1281 1685,1216 1819,1297 1998,1223 2386,1289 2565,1251 2727,1299 2722,1213 2066,1170 1968,1112 1849,1148 1738,1090 1519,1148 1377,1082 1251,1115 1168,1080 1120,1120 1034,1087 880,1117"/>
+                <Baseline points="895,1152 986,1158 1078,1162 1170,1170 1262,1179 1354,1180 1445,1186 1537,1189 1629,1194 1721,1200 1813,1206 1904,1210 1996,1216 2088,1220 2180,1225 2272,1231 2363,1233 2455,1240 2547,1244 2639,1250 2731,1250"/>
+                <TextEquiv>
+                    <Unicode>erwarten, ja sogar sohn Jurblsiben noch für mög</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="790,1362 1080,1357 1125,1397 1355,1339 1683,1403 2008,1390 2147,1455 2313,1405 2434,1458 2681,1423 2813,1461 2805,1329 2396,1360 1191,1239 1145,1271 926,1239 784,1302"/>
+                <Baseline points="800,1325 900,1328 1001,1313 1102,1315 1203,1322 1304,1326 1405,1333 1505,1337 1606,1343 1707,1347 1808,1356 1909,1364 2010,1370 2111,1374 2211,1381 2312,1388 2413,1391 2514,1398 2615,1404 2716,1405 2817,1408"/>
+                <TextEquiv>
+                    <Unicode>Iich halten zu einer Reit, da sie schan mitten de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="865,1483 933,1476 984,1508 1170,1524 1234,1483 1292,1514 1445,1493 1423,1408 1395,1430 1352,1403 1274,1433 916,1403 863,1423"/>
+                <Baseline points="880,1456 908,1458 937,1459 965,1459 994,1462 1022,1465 1051,1465 1079,1466 1108,1468 1136,1470 1165,1472 1193,1474 1222,1474 1250,1476 1279,1479 1307,1480 1336,1481 1364,1482 1393,1484 1421,1486 1450,1483"/>
+                <TextEquiv>
+                    <Unicode>rinnen atshen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1637,1874 1683,1884 1718,1874 1743,1892 1753,1884 1793,1899 1836,1882 1872,1889 1869,1829 1841,1839 1781,1814 1753,1839 1718,1831 1703,1841 1690,1831 1680,1839 1652,1829 1637,1836"/>
+                <Baseline points="1650,1862 1675,1864 1700,1866 1725,1869 1750,1872 1776,1873 1801,1874 1826,1874 1851,1874 1877,1874"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="961,2550 1087,2586 1178,2548 1274,2591 1448,2558 1526,2603 2010,2596 2142,2651 2232,2621 2227,2510 1882,2520 1720,2472 1408,2500 1276,2437 956,2467"/>
+                <Baseline points="973,2519 1036,2523 1099,2528 1162,2531 1226,2533 1289,2537 1352,2544 1415,2546 1479,2550 1542,2556 1605,2559 1668,2564 1732,2567 1795,2574 1858,2574 1921,2577 1985,2579 2048,2582 2111,2591 2174,2593 2238,2597"/>
+                <TextEquiv>
+                    <Unicode>Osterbeilags d.N. Fr. Presss 1923.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="948,2913 991,2916 1017,2939 1070,2906 1110,2921 1170,2906 1198,2921 1244,2916 1259,2765 1188,2765 1150,2737 1133,2750 1097,2747 1072,2767 1034,2760 996,2782 964,2772"/>
+                <Baseline points="964,2895 990,2889 1017,2889 1043,2888 1070,2886 1096,2885 1123,2883 1149,2879 1176,2876 1202,2872 1229,2865 1256,2856"/>
+                <TextEquiv>
+                    <Unicode>Slih</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

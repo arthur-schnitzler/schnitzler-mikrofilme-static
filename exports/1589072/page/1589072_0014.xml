@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:54.806+02:00</Created>
+        <LastChange>2024-01-22T21:46:15.369+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127212" pageNr="14" tsid="145643564" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LPSFPFUPRKEBYNBPGZHWFISK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PBXYHIYXKZXEJVAOIEXGRNDL" imageId="48552289"/>
+    </Metadata>
+    <Page imageFilename="1589072_0014.jpg" imageWidth="2952" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786842390" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="617,564 617,1234 2473,1234 2473,564"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="630,702 1143,681 1469,718 1699,665 1856,709 1965,665 2095,711 2213,647 2454,642 2457,563 2336,584 2176,505 2000,593 1905,565 1805,605 1666,556 1453,612 633,589"/>
+                <Baseline points="644,683 734,680 825,677 916,676 1007,677 1098,672 1189,669 1279,666 1370,665 1461,661 1552,659 1643,656 1734,653 1825,652 1915,648 2006,647 2097,641 2188,644 2279,635 2370,635 2461,629"/>
+                <TextEquiv>
+                    <Unicode>Dem Mutigen droht Gefahr weist nur von ei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="610,832 1073,811 1200,878 1300,818 1444,874 1683,818 1822,864 2176,825 2334,869 2359,753 1965,665 1715,744 1564,688 1444,746 612,742"/>
+                <Baseline points="623,808 714,811 806,810 897,805 989,805 1080,802 1172,801 1263,798 1355,798 1446,794 1538,790 1629,786 1721,785 1812,782 1904,779 1995,776 2087,775 2178,770 2270,772 2362,769"/>
+                <TextEquiv>
+                    <Unicode>ner Seite her. Der Fägen von hunderten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="605,1119 934,1124 1159,1068 1293,1126 1991,1036 2139,1080 2297,1036 2466,1064 2470,915 2000,983 1627,950 1428,1001 1122,994 978,943 607,1013"/>
+                <Baseline points="620,1065 712,1066 805,1065 897,1062 990,1060 1083,1059 1175,1056 1268,1053 1361,1053 1453,1050 1546,1047 1639,1047 1731,1043 1824,1044 1917,1036 2009,1035 2102,1033 2195,1032 2287,1029 2380,1023 2473,1023"/>
+                <TextEquiv>
+                    <Unicode>Der Mut wuss sich nur nach der einer Front</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="605,1224 932,1235 1161,1191 1393,1251 1919,1170 2158,1207 2378,1191 2380,1110 2095,1061 2039,1103 1608,1129 1031,1094 876,1145 737,1105 607,1136"/>
+                <Baseline points="617,1202 705,1199 793,1196 881,1195 970,1193 1058,1190 1146,1187 1235,1184 1323,1183 1411,1178 1500,1178 1588,1177 1676,1174 1764,1175 1853,1169 1941,1166 2029,1166 2118,1166 2206,1163 2294,1160 2383,1154"/>
+                <TextEquiv>
+                    <Unicode>schätzen, dieFeigheit nach allen Seiten.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:51.311+02:00</Created>
+        <LastChange>2024-01-22T21:36:55.973+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127416" pageNr="97" tsid="145643094" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IBKVIMZFVFFHQKKVREOARPAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCTASJYNOCHYLSDARQPBFUEY" imageId="48552493"/>
+    </Metadata>
+    <Page imageFilename="1589070_0097.jpg" imageWidth="3016" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787172998" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="617,981 617,1378 2530,1378 2530,981"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="601,1165 950,1196 1275,1136 1770,1127 1869,1163 2024,1115 2522,1127 2526,1000 2354,976 2292,1014 2220,981 1804,1000 1596,1055 1323,1014 605,1043"/>
+                <Baseline points="617,1130 712,1127 808,1128 903,1119 999,1115 1095,1112 1190,1103 1286,1099 1382,1097 1477,1093 1573,1090 1669,1084 1764,1080 1860,1074 1956,1067 2051,1061 2147,1058 2243,1054 2338,1048 2434,1047 2530,1047"/>
+                <TextEquiv>
+                    <Unicode>Nur wer den Tod fürchtet, darf sich seines Mutes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="622,1345 703,1352 732,1330 754,1335 818,1282 859,1294 921,1290 921,1201 811,1191 790,1206 723,1211 682,1189 644,1215 624,1211"/>
+                <Baseline points="638,1265 664,1265 690,1263 716,1262 743,1262 769,1262 795,1262 821,1260 848,1259 874,1259 900,1260 927,1262"/>
+                <TextEquiv>
+                    <Unicode>rühmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2160,1407 2172,1409 2194,1436 2208,1431 2280,1450 2302,1258 2266,1263 2237,1251 2225,1256 2220,1246 2199,1261 2177,1256"/>
+                <Baseline points="2181,1345 2210,1345 2240,1341 2270,1337 2300,1333"/>
+                <TextEquiv>
+                    <Unicode>vo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

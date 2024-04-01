@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_03:35</Creator>
+        <Created>2023-05-10T15:10:31.200+02:00</Created>
+        <LastChange>2023-08-15T03:35:39.818+02:00</LastChange>
+        <TranskribusMetadata docId="1428819" pageId="55431178" pageNr="38" tsid="132838507" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZSNXTVIIQPYGDENEIRSMRTKI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVLNYPQWHFWGFCMINHFSJEZR" imageId="44705238"/>
+    </Metadata>
+    <Page imageFilename="1428819_0038.jpg" imageWidth="3832" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711804045631" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="611,206 3259,206 3259,1087 611,1087"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1718,444 1894,461 2709,260 3126,335 3252,285 3255,191 3034,164 2873,216 2732,124 2439,159 2280,258 1914,149 1728,198"/>
+                <Baseline points="1737,304 1740,304 1784,304 1829,301 1874,301 1919,304 1964,298 2008,301 2053,298 2098,295 2143,295 2187,295 2232,295 2277,295 2322,298 2367,304 2411,304 2456,298 2501,289 2546,280 2590,280 2635,274 2680,271 2725,271 2769,265 2814,265 2859,262 2904,265 2949,265 2993,265 3038,265 3083,262 3128,256 3172,256 3217,256 3259,262"/>
+                <TextEquiv>
+                    <Unicode>Belgier. (1. Frankre)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2038,667 2139,704 2191,684 2231,711 2288,674 2362,706 2432,667 2484,687 2570,672 2575,583 2533,583 2479,543 2387,565 2305,540 2206,587 2161,548 2077,565 2047,553"/>
+                <Baseline points="2053,659 2086,659 2131,659 2175,659 2220,656 2265,653 2310,650 2355,647 2399,641 2444,641 2489,635 2534,629 2578,626"/>
+                <TextEquiv>
+                    <Unicode>hrn. (St. E. v.o)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="597,699 987,697 1200,761 1524,709 1849,766 1849,540 1814,533 1626,533 1363,615 1185,563 1036,620 597,592"/>
+                <Baseline points="611,695 647,689 692,692 737,692 782,692 826,692 871,692 916,692 961,692 1005,695 1050,698 1095,698 1140,692 1185,692 1229,692 1274,689 1319,692 1364,692 1408,695 1453,698 1498,698 1543,698 1587,695 1632,695 1677,701 1722,695 1767,695 1811,692 1856,689"/>
+                <TextEquiv>
+                    <Unicode>Siebelen (vlari) 22: 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="662,1150 1177,1130 1311,1195 1631,1091 2652,1009 2657,917 2184,895 1775,984 1517,915 1029,962 942,907 672,964"/>
+                <Baseline points="680,1077 692,1077 737,1074 782,1074 826,1071 871,1068 916,1065 961,1065 1005,1062 1050,1065 1095,1065 1140,1065 1185,1065 1229,1068 1274,1068 1319,1065 1364,1065 1408,1065 1453,1065 1498,1065 1543,1071 1587,1071 1632,1068 1677,1062 1722,1059 1767,1056 1811,1062 1856,1059 1901,1053 1946,1044 1990,1041 2035,1029 2080,1026 2125,1023 2170,1023 2214,1017 2259,1017 2304,1011 2349,1008 2393,999 2438,996 2483,990 2528,985 2572,982 2617,976 2662,967"/>
+                <TextEquiv>
+                    <Unicode>Bernhardt) von 2) 22: 4.45 fr. (2.12.5) n°</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_03:46</Creator>
+        <Created>2023-05-01T21:54:53.109+02:00</Created>
+        <LastChange>2023-07-25T03:46:04.639+02:00</LastChange>
+        <TranskribusMetadata docId="1416431" pageId="54945870" pageNr="3" tsid="130582369" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UHHZFOOVOQYHFKAOAKPCEENR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KZRFCMNIOEPBJVBRJIHMZZWS" imageId="44449955"/>
+    </Metadata>
+    <Page imageFilename="1416431_0003.jpg" imageWidth="3121" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831913913" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="823,1314 1644,1314 1644,1705 823,1705"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="816,1469 1004,1429 1084,1440 1348,1404 1481,1418 1612,1388 1605,1330 1376,1306 1262,1327 1077,1267 820,1303"/>
+                <Baseline points="823,1379 853,1379 898,1379 943,1379 988,1379 1032,1379 1077,1379 1122,1379 1167,1376 1211,1373 1256,1373 1301,1373 1346,1370 1391,1370 1435,1370 1480,1370 1525,1367 1570,1364 1614,1364"/>
+                <TextEquiv>
+                    <Unicode>Briefe von Arthur Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1021,1600 1055,1614 1095,1591 1159,1590 1249,1618 1362,1583 1425,1615 1426,1532 1374,1508 1022,1516"/>
+                <Baseline points="1026,1555 1071,1555 1116,1555 1161,1555 1206,1555 1250,1552 1295,1552 1340,1552 1385,1555 1426,1558"/>
+                <TextEquiv>
+                    <Unicode>Theodor Herzl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="902,1732 1610,1718 1641,1711 1643,1624 1301,1624 1180,1647 973,1632 903,1660"/>
+                <Baseline points="907,1695 928,1695 973,1695 1017,1695 1062,1692 1107,1695 1152,1692 1197,1692 1241,1689 1286,1689 1331,1689 1376,1689 1420,1686 1465,1686 1510,1683 1555,1680 1600,1680 1644,1683"/>
+                <TextEquiv>
+                    <Unicode>(Vom 25.7.1892-14.1.1901.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

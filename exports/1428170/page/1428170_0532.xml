@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:36</Creator>
+        <Created>2023-05-10T11:42:09.041+02:00</Created>
+        <LastChange>2023-07-28T18:36:42.817+02:00</LastChange>
+        <TranskribusMetadata docId="1428170" pageId="55393561" pageNr="532" tsid="131371031" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZBXFZKIIREYKFDVPITWPKANG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MDSEHERTXZEJRKXXDIPZXXHR" imageId="44668446"/>
+    </Metadata>
+    <Page imageFilename="1428170_0532.jpg" imageWidth="3705" imageHeight="4927">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803347223" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1049,2389 3024,2389 3024,2729 1049,2729"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1032,2566 1813,2556 2146,2470 3016,2539 3001,2302 2878,2354 2554,2270 1450,2324 1356,2253 1215,2312 1042,2260"/>
+                <Baseline points="1049,2481 1055,2481 1145,2493 1234,2487 1324,2493 1413,2493 1503,2493 1592,2487 1682,2487 1771,2481 1861,2469 1950,2469 2039,2463 2129,2463 2218,2457 2308,2457 2397,2451 2487,2439 2576,2439 2666,2439 2755,2439 2845,2445 2934,2451 3024,2445"/>
+                <TextEquiv>
+                    <Unicode>v Beelleicht ist an Schuldigt ausge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1223,2784 1341,2761 1477,2843 1618,2796 1647,2826 1833,2811 1867,2836 1939,2806 1951,2623 1862,2608 1830,2576 1754,2598 1685,2576 1608,2618 1524,2571 1233,2616"/>
+                <Baseline points="1240,2719 1330,2708 1419,2702 1509,2696 1598,2696 1688,2690 1777,2684 1867,2678 1956,2672"/>
+                <TextEquiv>
+                    <Unicode>Carl Masufin</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_21:05</Creator>
+        <Created>2023-05-01T21:58:36.279+02:00</Created>
+        <LastChange>2023-07-24T21:05:31.839+02:00</LastChange>
+        <TranskribusMetadata docId="1416439" pageId="54947375" pageNr="230" tsid="130572062" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WNDXWMMSUXWCLCZTOHQDCPPU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YXRMFPVINEMPELRUDNWAKTZY" imageId="44451458"/>
+    </Metadata>
+    <Page imageFilename="1416439_0230.jpg" imageWidth="3713" imageHeight="3641">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831303478" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1032,1883 2378,1883 2378,2161 1032,2161"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1568,2010 1634,2021 1847,1973 2059,1981 2284,1938 2328,1970 2349,1965 2357,1862 2054,1924 1573,1943"/>
+                <Baseline points="1578,1996 1596,1993 1641,1987 1686,1984 1730,1975 1775,1972 1820,1969 1865,1966 1910,1963 1954,1963 1999,1957 2044,1954 2089,1951 2133,1945 2178,1939 2223,1936 2268,1933 2312,1933 2357,1933"/>
+                <TextEquiv>
+                    <Unicode>Dr. Wir sind Orav und haben uns</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1285,2096 1584,2064 1680,2093 1799,2040 1938,2059 2072,2013 2136,2038 2324,2011 2327,1967 2211,1946 1925,2010 1289,2026"/>
+                <Baseline points="1295,2065 1301,2065 1345,2062 1390,2059 1435,2062 1480,2059 1525,2056 1569,2053 1614,2050 1659,2047 1704,2041 1748,2038 1793,2032 1838,2032 1883,2029 1927,2026 1972,2023 2017,2017 2062,2014 2107,2011 2151,2008 2196,2002 2241,2002 2286,1999 2330,2002"/>
+                <TextEquiv>
+                    <Unicode>die Herzogin von Any und einiges von Tschechon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1093,2175 2343,2120 2378,2026 1096,2115"/>
+                <Baseline points="1104,2151 1125,2148 1169,2148 1214,2145 1259,2142 1304,2142 1348,2136 1393,2136 1438,2133 1483,2133 1528,2127 1572,2124 1617,2124 1662,2121 1707,2115 1751,2112 1796,2112 1841,2109 1886,2107 1930,2104 1975,2104 2020,2101 2065,2095 2109,2092 2154,2089 2199,2086 2244,2089 2289,2092 2333,2092 2378,2095"/>
+                <TextEquiv>
+                    <Unicode>vom Rosengarten bei Bozen gekauft. Viele Sine Hufo Gertig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1022,2132 1052,2128 1061,2121 1074,2128 1104,2115 1119,2124 1135,2110 1143,2115 1154,2113 1157,2059 1125,2058 1085,2069 1069,2059 1050,2061 1042,2054 1026,2053"/>
+                <Baseline points="1032,2109 1071,2107 1116,2104 1160,2101"/>
+                <TextEquiv>
+                    <Unicode>Grüsse</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

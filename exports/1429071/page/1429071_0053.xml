@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_13:50</Creator>
+        <Created>2023-05-10T15:29:13.608+02:00</Created>
+        <LastChange>2023-08-15T13:50:43.521+02:00</LastChange>
+        <TranskribusMetadata docId="1429071" pageId="55435930" pageNr="53" tsid="132859132" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MYZCZCBYPNMEKYUTFXAKIRYH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VKIVFIAPANUAZZETIYAXNNAS" imageId="44709920"/>
+    </Metadata>
+    <Page imageFilename="1429071_0053.jpg" imageWidth="4376" imageHeight="5448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797973263" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="925,1264 3841,1264 3841,4107 925,4107"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1090,1393 1167,1389 1200,1415 1251,1386 1320,1429 1404,1411 1437,1444 1455,1433 1510,1466 1550,1455 1550,1229 1433,1243 1378,1211 1327,1232 1298,1207 1247,1236 1138,1214 1090,1225"/>
+                <Baseline points="1111,1320 1200,1314 1290,1314 1379,1320 1469,1320 1559,1314"/>
+                <TextEquiv>
+                    <Unicode>BewEGTHEL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1615,1448 1655,1444 1728,1480 1776,1458 1852,1473 1863,1221 1830,1221 1794,1240 1783,1229 1747,1240 1732,1225 1623,1236"/>
+                <Baseline points="1642,1320 1690,1320 1780,1314 1869,1314"/>
+                <TextEquiv>
+                    <Unicode>UND</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2469,1469 2946,1458 3015,1426 3431,1488 3435,1229 3249,1196 3158,1232 3114,1200 3001,1240 2837,1207 2472,1236"/>
+                <Baseline points="2491,1332 2580,1326 2670,1332 2759,1326 2849,1326 2939,1320 3028,1320 3118,1320 3207,1326 3297,1326 3387,1326 3440,1332"/>
+                <TextEquiv>
+                    <Unicode>ARTHUR SCHNITZLES!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1426,1805 1830,1794 2104,1874 2242,1816 3289,1794 3289,1674 3169,1652 2859,1714 2560,1626 2261,1714 1426,1644"/>
+                <Baseline points="1445,1774 1535,1768 1624,1774 1714,1774 1804,1774 1893,1780 1983,1780 2072,1780 2162,1780 2252,1780 2341,1780 2431,1780 2520,1780 2610,1780 2700,1780 2789,1780 2879,1780 2968,1780 3058,1780 3148,1780 3237,1780 3297,1780"/>
+                <TextEquiv>
+                    <Unicode>VON HEINZ KLEYe stud. phil. (TRIER).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="904,4157 3836,4149 3836,3960 3686,3927 2396,3963 2100,3861 904,3942"/>
+                <Baseline points="925,4086 1015,4080 1105,4080 1194,4080 1284,4074 1373,4080 1463,4080 1553,4080 1642,4080 1732,4080 1821,4080 1911,4086 2001,4080 2090,4080 2180,4080 2270,4080 2359,4080 2449,4080 2538,4080 2628,4080 2718,4080 2807,4080 2897,4080 2986,4080 3076,4080 3166,4080 3255,4086 3345,4080 3434,4086 3524,4086 3614,4086 3703,4091 3793,4097 3841,4091"/>
+                <TextEquiv>
+                    <Unicode>CERMANISTISCHES SOMINAR PROF!WALZEL. SOMMERSMESTER 193/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

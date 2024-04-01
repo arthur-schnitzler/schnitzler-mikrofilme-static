@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:56.567+02:00</Created>
+        <LastChange>2024-01-22T21:10:31.371+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126293" pageNr="58" tsid="145642012" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XWZLSGPVHHEUSPGELYBVYITM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZQBZYMLKAFWEWGVLVABEYCQJ" imageId="48551370"/>
+    </Metadata>
+    <Page imageFilename="1589065_0058.jpg" imageWidth="2968" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788305381" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="596,445 596,1328 2777,1328 2777,445"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="581,623 888,628 959,588 1261,616 1380,565 1573,605 1641,558 1753,600 2065,523 2398,537 2400,448 2067,410 1809,466 1561,450 839,539 675,504 586,541"/>
+                <Baseline points="596,599 686,597 777,594 867,588 958,583 1048,579 1139,573 1229,568 1320,561 1410,557 1501,554 1592,548 1682,543 1773,537 1863,534 1954,531 2044,522 2135,519 2225,513 2316,510 2407,507"/>
+                <TextEquiv>
+                    <Unicode>Dichter als der bildende Künstler ohne Ur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="593,762 818,766 921,720 1015,748 1066,712 1334,759 1460,698 1680,684 1903,734 2112,661 2473,703 2480,574 2400,544 2255,586 2081,541 1852,605 1641,558 1575,602 1273,630 602,609"/>
+                <Baseline points="608,724 701,721 795,717 889,716 982,715 1076,705 1170,702 1263,696 1357,692 1451,683 1545,683 1638,677 1732,668 1826,664 1919,659 2013,653 2107,650 2200,643 2294,639 2388,632 2482,641"/>
+                <TextEquiv>
+                    <Unicode>das ihm genäsee Material nicht denkbar ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1856,1312 1915,1341 2130,1331 2276,1280 2501,1390 2770,1331 2770,1245 2714,1230 2625,1256 2145,1252 2062,1221 1856,1245"/>
+                <Baseline points="1870,1282 1915,1282 1960,1282 2006,1285 2051,1282 2096,1285 2142,1282 2187,1285 2232,1283 2278,1288 2323,1289 2368,1294 2414,1297 2459,1294 2504,1294 2550,1291 2595,1291 2640,1290 2686,1288 2731,1287 2777,1282"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:55.545+02:00</Created>
+        <LastChange>2024-01-22T21:46:16.254+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127232" pageNr="19" tsid="145643573" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OQPWURHSUDSFJGPQLFRIWGJC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TCOXIPZXWIPXOYPBRXWFVIJU" imageId="48552309"/>
+    </Metadata>
+    <Page imageFilename="1589072_0019.jpg" imageWidth="2920" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786850501" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="474,387 474,1218 2667,1218 2667,387"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2438,504 2497,504 2517,487 2540,490 2557,475 2587,487 2617,472 2627,482 2634,475 2661,482 2661,383 2642,385 2619,365 2572,355 2512,383 2495,370 2483,375 2465,358 2438,365"/>
+                <Baseline points="2452,456 2478,454 2505,454 2532,455 2559,456 2586,456 2613,456 2640,456 2667,456"/>
+                <TextEquiv>
+                    <Unicode>1814</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="460,678 765,750 1168,713 1392,716 1444,758 1859,726 1943,768 2130,716 2458,738 2460,487 2100,557 1851,490 1563,619 1344,581 661,621 584,572 460,577"/>
+                <Baseline points="474,677 573,677 672,675 772,675 871,675 970,675 1070,677 1169,673 1268,671 1368,667 1467,667 1566,669 1666,665 1765,663 1864,663 1964,663 2063,660 2162,662 2262,658 2361,658 2461,657"/>
+                <TextEquiv>
+                    <Unicode>die Nahrheit liegt nie in der Mitte, sie liegt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="470,847 609,885 733,845 810,882 927,818 1091,862 1297,803 1479,862 1479,768 1367,721 472,755"/>
+                <Baseline points="483,809 533,806 583,803 633,806 683,806 733,808 783,806 833,806 883,806 933,806 983,804 1033,806 1083,803 1133,803 1183,803 1233,803 1283,801 1333,800 1383,798 1433,797 1484,803"/>
+                <TextEquiv>
+                    <Unicode>immer nur in der Tiefe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2348,1054 2418,1064 2485,1026 2520,1046 2537,1044 2525,828 2505,835 2485,825 2433,857 2388,852 2358,830 2336,830"/>
+                <Baseline points="2356,952 2382,954 2408,955 2434,957 2460,958 2486,958 2512,961 2538,964"/>
+                <TextEquiv>
+                    <Unicode>cn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="651,1083 1128,1081 1247,1031 1814,1034 1981,992 2174,1059 2182,872 1839,937 1675,875 1498,872 1305,924 1066,872 929,947 659,937"/>
+                <Baseline points="666,1030 741,1027 817,1027 893,1028 969,1027 1045,1024 1121,1025 1196,1027 1272,1022 1348,1025 1424,1014 1500,1006 1576,1006 1652,999 1727,994 1803,988 1879,987 1955,985 2031,980 2107,985 2183,985"/>
+                <TextEquiv>
+                    <Unicode>Su der hitte läge die Wahrheit?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="661,1183 982,1225 1039,1270 1175,1205 1411,1223 1411,1078 1290,1054 882,1156 721,1096 661,1113"/>
+                <Baseline points="675,1176 712,1173 749,1173 786,1173 823,1175 860,1178 897,1180 935,1183 972,1185 1009,1182 1046,1180 1083,1179 1120,1180 1157,1182 1195,1182 1232,1172 1269,1168 1306,1166 1343,1164 1380,1164 1418,1167"/>
+                <TextEquiv>
+                    <Unicode>kun u der Tiefe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

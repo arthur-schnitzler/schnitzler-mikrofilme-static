@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:10:48.797+02:00</Created>
+        <LastChange>2023-08-15T10:00:27.340+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55435551" pageNr="130" tsid="132846304" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NPCZGVHYCBYTLDPKAXPWNDHP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MKMGOJHTRRUXIWWEGHTTFXJY" imageId="44709541"/>
+    </Metadata>
+    <Page imageFilename="1429033_0130.jpg" imageWidth="3640" imageHeight="5528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800168407" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="985,2582 3032,2582 3032,3460 985,3460"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1754,2881 2008,2723 2436,2703 2489,2751 2593,2667 2810,2637 3021,2698 3034,2570 2939,2520 2792,2583 2726,2527 2588,2588 2522,2517 2219,2667 2128,2591 2021,2672 1921,2682 1865,2611 1782,2616"/>
+                <Baseline points="1784,2752 1868,2740 1958,2734 2047,2728 2137,2728 2226,2722 2316,2710 2405,2692 2495,2674 2584,2662 2674,2656 2764,2644 2853,2644 2943,2638 3032,2632"/>
+                <TextEquiv>
+                    <Unicode># Der oede Jauter des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1252,3001 1494,3072 2685,2866 2973,2873 3021,2721 2738,2708 2525,2855 2382,2817 2268,2886 2209,2825 1952,2937 1881,2861 1741,2962 1474,2970 1400,2886 1260,2952"/>
+                <Baseline points="1265,3002 1313,3008 1402,3014 1492,3014 1581,3014 1671,3014 1761,3008 1850,2996 1940,2984 2029,2966 2119,2955 2208,2943 2298,2925 2387,2913 2477,2907 2566,2895 2656,2871 2746,2859 2835,2853 2925,2847 3014,2835"/>
+                <TextEquiv>
+                    <Unicode>Moyens tauscht den Ende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="972,3225 1135,3209 1227,3293 1344,3209 1644,3235 2334,3123 2932,3174 3008,3163 3021,3011 2756,2978 2662,3062 2598,3008 2313,3077 2265,3018 2128,3107 1942,3051 1657,3156 1099,3123 977,3174"/>
+                <Baseline points="985,3223 1050,3217 1140,3211 1229,3205 1319,3205 1408,3211 1498,3205 1587,3205 1677,3199 1767,3193 1856,3187 1946,3175 2035,3169 2125,3158 2214,3146 2304,3128 2393,3122 2483,3122 2572,3116 2662,3110 2752,3098 2841,3098 2931,3092 3020,3104"/>
+                <TextEquiv>
+                    <Unicode>so gut wie die nicht mit ihren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1015,3459 2181,3403 2357,3377 2359,3336 2263,3342 2212,3296 2067,3347 1939,3240 1746,3367 1639,3275 1517,3334 1112,3359 1026,3316"/>
+                <Baseline points="1032,3450 1110,3444 1199,3432 1289,3432 1379,3420 1468,3420 1558,3414 1647,3408 1737,3402 1826,3396 1916,3390 2005,3384 2095,3384 2184,3384 2274,3378 2364,3372"/>
+                <TextEquiv>
+                    <Unicode>schericuender Schauers</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

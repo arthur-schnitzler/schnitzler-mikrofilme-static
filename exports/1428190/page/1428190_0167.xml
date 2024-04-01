@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_06:57</Creator>
+        <Created>2023-05-10T12:15:36.744+02:00</Created>
+        <LastChange>2023-07-29T06:57:39.909+02:00</LastChange>
+        <TranskribusMetadata docId="1428190" pageId="55400342" pageNr="167" tsid="131397964" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NCBPZOVMLTPLMWWPMRKLSKEI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XQPOWLIOCKMAEECMTAEHSTJA" imageId="44675166"/>
+    </Metadata>
+    <Page imageFilename="1428190_0167.jpg" imageWidth="6840" imageHeight="4376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711798379696" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3659,552 5677,552 5677,1347 3659,1347"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3665,692 4086,663 4172,708 4290,649 4466,676 4629,627 5172,615 5172,570 5048,532 4645,586 4312,543 4192,613 4127,572 3993,609 3932,568 3670,575"/>
+                <Baseline points="3677,662 3743,656 3832,650 3922,644 4011,638 4101,644 4190,638 4280,632 4370,626 4459,620 4549,614 4638,614 4728,608 4817,608 4907,602 4996,602 5086,602 5175,602"/>
+                <TextEquiv>
+                    <Unicode>Naibwillay hebe ne an den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3647,826 4102,760 4573,794 4717,735 5075,774 5082,658 4378,658 4091,722 3790,663 3652,688"/>
+                <Baseline points="3659,782 3743,782 3832,776 3922,770 4011,764 4101,758 4190,758 4280,758 4370,752 4459,746 4549,746 4638,740 4728,734 4817,722 4907,722 4996,722 5086,716"/>
+                <TextEquiv>
+                    <Unicode>Tensten der Hallget. mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3656,968 3930,1009 4134,914 4453,896 4561,937 4672,880 4892,912 5127,860 5204,898 5206,833 4896,799 3661,869"/>
+                <Baseline points="3671,919 3689,913 3779,913 3868,907 3958,907 4047,907 4137,901 4226,901 4316,895 4405,889 4495,889 4584,883 4674,877 4764,877 4853,871 4943,865 5032,865 5122,859 5211,859"/>
+                <TextEquiv>
+                    <Unicode>Kegelatsen geschossen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3851,1398 3971,1333 4091,1423 4229,1412 4810,1249 5659,1358 5679,1066 5030,1183 4799,1106 3869,1145"/>
+                <Baseline points="3868,1337 3886,1337 3976,1325 4065,1313 4155,1307 4244,1295 4334,1283 4423,1277 4513,1271 4602,1265 4692,1259 4781,1247 4871,1247 4961,1241 5050,1241 5140,1241 5229,1235 5319,1229 5408,1223 5498,1211 5587,1188 5677,1170"/>
+                <TextEquiv>
+                    <Unicode>durch haben Tangemerk</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

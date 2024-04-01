@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_20:24</Creator>
+        <Created>2023-05-10T11:53:27.883+02:00</Created>
+        <LastChange>2023-07-28T20:24:00.636+02:00</LastChange>
+        <TranskribusMetadata docId="1428174" pageId="55394096" pageNr="103" tsid="131375473" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CTBIWVFICFKLBGIGEGGWWDDY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RAMCCUETGFUNNUDPFCCOVYAX" imageId="44668980"/>
+    </Metadata>
+    <Page imageFilename="1428174_0103.jpg" imageWidth="3544" imageHeight="4296">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801862601" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="322,523 2546,523 2546,1442 322,1442"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="960,606 1242,669 1289,639 1411,705 1629,656 1892,692 2064,622 2188,664 2321,639 2324,429 1914,490 1411,445 1201,556 963,479"/>
+                <Baseline points="979,585 988,585 1032,582 1077,585 1122,588 1167,588 1212,588 1256,585 1301,585 1346,588 1391,585 1435,588 1480,588 1525,591 1570,591 1615,594 1659,597 1704,600 1749,600 1794,594 1839,591 1883,594 1928,591 1973,591 2018,588 2062,585 2107,582 2152,582 2197,582 2242,579 2286,579 2331,573"/>
+                <TextEquiv>
+                    <Unicode>am allein zu Hause - Arzt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="337,595 351,592 393,622 440,609 479,636 492,622 509,622 506,528 462,520 423,537 407,526 393,537 379,528 362,539 351,531 335,534"/>
+                <Baseline points="352,603 397,606 441,603 486,606 516,606"/>
+                <TextEquiv>
+                    <Unicode>a Mme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="318,827 863,808 1012,874 1342,788 1513,874 1942,783 2409,871 2542,846 2545,656 1303,669 1123,772 321,669"/>
+                <Baseline points="334,806 352,806 397,803 441,803 486,803 531,803 576,806 620,806 665,803 710,803 755,806 800,806 844,809 889,809 934,806 979,806 1023,806 1068,806 1113,803 1158,800 1203,794 1247,788 1292,788 1337,788 1382,788 1427,788 1471,788 1516,788 1561,791 1606,791 1650,788 1695,791 1740,785 1785,785 1830,785 1874,782 1919,782 1964,782 2009,782 2053,779 2098,779 2143,785 2188,785 2233,782 2277,779 2322,776 2367,776 2412,773 2456,770 2501,770 2546,773"/>
+                <TextEquiv>
+                    <Unicode>Münkung noch. aber auch ich noch sprechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="407,999 963,1073 1057,1043 1131,1087 1303,1021 1306,871 1228,858 1126,902 1084,874 968,891 924,858 755,927 564,910 534,935 481,888 409,916"/>
+                <Baseline points="423,997 468,997 513,1000 558,1000 603,1003 647,1000 692,1000 737,1000 782,1003 826,1003 871,1006 907,1003 931,994 952,994 997,994 1041,991 1086,991 1131,991 1176,991 1221,985 1265,985 1310,982"/>
+                <TextEquiv>
+                    <Unicode>der ernst holt ihn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="307,1225 1530,1286 2238,1192 2451,1253 2484,1115 1964,985 1400,1032 1214,1120 1018,1057 858,1134 440,1054 310,1098"/>
+                <Baseline points="322,1188 367,1182 411,1182 456,1185 501,1188 546,1197 591,1197 635,1200 680,1206 725,1209 770,1209 815,1212 859,1212 904,1203 949,1203 994,1200 1038,1200 1083,1206 1128,1203 1173,1206 1218,1206 1262,1200 1307,1197 1352,1200 1397,1194 1441,1191 1486,1191 1531,1188 1576,1188 1621,1182 1665,1179 1710,1179 1755,1176 1800,1170 1844,1170 1889,1167 1934,1167 1979,1167 2024,1170 2068,1173 2113,1173 2158,1176 2203,1173 2248,1176 2292,1176 2337,1182 2382,1188 2427,1188 2471,1191 2489,1191"/>
+                <TextEquiv>
+                    <Unicode>Derjenige Mädchen der ihr bezeich¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="310,1485 639,1527 797,1472 1051,1480 1046,1355 916,1369 791,1322 733,1342 647,1289 581,1325 437,1289 307,1295"/>
+                <Baseline points="325,1403 370,1406 414,1409 459,1418 504,1421 549,1424 594,1424 638,1424 683,1427 728,1424 773,1424 818,1424 862,1424 907,1427 952,1427 997,1430 1041,1430 1056,1432"/>
+                <TextEquiv>
+                    <Unicode>Mai sollen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

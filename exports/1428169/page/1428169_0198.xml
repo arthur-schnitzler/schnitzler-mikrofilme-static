@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:25</Creator>
+        <Created>2023-05-10T11:40:38.316+02:00</Created>
+        <LastChange>2023-07-28T17:25:33.055+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55390811" pageNr="198" tsid="131367003" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HEZUIZWXMCRZXYVTEKDMJJWY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KPQTXYWCFQFPHDFQYZOXZEUL" imageId="44665697"/>
+    </Metadata>
+    <Page imageFilename="1428169_0198.jpg" imageWidth="3352" imageHeight="3992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803533634" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="733,689 2852,689 2852,1248 733,1248"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="718,816 1166,827 1248,771 1754,819 2048,755 2396,795 2433,655 721,689"/>
+                <Baseline points="733,775 739,775 784,778 829,778 874,778 918,778 963,778 1008,778 1053,775 1097,769 1142,769 1187,769 1232,769 1276,769 1321,769 1366,766 1411,766 1455,766 1500,763 1545,763 1590,763 1634,760 1679,760 1724,757 1769,757 1814,757 1858,754 1903,757 1948,754 1993,754 2037,754 2082,751 2127,748 2172,748 2216,745 2261,745 2306,742 2351,742 2395,739 2440,739"/>
+                <TextEquiv>
+                    <Unicode>Julian: Uns sind alle Dinge erlaubt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="718,973 2846,912 2849,806 2467,776 2229,848 1609,776 1293,880 721,877"/>
+                <Baseline points="733,930 748,933 793,933 838,933 883,933 927,933 972,930 1017,927 1062,927 1106,924 1151,924 1196,924 1241,924 1285,921 1330,918 1375,918 1420,915 1464,915 1509,915 1554,912 1599,912 1643,909 1688,909 1733,909 1778,909 1822,907 1867,904 1912,907 1957,907 2001,904 2046,904 2091,901 2136,901 2180,898 2225,898 2270,895 2315,895 2359,895 2404,892 2449,892 2494,892 2539,895 2583,889 2628,886 2673,886 2718,883 2762,883 2807,880 2852,871"/>
+                <TextEquiv>
+                    <Unicode>Sala: Aber man darf keinen Moment daran zwei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1142,1092 1174,1102 1214,1092 1243,1113 1272,1097 1283,1108 1298,1097 1317,1108 1346,1100 1391,1116 1391,999 1330,999 1298,1023 1256,1007 1235,1028 1216,1026 1195,1007 1142,1015"/>
+                <Baseline points="1157,1074 1172,1074 1217,1074 1262,1074 1306,1074 1351,1074 1396,1071"/>
+                <TextEquiv>
+                    <Unicode>feln.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="718,1280 1174,1330 1304,1246 1773,1240 1897,1277 1900,1155 1341,1158 1246,1113 721,1161"/>
+                <Baseline points="733,1235 739,1238 784,1235 829,1238 874,1235 918,1235 963,1235 1008,1235 1053,1235 1097,1235 1142,1235 1187,1238 1232,1235 1276,1235 1321,1232 1366,1232 1411,1229 1455,1226 1500,1226 1545,1223 1590,1223 1634,1220 1679,1220 1724,1217 1769,1217 1814,1217 1858,1214 1903,1214"/>
+                <TextEquiv>
+                    <Unicode>Sicher sein, heiter sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

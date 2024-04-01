@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_09:31</Creator>
+        <Created>2023-05-10T12:20:48.836+02:00</Created>
+        <LastChange>2023-07-25T09:31:38.415+02:00</LastChange>
+        <TranskribusMetadata docId="1428193" pageId="55400908" pageNr="25" tsid="130592825" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HZAHKVCTUPATJTFCPHTGHBBX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QJCTKWEZCPTTCOVGDGWMDOBP" imageId="44675731"/>
+    </Metadata>
+    <Page imageFilename="1428193_0025.jpg" imageWidth="3448" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797074881" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="358,326 1471,326 1471,574 358,574"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="349,482 624,466 745,422 1003,450 1130,402 1277,394 1281,349 851,278 587,383 475,339 358,357"/>
+                <Baseline points="358,462 388,456 432,450 477,447 522,441 567,438 612,432 656,426 701,423 746,417 791,415 835,409 880,409 925,403 970,403 1015,400 1059,397 1104,394 1149,391 1194,388 1239,382 1283,376"/>
+                <TextEquiv>
+                    <Unicode>lieue Tochler!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="358,605 511,565 1062,565 1240,497 1449,499 1468,461 1142,422 1090,457 733,497 631,475 544,510 369,468"/>
+                <Baseline points="370,564 397,561 441,555 486,552 531,549 576,549 621,540 665,537 710,531 755,525 800,522 844,519 889,516 934,513 979,510 1024,510 1068,507 1113,501 1158,501 1203,498 1248,495 1292,489 1337,489 1382,486 1427,483 1471,483"/>
+                <TextEquiv>
+                    <Unicode>me lasse and eller!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

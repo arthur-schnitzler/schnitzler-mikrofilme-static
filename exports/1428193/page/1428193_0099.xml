@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_09:31</Creator>
+        <Created>2023-05-10T12:21:01.602+02:00</Created>
+        <LastChange>2023-07-25T09:31:57.803+02:00</LastChange>
+        <TranskribusMetadata docId="1428193" pageId="55401360" pageNr="99" tsid="130592902" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AGEBGROUKWUCSQCGLFFOXANO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GCVHJQCZQACMNUYDEAANHOIM" imageId="44676183"/>
+    </Metadata>
+    <Page imageFilename="1428193_0099.jpg" imageWidth="3336" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797140434" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="268,412 2584,412 2584,526 268,526"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="249,695 880,721 1289,533 1813,600 2450,544 2578,484 2581,342 255,394"/>
+                <Baseline points="268,510 301,510 346,510 390,510 435,510 480,513 525,510 569,513 614,513 659,510 704,513 748,516 793,513 838,507 883,507 928,504 972,501 1017,498 1062,498 1107,495 1151,492 1196,492 1241,486 1286,486 1330,486 1375,483 1420,477 1465,474 1509,474 1554,474 1599,465 1644,468 1688,468 1733,468 1778,471 1823,474 1867,474 1912,474 1957,477 2002,477 2046,477 2091,477 2136,477 2181,480 2226,480 2270,483 2315,483 2360,483 2405,480 2449,483 2494,480 2539,471 2584,462"/>
+                <TextEquiv>
+                    <Unicode>ist ihr vertehlet.. nulleicht lors</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

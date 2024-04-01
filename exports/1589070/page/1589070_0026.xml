@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:43.450+02:00</Created>
+        <LastChange>2024-01-22T21:36:42.144+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127148" pageNr="26" tsid="145643018" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TBTDTUETYDZXCFPFKEQVYHIM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGDNMOTGTJBFBJXSBIMKVQLO" imageId="48552225"/>
+    </Metadata>
+    <Page imageFilename="1589070_0026.jpg" imageWidth="2968" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787064304" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="689,777 689,1135 2519,1135 2519,777"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="677,883 973,847 1357,888 1559,858 1627,893 1856,856 2248,897 2513,872 2513,762 2312,721 2078,771 1650,710 1382,769 1002,737 863,794 677,792"/>
+                <Baseline points="689,838 780,841 872,841 963,838 1055,841 1146,838 1238,839 1329,842 1421,844 1512,844 1604,844 1695,839 1787,841 1878,843 1970,844 2061,844 2153,844 2244,846 2336,845 2427,846 2519,841"/>
+                <TextEquiv>
+                    <Unicode>In der Hehe erkennen wir meist zu spät, ob ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="682,982 1380,1048 1584,991 2474,993 2458,870 1302,902 1170,858 964,913 682,879"/>
+                <Baseline points="695,970 784,970 873,967 962,970 1051,964 1140,973 1229,973 1318,973 1407,973 1496,970 1586,973 1675,973 1764,970 1853,976 1942,976 2031,976 2120,976 2209,973 2298,976 2387,973 2477,967"/>
+                <TextEquiv>
+                    <Unicode>Herz uneseliehen, ob es uns geschenkt oder oh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="682,1126 902,1167 1051,1110 1373,1158 1710,1115 1710,1009 1275,1046 1103,993 1014,1025 682,1012"/>
+                <Baseline points="695,1098 746,1101 797,1101 848,1101 899,1101 950,1101 1001,1101 1052,1104 1103,1101 1154,1101 1205,1101 1256,1101 1307,1103 1358,1104 1409,1104 1460,1104 1511,1104 1562,1103 1613,1101 1664,1103 1716,1101"/>
+                <TextEquiv>
+                    <Unicode>es uns gar gespfert wurde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

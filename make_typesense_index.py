@@ -47,7 +47,7 @@ for x in tqdm(data, total=len(data)):
 
         cfts_record["id"] = record["id"]
         cfts_record["resolver"] = (
-            f"https://schnitzler-zeitungen.acdh.oeaw.ac.at/{record['id']}.html"
+            f"https://schnitzler-mikrofilme.acdh.oeaw.ac.at/{record['id']}.html"
         )
         cfts_record["rec_id"] = record["rec_id"]
         cfts_record["title"] = record["title"]

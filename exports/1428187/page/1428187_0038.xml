@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_00:32</Creator>
+        <Created>2023-05-10T12:07:56.736+02:00</Created>
+        <LastChange>2023-07-29T00:32:22.966+02:00</LastChange>
+        <TranskribusMetadata docId="1428187" pageId="55397583" pageNr="38" tsid="131387674" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EFDXFBJLHJJLRENSJBHXTEJB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKKBNDLZTVVASBUFVXYAJSZS" imageId="44672461"/>
+    </Metadata>
+    <Page imageFilename="1428187_0038.jpg" imageWidth="3464" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799467793" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="662,582 2056,582 2056,1173 662,1173"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1129,788 1233,788 1371,727 1507,771 1839,697 2044,714 2059,549 1937,573 1613,481 1462,530 1335,477 1153,525"/>
+                <Baseline points="1143,720 1160,716 1205,719 1250,722 1295,719 1339,716 1384,716 1429,716 1474,716 1518,713 1563,710 1608,707 1653,701 1697,698 1742,689 1787,683 1832,674 1877,668 1921,662 1966,653 2011,647 2056,632"/>
+                <TextEquiv>
+                    <Unicode>St. Antoine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="673,786 791,748 855,780 911,757 972,772 1070,754 1073,560 1050,548 961,572 822,472 679,444"/>
+                <Baseline points="683,734 719,734 763,737 808,743 853,743 899,739 899,739 945,737 990,734 1035,731 1074,728"/>
+                <TextEquiv>
+                    <Unicode>tout</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="650,1202 1085,1198 1177,1148 1495,1110 1807,1153 1859,1133 1874,951 1504,914 1320,1027 997,1056 774,947 671,947"/>
+                <Baseline points="662,1163 704,1163 749,1163 793,1163 838,1160 883,1157 928,1154 972,1148 1017,1142 1062,1142 1107,1142 1151,1142 1196,1136 1241,1130 1286,1125 1330,1122 1375,1122 1420,1116 1465,1113 1509,1110 1554,1104 1599,1098 1644,1095 1689,1089 1733,1083 1778,1071 1823,1068 1868,1065"/>
+                <TextEquiv>
+                    <Unicode>Brot, Berksdorf</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

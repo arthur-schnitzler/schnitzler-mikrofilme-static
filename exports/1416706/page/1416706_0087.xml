@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_01:55</Creator>
+        <Created>2023-05-02T07:44:38.312+02:00</Created>
+        <LastChange>2023-07-26T01:55:28.847+02:00</LastChange>
+        <TranskribusMetadata docId="1416706" pageId="54950627" pageNr="87" tsid="130870237" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RQYFWVONHMNBCDEPSUXLFNRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IZZMBXEUNYZAUGTTMNNEKXLT" imageId="44454353"/>
+    </Metadata>
+    <Page imageFilename="1416706_0087.jpg" imageWidth="2526" imageHeight="4103">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829284582" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="412,783 2123,783 2123,1515 412,1515"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1737,929 1786,927 1833,946 1882,916 1953,925 2040,889 2076,910 2094,906 2094,775 2059,780 1987,758 1965,773 1873,788 1854,771 1829,780 1784,746 1769,761 1737,752"/>
+                <Baseline points="1749,833 1794,833 1839,833 1884,833 1929,833 1973,836 2018,836 2063,833 2099,833"/>
+                <TextEquiv>
+                    <Unicode>Titer. 99</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="897,948 936,938 970,957 1042,931 1077,940 1087,927 1117,944 1149,925 1177,940 1213,931 1228,944 1275,942 1273,880 1239,889 1211,872 1128,876 1100,854 1045,861 1030,848 1006,861 927,818 895,827"/>
+                <Baseline points="907,913 952,916 997,916 1042,919 1086,919 1131,919 1176,919 1221,919 1266,919 1278,922"/>
+                <TextEquiv>
+                    <Unicode>Telegramma.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="404,1104 2117,1124 2117,1038 2036,1021 1632,1055 1318,978 1254,1019 1085,978 763,1051 404,1042"/>
+                <Baseline points="415,1092 459,1092 504,1095 549,1095 594,1095 639,1095 683,1095 728,1095 773,1092 818,1092 863,1092 907,1092 952,1092 997,1092 1042,1092 1086,1092 1131,1092 1176,1092 1221,1092 1266,1092 1310,1092 1355,1092 1400,1092 1445,1089 1490,1089 1534,1092 1579,1089 1624,1089 1669,1092 1714,1092 1758,1089 1803,1089 1848,1089 1893,1089 1938,1089 1982,1089 2027,1089 2072,1089 2117,1092 2123,1095"/>
+                <TextEquiv>
+                    <Unicode>Wann ist Ihre Wiener Premiere? Herzlichen Gruss Brahm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="613,1465 775,1448 887,1465 966,1451 966,1357 923,1365 876,1344 837,1365 722,1376 677,1350 613,1348"/>
+                <Baseline points="624,1445 668,1445 713,1445 758,1445 803,1445 848,1442 892,1442 937,1445 970,1445"/>
+                <TextEquiv>
+                    <Unicode>polizeilich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="399,1579 540,1557 587,1598 810,1534 914,1594 1147,1538 1318,1577 1555,1527 1775,1594 1946,1566 1946,1444 399,1436"/>
+                <Baseline points="412,1502 456,1502 501,1502 546,1502 591,1505 636,1505 680,1505 725,1502 770,1502 815,1502 860,1502 904,1502 949,1505 994,1502 1039,1502 1083,1505 1128,1502 1173,1505 1218,1505 1263,1505 1307,1505 1352,1505 1397,1505 1442,1505 1487,1502 1531,1502 1576,1502 1621,1502 1666,1502 1711,1502 1755,1502 1800,1502 1845,1502 1890,1502 1935,1502 1952,1502"/>
+                <TextEquiv>
+                    <Unicode>Kakadu genehmigt. Ich gratuliere. Brahm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

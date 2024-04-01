@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:35</Creator>
+        <Created>2023-05-10T11:41:23.898+02:00</Created>
+        <LastChange>2023-07-28T18:35:12.890+02:00</LastChange>
+        <TranskribusMetadata docId="1428170" pageId="55391131" pageNr="204" tsid="131370692" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LCQHUQCVIEAODWYPRCIMEFKX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCSMCRUKAKUGOWHASORVVRLH" imageId="44666016"/>
+    </Metadata>
+    <Page imageFilename="1428170_0204.jpg" imageWidth="3336" imageHeight="4072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803056712" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1092,538 2782,538 2782,1687 1092,1687"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2589,626 2603,632 2651,597 2666,595 2714,611 2736,597 2744,603 2750,597 2777,603 2779,515 2758,504 2742,515 2722,510 2700,523 2682,517 2672,521 2645,500 2621,515 2593,511"/>
+                <Baseline points="2603,591 2647,591 2692,588 2737,588 2782,588"/>
+                <TextEquiv>
+                    <Unicode>200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1078,835 1251,793 1304,825 1451,785 1665,801 1667,722 1572,708 1493,739 1406,736 1283,704 1190,734 1132,706 1082,710"/>
+                <Baseline points="1092,797 1134,800 1179,794 1223,791 1268,791 1313,788 1358,788 1403,788 1447,788 1492,785 1537,785 1582,782 1627,782 1671,776"/>
+                <TextEquiv>
+                    <Unicode>/ Betde ab/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1082,1007 2436,912 2567,962 2672,926 2676,811 2385,864 2161,837 2076,884 1086,858"/>
+                <Baseline points="1095,946 1113,943 1158,946 1203,943 1247,943 1292,943 1337,940 1382,940 1426,937 1471,937 1516,937 1561,937 1606,934 1650,931 1695,931 1740,931 1785,931 1830,931 1874,928 1919,928 1964,925 2009,925 2053,925 2098,925 2143,919 2188,919 2233,922 2277,919 2322,916 2367,913 2412,910 2456,913 2501,910 2546,913 2591,913 2636,913 2680,916"/>
+                <TextEquiv>
+                    <Unicode>Die Tritte verhallen auf dem Gang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1574,1554 1701,1582 1766,1540 1844,1527 1990,1546 2024,1519 2094,1521 2276,1590 2278,1451 2216,1441 2101,1473 1883,1412 1753,1451 1711,1427 1681,1457 1576,1431"/>
+                <Baseline points="1585,1522 1609,1519 1653,1522 1698,1522 1743,1522 1788,1522 1832,1522 1877,1522 1922,1522 1967,1522 2012,1522 2056,1522 2101,1522 2146,1522 2191,1519 2236,1516 2280,1516"/>
+                <TextEquiv>
+                    <Unicode>Vorhang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1705,1762 1727,1774 1784,1758 1812,1770 1868,1753 1955,1697 2016,1711 2042,1695 2096,1701 2131,1687 2131,1610 2084,1624 2052,1606 1990,1624 1939,1590 1909,1608 1889,1592 1875,1606 1818,1610 1705,1592"/>
+                <Baseline points="1716,1677 1734,1674 1779,1674 1824,1674 1868,1671 1913,1671 1958,1671 2003,1671 2047,1671 2092,1671 2137,1671"/>
+                <TextEquiv>
+                    <Unicode>En de.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

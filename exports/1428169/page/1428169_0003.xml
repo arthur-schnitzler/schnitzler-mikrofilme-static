@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:23</Creator>
+        <Created>2023-05-10T11:40:12.238+02:00</Created>
+        <LastChange>2023-07-28T17:23:59.776+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55389592" pageNr="3" tsid="131366801" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CNBNNNCWTQHJKFBTKOMRNIXI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRRVZLGHXTEVBKSNYTPJHOJK" imageId="44664481"/>
+    </Metadata>
+    <Page imageFilename="1428169_0003.jpg" imageWidth="4232" imageHeight="4824">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803367799" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="835,911 3062,911 3062,1854 835,1854"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="833,1016 895,1030 970,997 1102,1039 1186,1009 1307,1036 1338,1007 1308,697 1256,661 1135,687 1003,653 976,672 908,626 796,634"/>
+                <Baseline points="835,961 925,985 1014,997 1104,1008 1194,1008 1283,1014 1343,1020"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1915,1895 1983,1918 2077,1853 2405,1765 2684,1839 2896,1781 3052,1809 3076,1569 2856,1558 2541,1704 2317,1718 2176,1623 1935,1685"/>
+                <Baseline points="1928,1844 1988,1832 2077,1820 2167,1809 2256,1809 2346,1797 2435,1797 2525,1785 2614,1767 2704,1755 2794,1743 2883,1743 2973,1743 3062,1737"/>
+                <TextEquiv>
+                    <Unicode>ohles Tafell</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

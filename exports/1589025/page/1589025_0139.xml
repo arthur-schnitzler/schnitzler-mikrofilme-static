@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_14:24</Creator>
+        <Created>2023-09-27T14:32:24.705+02:00</Created>
+        <LastChange>2024-01-22T14:24:38.933+01:00</LastChange>
+        <TranskribusMetadata docId="1589025" pageId="60122104" pageNr="139" tsid="145612140" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JIYCOMMURIAPRWZHRVZNUEXH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ADKLSEIACWTCHXDWEBWJPNFX" imageId="48547183"/>
+    </Metadata>
+    <Page imageFilename="1589025_0139.jpg" imageWidth="2968" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796721406" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="292,290 1047,290 1047,362 292,362"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="286,388 533,352 708,379 809,343 1046,344 1047,230 830,204 711,271 562,275 404,323 287,306"/>
+                <Baseline points="292,340 337,346 382,349 426,352 471,346 516,349 561,352 606,349 650,349 695,352 740,349 785,346 829,343 874,343 919,343 964,340 1009,340 1047,340"/>
+                <TextEquiv>
+                    <Unicode>Fistil Rit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

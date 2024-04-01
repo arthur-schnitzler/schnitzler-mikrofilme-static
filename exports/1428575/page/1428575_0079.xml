@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_00:42</Creator>
+        <Created>2023-05-10T13:28:05.611+02:00</Created>
+        <LastChange>2023-07-30T00:42:58.846+02:00</LastChange>
+        <TranskribusMetadata docId="1428575" pageId="55412157" pageNr="79" tsid="131472920" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NSGEQNHXKZTUMEOVVDCLGUJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TYAYIBSVRMIDBNIXRXKBJNNH" imageId="44686299"/>
+    </Metadata>
+    <Page imageFilename="1428575_0079.jpg" imageWidth="3432" imageHeight="4072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792107999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="537,1156 3137,1156 3137,3983 537,3983"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1012,1352 2022,1202 3113,1302 3135,1112 2773,1047 2341,1141 1018,1163"/>
+                <Baseline points="1029,1292 1032,1292 1077,1292 1122,1289 1167,1280 1212,1277 1256,1277 1301,1274 1346,1274 1391,1268 1435,1268 1480,1268 1525,1265 1570,1265 1615,1262 1659,1259 1704,1256 1749,1250 1794,1244 1838,1241 1883,1241 1928,1238 1973,1229 2018,1226 2062,1226 2107,1223 2152,1223 2197,1223 2241,1221 2286,1218 2331,1215 2376,1215 2421,1212 2465,1206 2510,1209 2555,1209 2600,1206 2645,1206 2689,1209 2734,1212 2779,1218 2824,1223 2868,1229 2913,1238 2958,1247 3003,1256 3048,1262 3092,1271 3137,1280"/>
+                <TextEquiv>
+                    <Unicode>Est weißelteuer ohne Worteurs an¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2605,1482 2649,1463 2721,1495 2847,1442 2913,1463 2953,1447 3000,1460 3103,1447 3106,1337 3055,1352 2947,1326 2858,1342 2831,1323 2715,1368 2607,1373"/>
+                <Baseline points="2618,1418 2621,1418 2665,1418 2710,1415 2755,1406 2800,1403 2845,1400 2889,1403 2934,1403 2979,1403 3024,1403 3068,1406 3113,1412"/>
+                <TextEquiv>
+                    <Unicode>wint</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="767,1534 1102,1695 1387,1605 1500,1624 1811,1532 2059,1526 2067,1371 1882,1344 1424,1447 1289,1381 949,1431 778,1355"/>
+                <Baseline points="785,1504 817,1507 862,1504 907,1501 952,1498 997,1501 1041,1498 1086,1492 1131,1489 1176,1486 1221,1486 1265,1489 1310,1486 1355,1483 1400,1483 1444,1483 1489,1483 1534,1480 1579,1480 1624,1477 1668,1471 1713,1465 1758,1459 1803,1456 1847,1450 1892,1450 1937,1447 1982,1444 2027,1444 2071,1444"/>
+                <TextEquiv>
+                    <Unicode>H. 11/2:-:-:-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="525,3941 641,3954 728,3936 823,3954 883,3939 896,3622 804,3604 714,3651 678,3633 656,3649 630,3627 535,3641"/>
+                <Baseline points="537,3973 573,3973 617,3970 662,3967 707,3967 752,3961 797,3961 841,3961 886,3961"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

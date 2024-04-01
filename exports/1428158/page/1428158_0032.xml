@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_14:26</Creator>
+        <Created>2023-05-10T11:30:28.040+02:00</Created>
+        <LastChange>2023-07-28T14:26:01.299+02:00</LastChange>
+        <TranskribusMetadata docId="1428158" pageId="55387698" pageNr="32" tsid="131356294" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BIQNNRWJRUXQRCDOABUPSPLC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LNGYEGCYTBPCFOGXEDSMBZMI" imageId="44662593"/>
+    </Metadata>
+    <Page imageFilename="1428158_0032.jpg" imageWidth="3400" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711819243257" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1014,678 3002,678 3002,968 1014,968"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1007,817 1252,866 2215,775 2371,837 2841,738 2995,777 3000,629 1012,718"/>
+                <Baseline points="1023,805 1032,808 1077,802 1122,802 1166,799 1211,793 1256,793 1301,790 1346,787 1390,784 1435,784 1480,784 1525,781 1569,778 1614,775 1659,778 1704,778 1748,775 1793,775 1838,772 1883,769 1927,769 1972,767 2017,764 2062,761 2107,761 2151,761 2196,758 2241,758 2286,758 2330,758 2375,758 2420,755 2465,752 2509,749 2554,749 2599,743 2644,740 2689,740 2733,740 2778,740 2823,737 2868,734 2912,731 2957,731 3002,728"/>
+                <TextEquiv>
+                    <Unicode>gibt, als das Weib, das betrügt,nämlich den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="997,985 1181,1027 1339,955 1886,988 2185,943 2416,990 2438,832 2267,802 2000,866 1829,827 1002,889"/>
+                <Baseline points="1014,958 1053,955 1098,952 1143,952 1187,952 1232,952 1277,949 1322,946 1366,946 1411,946 1456,943 1501,940 1545,940 1590,937 1635,937 1680,937 1725,934 1769,931 1814,931 1859,928 1904,928 1948,925 1993,925 2038,922 2083,916 2127,919 2172,916 2217,913 2262,913 2307,913 2351,913 2396,910 2441,910"/>
+                <TextEquiv>
+                    <Unicode>Mann, der stch darüber tröstet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:15</Creator>
+        <Created>2023-09-27T14:36:35.141+02:00</Created>
+        <LastChange>2024-01-22T18:15:38.697+01:00</LastChange>
+        <TranskribusMetadata docId="1589039" pageId="60124155" pageNr="65" tsid="145632079" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JHWCMUGVTARLBNPMSPFFLJDO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FKVJFCQUHJDSOIEOVPZDLTYB" imageId="48549233"/>
+    </Metadata>
+    <Page imageFilename="1589039_0065.jpg" imageWidth="3427" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792439288" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="554,3283 554,3839 1063,3839 1063,3283"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="584,3394 614,3404 758,3388 804,3414 824,3398 904,3390 904,3338 882,3328 800,3334 730,3298 648,3348 588,3320"/>
+                <Baseline points="594,3394 620,3394 646,3394 672,3393 698,3391 724,3390 751,3389 777,3389 803,3389 829,3389 855,3387 881,3385 908,3383"/>
+                <TextEquiv>
+                    <Unicode>Ecni A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="544,3788 708,3792 812,3756 852,3784 944,3788 976,3770 1058,3784 1058,3726 962,3736 898,3706 546,3724"/>
+                <Baseline points="554,3789 579,3787 604,3785 630,3783 655,3783 681,3783 706,3783 732,3782 757,3780 783,3779 808,3777 833,3777 859,3777 884,3777 910,3776 935,3774 961,3773 986,3773 1012,3774 1037,3775 1063,3777"/>
+                <TextEquiv>
+                    <Unicode>Eson: Wirser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

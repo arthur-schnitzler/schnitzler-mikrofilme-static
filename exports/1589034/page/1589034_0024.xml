@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_17:07</Creator>
+        <Created>2023-09-27T14:34:52.683+02:00</Created>
+        <LastChange>2024-01-22T17:07:27.024+01:00</LastChange>
+        <TranskribusMetadata docId="1589034" pageId="60122952" pageNr="24" tsid="145627729" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JUZVGIBKDLXIQTDUVXSFBXNF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AVIWMFJWNCQQFVIWDUWMFUVY" imageId="48548030"/>
+    </Metadata>
+    <Page imageFilename="1589034_0024.jpg" imageWidth="2840" imageHeight="3416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793057946" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="662,325 662,829 2564,829 2564,325"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2368,439 2389,441 2421,466 2473,453 2489,464 2496,457 2514,462 2523,293 2500,289 2473,268 2455,278 2443,268 2421,280 2407,268 2380,264"/>
+                <Baseline points="2385,394 2412,394 2440,393 2467,389 2495,388 2523,388"/>
+                <TextEquiv>
+                    <Unicode>204</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="799,585 1183,530 1790,532 1904,580 2068,544 2173,589 2314,546 2559,560 2559,460 2346,437 2022,482 1913,464 1734,341 1533,462 1365,464 1176,396 796,435"/>
+                <Baseline points="809,528 896,528 984,528 1072,528 1160,531 1247,529 1335,528 1423,533 1511,529 1598,532 1686,536 1774,532 1862,531 1949,531 2037,531 2125,531 2213,531 2300,533 2388,528 2476,532 2564,534"/>
+                <TextEquiv>
+                    <Unicode>priilübertrieben last if schon aus die Probe-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="689,664 1090,742 1174,689 1251,717 1367,671 1709,719 1984,682 2068,733 2236,664 2514,714 2514,566 1913,623 1592,573 1376,621 1340,589 1003,617 885,573 758,619 689,585"/>
+                <Baseline points="701,647 796,654 892,658 988,665 1083,659 1179,661 1275,662 1371,659 1466,659 1562,660 1658,662 1754,662 1849,659 1945,659 2041,662 2137,662 2232,662 2328,661 2424,661 2520,665"/>
+                <TextEquiv>
+                    <Unicode>wird gehen.. So. Halb efgben schon. Ich muss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="648,844 1329,869 1465,828 1711,883 1806,826 1961,833 1961,723 1868,708 1611,762 1511,685 1279,742 901,703 801,751 648,728"/>
+                <Baseline points="662,785 727,788 792,788 857,788 923,788 988,789 1053,791 1118,797 1184,795 1249,794 1314,791 1379,794 1445,794 1510,794 1575,793 1640,797 1706,797 1771,797 1836,799 1901,797 1967,797"/>
+                <TextEquiv>
+                    <Unicode>ing Sheater. macht sich fertig.3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

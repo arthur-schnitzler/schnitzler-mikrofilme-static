@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_12:49</Creator>
+        <Created>2023-05-10T12:32:43.198+02:00</Created>
+        <LastChange>2023-07-29T12:49:07.393+02:00</LastChange>
+        <TranskribusMetadata docId="1428213" pageId="55404669" pageNr="161" tsid="131419702" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EYLSHQMMCEQQHTMSTFCZEXBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGKVZMMEEUYLSWVBBPUJDEXO" imageId="44679390"/>
+    </Metadata>
+    <Page imageFilename="1428213_0161.jpg" imageWidth="4037" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795640956" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="784,409 3292,409 3292,2173 784,2173"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2708,538 2742,530 2844,548 2872,532 2928,550 2978,514 3032,516 3022,420 2926,416 2880,434 2848,414 2836,426 2778,402 2748,422 2696,414"/>
+                <Baseline points="2713,459 2757,468 2802,474 2847,477 2892,483 2936,483 2981,489 3026,492 3035,492"/>
+                <TextEquiv>
+                    <Unicode>:1: 1:1 1/2:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="798,1174 824,1174 860,1160 874,1174 912,1166 936,1176 952,1168 1024,1170 1046,1156 1060,1160 1060,1126 982,1090 932,1114 902,1110 876,1118 838,1108 798,1116"/>
+                <Baseline points="808,1161 841,1161 886,1158 931,1158 975,1158 1020,1155 1065,1155"/>
+                <TextEquiv>
+                    <Unicode>Chur Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="774,1236 796,1244 886,1232 912,1252 924,1244 938,1254 996,1236 1024,1258 1076,1248 1076,1178 1054,1168 990,1164 964,1174 958,1166 928,1176 908,1166 872,1174 858,1160 824,1178 774,1174"/>
+                <Baseline points="784,1208 811,1208 856,1208 901,1208 946,1208 990,1208 1035,1205 1080,1205"/>
+                <TextEquiv>
+                    <Unicode>VII. spoettelgasse 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1726,2086 1762,2070 1778,2078 1812,2070 1832,2090 1852,2092 1870,2106 1936,2104 1934,2006 1916,2014 1906,2006 1888,2018 1866,2016 1844,1996 1820,1994 1782,1976 1746,2008 1724,2010"/>
+                <Baseline points="1737,2065 1781,2065 1826,2065 1871,2065 1916,2068 1940,2065"/>
+                <TextEquiv>
+                    <Unicode>laicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3168,2164 3210,2164 3224,2180 3246,2190 3260,2182 3272,2192 3288,2194 3292,2056 3276,2052 3250,2064 3214,2056 3194,2066 3172,2064"/>
+                <Baseline points="3178,2160 3223,2163 3268,2157 3292,2160"/>
+                <TextEquiv>
+                    <Unicode>letzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

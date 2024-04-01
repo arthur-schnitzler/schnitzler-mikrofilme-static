@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_09:57</Creator>
+        <Created>2023-09-27T14:42:53.078+02:00</Created>
+        <LastChange>2024-01-22T09:57:35.577Z</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127164" pageNr="3" tsid="145598131" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PBHIMZVYTDUEDFRZZZVNXMOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NQFBNSNDMVTPRPIBAYGLUNRE" imageId="48552241"/>
+    </Metadata>
+    <Page imageFilename="1589072_0003.jpg" imageWidth="2936" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786825056" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="337,524 337,925 2401,925 2401,524"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="322,623 2374,603 2348,519 1786,521 1743,562 1694,521 1055,537 945,585 841,539 756,585 623,537 552,583 324,542"/>
+                <Baseline points="337,630 439,627 541,627 643,624 745,623 847,622 949,621 1052,620 1154,617 1256,615 1358,613 1460,612 1562,610 1664,606 1767,605 1869,604 1971,603 2073,594 2175,594 2277,591 2380,588"/>
+                <TextEquiv>
+                    <Unicode>Hüte dieh vor schlechter Gesellsehaft,aber ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="342,777 1888,764 2011,726 2394,754 2397,652 2310,629 2044,680 1436,669 1362,718 1285,672 1022,708 629,685 539,728 345,703"/>
+                <Baseline points="358,770 460,761 562,758 664,755 766,758 868,755 970,752 1073,749 1175,746 1277,743 1379,742 1481,740 1583,738 1685,737 1788,733 1890,729 1992,728 2094,728 2196,725 2298,721 2401,725"/>
+                <TextEquiv>
+                    <Unicode>giss nicht,dass wenn du die Einsamkeit erwählst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="332,894 1970,887 2264,871 2266,812 2190,766 1870,818 332,848"/>
+                <Baseline points="346,893 442,890 538,887 634,887 730,887 826,885 922,884 1019,878 1115,875 1211,877 1307,872 1403,872 1499,869 1595,866 1692,866 1788,863 1884,862 1980,858 2076,856 2172,854 2269,860"/>
+                <TextEquiv>
+                    <Unicode>du dieh nieht stets in der besten befindest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

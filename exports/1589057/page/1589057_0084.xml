@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:57</Creator>
+        <Created>2023-09-27T14:39:37.317+02:00</Created>
+        <LastChange>2024-01-22T19:57:59.611+01:00</LastChange>
+        <TranskribusMetadata docId="1589057" pageId="60125721" pageNr="84" tsid="145637658" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OXDOMNNFQJBURAPTSGSHCETJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QXZIFKNJQKPDWKRYVQJJKXZN" imageId="48550798"/>
+    </Metadata>
+    <Page imageFilename="1589057_0084.jpg" imageWidth="3320" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790053658" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1009,436 1009,1014 3043,1014 3043,436"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1132,600 2813,560 2821,415 2747,448 2618,412 2455,466 2144,384 2002,448 1900,402 1414,455 1287,524 1140,455"/>
+                <Baseline points="1149,582 1232,581 1316,577 1400,569 1484,564 1568,561 1651,558 1735,555 1819,553 1903,542 1987,541 2070,531 2154,528 2238,523 2322,517 2406,511 2489,507 2573,500 2657,497 2741,495 2825,498"/>
+                <TextEquiv>
+                    <Unicode>einer dekretiert, es soll an meinem Frabe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="995,735 1915,728 2073,669 2279,710 2501,661 2895,679 3035,641 3042,534 2536,544 2450,593 2256,570 1890,626 1809,598 1608,649 1460,644 1366,588 1000,654"/>
+                <Baseline points="1009,719 1110,714 1212,712 1314,703 1415,696 1517,689 1619,682 1720,677 1822,674 1924,674 2026,657 2127,652 2229,648 2331,642 2432,641 2534,631 2636,624 2737,620 2839,618 2941,608 3043,603"/>
+                <TextEquiv>
+                    <Unicode>richt gesprochen werden, so komnt mir das so vor, als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1002,860 1330,885 2180,776 2895,817 2933,809 2943,682 2816,656 2279,710 2073,669 1931,728 1557,722 1473,773 1348,733 1190,796 1010,733"/>
+                <Baseline points="1015,845 1111,848 1207,843 1304,829 1400,822 1497,819 1593,812 1690,806 1786,806 1883,796 1979,790 2075,783 2172,774 2268,770 2365,767 2461,760 2558,754 2654,747 2751,741 2847,735 2944,737"/>
+                <TextEquiv>
+                    <Unicode>sagte ersieh wünsche, dassm Jahre Atzl in Lirer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1005,1015 2322,911 2328,801 2289,789 2167,829 2094,786 1834,885 1412,911 1015,867"/>
+                <Baseline points="1021,985 1086,975 1151,973 1217,966 1282,961 1348,958 1413,956 1478,952 1544,943 1609,943 1675,939 1740,934 1805,929 1871,925 1936,918 2002,914 2067,910 2132,907 2198,901 2263,901 2329,904"/>
+                <TextEquiv>
+                    <Unicode>ool ein Greissler rasieren lässt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

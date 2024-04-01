@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:37</Creator>
+        <Created>2023-05-10T11:23:07.476+02:00</Created>
+        <LastChange>2023-08-01T03:37:59.760+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55386679" pageNr="25" tsid="131649216" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XCMDLWIIBVUPSPMIRQMHLPHR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZREGWICGPUWIPQEORSCBMELQ" imageId="44661576"/>
+    </Metadata>
+    <Page imageFilename="1428151_0025.jpg" imageWidth="6953" imageHeight="4824">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821277451" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1510,296 6083,296 6083,1574 1510,1574"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1491,416 1534,416 1548,405 1611,411 1637,399 1662,416 1696,416 1711,182 1600,205 1554,231 1503,220"/>
+                <Baseline points="1510,358 1528,358 1617,352 1707,346"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3784,1024 3972,1081 4277,935 4744,878 5814,921 6079,870 6085,716 5737,656 5235,767 4807,696 4519,824 3792,659"/>
+                <Baseline points="3803,907 3844,913 3934,913 4023,907 4113,907 4203,895 4292,895 4382,889 4471,889 4561,895 4650,889 4740,889 4829,889 4919,883 5009,883 5098,871 5188,871 5277,865 5367,859 5456,859 5546,865 5635,865 5725,865 5815,865 5904,865 5994,865 6083,877"/>
+                <TextEquiv>
+                    <Unicode>﻿Dyspnoea in Top von Malaria</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3741,1323 4243,1252 4365,1306 4496,1215 4830,1269 5281,1129 5948,1175 5962,944 3758,1066"/>
+                <Baseline points="3761,1247 3809,1247 3898,1235 3988,1229 4077,1211 4167,1206 4256,1206 4346,1206 4435,1194 4525,1182 4615,1176 4704,1164 4794,1158 4883,1152 4973,1152 5062,1146 5152,1140 5241,1134 5331,1128 5421,1122 5510,1122 5600,1116 5689,1116 5779,1110 5868,1104 5958,1092"/>
+                <TextEquiv>
+                    <Unicode>Briard Gar d'hopit 28/8 86.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3758,1637 3975,1671 4183,1543 4847,1500 5127,1628 5588,1486 5837,1494 5856,1249 5600,1223 5303,1374 5192,1292 4528,1286 3958,1417 3781,1323"/>
+                <Baseline points="3779,1564 3791,1558 3880,1546 3970,1540 4059,1540 4149,1534 4238,1522 4328,1516 4418,1510 4507,1504 4597,1498 4686,1492 4776,1480 4865,1474 4955,1474 5044,1474 5134,1462 5224,1456 5313,1450 5403,1438 5492,1432 5582,1420 5671,1414 5761,1408 5850,1414"/>
+                <TextEquiv>
+                    <Unicode>Moll im Pellkarkynstion</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

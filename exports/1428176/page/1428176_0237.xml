@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:09</Creator>
+        <Created>2023-05-10T11:54:56.151+02:00</Created>
+        <LastChange>2023-07-28T21:09:14.161+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55395417" pageNr="237" tsid="131377868" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GGOGMVQEGVBDHUMOKPRPIXTI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGLSMJSKAKDICDYTZXYCIHOR" imageId="44670300"/>
+    </Metadata>
+    <Page imageFilename="1428176_0237.jpg" imageWidth="3576" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801632252" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2044,179 2793,179 2793,344 2044,344"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2038,273 2310,254 2423,273 2715,239 2759,256 2790,252 2792,203 2578,216 2540,185 2442,176 2334,213 2124,209 2040,232"/>
+                <Baseline points="2044,250 2077,253 2122,256 2166,256 2211,256 2256,256 2301,253 2346,253 2390,250 2435,247 2480,244 2525,244 2569,244 2614,241 2659,235 2704,232 2748,229 2793,229"/>
+                <TextEquiv>
+                    <Unicode> wenn wiederholt zu bezahlen sei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2239,305 2426,305 2444,318 2460,304 2533,297 2572,309 2607,295 2634,311 2693,304 2693,276 2676,267 2655,278 2528,264 2462,286 2432,271 2391,286 2331,262 2280,275 2240,265"/>
+                <Baseline points="2244,292 2289,298 2334,304 2378,304 2423,304 2468,301 2513,298 2557,295 2602,295 2647,292 2692,295 2695,295"/>
+                <TextEquiv>
+                    <Unicode>m m m m  m m u m u u m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2415,351 2452,342 2480,356 2510,347 2527,356 2545,343 2559,348 2559,314 2545,316 2535,310 2496,322 2475,316 2459,305 2435,314 2415,304"/>
+                <Baseline points="2420,331 2465,334 2510,334 2554,331 2560,331"/>
+                <TextEquiv>
+                    <Unicode>aie ct</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

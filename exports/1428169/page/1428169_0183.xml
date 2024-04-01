@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:25</Creator>
+        <Created>2023-05-10T11:40:36.482+02:00</Created>
+        <LastChange>2023-07-28T17:25:28.668+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55390735" pageNr="183" tsid="131366987" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NFWFHCRUQZIMHIKUHBYGQDPS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CGRWDRPCFFKMPNTRVTETXUFM" imageId="44665621"/>
+    </Metadata>
+    <Page imageFilename="1428169_0183.jpg" imageWidth="3368" imageHeight="4040">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803520350" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="728,901 2903,901 2903,1433 728,1433"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="722,1038 1359,989 1724,1013 1727,859 724,862"/>
+                <Baseline points="736,954 781,954 826,954 871,957 916,957 960,954 1005,957 1050,957 1095,954 1139,954 1184,954 1229,954 1274,954 1318,954 1363,957 1408,954 1453,954 1497,951 1542,951 1587,951 1632,951 1676,951 1721,954 1730,957"/>
+                <TextEquiv>
+                    <Unicode>III.Akt, letzte Szene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="713,1159 2167,1127 2584,1184 2859,1132 2859,1000 1694,1057 1240,989 1040,1065 713,1013"/>
+                <Baseline points="728,1109 760,1109 805,1109 850,1109 895,1109 939,1106 984,1109 1029,1109 1074,1106 1118,1106 1163,1109 1208,1109 1253,1112 1297,1109 1342,1109 1387,1109 1432,1109 1476,1109 1521,1106 1566,1106 1611,1106 1655,1106 1700,1109 1745,1109 1790,1109 1835,1109 1879,1109 1924,1109 1969,1106 2014,1106 2058,1106 2103,1106 2148,1106 2193,1109 2237,1109 2282,1109 2327,1109 2372,1109 2416,1109 2461,1109 2506,1109 2551,1106 2595,1109 2640,1109 2685,1109 2730,1106 2774,1103 2819,1103 2864,1098"/>
+                <TextEquiv>
+                    <Unicode>müsste eventuell schon die xxx endgiltige Aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="727,1284 1435,1381 1719,1286 2748,1324 2900,1289 2900,1195 1840,1213 1635,1149 1438,1222 727,1211"/>
+                <Baseline points="742,1268 754,1268 799,1265 844,1265 889,1262 933,1265 978,1265 1023,1265 1068,1265 1112,1262 1157,1265 1202,1268 1247,1265 1291,1268 1336,1268 1381,1268 1426,1265 1470,1268 1515,1268 1560,1265 1605,1265 1650,1265 1694,1265 1739,1265 1784,1265 1829,1265 1873,1265 1918,1262 1963,1262 2008,1262 2052,1262 2097,1265 2142,1265 2187,1265 2231,1268 2276,1268 2321,1268 2366,1265 2410,1265 2455,1265 2500,1265 2545,1265 2589,1265 2634,1265 2679,1265 2724,1265 2768,1265 2813,1262 2858,1259 2903,1253"/>
+                <TextEquiv>
+                    <Unicode>einandersetzung zwischen Julian u.Felix enthal-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="727,1522 746,1519 786,1538 822,1530 862,1538 930,1522 930,1378 905,1378 865,1346 824,1365 813,1357 792,1365 773,1349 727,1349"/>
+                <Baseline points="742,1423 787,1423 832,1420 877,1423 921,1423 936,1423"/>
+                <TextEquiv>
+                    <Unicode>ten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

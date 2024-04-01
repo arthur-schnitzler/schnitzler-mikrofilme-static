@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:17.450+02:00</Created>
+        <LastChange>2024-01-22T21:46:56.225+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127287" pageNr="127" tsid="145643793" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HRYLAUKNZZALSKRMWWHRQCFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QFSKGCXRANLVKAKAVEAPIDYN" imageId="48552364"/>
+    </Metadata>
+    <Page imageFilename="1589069_0127.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787416836" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="680,489 680,979 2439,979 2439,489"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="671,566 1287,563 1386,605 1557,568 2394,583 2394,454 2353,436 2260,467 1743,430 1548,478 1285,438 1055,517 781,474 671,506"/>
+                <Baseline points="683,561 768,558 854,558 940,558 1026,558 1112,558 1198,555 1283,555 1369,555 1455,555 1541,558 1627,558 1713,558 1799,558 1884,557 1970,554 2056,552 2142,552 2228,552 2314,552 2400,549"/>
+                <TextEquiv>
+                    <Unicode>Hüte dich vor dem Augenblick, da du anfängst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="682,699 1258,684 1541,724 1651,693 1710,726 1881,680 2287,684 2289,612 1916,631 1802,579 1421,647 1346,610 1248,647 805,618 682,667"/>
+                <Baseline points="695,695 775,692 855,695 935,695 1015,694 1095,688 1175,683 1255,683 1335,683 1415,680 1495,680 1575,683 1655,680 1735,679 1815,677 1895,677 1975,674 2055,674 2135,674 2215,673 2295,674"/>
+                <TextEquiv>
+                    <Unicode>auf deine Einsamkeit stolz zu werden; im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="673,824 1644,829 1743,866 1905,811 2271,807 2403,857 2436,724 1677,704 1291,776 673,772"/>
+                <Baseline points="686,818 773,816 861,815 948,815 1036,817 1124,813 1211,812 1299,813 1387,810 1474,809 1562,809 1650,806 1737,806 1825,806 1913,806 2000,802 2088,800 2176,797 2263,800 2351,800 2439,797"/>
+                <TextEquiv>
+                    <Unicode>nächsten schon wacht die Sehnsucht nach Men-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="669,952 813,973 862,954 938,991 1048,947 1379,971 1364,875 1153,906 978,901 914,866 842,906 669,899"/>
+                <Baseline points="680,949 715,949 750,949 785,949 820,949 855,949 890,949 925,949 960,949 995,949 1031,946 1066,948 1101,948 1136,946 1171,946 1206,946 1241,944 1276,944 1311,946 1346,946 1382,949"/>
+                <TextEquiv>
+                    <Unicode>schen in dir aui.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

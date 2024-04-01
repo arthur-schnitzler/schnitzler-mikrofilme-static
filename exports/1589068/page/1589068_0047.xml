@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:52.007+02:00</Created>
+        <LastChange>2024-01-22T21:15:13.902+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126719" pageNr="47" tsid="145642212" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TZADVPLNPKZNMXBQYDWVAVZL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MLHKRXOWRSPEMGQLPPHSIGIW" imageId="48551796"/>
+    </Metadata>
+    <Page imageFilename="1589068_0047.jpg" imageWidth="2888" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787546912" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="710,640 710,793 856,793 856,640"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="700,752 734,748 748,756 770,744 788,754 813,744 835,754 851,750 851,662 831,668 821,664 802,678 790,668 782,674 756,668 750,674 740,664 700,674"/>
+                <Baseline points="710,743 739,740 768,740 797,742 826,742 856,740"/>
+                <TextEquiv>
+                    <Unicode>los0</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="850,534 850,1027 2560,1027 2560,534"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1152,621 2409,615 2424,533 2110,559 1971,485 1766,467 1555,533 1496,495 1154,511"/>
+                <Baseline points="1164,605 1227,608 1290,608 1353,602 1417,603 1480,603 1543,602 1606,602 1670,602 1733,601 1796,602 1859,602 1923,600 1986,599 2049,597 2112,599 2176,597 2239,593 2302,593 2365,591 2429,590"/>
+                <TextEquiv>
+                    <Unicode>s nur möglich sein, auss ein Phi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="941,742 1140,776 2554,750 2554,589 2486,571 2377,621 2275,601 2094,686 1637,694 1398,615 941,710"/>
+                <Baseline points="952,737 1032,738 1112,738 1193,735 1273,737 1354,737 1434,735 1514,732 1595,731 1675,731 1756,731 1836,732 1916,726 1997,728 2077,724 2158,728 2238,725 2318,725 2399,725 2479,726 2560,731"/>
+                <TextEquiv>
+                    <Unicode>dep endemn merkennt. In den Fugenblick.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="839,887 861,885 879,901 919,875 963,897 1030,893 1030,748 988,748 963,770 945,770 931,756 907,770 893,756 839,770"/>
+                <Baseline points="850,832 876,831 902,829 929,829 955,829 982,829 1008,829 1035,829"/>
+                <TextEquiv>
+                    <Unicode>r dai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1299,889 1786,859 2027,901 2371,855 2514,885 2528,778 2377,829 2243,744 1301,762"/>
+                <Baseline points="1310,862 1371,862 1432,862 1493,862 1554,862 1616,862 1677,862 1738,862 1799,860 1860,859 1922,858 1983,856 2044,853 2105,856 2166,856 2228,859 2289,856 2350,853 2411,851 2472,851 2534,850"/>
+                <TextEquiv>
+                    <Unicode>ollem Herzen tät,musdher ju sei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1221,1028 1525,1024 1629,1090 2082,1082 2100,949 1848,949 1518,887 1319,925 1221,907"/>
+                <Baseline points="1232,999 1275,996 1319,996 1362,992 1406,990 1450,993 1493,993 1537,992 1580,991 1624,992 1668,990 1711,990 1755,990 1798,989 1842,987 1886,990 1929,990 1973,987 2016,987 2060,987 2104,984"/>
+                <TextEquiv>
+                    <Unicode>exflüsigkeit einsehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

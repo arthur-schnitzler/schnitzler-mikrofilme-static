@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_02:40</Creator>
+        <Created>2023-05-10T12:10:14.740+02:00</Created>
+        <LastChange>2023-07-29T02:40:13.594+02:00</LastChange>
+        <TranskribusMetadata docId="1428189" pageId="55400101" pageNr="344" tsid="131391518" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YOJYSHNZTUWJINDZQIVIZUMM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HCQODEGFYCFEHTZGWMANRAKG" imageId="44674925"/>
+    </Metadata>
+    <Page imageFilename="1428189_0344.jpg" imageWidth="3387" imageHeight="4264">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799173628" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="555,568 2732,568 2732,989 555,989"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2604,692 2629,695 2662,675 2669,680 2692,675 2704,687 2717,687 2732,544 2712,547 2707,539 2692,549 2677,539 2662,549 2659,542 2639,547 2634,542 2617,544"/>
+                <Baseline points="2624,627 2642,627 2687,621 2732,618"/>
+                <TextEquiv>
+                    <Unicode>ju</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="542,685 723,728 1096,667 1360,740 1784,637 2260,695 2551,647 2554,539 542,615"/>
+                <Baseline points="555,677 591,674 636,674 680,674 725,677 770,674 815,671 859,671 904,674 949,671 994,668 1039,671 1083,668 1128,668 1173,665 1218,662 1263,662 1307,662 1352,659 1397,659 1442,656 1487,653 1531,653 1576,650 1621,650 1666,650 1710,650 1755,647 1800,647 1845,644 1890,644 1934,641 1979,641 2024,641 2069,641 2114,639 2158,639 2203,639 2248,633 2293,627 2338,627 2382,630 2427,627 2472,624 2517,624 2561,624"/>
+                <TextEquiv>
+                    <Unicode>Nun man sagt mir  erzählt Doktor K. der ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="625,833 883,876 2082,795 2584,871 2627,707 1611,672 848,753 627,690"/>
+                <Baseline points="639,827 659,827 704,827 749,824 794,824 839,824 883,821 928,821 973,821 1018,818 1063,818 1107,815 1152,815 1197,815 1242,812 1286,809 1331,809 1376,806 1421,806 1466,806 1510,806 1555,803 1600,797 1645,794 1690,794 1734,794 1779,794 1824,791 1869,788 1914,788 1958,788 2003,788 2048,785 2093,785 2137,785 2182,779 2227,779 2272,776 2317,773 2361,773 2406,776 2451,773 2496,773 2541,773 2585,767 2630,767"/>
+                <TextEquiv>
+                    <Unicode>Mädchen geheiratet xxx sie wird mich betrügen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="549,1009 881,1066 1415,968 1633,1034 2178,973 2544,1021 2549,858 1789,810 1538,871 1465,815 1217,916 1086,868 805,953 552,893"/>
+                <Baseline points="564,976 582,979 627,976 671,979 716,979 761,979 806,976 851,979 895,979 940,976 985,973 1030,973 1074,970 1119,970 1164,964 1209,964 1254,961 1298,958 1343,955 1388,955 1433,955 1478,952 1522,952 1567,949 1612,949 1657,946 1702,943 1746,940 1791,940 1836,937 1881,934 1925,934 1970,934 2015,934 2060,931 2105,931 2149,928 2194,928 2239,928 2284,922 2329,922 2373,922 2418,919 2463,913 2508,913 2553,913"/>
+                <TextEquiv>
+                    <Unicode>tuts.. ein glückliches Jahr hab ich vor mir</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:44.053+02:00</Created>
+        <LastChange>2024-01-22T21:36:44.228+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127172" pageNr="32" tsid="145643026" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BDOLEHTYNNXZQRPDIGPABXZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YRRVURGLWHEFAOHDRXIALBFU" imageId="48552249"/>
+    </Metadata>
+    <Page imageFilename="1589070_0032.jpg" imageWidth="2984" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787074758" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="808,687 808,1201 2534,1201 2534,687"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="795,793 2312,802 2459,776 2461,683 1939,722 1715,675 1371,731 1233,672 1009,731 797,687"/>
+                <Baseline points="808,773 890,779 973,779 1056,779 1139,776 1222,775 1305,773 1387,767 1470,767 1553,768 1636,766 1719,764 1802,764 1885,764 1967,761 2050,759 2133,759 2216,757 2299,755 2382,755 2465,749"/>
+                <TextEquiv>
+                    <Unicode>Dem seslischen Schnerz ist ss gegeben auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="800,937 1327,920 1412,963 1668,899 1791,953 2155,940 2280,892 2338,927 2528,912 2528,823 2388,834 2291,789 1720,862 1396,808 1172,856 1006,793 802,791"/>
+                <Baseline points="811,907 897,907 983,905 1069,907 1155,907 1241,907 1327,904 1414,901 1500,898 1586,898 1672,896 1758,897 1844,895 1930,890 2017,890 2103,889 2189,885 2275,883 2361,883 2447,883 2534,874"/>
+                <TextEquiv>
+                    <Unicode>Die ernseligstenftim einen Heiligenschein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="806,1067 2502,1052 2524,959 2032,974 1838,935 1584,987 1226,985 1136,935 924,985 808,946"/>
+                <Baseline points="817,1032 902,1038 988,1038 1073,1036 1159,1035 1244,1034 1330,1029 1415,1029 1501,1029 1586,1026 1672,1026 1758,1021 1843,1019 1929,1016 2014,1017 2100,1017 2185,1013 2271,1013 2356,1011 2442,1011 2528,1008"/>
+                <TextEquiv>
+                    <Unicode>zu verleihen; die gemeine Sorge des Tags ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="804,1209 1231,1177 1437,1222 1752,1170 2256,1224 2474,1170 2474,1084 2358,1058 2291,1103 2209,1065 2129,1103 1515,1073 1377,1129 1108,1090 806,1118"/>
+                <Baseline points="818,1166 905,1170 992,1168 1079,1164 1167,1164 1254,1162 1341,1159 1429,1158 1516,1158 1603,1157 1691,1152 1778,1152 1865,1151 1953,1149 2040,1148 2127,1145 2215,1143 2302,1140 2389,1146 2477,1146"/>
+                <TextEquiv>
+                    <Unicode>zerrt auch das edelste Antlitz zur Pratze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

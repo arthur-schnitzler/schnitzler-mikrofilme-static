@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:57</Creator>
+        <Created>2023-09-27T14:39:35.481+02:00</Created>
+        <LastChange>2024-01-22T19:57:57.837+01:00</LastChange>
+        <TranskribusMetadata docId="1589057" pageId="60125658" pageNr="73" tsid="145637643" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZYXHKHXZZBXQKBLHBCCSOVPT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUABWZZSRJFKCWKLOKCLKEQI" imageId="48550735"/>
+    </Metadata>
+    <Page imageFilename="1589057_0073.jpg" imageWidth="3352" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790033444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="845,299 845,1120 3025,1120 3025,299"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2843,419 2886,424 2905,411 2924,424 2951,397 2962,405 2983,395 3015,400 3021,268 2991,263 2962,285 2929,260 2919,266 2913,255 2889,268 2849,263"/>
+                <Baseline points="2858,379 2885,372 2913,368 2941,367 2969,367 2997,367 3025,367"/>
+                <TextEquiv>
+                    <Unicode>904</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="840,677 977,728 1187,663 1367,720 1595,639 1885,687 2196,628 2419,685 2685,593 2849,644 2854,526 2774,505 2591,540 2234,507 2143,567 1904,518 1845,567 1788,534 1267,596 846,564"/>
+                <Baseline points="857,666 957,661 1057,658 1157,657 1257,651 1357,648 1457,648 1557,639 1657,635 1757,630 1857,626 1957,621 2057,615 2157,615 2257,608 2357,606 2457,606 2557,600 2657,599 2757,592 2858,594"/>
+                <TextEquiv>
+                    <Unicode>Wo ich wohnel - Ich wöhne überhaupt nirgend... Sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="840,824 1262,851 1377,803 1493,835 1718,781 1853,811 1933,765 1995,806 2306,746 2825,760 2913,730 2919,663 2677,615 2484,695 2368,650 2164,682 2105,652 1874,725 1243,690 913,763 846,733"/>
+                <Baseline points="857,821 960,814 1063,812 1166,809 1269,802 1372,797 1475,789 1578,785 1681,781 1784,774 1887,770 1990,762 2093,756 2196,752 2299,745 2402,740 2505,732 2608,728 2711,727 2814,722 2917,725"/>
+                <TextEquiv>
+                    <Unicode>meinen, ich habe ein Zimmer? - Ein Loch hab' icht...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="854,959 2218,886 2473,926 2701,905 2784,851 2970,891 3013,779 2508,808 2392,765 2312,811 1858,824 1775,865 1606,816 1394,867 1297,824 1176,883 862,824"/>
+                <Baseline points="869,958 976,948 1083,940 1191,936 1298,937 1405,928 1513,921 1620,916 1727,909 1835,901 1942,895 2049,889 2157,887 2264,883 2371,874 2479,869 2586,862 2693,855 2801,851 2908,847 3016,842"/>
+                <TextEquiv>
+                    <Unicode>Sie meinen, ich essel - seit acht Tagen hab ich nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="830,1093 1579,1050 1659,1082 1743,1042 1866,1079 2527,996 2768,1039 2849,1010 2854,942 2567,899 2349,948 2215,886 1968,910 1767,999 832,1026"/>
+                <Baseline points="845,1087 945,1083 1046,1079 1146,1076 1247,1069 1348,1062 1448,1057 1549,1049 1650,1048 1750,1041 1851,1034 1952,1028 2052,1027 2153,1022 2254,1013 2354,1007 2455,1000 2556,996 2656,991 2757,986 2858,988"/>
+                <TextEquiv>
+                    <Unicode>zu mir genommen als einen Rettig und einen Absirth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

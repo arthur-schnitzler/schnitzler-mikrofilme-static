@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_00:03</Creator>
+        <Created>2023-05-10T13:22:03.646+02:00</Created>
+        <LastChange>2023-07-30T00:03:24.104+02:00</LastChange>
+        <TranskribusMetadata docId="1428574" pageId="55411620" pageNr="129" tsid="131470973" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KCWYAKZHUGZPUMDILHOFRPHF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VPAOYBTEBUDPVWXHGOFHAEWV" imageId="44685763"/>
+    </Metadata>
+    <Page imageFilename="1428574_0129.jpg" imageWidth="3400" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792247752" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="713,669 3124,669 3124,908 713,908"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="699,730 2659,811 3015,769 3114,663 696,600"/>
+                <Baseline points="713,719 757,719 802,722 847,719 892,722 937,722 981,722 1026,722 1071,722 1116,722 1160,725 1205,725 1250,725 1295,725 1339,725 1384,725 1429,728 1474,728 1518,728 1563,731 1608,731 1653,731 1697,734 1742,734 1787,728 1832,731 1877,734 1921,734 1966,731 2011,734 2056,734 2100,734 2145,734 2190,734 2235,737 2279,737 2324,737 2369,737 2414,737 2458,737 2503,737 2548,737 2593,737 2637,737 2682,737 2727,737 2772,740 2817,740 2861,740 2906,743 2951,743 2996,746 3040,749 3085,746 3124,743"/>
+                <TextEquiv>
+                    <Unicode>Alles ist Abenteuer; Liebe, Krieg und Tod sogar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="702,898 1097,998 1203,944 2388,914 2385,808 2098,781 699,814"/>
+                <Baseline points="716,868 760,868 805,871 850,871 895,871 940,871 984,874 1029,877 1074,877 1119,877 1163,877 1208,877 1253,877 1298,877 1342,877 1387,877 1432,877 1477,877 1521,880 1566,883 1611,880 1656,883 1700,883 1745,883 1790,883 1835,883 1880,883 1924,883 1969,883 2014,886 2059,889 2103,886 2148,886 2193,886 2238,886 2282,889 2327,889 2372,892 2396,898"/>
+                <TextEquiv>
+                    <Unicode>nur das Altwerden ist Schicksal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

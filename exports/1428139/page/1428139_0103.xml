@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_03:04</Creator>
+        <Created>2023-05-10T11:15:50.446+02:00</Created>
+        <LastChange>2023-07-28T03:04:44.304+02:00</LastChange>
+        <TranskribusMetadata docId="1428139" pageId="55385159" pageNr="103" tsid="131314969" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OMBOFPNHXPPINPNCYFLKHULY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJQHVGIZEDUTHWNCEGODQRUJ" imageId="44660058"/>
+    </Metadata>
+    <Page imageFilename="1428139_0103.jpg" imageWidth="3384" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711823310526" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="444,445 2498,445 2498,1585 444,1585"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1557,535 1588,540 1598,535 1608,540 1621,530 1634,535 1644,530 1665,533 1665,410 1649,412 1637,407 1608,425 1598,420 1583,433 1575,428 1557,430"/>
+                <Baseline points="1572,495 1617,498 1662,495 1671,495"/>
+                <TextEquiv>
+                    <Unicode>-3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="435,1122 2474,1153 2495,1004 1626,1071 884,1063 725,999 435,1078"/>
+                <Baseline points="450,1110 495,1113 540,1113 584,1113 629,1113 674,1113 719,1113 764,1113 808,1113 853,1113 898,1113 943,1113 987,1113 1032,1110 1077,1110 1122,1110 1166,1110 1211,1110 1256,1110 1301,1113 1346,1110 1390,1110 1435,1113 1480,1113 1525,1110 1569,1113 1614,1113 1659,1110 1704,1110 1748,1110 1793,1110 1838,1110 1883,1110 1927,1113 1972,1110 2017,1113 2062,1110 2107,1113 2151,1113 2196,1110 2241,1110 2286,1110 2330,1110 2375,1110 2420,1110 2465,1113 2498,1116"/>
+                <TextEquiv>
+                    <Unicode>verbindlichst bedankt und mit aufrichtiger Verehrung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="430,1334 981,1334 1176,1414 1721,1393 1721,1176 1662,1158 1550,1214 1155,1178 1048,1222 430,1209"/>
+                <Baseline points="444,1268 489,1268 534,1265 578,1268 623,1268 668,1268 713,1268 758,1268 802,1268 847,1268 892,1268 937,1271 981,1268 1026,1268 1071,1265 1116,1265 1160,1265 1205,1265 1250,1265 1295,1265 1340,1268 1384,1268 1429,1265 1474,1265 1519,1268 1563,1265 1608,1265 1653,1265 1698,1265 1725,1268"/>
+                <TextEquiv>
+                    <Unicode>begrüsst von Ihrem ser ergebenen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1675,1619 1818,1660 1885,1637 2003,1688 2064,1655 2144,1672 2210,1634 2351,1670 2459,1660 2459,1496 2351,1501 2280,1465 2159,1498 2105,1468 2049,1498 1818,1519 1675,1473"/>
+                <Baseline points="1689,1572 1733,1572 1778,1575 1823,1572 1868,1572 1913,1572 1957,1572 2002,1572 2047,1575 2092,1572 2136,1572 2181,1572 2226,1572 2271,1572 2315,1572 2360,1572 2405,1569 2450,1572 2465,1572"/>
+                <TextEquiv>
+                    <Unicode>Dr. Hans Rosenfeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

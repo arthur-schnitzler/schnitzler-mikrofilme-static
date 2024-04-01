@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_08:58</Creator>
+        <Created>2023-05-01T22:02:57.440+02:00</Created>
+        <LastChange>2023-07-25T08:58:43.813+02:00</LastChange>
+        <TranskribusMetadata docId="1416452" pageId="54947445" pageNr="3" tsid="130590162" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NYRQYCSVBWKWCFYMQODRMFEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ERVKEVWWCAWTOQPCHSWNJPXL" imageId="44451526"/>
+    </Metadata>
+    <Page imageFilename="1416452_0003.jpg" imageWidth="5083" imageHeight="4552">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830321722" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="931,989 3829,989 3829,1831 931,1831"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1745,1175 2190,1179 2287,1133 2617,1219 2816,1186 2848,826 2060,867 1961,830 1764,876"/>
+                <Baseline points="1756,1099 1762,1105 1851,1099 1941,1099 2031,1093 2120,1081 2210,1075 2299,1069 2389,1057 2479,1051 2568,1051 2658,1051 2747,1045 2837,1039"/>
+                <TextEquiv>
+                    <Unicode>SARTHUR SCHNITZLES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1263,1159 1293,1151 1315,1167 1413,1135 1462,1170 1504,1156 1628,1182 1647,886 1612,882 1551,908 1466,895 1279,909"/>
+                <Baseline points="1272,1140 1362,1140 1421,1140 1457,1135 1547,1129 1636,1117"/>
+                <TextEquiv>
+                    <Unicode>etters to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="918,1723 990,1758 1189,1703 1275,1720 1361,1666 1424,1693 1489,1654 1585,1670 1674,1637 1683,1478 1476,1463 1332,1542 1083,1455 932,1484"/>
+                <Baseline points="931,1630 961,1636 1051,1636 1140,1636 1230,1636 1320,1630 1409,1618 1499,1612 1589,1606 1678,1600"/>
+                <TextEquiv>
+                    <Unicode>Lawinsky, Josef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3412,1845 3469,1866 3561,1857 3580,1876 3644,1858 3699,1876 3761,1865 3786,1883 3821,1871 3830,1712 3725,1706 3702,1683 3656,1683 3636,1665 3510,1670 3465,1650 3423,1661"/>
+                <Baseline points="3422,1804 3470,1798 3560,1792 3649,1786 3739,1780 3829,1780"/>
+                <TextEquiv>
+                    <Unicode>2 letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1815,1866 2080,1806 2121,1827 2210,1815 2325,1879 2422,1871 2447,1861 2443,1699 2371,1706 2209,1669 2148,1683 2098,1660 1929,1724 1810,1684"/>
+                <Baseline points="1821,1810 1911,1804 2001,1810 2090,1810 2180,1816 2270,1821 2359,1816 2449,1816"/>
+                <TextEquiv>
+                    <Unicode>8/1899. 22/4</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

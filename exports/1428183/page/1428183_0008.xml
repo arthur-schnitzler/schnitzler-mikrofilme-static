@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_00:38</Creator>
+        <Created>2023-05-10T12:03:50.593+02:00</Created>
+        <LastChange>2023-07-29T00:38:31.567+02:00</LastChange>
+        <TranskribusMetadata docId="1428183" pageId="55396041" pageNr="8" tsid="131387782" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VMHWBASEAOPRUOZFZEPODQEP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BGHEJPKDXAEKCQFMAINAHCDG" imageId="44670919"/>
+    </Metadata>
+    <Page imageFilename="1428183_0008.jpg" imageWidth="3384" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800608604" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="164,343 2933,343 2933,687 164,687"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="150,579 457,433 588,444 709,502 780,462 970,513 972,309 897,301 774,221 685,245 564,212 475,248 371,239 309,186 152,219"/>
+                <Baseline points="164,405 173,399 217,405 262,411 307,411 352,408 396,405 441,402 486,402 531,402 575,402 620,402 665,402 710,402 754,405 799,405 844,405 889,405 933,399 978,393"/>
+                <TextEquiv>
+                    <Unicode>par la guerre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1980,769 2332,747 2539,641 2709,667 2866,632 2928,608 2935,504 2778,513 2493,435 2402,488 2208,453 2095,513 1996,504"/>
+                <Baseline points="1999,647 2014,644 2058,638 2103,638 2148,638 2193,641 2237,641 2285,637 2285,637 2306,638 2351,632 2396,626 2440,617 2485,617 2530,605 2575,602 2619,599 2664,602 2709,602 2754,602 2798,605 2843,602 2888,599 2933,596"/>
+                <TextEquiv>
+                    <Unicode>u stärte wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="219,807 581,824 1030,718 1227,787 1465,703 1962,709 1996,413 1885,387 1704,473 1315,415 1191,506 915,497 672,575 460,442 219,515"/>
+                <Baseline points="232,632 277,635 322,647 367,650 411,653 456,656 501,656 546,659 590,662 635,662 680,665 725,665 769,665 814,668 859,671 904,677 948,674 993,674 1038,671 1083,668 1127,671 1172,671 1217,677 1262,677 1306,674 1351,674 1396,671 1441,674 1486,671 1530,668 1575,662 1620,659 1665,656 1709,656 1754,647 1799,650 1844,650 1888,650 1933,650 1978,647 1999,647"/>
+                <TextEquiv>
+                    <Unicode>dann weise, daß das Kin¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

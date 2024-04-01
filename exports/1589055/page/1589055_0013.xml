@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:26.076+02:00</Created>
+        <LastChange>2024-01-22T19:42:25.434+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125360" pageNr="13" tsid="145636173" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UAFYAYGUHESJUTNYBISOHJTY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JUIEYPTWXBIJVNVVRCDMSIPI" imageId="48550437"/>
+    </Metadata>
+    <Page imageFilename="1589055_0013.jpg" imageWidth="2840" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790588195" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="498,488 498,842 2518,842 2518,488"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="495,553 1144,591 1418,558 1944,639 2115,568 2490,609 2510,516 2314,478 1506,500 1413,445 898,445 827,407 493,473"/>
+                <Baseline points="507,531 607,540 708,543 808,545 909,543 1009,550 1110,549 1210,549 1311,555 1411,555 1512,555 1613,558 1713,558 1814,561 1914,563 2015,563 2115,564 2216,564 2316,567 2417,567 2518,576"/>
+                <TextEquiv>
+                    <Unicode>Weiss ich euch nicht mit Sicherheit zu melden:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="495,694 533,699 558,677 578,692 599,682 631,694 687,669 724,669 760,702 815,672 865,694 863,616 830,614 807,634 712,636 664,604 594,624 541,583 521,599 493,596"/>
+                <Baseline points="510,665 535,665 561,665 587,667 613,668 638,668 664,668 690,668 716,668 742,669 767,670 793,670 819,668 845,669 871,674"/>
+                <TextEquiv>
+                    <Unicode>Doch wen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="878,687 1144,717 1474,684 1600,724 1683,687 1911,765 2138,760 2233,739 2233,636 875,621"/>
+                <Baseline points="892,656 959,676 1026,674 1094,676 1161,677 1229,682 1296,680 1363,680 1431,682 1498,681 1566,683 1633,685 1700,687 1768,689 1835,689 1903,689 1970,687 2037,691 2105,692 2172,692 2239,703"/>
+                <TextEquiv>
+                    <Unicode>ger noch ward mir bisher belann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="659,744 689,742 707,752 732,734 770,762 792,762 785,684 770,687 760,679 747,687 714,666 687,669 672,682 654,679"/>
+                <Baseline points="674,728 704,730 735,733 765,737 796,737"/>
+                <TextEquiv>
+                    <Unicode>Propl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="488,830 1112,817 1263,865 1363,822 1718,817 2291,868 2289,749 1959,770 1796,732 1620,767 1285,709 1021,732 966,692 800,780 739,739 485,739"/>
+                <Baseline points="498,793 588,793 678,799 768,799 858,802 948,808 1038,808 1128,808 1218,808 1308,808 1398,814 1488,811 1578,814 1668,814 1758,814 1848,817 1938,823 2028,821 2118,824 2208,827 2298,826"/>
+                <TextEquiv>
+                    <Unicode>Was ex sonist lgistat) für sein Vaterlaud.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

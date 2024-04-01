@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_10:44</Creator>
+        <Created>2023-05-02T07:48:34.287+02:00</Created>
+        <LastChange>2023-07-25T10:44:11.572+02:00</LastChange>
+        <TranskribusMetadata docId="1416713" pageId="54950913" pageNr="28" tsid="130599356" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NMHSFZSWHXATBHDGBWEOAJIB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VFLJMWARGVRARVIQOGJOYTZJ" imageId="44454639"/>
+    </Metadata>
+    <Page imageFilename="1416713_0028.jpg" imageWidth="3435" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828637198" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="393,851 2530,851 2530,1331 393,1331"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="761,924 1072,915 1373,995 1440,961 1556,982 1632,934 1912,970 1896,797 1832,792 1706,875 1286,802 922,802 759,857"/>
+                <Baseline points="769,904 814,904 859,904 904,904 948,901 993,901 1038,901 1083,901 1127,901 1172,904 1217,907 1262,904 1306,904 1351,904 1396,904 1441,907 1485,907 1530,910 1575,910 1620,913 1664,913 1709,916 1754,916 1799,916 1844,916 1888,913 1912,913"/>
+                <TextEquiv>
+                    <Unicode>Mit bestem Grüße Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1813,1037 1855,1032 1961,1071 2056,1017 2141,1038 2174,1021 2365,1034 2364,985 2218,977 2159,935 2105,967 2025,958 1955,982 1879,961 1812,967"/>
+                <Baseline points="1820,1014 1864,1011 1909,1011 1954,1011 1999,1011 2043,1014 2088,1017 2133,1017 2178,1020 2222,1020 2267,1020 2312,1020 2357,1023 2369,1023"/>
+                <TextEquiv>
+                    <Unicode>ergebener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1889,1308 2019,1306 2102,1353 2229,1366 2428,1444 2528,1423 2525,1214 2354,1218 2251,1154 2126,1216 2015,1180 1888,1218"/>
+                <Baseline points="1897,1297 1942,1294 1987,1294 2031,1291 2076,1291 2121,1294 2166,1291 2211,1291 2255,1294 2300,1294 2345,1297 2390,1297 2434,1297 2479,1303 2524,1309 2530,1309"/>
+                <TextEquiv>
+                    <Unicode>P. Schlechung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="385,1346 922,1308 1022,1353 1128,1330 1413,1366 1484,1334 1483,1241 1267,1217 1138,1261 1037,1208 862,1234 383,1208"/>
+                <Baseline points="393,1303 438,1306 483,1306 528,1309 572,1309 617,1306 662,1306 707,1303 751,1303 796,1303 841,1303 886,1303 930,1303 975,1306 1020,1306 1065,1306 1109,1306 1154,1309 1199,1309 1244,1312 1289,1312 1333,1312 1378,1312 1423,1315 1468,1315 1488,1321"/>
+                <TextEquiv>
+                    <Unicode>Wien, am 26. November 1899.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

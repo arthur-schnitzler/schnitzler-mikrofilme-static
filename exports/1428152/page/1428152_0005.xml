@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_09:06</Creator>
+        <Created>2023-05-10T11:23:20.655+02:00</Created>
+        <LastChange>2023-07-28T09:06:02.224+02:00</LastChange>
+        <TranskribusMetadata docId="1428152" pageId="55386458" pageNr="5" tsid="131329233" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XRFUMYQZZQXKAOLZEMOWZEST&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZOGPEJLZMVFSLSFXGEGFGOF" imageId="44661355"/>
+    </Metadata>
+    <Page imageFilename="1428152_0005.jpg" imageWidth="6792" imageHeight="4584">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821126456" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4034,773 6189,773 6189,1860 4034,1860"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5759,911 5829,941 5886,927 6026,959 6066,943 6093,962 6115,943 6177,973 6185,709 6128,720 6058,685 6021,698 5986,685 5910,703 5819,763 5762,757"/>
+                <Baseline points="5777,835 5831,829 5921,829 6010,823 6100,823 6189,823"/>
+                <TextEquiv>
+                    <Unicode>V. 35.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4140,1528 4379,1595 4468,1536 4840,1547 5172,1469 5315,1533 5730,1447 5735,1361 5304,1321 5180,1364 5075,1315 4673,1404 4420,1342 4148,1372"/>
+                <Baseline points="4154,1522 4213,1522 4303,1522 4393,1516 4482,1510 4572,1504 4661,1498 4751,1492 4840,1486 4930,1480 5019,1474 5109,1468 5198,1456 5288,1456 5377,1450 5467,1450 5556,1444 5646,1438 5735,1432"/>
+                <TextEquiv>
+                    <Unicode>Sylvesterbetrachtungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4010,1846 4312,1757 4627,1825 4943,1692 6002,1679 6180,1644 6193,1458 5568,1582 5126,1587 4921,1507 4253,1679 4029,1595"/>
+                <Baseline points="4034,1766 4040,1760 4130,1754 4219,1754 4309,1754 4398,1754 4488,1748 4578,1736 4667,1724 4757,1719 4846,1707 4936,1695 5025,1683 5115,1683 5204,1671 5294,1671 5383,1665 5473,1665 5562,1659 5652,1653 5741,1647 5831,1641 5921,1629 6010,1617 6100,1617 6189,1623"/>
+                <TextEquiv>
+                    <Unicode>Jahren. Bl. Rundschau, 611.89</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="5131,1957 5285,1997 5414,1930 5767,1846 5897,1895 6029,1895 6037,1709 5959,1690 5859,1736 5724,1701 5614,1749 5514,1719 5471,1757 5282,1703 5188,1760 5139,1749"/>
+                <Baseline points="5148,1850 5234,1844 5324,1844 5413,1832 5503,1832 5592,1832 5682,1832 5771,1820 5861,1814 5950,1808 6040,1808"/>
+                <TextEquiv>
+                    <Unicode>3. Jahre. nr 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

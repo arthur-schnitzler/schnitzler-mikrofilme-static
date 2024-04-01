@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_23:03</Creator>
+        <Created>2023-05-10T14:57:53.450+02:00</Created>
+        <LastChange>2023-08-14T23:03:09.316+02:00</LastChange>
+        <TranskribusMetadata docId="1428694" pageId="55427594" pageNr="10" tsid="132829478" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DPRAJTXBRIDTZWCRRLVMPPJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NWVFQFQJQZGENKBZPTXFAGLM" imageId="44701667"/>
+    </Metadata>
+    <Page imageFilename="1428694_0010.jpg" imageWidth="3096" imageHeight="2120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711808693171" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1782,379 2421,379 2421,875 1782,875"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1775,516 1847,522 1957,465 2041,485 2129,452 2193,472 2403,442 2408,343 2250,296 2196,333 2146,311 2049,354 1889,285 1784,306"/>
+                <Baseline points="1782,462 1824,465 1869,462 1913,459 1958,456 2003,462 2048,456 2093,456 2137,456 2182,456 2227,453 2272,447 2317,447 2361,435 2406,429"/>
+                <TextEquiv>
+                    <Unicode>Spertell</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1830,695 2007,663 2070,681 2174,661 2201,680 2319,669 2419,642 2420,627 2300,636 2145,522 2111,516 2032,555 1949,559 1924,537 1891,560 1837,557"/>
+                <Baseline points="1836,671 1839,668 1884,665 1928,662 1973,662 2018,662 2063,659 2108,656 2152,656 2197,653 2242,653 2287,644 2332,647 2376,641 2421,638"/>
+                <TextEquiv>
+                    <Unicode>Sellers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1937,990 2109,880 2290,867 2325,847 2399,866 2407,715 2273,706 2165,779 1944,846"/>
+                <Baseline points="1949,856 1955,856 2000,865 2045,862 2090,859 2134,859 2179,859 2224,856 2269,853 2314,848 2358,842 2403,833"/>
+                <TextEquiv>
+                    <Unicode>Protto</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

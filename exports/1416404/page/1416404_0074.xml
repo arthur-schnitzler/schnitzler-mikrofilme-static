@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_22:20</Creator>
+        <Created>2023-05-01T21:49:39.881+02:00</Created>
+        <LastChange>2023-07-24T22:20:11.833+02:00</LastChange>
+        <TranskribusMetadata docId="1416404" pageId="54945100" pageNr="74" tsid="130574405" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HWYXYLODDUXJZCCFAGMPRNFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PAOHWZNTPOIFYXJQTRYCLNVR" imageId="44449185"/>
+    </Metadata>
+    <Page imageFilename="1416404_0074.jpg" imageWidth="5015" imageHeight="3913">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832590776" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="680,802 2248,802 2248,1381 680,1381"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1326,874 1350,870 1378,886 1408,866 1458,868 1514,886 1536,872 1614,890 1616,774 1564,776 1532,796 1484,778 1432,730 1390,746 1352,722 1330,726"/>
+                <Baseline points="1336,858 1348,858 1437,858 1527,852 1616,852"/>
+                <TextEquiv>
+                    <Unicode>Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1338,1026 1422,1002 1512,1036 1690,1000 1920,1060 2002,1020 2044,1048 2182,1032 2246,1004 2248,908 2152,866 2004,894 1890,824 1566,910 1438,868 1340,880"/>
+                <Baseline points="1348,1002 1354,996 1443,996 1532,996 1622,990 1711,990 1801,990 1890,990 1980,990 2069,990 2159,990 2248,990"/>
+                <TextEquiv>
+                    <Unicode>D'Arthur Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1658,1242 1724,1212 1780,1214 1846,1246 1900,1218 1994,1228 2012,1212 2162,1242 2176,1236 2166,1048 2034,1066 1948,1048 1922,1064 1736,1002 1648,1064"/>
+                <Baseline points="1664,1157 1753,1163 1843,1169 1932,1169 2022,1175 2111,1181 2177,1187"/>
+                <TextEquiv>
+                    <Unicode>Edlach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1540,1436 1632,1426 1704,1458 1762,1428 1868,1440 1918,1418 2020,1426 2062,1454 2202,1444 2200,1266 2096,1254 2016,1212 1956,1234 1900,1218 1844,1246 1768,1214 1714,1256 1628,1218 1538,1252"/>
+                <Baseline points="1550,1330 1640,1324 1729,1324 1819,1324 1908,1324 1998,1324 2087,1330 2177,1330 2207,1330"/>
+                <TextEquiv>
+                    <Unicode>bei Reichenau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="670,1456 716,1446 828,1496 918,1448 998,1444 1044,1478 1168,1438 1338,1484 1338,1282 1280,1306 1214,1266 1106,1306 946,1286 860,1332 802,1288 748,1316 670,1304"/>
+                <Baseline points="680,1371 769,1371 858,1371 948,1371 1037,1365 1127,1371 1216,1371 1306,1371 1342,1371"/>
+                <TextEquiv>
+                    <Unicode>JE CIA-FOT VITO GÉNÉRINI-STAUPA CELERE AL=ernung</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:46</Creator>
+        <Created>2023-05-10T15:12:16.524+02:00</Created>
+        <LastChange>2023-08-15T04:46:37.892+02:00</LastChange>
+        <TranskribusMetadata docId="1428823" pageId="55432333" pageNr="105" tsid="132839024" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MUMRMCCSQEUZUKQHLSRSGDDQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXPEJDKTFSVIHXEZCTURXBYK" imageId="44706370"/>
+    </Metadata>
+    <Page imageFilename="1428823_0105.jpg" imageWidth="4232" imageHeight="5048">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803019581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="674,337 3800,337 3800,1322 674,1322"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1724,405 1788,421 1858,412 1877,425 1922,412 2040,437 2037,239 1986,233 1967,246 1941,227 1919,236 1848,185 1794,223 1721,230"/>
+                <Baseline points="1742,387 1831,387 1921,387 2010,387 2046,393"/>
+                <TextEquiv>
+                    <Unicode>— 39 —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1229,690 3738,651 3793,488 3276,463 3014,568 2624,469 2027,565 1232,492"/>
+                <Baseline points="1247,632 1294,632 1384,626 1473,632 1563,626 1652,632 1742,626 1831,626 1921,626 2010,626 2100,620 2189,620 2279,614 2368,614 2458,620 2547,620 2637,620 2726,608 2816,608 2905,608 2995,608 3084,608 3174,608 3263,608 3353,608 3442,608 3532,602 3621,602 3711,596 3800,602"/>
+                <TextEquiv>
+                    <Unicode>Well and what if he was anyry – the Chief! He won’t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="654,686 702,696 737,670 744,683 769,674 798,696 872,667 884,674 903,654 926,661 923,555 836,549 798,530 763,536 731,559 696,546 661,555"/>
+                <Baseline points="674,638 751,632 841,632 930,626"/>
+                <TextEquiv>
+                    <Unicode>HoCH:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1210,849 1749,798 2078,900 2436,785 3426,789 3461,693 2647,702 2394,626 2117,731 1213,686"/>
+                <Baseline points="1229,793 1318,793 1408,787 1497,787 1587,787 1676,787 1766,787 1855,787 1945,787 2034,787 2124,781 2213,781 2303,781 2392,781 2482,781 2571,775 2661,775 2750,775 2840,775 2929,775 3019,775 3108,775 3198,775 3287,769 3377,763 3466,763"/>
+                <TextEquiv>
+                    <Unicode>be that much longer! This will break his neck!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1689,1341 1753,1341 1778,1363 1829,1370 1880,1331 1896,1341 1935,1328 1979,1373 2027,1366 2027,1235 1973,1232 1935,1204 1797,1152 1743,1159 1689,1146"/>
+                <Baseline points="1706,1312 1796,1306 1885,1306 1975,1306 2034,1312"/>
+                <TextEquiv>
+                    <Unicode>CURTAIN:</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

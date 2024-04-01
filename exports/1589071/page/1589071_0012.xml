@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:02</Creator>
+        <Created>2023-09-27T14:42:41.722+02:00</Created>
+        <LastChange>2024-01-22T19:02:09.778+01:00</LastChange>
+        <TranskribusMetadata docId="1589071" pageId="60127016" pageNr="12" tsid="145634625" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=THUFIVCEUHOVWIBQMXRIEGNZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXDCKQAHVAEFLRGZTQMWZEOW" imageId="48552093"/>
+    </Metadata>
+    <Page imageFilename="1589071_0012.jpg" imageWidth="2824" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787003803" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="641,273 641,1016 2494,1016 2494,273"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1049,383 1185,383 1236,369 1278,369 1305,385 1358,378 1356,279 1310,286 1278,272 1262,284 1222,263 1169,277 1107,242 1063,268 1047,263"/>
+                <Baseline points="1059,340 1084,338 1109,337 1134,335 1159,335 1184,336 1209,337 1234,337 1259,338 1284,340 1309,340 1334,341 1360,343"/>
+                <TextEquiv>
+                    <Unicode>Zitate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="646,466 791,514 1218,470 1305,514 2099,503 2193,484 2191,378 2143,355 1960,417 1806,378 1693,420 1266,369 856,415 643,369"/>
+                <Baseline points="659,462 736,463 813,462 890,465 967,465 1044,465 1121,464 1198,465 1275,465 1352,468 1429,468 1506,468 1583,470 1660,471 1737,471 1814,473 1891,472 1968,469 2045,474 2122,473 2199,480"/>
+                <TextEquiv>
+                    <Unicode>(Briefwechsel GoethesStein,Bd.III,S.205.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="630,620 803,653 828,637 886,655 934,627 999,650 1079,623 1075,480 959,510 886,489 791,514 736,500 710,519 625,496"/>
+                <Baseline points="641,590 667,590 693,590 719,592 745,593 771,593 797,594 823,596 849,594 875,594 901,595 927,597 953,599 979,599 1005,599 1031,599 1057,599 1083,599"/>
+                <TextEquiv>
+                    <Unicode>Zeremonien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="637,881 2428,890 2491,876 2488,740 2119,791 1859,740 1670,791 1485,745 634,754"/>
+                <Baseline points="650,847 742,847 834,850 926,850 1018,853 1111,854 1203,854 1295,851 1387,854 1479,858 1572,859 1664,859 1756,859 1848,859 1940,860 2033,861 2125,859 2217,859 2309,862 2401,859 2494,859"/>
+                <TextEquiv>
+                    <Unicode>Empfindlichkeit Goethes, S.536,542 (Wahrheit und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="653,1105 775,1093 876,1130 1024,1102 1024,904 994,897 911,925 853,902 823,918 789,895 717,902 694,883 653,886"/>
+                <Baseline points="665,981 691,981 717,981 743,981 769,981 795,981 821,981 847,981 873,981 899,981 925,981 951,982 977,984 1003,984 1029,981"/>
+                <TextEquiv>
+                    <Unicode>Hchtans1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_13:11</Creator>
+        <Created>2023-05-10T15:25:08.270+02:00</Created>
+        <LastChange>2023-08-15T13:11:09.972+02:00</LastChange>
+        <TranskribusMetadata docId="1429070" pageId="55435877" pageNr="95" tsid="132858466" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NBOJBTSAXOXRUDLEFQTODUVB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FPWTIZBOAFYECPLXOETVLAMW" imageId="44709867"/>
+    </Metadata>
+    <Page imageFilename="1429070_0095.jpg" imageWidth="4392" imageHeight="5768">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711798573190" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="818,797 3851,797 3851,1998 818,1998"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2124,888 3170,877 3201,718 3031,767 2853,737 2740,778 2645,714 2539,710 2324,812 2127,786"/>
+                <Baseline points="2143,871 2221,865 2310,871 2400,871 2489,871 2579,871 2669,871 2758,865 2848,865 2937,865 3027,859 3116,853 3206,847"/>
+                <TextEquiv>
+                    <Unicode>Oot. 17,oc26. A Mind</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="809,994 1122,979 1251,911 1500,1020 1746,952 1791,979 1889,933 1889,752 1723,775 1546,733 1357,790 1179,741 967,820 809,763"/>
+                <Baseline points="829,895 913,889 1003,889 1092,889 1182,889 1271,889 1361,883 1450,889 1540,889 1630,883 1719,883 1809,889 1898,889"/>
+                <TextEquiv>
+                    <Unicode>Hess (St. Paul, Minn.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2105,1024 2558,967 2683,1020 3072,986 3148,1016 3310,956 3371,982 3371,862 2105,884"/>
+                <Baseline points="2125,955 2215,949 2304,949 2394,949 2483,949 2573,949 2663,943 2752,949 2842,943 2931,943 3021,937 3110,937 3200,943 3290,937 3379,943"/>
+                <TextEquiv>
+                    <Unicode>Dissection a la Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="794,1171 1285,1243 2445,1100 3465,1156 3465,967 797,1009"/>
+                <Baseline points="818,1128 877,1128 967,1122 1056,1122 1146,1122 1236,1122 1325,1116 1415,1122 1504,1116 1594,1116 1683,1116 1773,1116 1862,1116 1952,1110 2042,1110 2131,1104 2221,1110 2310,1110 2400,1104 2489,1098 2579,1098 2669,1104 2758,1104 2848,1098 2937,1098 3027,1098 3116,1098 3206,1098 3296,1104 3385,1098 3475,1104"/>
+                <TextEquiv>
+                    <Unicode>The San Franciscan (San Franciseo, Calf.) -Feb. 1927 p81</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2124,1205 2256,1243 2350,1209 2452,1239 2585,1194 2747,1258 2944,1202 3102,1239 3102,1107 3049,1092 2570,1130 2445,1100 2400,1137 2124,1119"/>
+                <Baseline points="2143,1176 2233,1182 2322,1182 2412,1176 2501,1176 2591,1182 2680,1182 2770,1182 2860,1182 2949,1176 3039,1176 3110,1182"/>
+                <TextEquiv>
+                    <Unicode>Under "The Bookstall"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="809,1436 3261,1334 3722,1436 3839,1398 3843,1232 2097,1194 1829,1281 812,1183"/>
+                <Baseline points="829,1355 895,1355 985,1355 1074,1355 1164,1349 1253,1349 1343,1349 1433,1349 1522,1349 1612,1349 1701,1349 1791,1349 1880,1349 1970,1349 2060,1349 2149,1343 2239,1343 2328,1349 2418,1343 2507,1343 2597,1343 2686,1337 2776,1337 2866,1331 2955,1337 3045,1337 3134,1337 3224,1331 3313,1331 3403,1331 3493,1331 3582,1331 3672,1325 3761,1325 3851,1325"/>
+                <TextEquiv>
+                    <Unicode>Tines (los Angeles, Galif.) April 10,1927, Schni taler interprets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2112,1553 3692,1519 3692,1409 3257,1349 2736,1440 2116,1391"/>
+                <Baseline points="2137,1498 2179,1498 2268,1498 2358,1504 2448,1504 2537,1498 2627,1498 2716,1498 2806,1498 2895,1492 2985,1492 3075,1492 3164,1492 3254,1492 3343,1486 3433,1486 3522,1486 3612,1480 3702,1480"/>
+                <TextEquiv>
+                    <Unicode>Jan. 2. 1927. Review by F.D.Smith</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="809,1553 998,1572 1077,1542 1137,1580 1360,1553 1432,1583 1534,1549 1768,1557 1810,1549 1814,1391 1712,1440 1564,1391 1451,1474 1383,1406 1232,1372 812,1436"/>
+                <Baseline points="829,1516 835,1516 925,1510 1015,1510 1104,1510 1194,1504 1283,1504 1373,1510 1462,1504 1552,1504 1642,1504 1731,1504 1821,1504"/>
+                <TextEquiv>
+                    <Unicode>Newa (Dallas, Texas)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="2777,1666 2804,1666 2827,1644 2864,1666 2944,1644 3004,1659 3117,1651 3117,1530 3072,1530 3049,1546 3031,1538 2993,1561 2932,1538 2879,1546 2845,1527 2777,1542"/>
+                <Baseline points="2800,1642 2860,1636 2949,1642 3039,1636 3128,1636"/>
+                <TextEquiv>
+                    <Unicode>Revien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="812,1727 1243,1761 1704,1678 1818,1734 2124,1659 2649,1666 2649,1564 2592,1553 812,1553"/>
+                <Baseline points="835,1665 841,1665 931,1665 1021,1665 1110,1665 1200,1665 1289,1659 1379,1659 1468,1659 1558,1659 1648,1659 1737,1665 1827,1665 1916,1659 2006,1659 2095,1653 2137,1653 2209,1653 2298,1653 2388,1648 2477,1653 2567,1648 2657,1648"/>
+                <TextEquiv>
+                    <Unicode>Evening Post (hicago,111.) Nov. 19, 19,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="2105,1787 2577,1746 2706,1802 2932,1750 3465,1787 3503,1617 3329,1606 3144,1678 2105,1666"/>
+                <Baseline points="2125,1725 2167,1731 2257,1725 2346,1725 2436,1725 2525,1731 2615,1725 2704,1725 2794,1725 2884,1725 2973,1719 3063,1719 3152,1719 3242,1713 3331,1713 3421,1719 3510,1719"/>
+                <TextEquiv>
+                    <Unicode>Frank H. Pettee (Full Column)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="812,2093 2339,2003 2687,2056 2830,2029 2830,1859 812,1916"/>
+                <Baseline points="835,1988 865,1982 955,1988 1044,1988 1134,1988 1224,1982 1313,1982 1403,1982 1492,1982 1582,1982 1671,1982 1761,1982 1851,1976 1940,1976 2030,1976 2119,1976 2209,1976 2298,1970 2388,1976 2477,1976 2567,1970 2657,1970 2746,1970 2836,1970"/>
+                <TextEquiv>
+                    <Unicode>Note: For playing with Lovo see Liebelei</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="841,2147 3773,2147 3773,3252 841,3252"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1572,2248 2577,2252 3004,2313 3004,2078 2052,2082 1772,2139 1572,2101"/>
+                <Baseline points="1594,2215 1665,2209 1755,2203 1845,2203 1934,2203 2024,2203 2113,2197 2203,2203 2292,2203 2382,2197 2472,2197 2561,2197 2651,2203 2740,2203 2830,2209 2919,2209 3009,2209"/>
+                <TextEquiv>
+                    <Unicode>Concerning Professor Bernhardi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1243,2430 1799,2475 2929,2430 2932,2294 2577,2252 2422,2313 2305,2260 1247,2271"/>
+                <Baseline points="1265,2382 1325,2376 1415,2382 1504,2382 1594,2376 1683,2376 1773,2376 1862,2376 1952,2376 2042,2376 2131,2370 2221,2370 2310,2376 2400,2370 2489,2370 2579,2370 2669,2364 2758,2364 2848,2370 2937,2370"/>
+                <TextEquiv>
+                    <Unicode>An Articles on the Berlin production</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2135,2539 2630,2554 2683,2520 3038,2554 3099,2517 3178,2532 3178,2430 2913,2460 2849,2426 2135,2441"/>
+                <Baseline points="2155,2531 2203,2525 2292,2525 2382,2525 2472,2519 2561,2519 2651,2519 2740,2519 2830,2519 2919,2519 3009,2519 3098,2507 3188,2507"/>
+                <TextEquiv>
+                    <Unicode>Sept. 1918, XII, 148-9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="828,2622 1001,2641 1096,2607 1153,2653 1315,2638 1315,2441 1205,2407 1164,2415 1103,2468 1066,2441 994,2437 948,2471 911,2449 828,2468"/>
+                <Baseline points="847,2537 937,2543 1027,2537 1116,2537 1206,2537 1295,2543 1325,2549"/>
+                <TextEquiv>
+                    <Unicode>Smart Set</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2116,2622 2554,2649 2755,2615 2929,2668 3031,2615 3356,2634 3382,2505 3231,2486 3038,2558 2116,2539"/>
+                <Baseline points="2137,2603 2227,2603 2316,2603 2406,2603 2495,2603 2585,2597 2675,2597 2764,2603 2854,2597 2943,2597 3033,2597 3122,2591 3212,2591 3301,2591 3391,2597"/>
+                <TextEquiv>
+                    <Unicode>Review by George J. Nahthan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1243,2808 1685,2770 1867,2819 2789,2823 2876,2792 2879,2668 2131,2622 2010,2664 1772,2573 1247,2641"/>
+                <Baseline points="1265,2770 1271,2770 1361,2770 1450,2764 1540,2770 1630,2764 1719,2770 1809,2770 1898,2764 1988,2764 2077,2758 2167,2758 2257,2758 2346,2764 2436,2758 2525,2758 2615,2752 2704,2752 2794,2752 2884,2752"/>
+                <TextEquiv>
+                    <Unicode>A Reviev of the Berlin Publication</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2135,2963 3023,2970 3027,2804 2139,2815"/>
+                <Baseline points="2155,2919 2227,2919 2316,2919 2406,2919 2495,2919 2585,2913 2675,2919 2764,2919 2854,2913 2943,2913 3033,2907"/>
+                <TextEquiv>
+                    <Unicode>Oct. S. 1913, p517</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="820,2947 862,2966 1058,2940 1224,2989 1323,2947 1451,2944 1508,2985 1553,2978 1553,2823 1459,2792 1375,2811 1341,2781 1262,2811 1054,2770 937,2815 820,2781"/>
+                <Baseline points="841,2925 931,2925 1021,2925 1110,2925 1200,2925 1289,2919 1379,2925 1468,2925 1558,2931 1564,2931"/>
+                <TextEquiv>
+                    <Unicode>New York Time</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="922,3099 3654,3133 3767,2989 926,2955"/>
+                <Baseline points="943,3087 997,3087 1086,3081 1176,3081 1265,3081 1355,3081 1444,3081 1534,3081 1624,3081 1713,3081 1803,3081 1892,3081 1982,3081 2071,3075 2161,3075 2251,3075 2340,3075 2430,3081 2519,3075 2609,3075 2698,3081 2788,3081 2878,3075 2967,3069 3057,3063 3146,3057 3236,3063 3325,3069 3415,3063 3504,3069 3594,3069 3684,3069 3773,3081"/>
+                <TextEquiv>
+                    <Unicode>Concerning the 1913 publication by P.Elder Co. San Franciseo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="831,3276 3197,3238 3197,3148 1432,3106 831,3182"/>
+                <Baseline points="853,3242 931,3242 1021,3242 1110,3242 1200,3242 1289,3236 1379,3236 1468,3236 1558,3236 1648,3236 1737,3230 1827,3236 1916,3230 2006,3230 2095,3230 2137,3230 2221,3230 2310,3230 2400,3224 2489,3224 2579,3224 2669,3224 2758,3218 2848,3218 2937,3218 3027,3212 3116,3212 3206,3218"/>
+                <TextEquiv>
+                    <Unicode>Current Opinion (New York) March 1914, LVI, 193-4</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="835,3246 3869,3246 3869,5306 835,5306"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2127,3306 3257,3314 3261,3197 3167,3235 2694,3219 2645,3261 2131,3242"/>
+                <Baseline points="2149,3296 2239,3301 2328,3301 2418,3301 2507,3301 2597,3301 2686,3301 2776,3301 2866,3296 2955,3296 3045,3296 3134,3296 3224,3296 3266,3296"/>
+                <TextEquiv>
+                    <Unicode>Review and illustration</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2158,3393 2808,3378 2898,3458 3099,3480 3711,3450 3711,3295 3590,3269 3102,3329 2158,3314"/>
+                <Baseline points="2179,3367 2268,3379 2358,3379 2448,3379 2537,3373 2627,3373 2716,3373 2806,3373 2895,3379 2985,3379 3075,3379 3164,3379 3254,3373 3343,3379 3433,3373 3522,3373 3612,3373 3702,3373 3719,3379"/>
+                <TextEquiv>
+                    <Unicode>"Schnitsler writes a play without</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2146,3469 2279,3503 2422,3480 2464,3507 2513,3488 2702,3507 2740,3484 2868,3510 2868,3397 2808,3378 2233,3408 2146,3367"/>
+                <Baseline points="2167,3457 2257,3457 2346,3463 2436,3457 2525,3463 2615,3457 2704,3457 2794,3457 2878,3463"/>
+                <TextEquiv>
+                    <Unicode>a woman in it".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2139,3628 2468,3639 2505,3620 2675,3658 2675,3499 2619,3484 2588,3510 2562,3495 2464,3510 2418,3484 2324,3518 2297,3495 2139,3476"/>
+                <Baseline points="2161,3612 2251,3612 2340,3612 2430,3612 2519,3612 2609,3618 2686,3618"/>
+                <TextEquiv>
+                    <Unicode>March 1914,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="831,3684 941,3654 1141,3722 1221,3658 1311,3681 1353,3646 1508,3639 1508,3476 1425,3492 1383,3465 1311,3469 1171,3518 1092,3495 986,3526 899,3480 831,3484"/>
+                <Baseline points="853,3636 889,3630 979,3624 1068,3624 1158,3624 1247,3624 1337,3624 1427,3624 1516,3624"/>
+                <TextEquiv>
+                    <Unicode> mirm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2135,3722 2241,3752 2415,3718 2573,3760 2872,3692 2944,3741 2985,3711 3151,3737 3155,3503 3031,3465 2970,3507 2789,3499 2634,3635 2135,3631"/>
+                <Baseline points="2155,3696 2173,3696 2263,3690 2352,3696 2442,3696 2531,3696 2621,3690 2710,3690 2800,3690 2889,3684 2979,3684 3069,3684 3158,3684"/>
+                <TextEquiv>
+                    <Unicode>Review by J.B. Retley</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2184,3990 2275,4024 2343,3983 2838,3975 2936,4013 3231,3888 3442,3930 3454,3730 2195,3745"/>
+                <Baseline points="2209,3928 2215,3928 2304,3922 2394,3916 2466,3881 2561,3876 2561,3876 2651,3857 2740,3857 2830,3857 2919,3857 3009,3851 3098,3851 3188,3851 3278,3851 3367,3851 3457,3845"/>
+                <TextEquiv>
+                    <Unicode>tion in Simon and Schuster</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="930,3900 1406,3881 1632,3994 1799,3881 2010,3881 2010,3760 1969,3752 1867,3794 1674,3760 1595,3798 1383,3722 930,3733"/>
+                <Baseline points="949,3863 1038,3863 1128,3863 1218,3863 1307,3863 1397,3863 1486,3863 1576,3869 1665,3875 1673,3883 1673,3883 1749,3869 1839,3863 1928,3857 2018,3863"/>
+                <TextEquiv>
+                    <Unicode>Concerning the 1929 puh.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1746,4005 1799,4013 1848,3990 1870,4005 1916,3994 1980,4028 2165,3975 2161,3881 2071,3885 2059,3873 2044,3888 1931,3881 1889,3896 1874,3881 1787,3888 1742,3869"/>
+                <Baseline points="1767,3916 1856,3922 1946,3928 2036,3928 2125,3928 2173,3928"/>
+                <TextEquiv>
+                    <Unicode>tes refer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="2097,4126 2479,4176 2706,4130 2940,4194 3023,4145 3257,4210 3514,4138 3518,3968 3352,3945 2985,4017 2842,3975 2384,3994 2324,4036 2101,3979"/>
+                <Baseline points="2119,4090 2179,4090 2268,4090 2358,4090 2448,4096 2537,4090 2627,4090 2716,4084 2806,4084 2895,4084 2985,4084 3075,4078 3164,4078 3254,4072 3343,4078 3433,4078 3522,4072"/>
+                <TextEquiv>
+                    <Unicode>Aug. 21, Revlew by Bruce Oould</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="809,4168 1209,4134 1270,4168 1477,4108 1587,4138 1734,4115 1795,4153 1878,4123 1852,3990 1413,4024 1266,3971 1137,4017 903,3979 812,4017"/>
+                <Baseline points="835,4108 901,4096 991,4096 1080,4096 1170,4090 1259,4090 1349,4090 1439,4090 1528,4090 1618,4090 1707,4090 1797,4090 1886,4090"/>
+                <TextEquiv>
+                    <Unicode>New York Evening Post</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="820,4304 2694,4285 2845,4247 2845,4142 820,4183"/>
+                <Baseline points="841,4257 883,4257 973,4257 1062,4251 1152,4251 1241,4251 1331,4245 1421,4245 1510,4245 1600,4245 1689,4245 1779,4245 1868,4245 1958,4239 2048,4239 2137,4239 2227,4239 2316,4245 2406,4251 2495,4245 2585,4251 2675,4245 2764,4239 2854,4233"/>
+                <TextEquiv>
+                    <Unicode>New York Herald Tribune Books-Sept. 9, p19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="2086,4414 2154,4451 2279,4440 2305,4463 2517,4406 2664,4444 2770,4402 2857,4429 2861,4244 2694,4285 2573,4266 2520,4296 2384,4270 2305,4304 2180,4300 2090,4274"/>
+                <Baseline points="2107,4400 2149,4400 2239,4406 2328,4406 2418,4406 2507,4406 2597,4400 2686,4400 2776,4394 2866,4394"/>
+                <TextEquiv>
+                    <Unicode>Aug. 21, Revier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="824,4455 960,4448 1009,4421 1066,4459 1103,4444 1217,4489 1323,4436 1413,4474 1447,4463 1451,4278 1360,4262 1247,4300 1013,4262 828,4308"/>
+                <Baseline points="847,4418 925,4412 1015,4412 1104,4406 1194,4406 1283,4406 1373,4406 1462,4406"/>
+                <TextEquiv>
+                    <Unicode>New York Sun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="2093,4606 3401,4625 3726,4569 3726,4429 3597,4466 3299,4372 2834,4466 2093,4432"/>
+                <Baseline points="2113,4549 2125,4549 2215,4561 2304,4561 2394,4561 2483,4561 2573,4561 2663,4567 2752,4561 2842,4549 2931,4549 3021,4549 3110,4555 3200,4549 3290,4549 3379,4549 3469,4549 3558,4549 3648,4549 3737,4543"/>
+                <TextEquiv>
+                    <Unicode>Aug. 26, p7M. Roview by H. Salpeter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="828,4610 1047,4599 1085,4621 1134,4587 1349,4614 1402,4591 1447,4621 1474,4595 1534,4606 1538,4440 1338,4489 1175,4485 1020,4425 948,4463 831,4444"/>
+                <Baseline points="847,4567 937,4567 1027,4567 1116,4567 1206,4567 1295,4567 1385,4561 1474,4561 1546,4567"/>
+                <TextEquiv>
+                    <Unicode>New York World</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="828,4799 3628,4791 3715,4784 3715,4621 2022,4633 1784,4516 828,4625"/>
+                <Baseline points="847,4740 853,4746 943,4740 1032,4735 1122,4740 1212,4735 1301,4735 1391,4735 1480,4735 1570,4735 1659,4740 1749,4735 1839,4735 1928,4735 2018,4729 2107,4729 2197,4729 2286,4729 2376,4729 2466,4729 2555,4729 2645,4729 2734,4729 2824,4723 2913,4723 3003,4717 3092,4717 3182,4717 3272,4717 3361,4717 3451,4711 3540,4711 3630,4711 3719,4705"/>
+                <TextEquiv>
+                    <Unicode>Besten Transcript. Book Section-Sept. 8. p6. Revlew by R.B.C.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="839,4973 1935,4901 3352,4980 3726,4927 3726,4773 839,4795"/>
+                <Baseline points="859,4890 865,4890 955,4890 1044,4890 1134,4890 1224,4884 1313,4884 1403,4884 1492,4884 1582,4884 1671,4884 1761,4890 1851,4890 1940,4884 2030,4884 2119,4884 2209,4884 2298,4884 2388,4884 2477,4878 2567,4878 2657,4878 2746,4878 2836,4878 2925,4878 3015,4872 3104,4872 3194,4872 3284,4872 3373,4872 3463,4866 3552,4872 3642,4866 3731,4866"/>
+                <TextEquiv>
+                    <Unicode>Evening Post (Chicago, 111) Aug. 84, Review by Llewellyn Jones</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="812,5158 1156,5116 1534,5173 2116,5037 2554,5060 2641,5037 2641,4946 1171,4924 812,4999"/>
+                <Baseline points="835,5051 853,5051 943,5045 1032,5045 1122,5051 1212,5051 1301,5045 1391,5045 1480,5045 1570,5045 1659,5039 1749,5045 1839,5045 1928,5045 2018,5051 2107,5039 2197,5033 2286,5033 2376,5033 2466,5033 2555,5033 2651,5041"/>
+                <TextEquiv>
+                    <Unicode> die Sich nicht kurz bezahlt, die ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="2630,5143 2800,5147 2872,5120 3031,5166 3072,5139 3291,5120 3291,4943 3144,4950 3065,4916 2879,4973 2781,4927 2732,4965 2630,4931"/>
+                <Baseline points="2651,5041 2746,5039 2836,5039 2925,5033 3015,5033 3104,5033 3194,5039 3284,5039 3301,5039"/>
+                <TextEquiv>
+                    <Unicode>se 1. 349,350.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="2226,5147 2282,5139 2358,5192 2400,5192 2464,5158 2498,5166 2532,5154 2554,5169 2588,5162 2596,5071 2554,5064 2520,5033 2445,5041 2426,5060 2415,5045 2233,5041"/>
+                <Baseline points="2251,5105 2334,5105 2424,5105 2513,5111 2603,5099 2651,5041"/>
+                <TextEquiv>
+                    <Unicode>Wiew by /</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="828,5332 3733,5351 3858,5302 3858,5135 828,5169"/>
+                <Baseline points="847,5290 913,5290 1003,5290 1092,5290 1182,5290 1271,5284 1361,5284 1450,5284 1540,5284 1630,5290 1719,5290 1809,5284 1898,5284 1988,5284 2077,5296 2167,5290 2257,5284 2346,5290 2436,5284 2525,5278 2615,5278 2704,5278 2794,5278 2884,5278 2973,5278 3063,5272 3152,5272 3242,5272 3331,5272 3421,5272 3510,5272 3600,5272 3690,5272 3779,5278 3869,5284"/>
+                <TextEquiv>
+                    <Unicode>Journal (Milwankes, Wis.) Oct. 27, Rather long Review (Portrait)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

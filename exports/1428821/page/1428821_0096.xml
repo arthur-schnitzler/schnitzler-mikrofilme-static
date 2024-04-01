@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:52.278+02:00</Created>
+        <LastChange>2023-08-15T04:28:17.863+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431759" pageNr="96" tsid="132838827" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FHIBPSVCVYDZYNSCKWRPENEJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXKFOARIDPCIKGIUFRBRLQKN" imageId="44705796"/>
+    </Metadata>
+    <Page imageFilename="1428821_0096.jpg" imageWidth="4024" imageHeight="5528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803828444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="513,690 3014,690 3014,1496 513,1496"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1451,940 2125,830 2241,765 2507,808 2504,646 2348,628 2244,664 1932,606 1690,655 1442,631"/>
+                <Baseline points="1462,740 1552,740 1641,746 1731,752 1820,752 1910,752 1999,752 2089,758 2178,758 2268,758 2358,758 2447,764 2513,764"/>
+                <TextEquiv>
+                    <Unicode>DIE FRAU DES RICHTERS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1515,1304 2452,1270 2865,1335 3012,1295 3006,1001 2893,1013 2725,924 2287,1019 2094,949 1506,958"/>
+                <Baseline points="1528,1134 1617,1134 1707,1134 1796,1140 1886,1140 1975,1146 2065,1146 2155,1152 2244,1152 2334,1152 2423,1158 2513,1164 2602,1158 2692,1164 2781,1164 2871,1170 2961,1176 3014,1176"/>
+                <TextEquiv>
+                    <Unicode>November 29, 1025 (Paul Frank)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="499,1622 2960,1622 2954,1347 2755,1286 1794,1359 493,1280"/>
+                <Baseline points="513,1426 602,1432 692,1432 782,1438 871,1438 961,1438 1050,1438 1140,1444 1229,1444 1319,1444 1408,1450 1498,1444 1587,1450 1677,1456 1767,1450 1856,1456 1946,1456 2035,1456 2125,1456 2214,1456 2304,1462 2393,1462 2483,1468 2572,1468 2662,1474 2752,1474 2841,1474 2931,1474 2961,1486"/>
+                <TextEquiv>
+                    <Unicode>Neue Freie Fresse (?) (Raeul Auernheimer) Feuilleten</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

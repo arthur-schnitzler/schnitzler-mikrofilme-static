@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:31</Creator>
+        <Created>2023-05-02T08:10:48.297+02:00</Created>
+        <LastChange>2023-07-26T22:31:50.130+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54955162" pageNr="537" tsid="131085223" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DLRRQDWXTIMCJIAEIFRRECYN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DLGRNAQBVHWNFBSHVJRZBVTF" imageId="44458887"/>
+    </Metadata>
+    <Page imageFilename="1416742_0537.jpg" imageWidth="2568" imageHeight="3176">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827438218" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="489,481 2259,481 2259,1069 489,1069"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="552,578 2254,558 2254,482 2067,462 552,482"/>
+                <Baseline points="564,531 608,531 653,534 698,534 743,534 788,534 832,534 877,534 922,534 967,534 1011,534 1056,534 1101,534 1146,534 1191,537 1235,537 1280,537 1325,537 1370,537 1414,534 1459,537 1504,537 1549,537 1593,537 1638,537 1683,537 1728,534 1773,534 1817,534 1862,534 1907,534 1952,534 1996,534 2041,537 2086,534 2131,534 2176,534 2220,531 2259,531"/>
+                <TextEquiv>
+                    <Unicode>Die chronologische Einteilung der Dramenbände scheint mir sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="477,658 2226,656 2226,569 477,586"/>
+                <Baseline points="489,623 534,620 579,620 623,620 668,623 713,620 758,623 802,623 847,623 892,623 937,623 982,623 1026,623 1071,623 1116,623 1161,623 1205,623 1250,623 1295,626 1340,626 1385,626 1429,626 1474,626 1519,623 1564,626 1608,626 1653,626 1698,626 1743,626 1787,626 1832,626 1877,623 1922,623 1967,623 2011,626 2056,626 2101,626 2146,623 2190,623 2232,626"/>
+                <TextEquiv>
+                    <Unicode>zweckmässig und übersichtlich. Die Jahreszahlen können bei jedem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="480,756 650,732 953,759 1040,722 1260,756 1448,724 1448,658 480,661"/>
+                <Baseline points="492,716 537,713 582,713 626,716 671,716 716,713 761,713 805,716 850,716 895,716 940,713 985,713 1029,713 1074,713 1119,713 1164,713 1208,713 1253,716 1298,716 1343,713 1388,713 1432,716 1453,719"/>
+                <TextEquiv>
+                    <Unicode>Stück natürlich hinzugefügt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="905,857 950,839 1079,861 1127,837 1186,844 1352,807 1417,837 1524,813 1524,754 1450,735 1386,761 1345,741 1044,765 905,748"/>
+                <Baseline points="916,805 961,805 1005,805 1050,802 1095,802 1140,805 1185,802 1229,802 1274,802 1319,805 1364,802 1408,802 1453,802 1498,802 1528,805"/>
+                <TextEquiv>
+                    <Unicode>Mit herzlichen Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1506,931 1528,937 1563,924 1567,927 1583,913 1594,918 1609,916 1611,828 1598,828 1578,841 1567,841 1535,820 1509,822"/>
+                <Baseline points="1519,892 1564,889 1608,889 1614,892"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1517,1070 1567,1083 1620,1136 1737,1147 1770,1131 1788,1147 1825,1127 1934,1144 1955,946 1886,929 1768,957 1694,905 1624,927 1535,920"/>
+                <Baseline points="1531,1056 1549,1059 1593,1053 1638,1047 1683,1038 1728,1035 1773,1032 1817,1023 1862,1020 1907,1017 1952,1014"/>
+                <TextEquiv>
+                    <Unicode>J. Fischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

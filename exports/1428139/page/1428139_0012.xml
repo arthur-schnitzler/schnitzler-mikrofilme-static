@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_03:04</Creator>
+        <Created>2023-05-10T11:15:34.346+02:00</Created>
+        <LastChange>2023-07-28T03:04:18.452+02:00</LastChange>
+        <TranskribusMetadata docId="1428139" pageId="55384810" pageNr="12" tsid="131314837" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MDXSYAKDVGMZMYVBHZUEORNI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DLALXJTFKVTEOMXYEAKVIEMZ" imageId="44659709"/>
+    </Metadata>
+    <Page imageFilename="1428139_0012.jpg" imageWidth="6488" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711823211698" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3621,946 5572,946 5572,1477 3621,1477"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3606,1082 4368,1091 4568,1021 4929,1082 5418,1021 5420,926 5256,902 4622,899 4417,974 4300,924 3748,965 3613,899"/>
+                <Baseline points="3621,1061 3633,1055 3722,1055 3812,1050 3901,1050 3991,1050 4080,1044 4170,1044 4259,1044 4349,1038 4438,1032 4528,1026 4617,1020 4707,1020 4796,1014 4886,1014 4975,1014 5065,1008 5154,1014 5244,1002 5333,996 5423,1002"/>
+                <TextEquiv>
+                    <Unicode>Die als Beitrag zu Ihrer Auto - Bibliographie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4692,1336 4843,1345 4933,1300 5008,1307 5080,1348 5199,1327 5204,1095 5051,1111 5021,1086 4976,1109 4904,1068 4803,1113 4697,1109"/>
+                <Baseline points="4707,1175 4760,1169 4850,1169 4939,1169 5029,1163 5118,1163 5208,1169"/>
+                <TextEquiv>
+                    <Unicode>In Verehrung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="5159,1524 5193,1512 5224,1535 5283,1517 5299,1528 5321,1512 5348,1524 5364,1508 5384,1521 5411,1508 5490,1524 5567,1515 5569,1391 5452,1388 5382,1352 5350,1368 5321,1352 5290,1370 5163,1334"/>
+                <Baseline points="5172,1467 5214,1461 5303,1461 5393,1455 5482,1455 5572,1455"/>
+                <TextEquiv>
+                    <Unicode>R. Arnold</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

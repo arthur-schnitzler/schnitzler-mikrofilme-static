@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:33</Creator>
+        <Created>2023-09-27T14:40:06.277+02:00</Created>
+        <LastChange>2024-01-22T20:33:28.512+01:00</LastChange>
+        <TranskribusMetadata docId="1589058" pageId="60126743" pageNr="222" tsid="145640208" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TCJNCCEXGOPLHIZSFWXHTGEM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NROKBMCMTPUGAJHXQLQEDLXJ" imageId="48551820"/>
+    </Metadata>
+    <Page imageFilename="1589058_0222.jpg" imageWidth="2904" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789860374" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="307,361 307,1093 2503,1093 2503,361"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="291,451 326,464 350,444 377,459 437,444 491,459 703,427 730,417 735,343 654,367 619,338 597,348 513,308 461,330 404,318 348,333 298,301"/>
+                <Baseline points="307,444 332,441 357,439 382,438 408,436 433,435 458,435 484,433 509,430 534,428 559,426 585,426 610,426 635,426 661,425 686,423 711,423 737,423"/>
+                <TextEquiv>
+                    <Unicode>Seehtkeilet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="525,705 686,762 809,718 1428,713 1428,587 1125,577 999,626 908,570 631,597 525,570"/>
+                <Baseline points="540,674 584,674 629,671 673,668 718,671 763,671 807,668 852,668 897,668 941,671 986,668 1031,668 1075,668 1120,668 1165,665 1209,665 1254,665 1299,665 1343,665 1388,668 1433,674"/>
+                <TextEquiv>
+                    <Unicode>Die roten schweigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="525,819 624,848 1001,804 1208,851 1366,802 1620,839 1790,794 2373,824 2375,705 2109,663 1971,725 1731,683 1509,735 1421,713 1344,760 1058,713 686,760 609,718 525,737"/>
+                <Baseline points="540,803 636,797 733,801 830,800 927,797 1023,797 1120,797 1217,794 1314,794 1411,797 1507,795 1604,794 1701,794 1798,788 1895,790 1991,788 2088,785 2185,788 2282,786 2379,785"/>
+                <TextEquiv>
+                    <Unicode>Ein Gegenstück zum Abschied“ vortrefflich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="518,950 1381,962 1647,925 1835,964 2178,915 2496,957 2496,846 2373,809 2121,863 1662,829 1581,885 1381,848 824,871 676,824 518,871"/>
+                <Baseline points="531,937 629,930 728,928 826,925 925,923 1024,925 1122,922 1221,922 1319,922 1418,925 1517,922 1615,921 1714,919 1812,918 1911,920 2010,916 2108,913 2207,916 2305,913 2404,915 2503,921"/>
+                <TextEquiv>
+                    <Unicode>geführt bis zum Schluss, der irgendwie Zweifel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="533,1102 735,1060 1016,1102 1297,1051 1795,1122 1963,1063 2247,1105 2345,1078 2345,967 2148,954 1601,999 1332,940 989,1006 533,1009"/>
+                <Baseline points="546,1062 636,1056 726,1056 816,1057 907,1055 997,1051 1087,1055 1178,1053 1268,1050 1358,1050 1449,1050 1539,1047 1629,1044 1719,1047 1810,1047 1900,1044 1990,1044 2081,1047 2171,1044 2261,1044 2352,1056"/>
+                <TextEquiv>
+                    <Unicode>nicht nur ästhetischer Natur offen lässt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:28.197+02:00</Created>
+        <LastChange>2024-01-22T19:42:29.753+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125396" pageNr="32" tsid="145636194" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VVYEWBHHKHSWUJQFLAQWPVPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KVVFXMQVKASTRHMRPLIDLKHJ" imageId="48550473"/>
+    </Metadata>
+    <Page imageFilename="1589055_0032.jpg" imageWidth="2824" imageHeight="3416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790612755" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="453,506 453,1009 2269,1009 2269,506"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1322,606 1528,572 1657,592 1684,565 1754,592 1817,576 1896,592 1898,497 1736,518 1657,486 1469,527 1408,506 1381,527 1324,522"/>
+                <Baseline points="1334,576 1362,576 1390,576 1418,575 1447,573 1475,575 1503,575 1531,574 1560,573 1588,573 1616,571 1644,570 1673,570 1701,568 1729,567 1757,567 1786,567 1814,567 1842,567 1870,568 1899,570"/>
+                <TextEquiv>
+                    <Unicode>grün Ihr seid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="443,615 599,601 678,642 764,606 793,621 870,597 899,608 902,531 585,547 445,495"/>
+                <Baseline points="456,597 482,597 508,597 535,597 561,597 587,597 614,600 640,602 666,598 693,596 719,594 745,594 772,594 798,592 824,591 851,591 877,591 904,591"/>
+                <TextEquiv>
+                    <Unicode>Ihr jungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1191,723 1444,725 1507,750 1620,716 1711,748 1810,698 1885,719 1887,649 1749,624 1690,646 1634,621 1417,680 1379,653 1193,633"/>
+                <Baseline points="1203,713 1237,710 1271,710 1306,710 1340,708 1374,708 1409,710 1443,710 1477,712 1512,710 1546,706 1580,704 1615,704 1649,702 1683,700 1718,698 1752,698 1786,698 1821,699 1855,701 1890,701"/>
+                <TextEquiv>
+                    <Unicode>nuns gescheidt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="441,739 511,768 685,725 818,739 818,635 759,655 734,640 664,678 621,678 531,631 441,631"/>
+                <Baseline points="453,725 479,722 506,722 532,721 559,720 585,723 612,724 638,722 665,721 691,719 718,719 744,719 771,719 797,720 824,722"/>
+                <TextEquiv>
+                    <Unicode>Wie seid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="450,863 744,888 936,845 1634,870 2262,829 2262,764 2158,732 2043,766 1738,746 1623,791 1180,755 1022,789 922,750 782,796 452,793"/>
+                <Baseline points="462,856 552,854 642,849 733,848 823,846 913,845 1004,844 1094,840 1184,837 1275,836 1365,837 1455,831 1546,830 1636,827 1726,825 1817,827 1907,821 1997,821 2088,824 2178,818 2269,824"/>
+                <TextEquiv>
+                    <Unicode>Ihr bildet- Ruch wenigstens noch nicht ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="441,988 999,1008 1686,958 1731,1003 2111,1006 2113,906 1440,888 1365,931 1216,899 1003,929 861,879 719,936 441,927"/>
+                <Baseline points="453,979 536,979 619,979 702,978 785,976 868,973 951,973 1034,970 1117,977 1200,967 1283,970 1366,974 1449,958 1532,961 1615,955 1698,957 1781,956 1864,954 1947,954 2030,952 2114,958"/>
+                <TextEquiv>
+                    <Unicode>Durch Erfahrung klug. geworden zu sein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

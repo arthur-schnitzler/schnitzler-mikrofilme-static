@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_17:28</Creator>
+        <Created>2023-05-10T14:30:40.228+02:00</Created>
+        <LastChange>2023-08-14T17:28:31.860+02:00</LastChange>
+        <TranskribusMetadata docId="1428637" pageId="55420681" pageNr="3" tsid="132818660" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RGVZIBRYBOHSPIHLMLXZETHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCTJPLWBJSRSKMNFPBLUHIVD" imageId="44694783"/>
+    </Metadata>
+    <Page imageFilename="1428637_0003.jpg" imageWidth="3496" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711819534106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="382,1726 1579,1726 1579,3866 382,3866"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1228,1802 1240,1799 1276,1827 1291,1828 1313,1845 1343,1845 1319,1692 1266,1683 1215,1645 1205,1644"/>
+                <Baseline points="1232,1776 1274,1782 1319,1791 1337,1788"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="760,1879 825,1906 874,1914 953,1913 1016,1894 1014,1842 896,1857 759,1832"/>
+                <Baseline points="767,1877 811,1889 856,1898 901,1901 946,1898 991,1889 1017,1886"/>
+                <TextEquiv>
+                    <Unicode>cʼest avec les mêmes nouvelles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="398,3537 448,3577 493,3541 687,3524 797,3553 847,3518 898,3545 971,3516 1063,3558 1100,3525 1246,3519 1302,3559 1443,3524 1443,3463 1194,3463 1145,3430 973,3488 897,3456 855,3498 602,3503 568,3469 437,3456 398,3478"/>
+                <Baseline points="405,3534 417,3534 462,3531 507,3537 552,3537 597,3537 641,3537 686,3534 731,3534 776,3534 820,3534 865,3531 910,3528 955,3528 1000,3525 1044,3528 1089,3525 1134,3525 1179,3525 1223,3522 1268,3525 1313,3525 1358,3525 1402,3528 1447,3531"/>
+                <TextEquiv>
+                    <Unicode>Gelesen am 3. April 1933</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="375,3712 572,3710 640,3765 703,3707 817,3704 890,3774 1014,3703 1297,3710 1297,3673 1261,3687 1153,3615 986,3654 909,3624 714,3677 596,3678 554,3635 377,3644"/>
+                <Baseline points="382,3704 426,3707 471,3707 516,3707 561,3710 605,3707 650,3707 695,3707 740,3704 785,3704 829,3701 874,3701 919,3701 964,3698 1008,3698 1053,3698 1098,3698 1143,3698 1188,3701 1232,3701 1277,3701 1301,3704"/>
+                <TextEquiv>
+                    <Unicode>Nicht zu veröffentlichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1375,3850 1422,3866 1473,3859 1491,3867 1508,3856 1578,3872 1572,3718 1541,3722 1518,3737 1420,3730 1387,3752 1372,3750"/>
+                <Baseline points="1382,3850 1426,3850 1471,3850 1516,3853 1561,3856 1579,3856"/>
+                <TextEquiv>
+                    <Unicode>H.S</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_16:59</Creator>
+        <Created>2023-09-27T14:32:18.194+02:00</Created>
+        <LastChange>2024-01-22T16:59:25.218+01:00</LastChange>
+        <TranskribusMetadata docId="1589029" pageId="60122042" pageNr="42" tsid="145626675" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CRJZJFWPVGQHISELUJWLCTOG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVAMSPMBBJMZYECQOUUOMDIT" imageId="48547120"/>
+    </Metadata>
+    <Page imageFilename="1589029_0042.jpg" imageWidth="2856" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711794948448" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="453,374 453,917 2208,917 2208,374"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="989,456 1089,472 1166,456 1192,478 1274,484 1451,452 1534,460 1536,358 1421,348 1230,386 1140,344 1045,368 991,354"/>
+                <Baseline points="999,432 1025,430 1052,429 1079,429 1106,429 1133,429 1160,427 1187,426 1214,426 1241,426 1268,426 1294,426 1321,426 1348,426 1375,426 1402,426 1429,424 1456,424 1483,425 1510,428 1537,432"/>
+                <TextEquiv>
+                    <Unicode>zmeites Bild.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="607,585 2201,561 2203,420 1811,466 1751,434 1391,507 923,436 609,454"/>
+                <Baseline points="617,561 696,560 776,561 855,561 935,562 1014,561 1094,559 1173,564 1253,561 1332,558 1412,558 1492,558 1571,555 1651,553 1730,552 1810,552 1889,552 1969,552 2048,554 2128,549 2208,540"/>
+                <TextEquiv>
+                    <Unicode>Franzl Friesel, eine junge Schauspielerin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="440,740 545,750 635,708 1166,706 1166,635 1106,605 1025,639 786,655 639,633 591,655 444,595"/>
+                <Baseline points="453,692 490,694 528,697 566,696 604,694 642,687 680,692 717,692 755,690 793,689 831,689 869,688 907,686 944,689 982,684 1020,683 1058,684 1096,687 1134,689 1172,686"/>
+                <TextEquiv>
+                    <Unicode>Dr. Richard Fricke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="609,830 722,796 1299,808 1299,728 1244,702 609,716"/>
+                <Baseline points="620,755 654,757 688,758 722,758 756,758 791,758 825,758 859,757 893,755 927,758 962,756 996,755 1030,755 1064,752 1098,752 1133,752 1167,752 1201,752 1235,756 1269,759 1304,758"/>
+                <TextEquiv>
+                    <Unicode>Baronin Dumanoit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="607,967 1003,983 1204,923 1510,989 1695,923 1958,949 2004,941 2006,814 1769,838 1566,784 1341,846 607,828"/>
+                <Baseline points="617,886 686,891 756,892 825,890 895,892 964,887 1034,885 1103,883 1173,883 1242,883 1312,882 1382,880 1451,880 1521,880 1590,880 1660,880 1729,878 1799,877 1868,877 1938,878 2008,880"/>
+                <TextEquiv>
+                    <Unicode>Lani, Dienstwäachen bei der Baronin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

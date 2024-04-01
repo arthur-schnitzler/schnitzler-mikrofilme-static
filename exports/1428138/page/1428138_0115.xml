@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_06:51</Creator>
+        <Created>2023-05-10T11:15:28.623+02:00</Created>
+        <LastChange>2023-07-28T06:51:46.912+02:00</LastChange>
+        <TranskribusMetadata docId="1428138" pageId="55385333" pageNr="115" tsid="131322624" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UAVDABVDSEJLUIFFGDWIQBSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CFETYLBOJIGMYRTTKQMXQSJJ" imageId="44660232"/>
+    </Metadata>
+    <Page imageFilename="1428138_0115.jpg" imageWidth="7656" imageHeight="5272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711823622869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4818,2236 6657,2236 6657,2768 4818,2768"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4806,2354 5022,2330 5346,2454 5734,2334 6154,2418 6160,2182 6088,2160 5876,2192 5780,2142 5444,2200 5124,2020 4930,2132 4812,2148"/>
+                <Baseline points="4818,2340 4907,2334 4997,2328 5086,2328 5176,2328 5266,2328 5355,2322 5445,2328 5534,2322 5624,2328 5713,2328 5803,2322 5892,2316 5982,2304 6072,2292 6161,2286"/>
+                <TextEquiv>
+                    <Unicode>Mayerie de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="6104,2786 6152,2774 6226,2824 6294,2820 6318,2850 6474,2838 6512,2866 6634,2864 6672,2512 6532,2492 6380,2534 6296,2496 6246,2528 6134,2526"/>
+                <Baseline points="6119,2752 6209,2758 6298,2752 6388,2740 6478,2728 6567,2716 6657,2698"/>
+                <TextEquiv>
+                    <Unicode>1876</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

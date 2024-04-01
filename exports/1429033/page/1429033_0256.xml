@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:01</Creator>
+        <Created>2023-05-10T15:11:10.674+02:00</Created>
+        <LastChange>2023-08-15T10:01:00.244+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436345" pageNr="256" tsid="132846435" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CRZVBBCXTEZLPUDSYLOAZHHF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QUCAYTWCFWGLLYSCBETGNOFV" imageId="44710334"/>
+    </Metadata>
+    <Page imageFilename="1429033_0256.jpg" imageWidth="3755" imageHeight="5544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800480035" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2090,3713 3357,3713 3357,3845 2090,3845"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2081,3840 2371,3823 2541,3893 2986,3769 3224,3845 3351,3826 3362,3609 2788,3546 2498,3590 2086,3763"/>
+                <Baseline points="2090,3835 2102,3829 2192,3823 2282,3817 2371,3817 2461,3811 2550,3811 2640,3805 2730,3799 2819,3793 2909,3787 2999,3781 3088,3769 3178,3769 3267,3763 3357,3769"/>
+                <TextEquiv>
+                    <Unicode>Treslant Euddrait</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

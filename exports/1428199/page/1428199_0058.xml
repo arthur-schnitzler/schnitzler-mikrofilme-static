@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_07:51</Creator>
+        <Created>2023-05-10T12:27:10.283+02:00</Created>
+        <LastChange>2023-07-29T07:51:23.004+02:00</LastChange>
+        <TranskribusMetadata docId="1428199" pageId="55402670" pageNr="58" tsid="131400978" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OGZOUFWXMDPYSJIGAADNUTZT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVHVHPUKAOLTCXYWCCECWQRS" imageId="44677492"/>
+    </Metadata>
+    <Page imageFilename="1428199_0058.jpg" imageWidth="3528" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796276180" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="809,1045 1934,1045 1934,1392 809,1392"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1038,1127 1077,1113 1106,1130 1170,1125 1231,1160 1294,1158 1350,1133 1390,1139 1395,1035 1240,1039 1214,1023 1157,1020 1117,1041 1044,1016"/>
+                <Baseline points="1044,1119 1080,1116 1125,1116 1170,1113 1215,1110 1259,1110 1304,1110 1349,1104 1394,1095"/>
+                <TextEquiv>
+                    <Unicode>vie fort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="811,1176 843,1179 856,1171 900,1182 921,1169 950,1170 971,1160 977,1005 948,1014 920,1012 898,1025 871,1023 849,1011 835,1015 818,1005"/>
+                <Baseline points="818,1119 838,1122 883,1119 928,1116 973,1116"/>
+                <TextEquiv>
+                    <Unicode>gebe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1531,1288 1621,1260 1657,1270 1730,1254 1792,1273 1826,1263 1929,1297 1934,1130 1849,1100 1692,1156 1606,1117 1576,1131 1535,1118"/>
+                <Baseline points="1537,1221 1576,1221 1621,1215 1665,1215 1710,1215 1755,1218 1800,1215 1845,1215 1889,1209 1934,1206"/>
+                <TextEquiv>
+                    <Unicode>Hausides</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="806,1274 919,1253 997,1281 1174,1245 1228,1263 1275,1237 1422,1248 1428,1136 1259,1151 1139,1203 1009,1199 934,1167 810,1194"/>
+                <Baseline points="812,1262 841,1259 886,1250 931,1247 976,1241 1021,1241 1065,1238 1110,1236 1155,1236 1200,1233 1244,1230 1289,1230 1334,1230 1379,1230 1424,1227"/>
+                <TextEquiv>
+                    <Unicode>I know the will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="802,1413 890,1442 975,1406 1118,1407 1271,1365 1312,1397 1451,1354 1563,1358 1594,1348 1598,1274 1145,1302 1082,1340 993,1300 808,1320"/>
+                <Baseline points="809,1382 835,1382 880,1379 925,1376 970,1373 1015,1373 1059,1370 1104,1367 1149,1361 1194,1361 1238,1361 1283,1361 1328,1355 1373,1349 1418,1349 1462,1346 1507,1346 1552,1340 1597,1334"/>
+                <TextEquiv>
+                    <Unicode>la Herral  in trust.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

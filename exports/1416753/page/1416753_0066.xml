@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_19:29</Creator>
+        <Created>2023-05-02T08:19:26.147+02:00</Created>
+        <LastChange>2023-07-27T19:29:54.617+02:00</LastChange>
+        <TranskribusMetadata docId="1416753" pageId="54954350" pageNr="66" tsid="131288599" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FZLEBVRHHLBMOKDRUALZAUDG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BWVNZPLZSEZVDJSEINRTLNEY" imageId="44458075"/>
+    </Metadata>
+    <Page imageFilename="1416753_0066.jpg" imageWidth="3588" imageHeight="3760">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825776502" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1292,1430 2166,1430 2166,1872 1292,1872"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1321,1519 1467,1504 1655,1550 1723,1514 1865,1531 1945,1495 2040,1528 2140,1493 2143,1403 2078,1399 1894,1458 1680,1447 1587,1477 1467,1481 1382,1436 1324,1449"/>
+                <Baseline points="1327,1504 1336,1506 1381,1504 1426,1504 1471,1501 1515,1501 1560,1498 1605,1498 1650,1495 1694,1495 1739,1492 1784,1489 1829,1489 1874,1486 1918,1486 1963,1483 2008,1483 2053,1480 2097,1480 2142,1483"/>
+                <TextEquiv>
+                    <Unicode>Wienamstenägerl 1893</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1371,1670 1452,1691 1564,1654 1678,1645 1720,1675 1772,1645 2018,1644 2021,1569 1835,1604 1739,1558 1572,1601 1486,1569 1374,1579"/>
+                <Baseline points="1378,1650 1393,1650 1438,1650 1483,1650 1527,1650 1572,1647 1617,1644 1662,1644 1706,1641 1751,1641 1796,1638 1841,1638 1885,1635 1930,1632 1975,1629 2020,1632"/>
+                <TextEquiv>
+                    <Unicode>Hugo von Hofmannsthal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1284,1792 1507,1747 1574,1784 1607,1762 1886,1750 1941,1722 2085,1735 2110,1703 1945,1642 1843,1687 1722,1682 1597,1727 1532,1696 1393,1722 1288,1698"/>
+                <Baseline points="1292,1760 1307,1754 1351,1751 1396,1748 1441,1745 1486,1742 1530,1739 1575,1739 1620,1736 1665,1730 1709,1730 1754,1727 1799,1727 1844,1724 1888,1724 1933,1721 1978,1718 2023,1715 2068,1715 2112,1721"/>
+                <TextEquiv>
+                    <Unicode>gratulirt herzlichst zu seinem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1318,1864 1364,1868 1420,1833 1476,1827 1525,1845 1668,1820 1797,1839 1834,1809 1876,1808 1878,1784 1741,1753 1672,1794 1635,1791 1607,1764 1499,1803 1417,1810 1396,1796 1320,1813"/>
+                <Baseline points="1324,1835 1342,1835 1387,1829 1432,1829 1477,1826 1521,1823 1566,1823 1611,1820 1656,1817 1700,1814 1745,1814 1790,1808 1835,1805 1880,1808"/>
+                <TextEquiv>
+                    <Unicode>eigenen Namenstag,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1777,1906 1901,1891 1937,1901 1965,1889 2054,1903 2074,1890 2162,1884 2164,1805 1968,1836 1934,1827 1910,1802 1879,1800 1835,1809 1797,1839 1778,1836"/>
+                <Baseline points="1784,1859 1808,1862 1853,1859 1897,1856 1942,1856 1987,1859 2032,1856 2076,1853 2121,1853 2166,1853"/>
+                <TextEquiv>
+                    <Unicode>St. Lalesianergasse 12.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

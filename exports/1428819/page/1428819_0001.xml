@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_03:35</Creator>
+        <Created>2023-05-10T15:10:25.805+02:00</Created>
+        <LastChange>2023-08-15T03:35:25.717+02:00</LastChange>
+        <TranskribusMetadata docId="1428819" pageId="55430980" pageNr="1" tsid="132838468" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WYYSHHVIDGCIRKOSKUCLRIUU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OUOOJMAYLNZXFJYXIDMTSBXR" imageId="44705052"/>
+    </Metadata>
+    <Page imageFilename="1428819_0001.jpg" imageWidth="3704" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803975444" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1372,764 2047,764 2047,854 1372,854"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1364,832 1444,838 1428,672 1414,678 1394,664 1362,694 1352,694"/>
+                <Baseline points="1372,814 1417,820 1444,820"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1648,834 1696,848 1786,848 1848,798 1890,840 1978,860 2042,852 2038,746 1972,760 1946,744 1914,776 1846,752 1816,768 1770,768 1656,662 1642,664"/>
+                <Baseline points="1659,832 1698,832 1743,835 1787,829 1796,826 1841,835 1886,838 1931,838 1975,844 2020,844 2047,844"/>
+                <TextEquiv>
+                    <Unicode>L</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

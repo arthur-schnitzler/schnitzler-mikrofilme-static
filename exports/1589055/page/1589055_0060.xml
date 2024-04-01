@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:30.854+02:00</Created>
+        <LastChange>2024-01-22T19:42:34.772+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125482" pageNr="60" tsid="145636231" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DNMOMWZATLCJELYHZAOYTNMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHAVLEVAPCPAVAVFCKVPSRML" imageId="48550559"/>
+    </Metadata>
+    <Page imageFilename="1589055_0060.jpg" imageWidth="2824" imageHeight="3416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790650645" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="618,455 618,940 2460,940 2460,455"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="609,514 765,547 1860,521 1929,567 2122,524 2122,409 1952,429 1750,379 1564,374 1428,436 1123,390 1049,436 609,404"/>
+                <Baseline points="621,519 696,515 771,519 846,519 922,516 997,516 1072,516 1147,516 1223,518 1298,516 1373,517 1448,516 1524,518 1599,516 1674,516 1749,519 1825,519 1900,517 1975,517 2050,519 2126,522"/>
+                <TextEquiv>
+                    <Unicode>Di leuchtende Dame im Purpürkleid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="611,654 758,691 944,643 1318,691 1511,645 2457,659 2457,574 2379,569 2076,604 1743,569 1511,606 1256,542 1109,599 611,576"/>
+                <Baseline points="624,641 715,641 807,644 899,641 991,644 1083,644 1174,644 1266,644 1358,644 1450,644 1542,647 1633,647 1725,644 1817,647 1909,644 2001,647 2092,647 2184,644 2276,647 2368,644 2460,656"/>
+                <TextEquiv>
+                    <Unicode>Wie balde schleichst du zerfetzt und müde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="606,811 857,772 1212,822 1456,776 2237,817 2237,719 2074,684 1798,728 1708,691 606,728"/>
+                <Baseline points="618,773 699,770 780,772 861,771 942,774 1024,773 1105,770 1186,773 1267,773 1348,774 1430,773 1511,776 1592,773 1673,775 1754,775 1836,773 1917,776 1998,775 2079,773 2160,773 2242,779"/>
+                <TextEquiv>
+                    <Unicode>Als ewige Wahrheit stolzierst du heut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="615,912 1001,909 1049,944 1114,902 1307,937 1444,905 1784,997 2191,941 2191,866 1991,820 1738,866 615,822"/>
+                <Baseline points="627,898 705,895 784,898 862,899 941,901 1019,896 1098,900 1176,900 1255,901 1333,900 1412,901 1490,901 1569,901 1647,901 1726,903 1804,901 1883,901 1961,901 2040,901 2118,904 2197,910"/>
+                <TextEquiv>
+                    <Unicode>Und morgen heisst du Frau platilüde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

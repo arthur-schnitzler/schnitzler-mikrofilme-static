@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_03:30</Creator>
+        <Created>2023-05-10T15:10:30.826+02:00</Created>
+        <LastChange>2023-08-15T03:30:10.601+02:00</LastChange>
+        <TranskribusMetadata docId="1428818" pageId="55431263" pageNr="52" tsid="132838330" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EBUAGACCQBGGYBYBBTPOMCOP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BZBYGNRVRGWUYPHSLXTVIOBQ" imageId="44705311"/>
+    </Metadata>
+    <Page imageFilename="1428818_0052.jpg" imageWidth="3736" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711804225615" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="728,732 2671,732 2671,968 728,968"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="714,850 2646,802 2671,659 1771,620 1451,744 714,746"/>
+                <Baseline points="728,808 746,808 790,805 835,805 880,805 925,805 970,805 1014,805 1059,805 1104,805 1149,802 1193,802 1238,802 1283,802 1328,799 1373,802 1417,802 1462,802 1507,802 1552,799 1596,799 1641,796 1686,793 1731,793 1776,796 1820,793 1865,793 1910,793 1955,793 1999,793 2044,793 2089,793 2134,793 2178,793 2223,790 2268,793 2313,790 2358,793 2402,790 2447,785 2492,785 2537,782 2581,785 2626,782 2671,788"/>
+                <TextEquiv>
+                    <Unicode>Alkandi's Lied. Dramat.Ged.in 1 A. 1889.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="933,967 1752,970 1752,887 1728,880 1623,902 1402,880 1302,909 1222,885 1125,899 1057,855 933,868"/>
+                <Baseline points="946,952 990,955 1035,955 1080,958 1125,958 1170,958 1214,955 1259,955 1304,955 1349,955 1393,952 1438,952 1483,952 1528,952 1573,949 1617,949 1662,949 1707,949 1752,952 1758,955"/>
+                <TextEquiv>
+                    <Unicode>A.d.sch.bl.Denau.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

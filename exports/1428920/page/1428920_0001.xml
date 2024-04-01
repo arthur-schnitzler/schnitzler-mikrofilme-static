@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_16:26</Creator>
+        <Created>2023-05-10T15:33:13.715+02:00</Created>
+        <LastChange>2023-08-14T16:26:36.182+02:00</LastChange>
+        <TranskribusMetadata docId="1428920" pageId="55434256" pageNr="1" tsid="132815371" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NLYGRCXTTXWVTHJOWBAJUYZH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GUDBBNJTPQIKYGNFHEJIHEBB" imageId="44708246"/>
+    </Metadata>
+    <Page imageFilename="1428920_0001.jpg" imageWidth="4072" imageHeight="5880">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801619731" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="823,1412 3856,1412 3856,1842 823,1842"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="804,1521 1308,1585 3163,1475 3508,1612 3846,1479 3846,1380 3447,1316 2579,1263 1820,1422 804,1274"/>
+                <Baseline points="823,1498 901,1486 990,1486 1080,1492 1170,1492 1259,1492 1349,1492 1438,1492 1528,1492 1617,1486 1707,1480 1796,1480 1886,1480 1975,1480 2065,1474 2155,1474 2244,1474 2334,1474 2423,1474 2513,1474 2602,1474 2692,1474 2781,1474 2871,1474 2960,1468 3050,1468 3139,1468 3229,1474 3319,1468 3408,1468 3498,1474 3587,1474 3677,1474 3766,1468 3856,1462"/>
+                <TextEquiv>
+                    <Unicode>La dernière lettre d'André Chameyer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1418,1839 1934,1824 2230,1934 2556,1820 2715,1930 2905,1851 3159,1896 3159,1729 2958,1646 2696,1737 2533,1650 2215,1722 1805,1650 1623,1756 1525,1688 1418,1729"/>
+                <Baseline points="1438,1832 1468,1832 1558,1826 1647,1820 1737,1814 1826,1808 1916,1808 2005,1808 2095,1814 2184,1814 2274,1820 2363,1814 2453,1814 2543,1808 2632,1808 2722,1802 2811,1796 2901,1802 2990,1802 3080,1796 3169,1802"/>
+                <TextEquiv>
+                    <Unicode>Arthur Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

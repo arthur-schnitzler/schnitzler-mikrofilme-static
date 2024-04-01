@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:55.699+02:00</Created>
+        <LastChange>2024-01-22T21:46:16.416+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127236" pageNr="20" tsid="145643575" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=UZGNSEXXEGCQILXNWAHVRRCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WRTXOLHYMTSKIFFVNBWISWSY" imageId="48552313"/>
+    </Metadata>
+    <Page imageFilename="1589072_0020.jpg" imageWidth="2904" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786852014" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="298,315 298,476 442,476 442,315"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="287,432 325,443 333,436 354,457 384,447 394,459 432,459 445,299 396,280 377,293 354,278 297,293"/>
+                <Baseline points="298,424 326,425 355,426 384,421 413,417 442,415"/>
+                <TextEquiv>
+                    <Unicode>A</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="594,520 594,822 2452,822 2452,520"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="624,544 1012,550 1009,495 967,495 875,533 792,508 773,521 750,499 719,518 679,502 624,525"/>
+                <Baseline points="636,540 661,542 686,543 711,545 737,546 762,546 787,546 812,546 838,546 863,546 888,546 913,547 939,548 964,549 989,549 1015,549"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1216,645 1387,660 1513,584 1907,620 2278,599 2278,521 1899,542 1770,495 1564,550 1216,531"/>
+                <Baseline points="1227,591 1279,585 1332,588 1385,586 1438,587 1491,591 1544,588 1596,588 1649,587 1702,585 1755,585 1808,582 1861,588 1914,586 1966,588 2019,588 2072,588 2125,588 2178,590 2231,589 2284,594"/>
+                <TextEquiv>
+                    <Unicode>ist der wahre Gottlose. Nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="624,596 645,603 689,586 778,607 974,599 974,550 955,544 778,556 763,546 740,558 725,544 624,542"/>
+                <Baseline points="636,588 662,586 688,585 715,585 741,585 767,585 794,588 820,591 847,593 873,593 899,591 926,588 952,585 979,588"/>
+                <TextEquiv>
+                    <Unicode>der Hurscl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1642,677 1692,670 1732,643 1775,660 1812,645 1844,662 1901,653 1973,668 1971,607 1952,603 1928,603 1905,622 1876,594 1791,596 1743,582 1707,603 1699,594 1640,603"/>
+                <Baseline points="1654,642 1680,642 1707,642 1734,642 1761,643 1788,645 1815,645 1842,645 1869,645 1896,647 1923,651 1950,651 1977,654"/>
+                <TextEquiv>
+                    <Unicode>anfallen e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="590,729 624,731 632,723 660,731 672,719 708,710 725,691 757,708 797,685 797,655 759,658 725,636 689,658 670,651 664,658 641,634 634,639 622,632 607,643 588,639"/>
+                <Baseline points="600,675 625,673 650,672 675,672 700,672 725,672 750,674 775,677 800,677"/>
+                <TextEquiv>
+                    <Unicode>werc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="754,763 1572,717 1734,780 2449,719 2424,622 1924,679 1547,634 1361,668 1170,622 754,677"/>
+                <Baseline points="767,713 851,710 935,710 1019,712 1104,709 1188,710 1272,710 1356,710 1441,710 1525,710 1609,710 1693,711 1778,713 1862,713 1946,716 2030,715 2115,713 2199,713 2283,710 2367,708 2452,713"/>
+                <TextEquiv>
+                    <Unicode>Gefasst, doch ohne Demut ist, darf sich froum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="582,843 630,851 717,843 769,862 792,849 832,847 832,729 784,723 759,740 708,738 681,719 645,731 632,723 582,729"/>
+                <Baseline points="594,806 620,804 647,803 674,803 701,802 728,800 755,802 782,804 809,805 836,809"/>
+                <TextEquiv>
+                    <Unicode>nomon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_15:24</Creator>
+        <Created>2023-05-10T12:04:37.385+02:00</Created>
+        <LastChange>2023-07-27T15:24:17.878+02:00</LastChange>
+        <TranskribusMetadata docId="1428184" pageId="55396713" pageNr="66" tsid="131253627" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RVJWLHYCGSZMSRQBCRYRQTPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ISLJTDNHIJLZRTGKNJSSTKID" imageId="44671591"/>
+    </Metadata>
+    <Page imageFilename="1428184_0066.jpg" imageWidth="3608" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800512373" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="358,412 3149,412 3149,804 358,804"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="343,545 1019,481 1833,616 2415,481 2755,528 2752,404 2489,417 2271,303 1722,417 340,326"/>
+                <Baseline points="358,492 403,483 447,480 492,477 537,474 582,471 626,465 671,465 716,462 761,462 806,462 850,465 895,468 940,468 985,471 1030,471 1074,468 1119,468 1164,468 1209,468 1253,468 1298,468 1343,468 1388,477 1433,474 1477,474 1522,477 1567,477 1612,480 1657,480 1701,483 1746,483 1791,483 1836,483 1880,486 1925,483 1970,480 2015,477 2060,480 2104,483 2149,483 2194,483 2239,483 2284,486 2328,486 2373,489 2418,486 2463,486 2507,486 2552,489 2597,489 2642,489 2687,495 2731,492 2761,495"/>
+                <TextEquiv>
+                    <Unicode>aber ist die der Glück nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="437,891 1012,851 1228,938 1625,838 1941,938 3145,777 3148,632 2997,545 2731,679 2254,545 1467,669 1029,558 831,679 444,572"/>
+                <Baseline points="459,779 462,779 507,779 552,782 597,782 641,785 686,788 731,782 776,788 821,788 865,788 910,791 955,791 1000,791 1044,794 1089,791 1134,791 1179,794 1224,794 1268,788 1313,788 1358,785 1403,791 1448,791 1492,791 1537,791 1582,788 1627,788 1671,791 1716,788 1761,788 1806,785 1851,785 1895,779 1940,776 1985,764 2030,764 2075,761 2119,764 2164,758 2209,755 2254,752 2298,752 2343,749 2388,746 2433,740 2478,740 2522,737 2567,740 2612,737 2657,731 2702,728 2746,728 2791,731 2836,731 2881,728 2925,731 2970,731 3015,734 3060,737 3105,737 3149,737"/>
+                <TextEquiv>
+                    <Unicode>herzognungen werde. Nicht mehr¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

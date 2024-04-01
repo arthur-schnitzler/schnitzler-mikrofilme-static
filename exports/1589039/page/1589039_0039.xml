@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:15</Creator>
+        <Created>2023-09-27T14:36:32.370+02:00</Created>
+        <LastChange>2024-01-22T18:15:33.851+01:00</LastChange>
+        <TranskribusMetadata docId="1589039" pageId="60124041" pageNr="39" tsid="145632053" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LUDGJFKJRHYTAKEIWFKHVXID&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=URKYHMQMDAYTYCCJXTNXJBEF" imageId="48549119"/>
+    </Metadata>
+    <Page imageFilename="1589039_0039.jpg" imageWidth="3355" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792373781" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="978,3690 978,4191 2309,4191 2309,3690"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1938,3788 2118,3782 2177,3751 2306,3776 2306,3695 2245,3708 2206,3691 2155,3716 2113,3692 1938,3708"/>
+                <Baseline points="1946,3752 1971,3752 1997,3752 2023,3752 2049,3752 2075,3752 2101,3752 2127,3753 2153,3755 2179,3757 2205,3757 2231,3756 2257,3754 2283,3752 2309,3752"/>
+                <TextEquiv>
+                    <Unicode>er den Her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1081,3908 2266,3900 2268,3792 2223,3784 1938,3841 1082,3854"/>
+                <Baseline points="1090,3898 1149,3898 1208,3898 1267,3898 1326,3894 1385,3892 1444,3893 1503,3897 1562,3895 1621,3892 1680,3892 1739,3892 1798,3890 1857,3886 1916,3882 1975,3881 2034,3881 2093,3881 2152,3884 2211,3886 2270,3886"/>
+                <TextEquiv>
+                    <Unicode>se stören. Empfichl-ich sche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="970,4035 1859,4033 1860,3952 1689,3971 1565,3939 1215,3995 971,3977"/>
+                <Baseline points="978,4021 1022,4015 1066,4018 1110,4021 1154,4021 1199,4021 1243,4021 1287,4020 1331,4017 1375,4015 1420,4015 1464,4015 1508,4015 1552,4015 1596,4015 1641,4017 1685,4020 1729,4021 1773,4021 1817,4018 1862,4015"/>
+                <TextEquiv>
+                    <Unicode>Sstzen st: rich doch I1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1036,4185 1202,4203 1262,4172 1453,4160 1634,4190 1785,4162 1785,4098 1405,4114 1256,4089 1206,4129 1036,4101"/>
+                <Baseline points="1045,4155 1082,4157 1119,4159 1156,4160 1193,4160 1231,4159 1268,4157 1305,4155 1342,4155 1379,4155 1417,4157 1454,4159 1491,4158 1528,4156 1565,4156 1603,4158 1640,4160 1677,4157 1714,4155 1751,4155 1789,4155"/>
+                <TextEquiv>
+                    <Unicode>nssen St den Ekeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

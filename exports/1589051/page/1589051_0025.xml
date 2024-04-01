@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:58.834+02:00</Created>
+        <LastChange>2024-01-22T19:19:36.080+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125146" pageNr="25" tsid="145635133" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NTCGZZSXASNDTFWEFRVNESDX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWXIHROEMFBICEZVVYRZJXVT" imageId="48550223"/>
+    </Metadata>
+    <Page imageFilename="1589051_0025.jpg" imageWidth="2824" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790788959" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="549,394 549,893 1787,893 1787,394"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="541,472 1718,474 1699,392 1268,389 1168,427 925,383 760,435 542,403"/>
+                <Baseline points="549,471 607,474 666,474 724,474 783,471 842,471 900,471 959,471 1017,469 1076,467 1135,468 1193,468 1252,468 1310,466 1369,465 1428,464 1486,464 1545,462 1603,462 1662,462 1721,456"/>
+                <TextEquiv>
+                    <Unicode>Dies Gedrung von Einsamkeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="541,613 1722,613 1783,589 1784,533 541,551"/>
+                <Baseline points="549,599 610,599 672,602 734,604 796,599 858,597 920,599 982,596 1044,599 1106,599 1168,599 1229,597 1291,596 1353,593 1415,591 1477,590 1539,590 1601,587 1663,589 1725,587 1787,584"/>
+                <TextEquiv>
+                    <Unicode>Hennst du Fülle, nennst du Welt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="556,756 1470,743 1556,728 1558,674 558,675"/>
+                <Baseline points="564,731 613,728 663,731 713,731 763,731 813,731 862,731 912,729 962,728 1012,728 1062,728 1111,728 1161,725 1211,725 1261,725 1311,725 1360,723 1410,722 1460,720 1510,719 1560,719"/>
+                <TextEquiv>
+                    <Unicode>liese lauten Heiterkeiten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="544,870 1326,860 1491,895 1666,863 1640,788 544,798"/>
+                <Baseline points="552,856 610,861 669,861 728,862 787,859 846,859 905,856 964,857 1023,857 1082,856 1140,853 1199,853 1258,853 1317,853 1376,852 1435,850 1494,850 1553,848 1612,848 1671,844"/>
+                <TextEquiv>
+                    <Unicode>Hapen sie aein Herz erhellt7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

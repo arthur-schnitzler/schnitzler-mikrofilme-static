@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_08:17</Creator>
+        <Created>2023-05-10T13:46:54.589+02:00</Created>
+        <LastChange>2023-07-30T08:17:43.299+02:00</LastChange>
+        <TranskribusMetadata docId="1428593" pageId="55414222" pageNr="8" tsid="131487784" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZJPMSUITDGBCNOMUCFUVSZZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ILXJIEEIXPQZIPIWCPYIUETU" imageId="44688356"/>
+    </Metadata>
+    <Page imageFilename="1428593_0008.jpg" imageWidth="3400" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790305723" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="501,1528 2488,1528 2488,3381 501,3381"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1073,1673 1410,1752 1547,1698 1631,1729 1727,1668 1905,1708 2236,1650 2478,1670 2490,1429 2240,1368 2027,1435 1798,1375 1591,1435 1501,1394 1289,1485 1084,1459"/>
+                <Baseline points="1086,1632 1130,1635 1175,1635 1220,1641 1265,1644 1309,1641 1354,1644 1399,1644 1444,1644 1449,1645 1449,1645 1459,1638 1503,1641 1548,1641 1593,1635 1638,1632 1682,1629 1727,1626 1772,1626 1817,1626 1861,1623 1906,1623 1951,1623 1996,1617 2041,1617 2085,1611 2130,1608 2175,1605 2220,1596 2264,1596 2309,1587 2354,1584 2399,1578 2443,1578 2488,1578"/>
+                <TextEquiv>
+                    <Unicode>Le quelles des N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1929,2871 1947,2873 1976,2855 1980,2860 2006,2857 2031,2725 2017,2725 2003,2736 2001,2732 1975,2752 1952,2746"/>
+                <Baseline points="1945,2831 1972,2831 2017,2819"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="491,3413 644,3448 714,3409 908,3372 1010,3392 1010,3164 847,3160 772,3141 693,3085 633,3097 491,3078"/>
+                <Baseline points="501,3353 522,3359 566,3359 611,3365 656,3365 701,3365 745,3371 790,3371 835,3368 880,3362 925,3362 969,3362 1014,3356"/>
+                <TextEquiv>
+                    <Unicode>August</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

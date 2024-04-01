@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_03:20</Creator>
+        <Created>2023-05-10T13:04:38.181+02:00</Created>
+        <LastChange>2023-07-25T03:20:23.991+02:00</LastChange>
+        <TranskribusMetadata docId="1428562" pageId="55407571" pageNr="2" tsid="130581634" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GHBYXKUKBTVSBOSIVABVAKLF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCZNQKXUAXDESBXTPOIVBMWV" imageId="44681718"/>
+    </Metadata>
+    <Page imageFilename="1428562_0002.jpg" imageWidth="3768" imageHeight="4984">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711794319732" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1092,1800 2303,1800 2303,2391 1092,2391"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1072,2102 1280,1927 1474,1847 1774,1875 1808,1911 1885,1862 2234,1865 2245,1688 2022,1807 1944,1808 1903,1762 1710,1762 1645,1705 1431,1753 1229,1560 1105,1622"/>
+                <Baseline points="1092,1951 1163,1921 1253,1904 1342,1892 1432,1880 1522,1874 1611,1868 1701,1856 1790,1856 1880,1856 1969,1856 2059,1850 2148,1850 2238,1850"/>
+                <TextEquiv>
+                    <Unicode>Mrs Schempel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1233,2381 1503,2371 1540,2399 1934,2334 2300,2351 2301,2316 2164,2277 2002,2113 1864,2118 1837,2088 1692,2199 1612,2178 1517,2260 1417,2152 1302,2254 1239,2258"/>
+                <Baseline points="1241,2381 1319,2381 1408,2369 1498,2369 1587,2363 1677,2357 1766,2345 1856,2339 1945,2333 2035,2333 2124,2333 2214,2333 2303,2339"/>
+                <TextEquiv>
+                    <Unicode>Bills Pannay</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

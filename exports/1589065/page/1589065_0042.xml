@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:55.101+02:00</Created>
+        <LastChange>2024-01-22T21:10:27.165+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126206" pageNr="42" tsid="145641996" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DGNBFNUNXSOFQWBYDRRFVJVV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VWTSZAEFJQXMLLPBHYUICJWA" imageId="48551283"/>
+    </Metadata>
+    <Page imageFilename="1589065_0042.jpg" imageWidth="2952" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788277318" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="572,569 572,1171 2544,1171 2544,569"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="585,691 742,713 900,651 1179,629 1386,646 1475,700 1867,661 1867,548 1778,515 1559,535 1480,587 1292,555 1181,599 1031,562 585,587"/>
+                <Baseline points="599,632 662,635 726,638 790,641 853,641 917,641 981,638 1044,638 1108,638 1172,638 1236,632 1299,634 1363,635 1427,634 1490,632 1554,631 1618,631 1681,631 1745,629 1809,629 1873,641"/>
+                <TextEquiv>
+                    <Unicode>zum. Diagramm. Soelenzustände.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="557,816 730,760 1218,794 1388,762 1712,836 1993,809 2062,757 2521,784 2543,676 560,708"/>
+                <Baseline points="572,760 670,763 769,760 867,760 966,761 1065,757 1163,760 1262,760 1360,760 1459,760 1558,757 1656,757 1755,755 1853,754 1952,755 2051,748 2149,751 2248,748 2346,748 2445,746 2544,748"/>
+                <TextEquiv>
+                    <Unicode>Die ausserordentliche Bedeutung des Komödian-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="582,905 1223,895 1315,959 1517,964 1593,930 2271,935 2410,885 2412,809 2252,792 2059,829 1467,814 1421,848 585,816"/>
+                <Baseline points="596,886 687,886 778,887 869,887 960,889 1051,887 1142,884 1234,883 1325,884 1416,885 1507,881 1598,883 1689,881 1780,878 1872,880 1963,877 2054,874 2145,874 2236,871 2327,874 2419,865"/>
+                <TextEquiv>
+                    <Unicode>tischen, sowohl des Spielerisch komödianti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="577,1019 1322,1016 1601,1095 1899,1053 2387,1073 2387,952 2234,925 2173,959 1832,927 577,969"/>
+                <Baseline points="590,1011 680,1012 770,1009 860,1009 950,1009 1040,1009 1130,1009 1220,1009 1310,1008 1400,1008 1491,1005 1581,1002 1671,1005 1761,1002 1851,1002 1941,1002 2031,1002 2121,1002 2211,1002 2301,1002 2392,1008"/>
+                <TextEquiv>
+                    <Unicode>schen wie des zwangshaft komödiantischen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="585,1137 900,1144 1056,1223 2116,1223 2116,1085 2049,1068 1393,1095 1132,1058 866,1095 703,1056 585,1093"/>
+                <Baseline points="599,1133 675,1138 751,1136 827,1136 903,1138 979,1137 1055,1139 1131,1136 1207,1139 1283,1141 1360,1139 1436,1139 1512,1136 1588,1136 1664,1133 1740,1131 1816,1131 1892,1133 1968,1135 2044,1133 2121,1130"/>
+                <TextEquiv>
+                    <Unicode>Pfektation, Poso, Bofangenhait, Lüge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

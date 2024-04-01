@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_07:49</Creator>
+        <Created>2023-05-01T21:59:41.310+02:00</Created>
+        <LastChange>2023-07-25T07:49:26.473+02:00</LastChange>
+        <TranskribusMetadata docId="1416444" pageId="54946879" pageNr="38" tsid="130587914" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PSSBWWIVZAPNGSTOSIFSNKIU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DYFYJGYUXMSCFLOWHEHJESVT" imageId="44450964"/>
+    </Metadata>
+    <Page imageFilename="1416444_0038.jpg" imageWidth="3876" imageHeight="5064">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830533097" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="352,672 3057,672 3057,1413 352,1413"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="345,751 399,789 465,756 502,789 623,747 714,776 789,731 822,735 826,668 805,668 722,569 627,606 556,660 469,569 432,589 361,585"/>
+                <Baseline points="364,770 382,770 471,758 561,752 650,746 740,734 830,722"/>
+                <TextEquiv>
+                    <Unicode>Jacobi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1540,780 1652,839 1735,789 1768,822 1793,801 1901,839 2146,801 2146,589 2063,573 2001,602 1951,573 1926,598 1847,602 1777,556 1723,556 1540,614"/>
+                <Baseline points="1564,782 1654,788 1743,794 1833,788 1922,794 2012,788 2102,794 2155,794"/>
+                <TextEquiv>
+                    <Unicode>Deutsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1303,1059 1503,1104 1947,1117 1997,1083 2063,1113 2134,1079 2412,1113 2412,805 2287,747 2005,843 1735,789 1648,834 1532,739 1303,814"/>
+                <Baseline points="1325,967 1415,973 1504,967 1594,967 1684,967 1773,967 1863,973 1952,973 2042,967 2131,961 2221,961 2311,967 2400,991 2424,997"/>
+                <TextEquiv>
+                    <Unicode>Montagszeitung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1785,1303 2561,1274 2636,1337 2777,1287 2960,1316 3047,1291 3051,1125 2756,1183 2636,1108 2416,1146 2316,1108 2134,1167 2009,1121 1789,1179"/>
+                <Baseline points="1809,1277 1893,1271 1982,1271 2072,1271 2161,1277 2251,1271 2340,1266 2430,1266 2520,1266 2609,1266 2699,1266 2788,1266 2878,1260 2967,1254 3057,1248"/>
+                <TextEquiv>
+                    <Unicode>Berlin S.W.68, den 19.9.1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="328,1291 403,1353 556,1316 1341,1324 1465,1303 1465,1208 1270,1179 1179,1220 1042,1162 992,1196 731,1187 668,1233 511,1196 328,1229"/>
+                <Baseline points="352,1307 400,1307 489,1313 579,1307 668,1307 758,1301 847,1301 937,1301 1027,1301 1116,1301 1206,1295 1295,1295 1385,1289 1475,1295"/>
+                <TextEquiv>
+                    <Unicode>Telegramm-Adresse: Montag Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1959,1470 1993,1478 2034,1449 2076,1478 2142,1457 2208,1478 2300,1445 2416,1511 2482,1478 2586,1507 2586,1274 2321,1279 2291,1308 2221,1274 1959,1291"/>
+                <Baseline points="1982,1385 2072,1385 2161,1379 2251,1379 2340,1379 2430,1379 2520,1379 2597,1385"/>
+                <TextEquiv>
+                    <Unicode>Alte Jacobstr. 136</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="498,1399 648,1436 785,1407 897,1432 922,1407 988,1453 1129,1399 1241,1411 1241,1362 1142,1308 1005,1333 917,1312 868,1337 805,1312 764,1337 693,1316 498,1337"/>
+                <Baseline points="519,1397 609,1403 698,1403 788,1397 877,1397 967,1391 1056,1391 1146,1391 1236,1391 1248,1397"/>
+                <TextEquiv>
+                    <Unicode>Telefon. Amt 4/4765</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="268,1914 3588,1914 3588,3604 268,3604"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="465,2001 884,2001 938,2055 1005,2001 1167,2001 1204,2034 1374,2022 1374,1918 1266,1872 1100,1901 1030,1843 963,1910 859,1910 818,1872 668,1905 589,1827 465,1831"/>
+                <Baseline points="489,1964 579,1970 668,1976 758,1976 847,1976 937,1976 1027,1976 1116,1976 1206,1976 1295,1970 1379,1976"/>
+                <TextEquiv>
+                    <Unicode>Weber Herr Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1391,2059 1793,2134 1984,2063 2250,2142 2727,2067 3446,2125 3524,2109 3529,1860 3313,1831 2906,1976 2653,1897 2354,2005 2167,1934 1391,2001"/>
+                <Baseline points="1415,2060 1475,2066 1564,2066 1654,2066 1743,2072 1833,2072 1922,2066 2012,2066 2102,2066 2191,2060 2281,2060 2370,2066 2460,2060 2549,2054 2639,2048 2729,2048 2818,2048 2908,2048 2997,2048 3087,2048 3176,2048 3266,2048 3356,2042 3445,2042 3535,2048"/>
+                <TextEquiv>
+                    <Unicode>die beiliegnde Erklärung hat sie endaeder mit mehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="253,2238 3454,2271 3454,2146 3250,2080 253,2175"/>
+                <Baseline points="274,2227 328,2227 418,2227 507,2239 597,2233 686,2233 776,2233 865,2227 955,2227 1045,2227 1134,2221 1224,2221 1313,2221 1403,2227 1492,2233 1582,2233 1672,2227 1761,2227 1851,2221 1940,2221 2030,2227 2119,2227 2209,2227 2299,2227 2388,2227 2478,2221 2567,2221 2657,2221 2746,2221 2836,2221 2926,2221 3015,2221 3105,2215 3194,2221 3284,2215 3374,2215 3463,2215"/>
+                <TextEquiv>
+                    <Unicode>errecht, oderste ist verloren gegen. Für diesen zweiten Fall, sende ich sie. Euren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="245,2395 1387,2395 1648,2495 2507,2387 3446,2437 3583,2408 3583,2271 245,2358"/>
+                <Baseline points="268,2388 358,2394 447,2394 537,2394 627,2394 716,2394 806,2394 895,2388 985,2388 1074,2388 1164,2388 1254,2388 1343,2388 1433,2382 1522,2388 1612,2382 1701,2382 1791,2382 1881,2382 1970,2382 2060,2382 2149,2388 2239,2382 2328,2382 2418,2376 2508,2376 2597,2382 2687,2382 2776,2382 2866,2382 2955,2388 3045,2388 3135,2388 3224,2388 3314,2388 3403,2388 3493,2388 3583,2394 3588,2394"/>
+                <TextEquiv>
+                    <Unicode>nal sumal. E wurde ihre Aickung selve ertacken, wenn the Name darunter stunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1349,2615 3446,2636 3545,2578 3545,2424 2914,2399 2404,2503 2300,2428 2047,2512 1943,2449 1702,2512 1349,2449"/>
+                <Baseline points="1373,2561 1463,2555 1552,2555 1642,2561 1731,2561 1821,2555 1910,2555 2000,2555 2090,2555 2179,2561 2269,2561 2358,2555 2448,2549 2537,2549 2627,2555 2717,2555 2806,2561 2896,2561 2985,2567 3075,2567 3165,2567 3254,2561 3344,2561 3433,2561 3523,2567 3553,2567"/>
+                <TextEquiv>
+                    <Unicode>Eselon (à très, das il en neue Blatt gründet (abe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="270,2686 1046,2773 3504,2732 3304,2590 1557,2661 1270,2545 266,2578"/>
+                <Baseline points="292,2681 382,2675 471,2675 561,2681 650,2681 740,2681 830,2681 919,2681 1009,2681 1098,2687 1188,2687 1277,2687 1367,2687 1457,2687 1546,2693 1636,2693 1725,2693 1815,2687 1904,2693 1994,2693 2084,2687 2173,2687 2263,2687 2352,2681 2442,2687 2532,2687 2621,2687 2711,2687 2800,2693 2890,2693 2979,2699 3069,2699 3159,2699 3248,2693 3338,2693 3427,2699 3511,2705"/>
+                <TextEquiv>
+                    <Unicode>3 aig, neben der felaubühne, com dutten Oktober ab eerdenen saude Ihnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="270,2823 3537,2860 3537,2732 3255,2715 270,2765"/>
+                <Baseline points="292,2812 382,2818 471,2818 561,2818 650,2824 740,2818 830,2818 919,2818 1009,2824 1098,2824 1188,2824 1277,2824 1367,2824 1457,2824 1546,2824 1636,2824 1725,2824 1815,2830 1904,2824 1994,2824 2084,2824 2173,2824 2263,2824 2352,2824 2442,2818 2532,2818 2621,2824 2711,2824 2800,2830 2890,2830 2979,2830 3069,2830 3159,2836 3248,2836 3338,2830 3427,2836 3517,2842 3547,2848"/>
+                <TextEquiv>
+                    <Unicode>aabreno der erben fünf Nummern für einen Bestra kaum ein klemeren Generar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="282,3039 3508,2989 3446,2869 2391,2823 282,2881"/>
+                <Baseline points="304,2961 394,2961 483,2967 573,2967 662,2967 752,2961 842,2961 931,2961 1021,2961 1110,2961 1200,2961 1289,2967 1379,2967 1469,2973 1558,2973 1648,2967 1737,2961 1827,2955 1916,2961 2006,2955 2096,2955 2185,2955 2275,2955 2364,2961 2454,2961 2543,2967 2633,2961 2723,2967 2812,2973 2902,2967 2991,2967 3081,2967 3170,2967 3260,2967 3350,2967 3439,2973 3517,2979"/>
+                <TextEquiv>
+                    <Unicode>zahlen af die Neue Freie Rosse. Caben sie zarnichts? Eu 3 nachher zahlen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="286,3126 498,3126 544,3176 710,3188 1005,3105 1079,3167 1142,3147 1245,3238 1328,3155 1382,3159 1387,3006 1059,2993 905,3055 793,3001 743,3051 668,3026 581,3084 374,3001 286,3055"/>
+                <Baseline points="310,3117 322,3111 412,3111 501,3111 591,3117 680,3111 770,3111 859,3105 949,3105 1039,3105 1128,3099 1218,3099 1307,3099 1397,3105"/>
+                <TextEquiv>
+                    <Unicode>Rann; Const win Erses ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1416,3279 1872,3205 2088,3263 2275,3217 2391,3300 3059,3230 3487,3292 3487,3080 3068,3022 2657,3130 2474,3059 1984,3147 1416,3072"/>
+                <Baseline points="1439,3194 1528,3194 1618,3194 1707,3194 1797,3200 1887,3200 1976,3200 2066,3206 2155,3200 2245,3200 2334,3206 2424,3206 2514,3206 2603,3200 2693,3200 2782,3206 2872,3206 2961,3206 3051,3206 3141,3212 3230,3212 3320,3206 3409,3200 3499,3212 3505,3206"/>
+                <TextEquiv>
+                    <Unicode>Caben sie vielen Dank für die freundliche Karte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="270,3350 743,3354 1000,3553 1183,3387 1727,3363 3300,3653 3284,3387 3010,3300 1872,3205 913,3321 523,3213 266,3317"/>
+                <Baseline points="292,3350 382,3350 471,3356 561,3350 650,3350 740,3344 830,3350 919,3356 1009,3356 1098,3362 1188,3368 1277,3374 1367,3374 1457,3368 1546,3362 1636,3362 1725,3356 1815,3362 1904,3362 1994,3362 2084,3368 2173,3368 2263,3374 2352,3397 2442,3415 2532,3439 2621,3445 2711,3451 2800,3475 2890,3493 2979,3511 3069,3535 3159,3553 3248,3588 3302,3594"/>
+                <TextEquiv>
+                    <Unicode>au Cordelbez Presen sre mit den Aen Aezs &amp; Cxn)sten Wem</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="2137,3771 3385,3771 3385,4303 2137,4303"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2316,3944 2482,3994 2536,3944 2765,3977 3030,3881 3379,3952 3367,3728 3230,3769 2902,3699 2761,3720 2615,3616 2300,3649"/>
+                <Baseline points="2334,3821 2424,3839 2514,3839 2603,3845 2693,3845 2782,3851 2872,3857 2961,3863 3051,3863 3141,3869 3230,3875 3320,3887 3385,3893"/>
+                <TextEquiv>
+                    <Unicode>T.H. d. Jacobine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2117,4147 2300,4189 2441,4114 2682,4143 2877,4106 3014,4147 3093,4110 3093,3989 2852,3935 2765,3981 2582,3956 2470,4002 2238,3836 2167,3890 2109,3873"/>
+                <Baseline points="2137,4084 2227,4078 2317,4078 2406,4078 2496,4078 2585,4078 2675,4084 2764,4084 2854,4090 2944,4090 3033,4096 3105,4102"/>
+                <TextEquiv>
+                    <Unicode>immer: Carlottenbur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2399,4317 2536,4313 2669,4400 2864,4371 3230,4388 3221,4168 3097,4085 3039,4143 2902,4164 2802,4238 2570,4172 2512,4118 2395,4147"/>
+                <Baseline points="2424,4263 2514,4263 2603,4275 2693,4281 2782,4287 2872,4287 2961,4293 3051,4287 3141,4287 3230,4293 3236,4293"/>
+                <TextEquiv>
+                    <Unicode>Hamburgstraße 25</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

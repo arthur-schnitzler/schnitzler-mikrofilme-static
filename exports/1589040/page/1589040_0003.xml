@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_17:59</Creator>
+        <Created>2023-09-27T14:36:29.001+02:00</Created>
+        <LastChange>2024-01-22T17:59:42.759+01:00</LastChange>
+        <TranskribusMetadata docId="1589040" pageId="60123792" pageNr="3" tsid="145631067" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HQMNZCQIDTEVUCLELPCRERAK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WJYSWQSLUTOMZWLSBIMPGENY" imageId="48548870"/>
+    </Metadata>
+    <Page imageFilename="1589040_0003.jpg" imageWidth="2872" imageHeight="3448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792141580" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="994,755 994,1578 1835,1578 1835,755"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="989,827 1223,849 1507,836 1640,865 1684,847 1683,815 1631,777 1133,787 988,766"/>
+                <Baseline points="994,826 1028,831 1063,832 1097,833 1132,835 1167,835 1201,835 1236,835 1270,835 1305,835 1340,837 1374,838 1409,838 1443,838 1478,838 1513,838 1547,839 1582,841 1616,844 1651,844 1686,847"/>
+                <TextEquiv>
+                    <Unicode>reisebeschreibung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1174,1021 1205,1033 1265,1028 1288,1041 1310,1031 1397,1041 1481,1031 1480,999 1462,999 1441,979 1201,973 1173,989"/>
+                <Baseline points="1179,1020 1204,1022 1229,1023 1255,1025 1280,1026 1305,1026 1331,1027 1356,1029 1381,1029 1407,1029 1432,1029 1457,1030 1483,1032"/>
+                <TextEquiv>
+                    <Unicode>Erzählt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1251,1156 1271,1156 1280,1165 1299,1156 1320,1165 1335,1162 1341,1168 1392,1165 1392,1125 1369,1108 1274,1108 1251,1125"/>
+                <Baseline points="1256,1155 1283,1155 1311,1155 1338,1155 1366,1155 1394,1155"/>
+                <TextEquiv>
+                    <Unicode>Von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1141,1301 1228,1284 1833,1296 1793,1235 1431,1230 1392,1263 1359,1230 1141,1230"/>
+                <Baseline points="1146,1283 1180,1283 1214,1283 1249,1283 1283,1283 1318,1283 1352,1283 1387,1284 1421,1286 1456,1283 1490,1285 1524,1286 1559,1286 1593,1286 1628,1286 1662,1288 1697,1289 1731,1289 1766,1289 1800,1289 1835,1289"/>
+                <TextEquiv>
+                    <Unicode>Erthur Schnitzler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1293,1541 1317,1552 1343,1553 1380,1539 1398,1546 1413,1532 1437,1552 1457,1544 1476,1553 1484,1550 1483,1517 1468,1518 1415,1467 1291,1479"/>
+                <Baseline points="1298,1540 1324,1540 1351,1540 1378,1540 1405,1541 1432,1543 1459,1543 1486,1543"/>
+                <TextEquiv>
+                    <Unicode>1874</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

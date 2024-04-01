@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_10:36</Creator>
+        <Created>2023-05-02T08:16:51.860+02:00</Created>
+        <LastChange>2023-07-26T10:36:19.072+02:00</LastChange>
+        <TranskribusMetadata docId="1416746" pageId="54953608" pageNr="2" tsid="130930433" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LFLVGAQWGNLHJQKAMXFSVGIA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XWZTLLSQDPLEGYSJGOUCRQZB" imageId="44457333"/>
+    </Metadata>
+    <Page imageFilename="1416746_0002.jpg" imageWidth="4147" imageHeight="3722">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825883305" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1486,872 3513,872 3513,1314 1486,1314"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1473,1039 1630,1098 1878,1001 2910,1062 3154,1009 3496,1148 3519,710 1488,740"/>
+                <Baseline points="1486,1017 1498,1014 1543,1014 1587,1014 1632,1014 1677,1011 1722,1008 1766,1005 1811,1002 1856,1002 1901,999 1946,1002 1990,1002 2035,1002 2080,1002 2125,999 2169,996 2214,993 2259,993 2304,993 2349,993 2393,984 2438,984 2483,981 2528,979 2572,979 2617,976 2662,970 2707,970 2751,967 2796,961 2841,955 2886,952 2931,949 2975,946 3020,943 3065,943 3110,943 3154,940 3199,934 3244,931 3289,928 3333,925 3378,922 3423,922 3468,922 3513,922"/>
+                <TextEquiv>
+                    <Unicode>copij of a letter from ARTHUR SCANITz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1513,1199 1724,1164 1878,1217 2041,1166 2517,1237 2672,1148 3131,1176 3151,1017 3009,1001 2900,1060 2532,1004 2018,1077 1924,1019 1823,1080 1516,1090"/>
+                <Baseline points="1528,1167 1543,1167 1587,1161 1632,1161 1677,1161 1722,1158 1766,1155 1811,1155 1856,1155 1901,1155 1946,1155 1990,1155 2035,1155 2080,1155 2125,1149 2169,1146 2214,1143 2259,1143 2304,1143 2349,1140 2393,1140 2438,1137 2483,1131 2528,1131 2572,1131 2617,1125 2662,1125 2707,1125 2751,1125 2796,1125 2841,1122 2886,1122 2931,1122 2975,1119 3020,1116 3065,1116 3110,1116 3154,1116"/>
+                <TextEquiv>
+                    <Unicode>to the actor Adolf v. Sonnenthal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1554,1321 1780,1311 1858,1338 1911,1308 2109,1344 2124,1341 2129,1207 2031,1169 1894,1229 1782,1204 1739,1227 1676,1212 1612,1250 1556,1224"/>
+                <Baseline points="1569,1304 1596,1304 1641,1301 1686,1301 1731,1298 1775,1295 1820,1295 1865,1292 1910,1292 1955,1289 1999,1286 2044,1286 2089,1283 2134,1280"/>
+                <TextEquiv>
+                    <Unicode>7. October 1890.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

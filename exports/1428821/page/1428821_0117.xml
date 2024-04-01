@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:55.238+02:00</Created>
+        <LastChange>2023-08-15T04:28:24.614+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431956" pageNr="117" tsid="132838848" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WYUHBCWDUVCBBRVQWWQKAQHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMXLRRLHISPWMCJVGMHAMHKW" imageId="44705993"/>
+    </Metadata>
+    <Page imageFilename="1428821_0117.jpg" imageWidth="4024" imageHeight="5128">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803894958" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="585,1030 2035,1030 2035,2039 585,2039"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1277,1206 1326,1184 1355,1203 1411,1184 1471,1192 1508,1214 1590,1192 1627,1199 1635,998 1575,991 1538,1009 1504,991 1445,1009 1411,983 1285,991"/>
+                <Baseline points="1301,1092 1373,1092 1462,1092 1552,1092 1641,1080"/>
+                <TextEquiv>
+                    <Unicode>22, 190</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="566,1516 1184,1516 1229,1549 1307,1516 1657,1564 1665,1292 1475,1262 1378,1329 1270,1270 1184,1318 1061,1274 923,1329 745,1281 570,1333"/>
+                <Baseline points="585,1420 591,1420 680,1414 770,1414 859,1408 949,1408 1038,1408 1128,1402 1217,1402 1307,1402 1396,1402 1486,1396 1576,1396 1665,1396"/>
+                <TextEquiv>
+                    <Unicode>Die Nage, July 1, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="566,1873 1009,1821 1154,1877 1579,1888 1802,1810 2026,1847 2029,1631 1683,1564 1460,1642 570,1549"/>
+                <Baseline points="585,1737 602,1731 692,1725 782,1725 871,1725 961,1719 1050,1713 1140,1713 1229,1713 1319,1707 1408,1707 1498,1713 1587,1707 1677,1707 1767,1713 1856,1713 1946,1713 2035,1713"/>
+                <TextEquiv>
+                    <Unicode>Der Tag (Berlin) June 22, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="573,2156 663,2204 905,2126 1061,2163 1236,2104 1370,2178 1590,2111 1709,2130 1709,1933 1635,1907 1281,1910 1210,1955 734,1892 577,1940"/>
+                <Baseline points="596,2029 638,2029 728,2029 817,2029 907,2029 996,2029 1086,2023 1176,2023 1265,2017 1355,2023 1444,2023 1534,2017 1623,2011 1713,2023"/>
+                <TextEquiv>
+                    <Unicode>Yerwärts, June 23, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="549,2272 3551,2272 3551,4833 549,4833"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="544,2499 920,2428 1300,2506 1743,2391 2260,2461 2264,2212 2007,2171 1750,2257 1166,2152 912,2234 547,2234"/>
+                <Baseline points="567,2346 573,2346 662,2340 752,2340 841,2334 931,2340 1020,2340 1110,2340 1199,2340 1289,2346 1379,2346 1468,2340 1558,2340 1647,2334 1737,2340 1826,2334 1916,2334 2005,2328 2095,2328 2184,2328 2274,2322"/>
+                <TextEquiv>
+                    <Unicode>Berliner Tageblatt, June 25, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="566,2774 927,2834 1385,2730 1579,2800 2394,2774 2394,2506 812,2558 566,2499"/>
+                <Baseline points="585,2650 614,2644 704,2644 793,2638 883,2638 973,2638 1062,2638 1152,2638 1241,2644 1331,2644 1420,2644 1510,2638 1599,2644 1689,2644 1778,2644 1868,2644 1958,2638 2047,2638 2137,2638 2226,2638 2316,2632 2405,2632"/>
+                <TextEquiv>
+                    <Unicode>Beriner Bärsen Courier, Ne. 289, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="551,3091 1084,3035 1367,3132 1776,3020 2044,3128 2677,2986 2677,2849 2581,2823 2368,2867 1650,2763 1382,2845 1072,2756 890,2841 551,2767"/>
+                <Baseline points="573,2955 626,2949 716,2955 805,2955 895,2955 985,2949 1074,2949 1164,2949 1253,2949 1343,2955 1432,2949 1522,2949 1611,2949 1701,2949 1790,2949 1880,2949 1970,2949 2059,2949 2149,2943 2238,2943 2328,2949 2417,2943 2507,2943 2596,2943 2686,2943"/>
+                <TextEquiv>
+                    <Unicode>Gesterreichische Velkassitung, June 21, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="547,3396 1478,3359 1642,3433 2655,3281 2789,3381 2916,3340 2916,3150 2603,3191 2286,3083 1601,3169 1415,3094 976,3147 756,3057 547,3147"/>
+                <Baseline points="567,3265 656,3259 746,3259 835,3259 925,3259 1014,3259 1104,3259 1193,3259 1283,3253 1373,3253 1462,3259 1552,3259 1641,3259 1731,3259 1820,3259 1910,3259 1999,3259 2089,3253 2178,3259 2268,3259 2358,3259 2447,3259 2537,3259 2626,3259 2716,3259 2805,3259 2895,3265 2925,3271"/>
+                <TextEquiv>
+                    <Unicode>Die schöne Literatur, January 4, 1902, III, No. 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="551,3780 2175,3597 3545,3631 3545,3441 3176,3385 551,3396"/>
+                <Baseline points="573,3563 662,3569 752,3563 841,3557 931,3557 1020,3551 1110,3551 1199,3557 1289,3557 1379,3551 1468,3557 1558,3557 1647,3563 1737,3563 1826,3569 1916,3569 2005,3563 2095,3563 2184,3569 2274,3569 2364,3563 2453,3563 2543,3563 2632,3557 2722,3557 2811,3557 2901,3557 2990,3563 3080,3563 3169,3563 3259,3569 3349,3569 3438,3563 3528,3563 3551,3569"/>
+                <TextEquiv>
+                    <Unicode>Rheinisch-Kastnhältische Zeitung. July 10, 1901 und June 14, 100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="559,3925 819,4010 1817,3984 2044,3932 2048,3746 1795,3683 1463,3787 1277,3713 1195,3765 562,3761"/>
+                <Baseline points="579,3892 620,3886 710,3886 799,3880 889,3874 979,3874 1068,3874 1158,3874 1247,3868 1337,3874 1426,3874 1516,3868 1605,3868 1695,3874 1784,3874 1874,3868 1964,3868 2053,3862"/>
+                <TextEquiv>
+                    <Unicode>Deutsche Zeitung, July 12, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="525,4279 987,4301 1229,4226 1516,4331 1720,4334 1810,4264 1892,4331 2022,4308 2022,4066 1415,4089 1296,4014 994,4107 529,4089"/>
+                <Baseline points="549,4202 602,4196 692,4196 782,4190 871,4190 961,4196 1050,4196 1140,4196 1229,4190 1319,4184 1408,4184 1498,4184 1587,4184 1677,4184 1767,4184 1856,4184 1946,4178 2035,4184"/>
+                <TextEquiv>
+                    <Unicode>Kisler Zeitung. June 24, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="655,4576 953,4610 1300,4498 1713,4491 2141,4617 2141,4346 1918,4342 1821,4398 1344,4353 1225,4401 838,4320 655,4375"/>
+                <Baseline points="674,4501 764,4507 853,4507 943,4507 1032,4501 1122,4495 1211,4495 1301,4495 1390,4495 1480,4495 1570,4495 1659,4489 1749,4495 1838,4501 1928,4495 2017,4501 2107,4501 2149,4507"/>
+                <TextEquiv>
+                    <Unicode>###. No. 39, Juni 29, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1422,4882 1508,4893 1601,4837 1776,4811 1910,4904 2093,4956 2260,4982 2394,4915 2394,4688 2260,4684 2193,4740 2015,4670 1869,4722 1422,4681"/>
+                <Baseline points="1444,4805 1534,4799 1623,4805 1713,4799 1802,4805 1892,4805 1981,4805 2071,4811 2161,4799 2250,4805 2340,4811 2405,4805"/>
+                <TextEquiv>
+                    <Unicode>Jannary 14, 1901</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="931,4886 976,4882 994,4897 1046,4863 1054,4874 1095,4852 1117,4856 1128,4681 1110,4677 1087,4699 1065,4677 1058,4684 1046,4673 987,4707 964,4688 946,4688"/>
+                <Baseline points="955,4823 1038,4811 1128,4811"/>
+                <TextEquiv>
+                    <Unicode>Aufgekommen gebracht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

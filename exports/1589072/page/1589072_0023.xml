@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:56.116+02:00</Created>
+        <LastChange>2024-01-22T21:46:16.902+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127249" pageNr="23" tsid="145643581" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LCPNPZKJJOCFOIUVFWDIJNTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OSKFKNGOZUFBQHDNUILOGOVJ" imageId="48552326"/>
+    </Metadata>
+    <Page imageFilename="1589072_0023.jpg" imageWidth="2920" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786856872" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="328,389 328,759 2479,759 2479,389"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="318,531 355,547 373,528 432,535 480,503 503,522 556,519 597,551 661,528 659,318 592,348 560,334 414,387 384,373 316,400"/>
+                <Baseline points="328,453 353,458 379,462 405,464 431,466 457,468 483,467 509,465 535,461 561,460 587,461 613,463 639,465 665,462"/>
+                <TextEquiv>
+                    <Unicode>Sm. Ret</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="638,620 1167,604 1407,670 1464,629 1640,654 1700,618 1839,663 1922,618 2233,645 2473,611 2475,490 2413,469 2223,531 1752,510 1665,549 1578,501 1320,540 1144,485 965,533 730,483 640,519"/>
+                <Baseline points="650,593 741,596 832,596 924,593 1015,593 1107,600 1198,595 1290,593 1381,595 1473,595 1564,594 1655,595 1747,596 1838,595 1930,595 2021,593 2113,593 2204,593 2296,590 2387,590 2479,593"/>
+                <TextEquiv>
+                    <Unicode>Auflehnung - Demut. Was liegt dazwischen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="657,789 1084,803 1183,759 1421,810 1679,741 1679,636 1437,677 1274,645 1194,682 657,650"/>
+                <Baseline points="668,724 718,721 769,724 820,723 871,723 922,726 973,725 1023,724 1074,727 1125,724 1176,725 1227,727 1278,723 1329,723 1379,727 1430,724 1481,724 1532,724 1583,725 1634,727 1685,724"/>
+                <TextEquiv>
+                    <Unicode>Meisheit oder Ergebung?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

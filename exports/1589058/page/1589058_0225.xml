@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:33</Creator>
+        <Created>2023-09-27T14:40:06.691+02:00</Created>
+        <LastChange>2024-01-22T20:33:29.054+01:00</LastChange>
+        <TranskribusMetadata docId="1589058" pageId="60126758" pageNr="225" tsid="145640211" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LTWZEAWNFMHZNCEHROBZGWKJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJVQOCIVDDFHOWBWCRNYHJXJ" imageId="48551835"/>
+    </Metadata>
+    <Page imageFilename="1589058_0225.jpg" imageWidth="2920" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789864145" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="340,305 340,923 2683,923 2683,305"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2464,422 2502,424 2518,412 2545,410 2592,419 2623,407 2640,412 2656,400 2678,403 2676,314 2640,300 2614,305 2573,286 2566,291 2542,269 2511,262 2480,231 2459,233"/>
+                <Baseline points="2477,373 2502,375 2528,376 2554,376 2580,376 2605,376 2631,377 2657,379 2683,385"/>
+                <TextEquiv>
+                    <Unicode>1911</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="322,536 393,550 496,534 534,558 617,546 665,562 765,546 772,348 703,362 655,338 603,355 560,336 522,353 441,329 329,345"/>
+                <Baseline points="340,456 365,454 391,453 416,453 442,453 468,453 493,453 519,452 545,450 570,449 596,447 622,447 647,447 673,445 699,443 724,441 750,442 776,444"/>
+                <TextEquiv>
+                    <Unicode>Felhthelel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="610,655 689,681 703,669 774,677 808,662 865,679 946,653 943,541 910,560 843,560 762,538 684,567 608,548"/>
+                <Baseline points="623,629 648,627 673,626 698,628 724,629 749,629 774,628 800,626 825,628 850,629 876,631 901,633 926,634 952,635"/>
+                <TextEquiv>
+                    <Unicode>Blumen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="596,793 762,762 967,798 1113,748 1348,808 1518,746 1723,784 2104,731 2342,774 2514,736 2516,639 1773,662 1606,617 1544,665 1482,636 598,693"/>
+                <Baseline points="611,758 706,758 801,753 896,752 992,746 1087,746 1182,746 1277,745 1373,740 1468,740 1563,737 1658,734 1754,734 1849,731 1944,723 2039,728 2135,725 2230,720 2325,719 2420,719 2516,710"/>
+                <TextEquiv>
+                    <Unicode>Eine Vovelette von besonderer Feinheit.Eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="617,920 927,893 1015,953 1203,946 1346,879 2142,855 2378,896 2380,777 2309,760 1932,796 1830,750 1620,805 1475,758 1391,803 1258,774 974,822 684,772 619,805"/>
+                <Baseline points="629,892 716,885 804,883 891,883 979,880 1067,877 1154,877 1242,872 1329,874 1417,870 1505,871 1592,867 1680,862 1767,859 1855,859 1943,857 2030,856 2118,853 2205,853 2293,853 2381,862"/>
+                <TextEquiv>
+                    <Unicode>gewisse sentimentalität stört nur wenig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

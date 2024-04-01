@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:15</Creator>
+        <Created>2023-05-10T12:06:48.627+02:00</Created>
+        <LastChange>2023-07-29T01:15:47.625+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55400227" pageNr="525" tsid="131389505" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GAYLJBORRMXAGPGBVKDPSFZW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TSUDDBLQKXHWRGBRTNBSVXQL" imageId="44675051"/>
+    </Metadata>
+    <Page imageFilename="1428185_0525.jpg" imageWidth="3480" imageHeight="4456">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800303244" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2915,182 3011,182 3011,242 2915,242"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2904,246 2922,242 2946,244 2950,240 2964,244 2970,238 2980,244 3006,248 3006,174 2980,172 2970,182 2960,172 2926,172 2920,178 2904,176"/>
+                <Baseline points="2915,232 2960,232 3005,232 3011,232"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

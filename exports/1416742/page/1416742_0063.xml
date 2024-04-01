@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:26</Creator>
+        <Created>2023-05-02T08:09:12.010+02:00</Created>
+        <LastChange>2023-07-26T22:26:36.736+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54953239" pageNr="63" tsid="131084173" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BCGXITGKTDJSHVABXPNPLKMS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HHQRNFFFDJBOCQQNOSZZTVGA" imageId="44456964"/>
+    </Metadata>
+    <Page imageFilename="1416742_0063.jpg" imageWidth="2486" imageHeight="3600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827076669" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="847,1379 1379,1379 1379,2323 847,2323"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1166,1442 1178,1442 1192,1452 1206,1440 1234,1438 1254,1456 1284,1458 1284,1364 1268,1364 1226,1332 1192,1354 1166,1348"/>
+                <Baseline points="1176,1429 1220,1432 1265,1429 1289,1429"/>
+                <TextEquiv>
+                    <Unicode>en Bülz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="990,1488 1026,1488 1056,1504 1092,1490 1136,1500 1208,1484 1266,1506 1322,1482 1374,1488 1376,1440 1332,1438 1272,1458 1238,1438 1192,1452 1108,1438 1070,1454 990,1452"/>
+                <Baseline points="1000,1483 1020,1480 1065,1480 1110,1480 1155,1477 1200,1477 1244,1480 1289,1480 1334,1480 1379,1477"/>
+                <TextEquiv>
+                    <Unicode>Die erste Auflage ist sei.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="836,1490 856,1486 870,1500 892,1494 910,1506 930,1488 948,1490 950,1314 916,1320 876,1302 866,1306 852,1294 838,1294"/>
+                <Baseline points="847,1483 892,1480 937,1480 952,1483"/>
+                <TextEquiv>
+                    <Unicode>März</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="846,1544 864,1542 872,1534 898,1534 908,1540 914,1538 918,1542 926,1540 932,1546 944,1546 944,1492 934,1492 930,1496 922,1494 910,1504 882,1492 874,1500 846,1500"/>
+                <Baseline points="856,1531 901,1528 946,1531"/>
+                <TextEquiv>
+                    <Unicode>Zeit v.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="974,2352 1012,2352 1062,2334 1082,2350 1120,2350 1140,2332 1184,2320 1256,2344 1276,2338 1276,2262 1240,2264 1224,2278 1200,2266 1178,2284 1156,2274 1144,2280 1124,2266 1100,2280 1082,2274 1010,2286 974,2276"/>
+                <Baseline points="985,2310 1029,2313 1074,2313 1119,2313 1164,2313 1208,2313 1253,2310 1280,2313"/>
+                <TextEquiv>
+                    <Unicode>Geheftet 2 M 50</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

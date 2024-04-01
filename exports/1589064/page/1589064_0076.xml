@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:24</Creator>
+        <Created>2023-09-27T14:40:47.365+02:00</Created>
+        <LastChange>2024-01-22T21:24:52.058+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126483" pageNr="76" tsid="145642575" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TWQEQHTTLZOAWMBLXNCHZQTE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQZKTDNIEZCBHDEPRIIKVRDV" imageId="48551560"/>
+    </Metadata>
+    <Page imageFilename="1589064_0076.jpg" imageWidth="3080" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788523496" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="462,520 462,1213 2584,1213 2584,520"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="448,627 594,661 833,642 882,666 935,640 979,669 1122,620 1175,644 1180,533 1073,540 959,477 821,528 453,516"/>
+                <Baseline points="462,611 498,611 534,610 570,608 606,608 642,608 678,604 714,599 750,593 786,587 823,590 859,590 895,590 931,589 967,587 1003,587 1039,589 1075,590 1111,591 1147,593 1184,596"/>
+                <TextEquiv>
+                    <Unicode>kertet; helter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="627,828 1189,792 1400,836 1819,792 2481,816 2481,703 2418,695 2120,722 1974,676 1814,736 1679,703 1531,741 1189,686 1095,732 627,712"/>
+                <Baseline points="641,764 733,767 825,773 917,773 1010,775 1102,772 1194,779 1286,777 1379,778 1471,780 1563,780 1655,784 1748,784 1840,779 1932,781 2024,784 2117,784 2209,784 2301,784 2393,784 2486,784"/>
+                <TextEquiv>
+                    <Unicode>Wehn Einer von dir sagt:Der ördsse Wurf se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="610,947 979,974 1601,918 1899,988 2323,925 2524,962 2524,845 2364,828 1766,870 1533,809 1235,860 688,812 610,848"/>
+                <Baseline points="623,895 718,898 813,899 909,902 1004,904 1100,905 1195,907 1290,907 1386,907 1481,907 1577,904 1672,906 1767,907 1863,910 1958,910 2054,910 2149,910 2244,910 2340,910 2435,911 2531,919"/>
+                <TextEquiv>
+                    <Unicode>dir nicht gelungen, wer wagteses zu vermuten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="635,1076 899,1042 1265,1100 1487,1049 2016,1049 2338,1095 2578,1042 2578,967 2221,1005 2110,942 1907,991 1558,991 1146,933 1049,993 921,954 635,998"/>
+                <Baseline points="647,1032 743,1032 840,1031 937,1035 1034,1035 1131,1038 1228,1029 1324,1038 1421,1035 1518,1036 1615,1037 1712,1038 1809,1041 1906,1038 2002,1041 2099,1041 2196,1042 2293,1044 2390,1044 2487,1047 2584,1038"/>
+                <TextEquiv>
+                    <Unicode>dass dem, der das entdeckte, niemals auch zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="625,1189 1560,1187 1727,1240 2006,1238 2006,1083 1960,1066 1730,1126 1131,1085 625,1131"/>
+                <Baseline points="638,1169 706,1168 775,1164 843,1166 912,1167 981,1167 1049,1167 1118,1165 1187,1165 1255,1169 1324,1169 1393,1169 1461,1170 1530,1169 1599,1172 1667,1172 1736,1172 1805,1172 1873,1170 1942,1172 2011,1181"/>
+                <TextEquiv>
+                    <Unicode>der kleinste Nurf geglückt ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

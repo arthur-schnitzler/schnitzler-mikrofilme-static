@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_03:55</Creator>
+        <Created>2023-05-10T12:22:19.708+02:00</Created>
+        <LastChange>2023-07-29T03:55:07.156+02:00</LastChange>
+        <TranskribusMetadata docId="1428194" pageId="55401434" pageNr="64" tsid="131394339" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DUGTAJKEZZMJQESHOCHJAYVF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QMQNRDGAHXDLIGLZVRJJJRVT" imageId="44676257"/>
+    </Metadata>
+    <Page imageFilename="1428194_0064.jpg" imageWidth="3416" imageHeight="4312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797032740" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="776,651 2732,651 2732,887 776,887"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="811,745 2639,749 2725,718 2725,601 811,656"/>
+                <Baseline points="824,725 851,728 895,725 940,728 985,728 1030,731 1075,728 1119,728 1164,725 1209,728 1254,728 1298,728 1343,725 1388,725 1433,725 1478,722 1522,722 1567,722 1612,722 1657,719 1702,719 1746,719 1791,719 1836,719 1881,719 1926,719 1970,716 2015,716 2060,713 2105,713 2150,713 2194,713 2239,710 2284,710 2329,710 2373,710 2418,707 2463,707 2508,707 2553,704 2597,701 2642,704 2687,704 2732,713"/>
+                <TextEquiv>
+                    <Unicode>Wank der Feige erschlägt einen Franzosen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="761,888 1988,897 1990,785 1880,749 1756,787 1105,756 764,811"/>
+                <Baseline points="776,877 788,874 833,877 877,874 922,874 967,874 1012,874 1057,874 1101,874 1146,871 1191,871 1236,868 1281,868 1325,865 1370,865 1415,865 1460,865 1505,865 1549,862 1594,862 1639,860 1684,860 1728,860 1773,860 1818,857 1863,857 1908,857 1952,857 1997,862"/>
+                <TextEquiv>
+                    <Unicode>Dernburg fällt vor Aspern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

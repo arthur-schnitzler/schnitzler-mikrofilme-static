@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:50.294+02:00</Created>
+        <LastChange>2024-01-22T21:36:53.565+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127377" pageNr="87" tsid="145643084" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NLMETWNGZAFXSSWBHAIMFOOB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EFUREBGZMWRXOZVGGAEXMHSE" imageId="48552454"/>
+    </Metadata>
+    <Page imageFilename="1589070_0087.jpg" imageWidth="3016" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787158300" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="638,930 638,1815 2768,1815 2768,930"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1738,972 1804,977 1891,1015 1914,1003 1957,1021 1970,1008 1990,1026 2067,982 2102,1000 2138,995 2133,909 2074,888 2023,909 1980,901 1947,929 1899,903 1843,929 1794,916 1738,937"/>
+                <Baseline points="1751,975 1777,973 1803,972 1829,974 1855,976 1881,978 1907,979 1933,981 1959,981 1985,981 2011,981 2037,981 2063,981 2089,983 2115,985 2142,987"/>
+                <TextEquiv>
+                    <Unicode>in oft solbt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1255,1064 1606,1054 1769,1107 2008,1082 2245,1127 2476,1097 2621,1145 2634,990 1990,1026 1728,970 1652,1010 1560,970 1476,998 1250,942"/>
+                <Baseline points="1268,1041 1336,1041 1405,1047 1474,1049 1543,1050 1611,1052 1680,1054 1749,1061 1818,1063 1886,1065 1955,1067 2024,1068 2093,1069 2161,1071 2230,1080 2299,1083 2368,1086 2436,1089 2505,1094 2574,1098 2643,1098"/>
+                <TextEquiv>
+                    <Unicode>damit bereicten clebtenden seleblet ab</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="629,1206 840,1145 965,1191 1784,1168 2011,1237 2069,1201 2670,1227 2667,1153 2436,1115 2260,1145 2158,1105 1608,1130 1468,1051 1311,1041 1219,1077 624,1084"/>
+                <Baseline points="641,1130 742,1134 844,1138 946,1141 1048,1145 1149,1152 1251,1155 1353,1157 1455,1160 1556,1163 1658,1168 1760,1166 1862,1176 1963,1180 2065,1183 2167,1187 2269,1191 2370,1199 2472,1199 2574,1200 2676,1202"/>
+                <TextEquiv>
+                    <Unicode>Künstlernatur, die Summe von Eigenschaften, die den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="624,1298 1486,1293 1881,1359 1906,1234 1703,1260 1260,1181 954,1229 621,1199"/>
+                <Baseline points="638,1262 701,1266 765,1271 828,1269 892,1273 955,1277 1019,1277 1082,1277 1146,1281 1209,1283 1273,1283 1337,1287 1400,1289 1464,1291 1527,1291 1591,1294 1654,1296 1718,1300 1781,1302 1845,1306 1909,1312"/>
+                <TextEquiv>
+                    <Unicode>Künstlar am Produziaren hindert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2128,1822 2283,1792 2336,1815 2413,1782 2525,1809 2764,1807 2761,1715 2629,1677 2583,1700 2438,1652 2324,1731 2184,1703 2125,1733"/>
+                <Baseline points="2139,1775 2170,1775 2201,1775 2233,1775 2264,1773 2296,1775 2327,1779 2359,1781 2390,1781 2422,1781 2453,1781 2484,1781 2516,1780 2547,1778 2579,1778 2610,1778 2642,1779 2673,1781 2705,1785 2736,1788 2768,1790"/>
+                <TextEquiv>
+                    <Unicode>vero. All f.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

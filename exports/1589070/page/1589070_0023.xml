@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:42.682+02:00</Created>
+        <LastChange>2024-01-22T21:36:41.574+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127140" pageNr="23" tsid="145643015" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XFXODUUITYQNEDHFNHLOIHQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TUUSKLEGGGGVCHORDIUGEYNF" imageId="48552217"/>
+    </Metadata>
+    <Page imageFilename="1589070_0023.jpg" imageWidth="2968" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787059292" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="728,686 728,1006 2507,1006 2507,686"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="733,725 1434,740 1614,813 1784,742 1987,733 2134,788 2462,806 2504,786 2502,661 1445,692 1024,632 731,659"/>
+                <Baseline points="746,716 834,722 922,722 1010,725 1098,724 1186,728 1274,727 1362,728 1450,728 1538,730 1626,734 1714,732 1802,731 1890,729 1978,730 2066,732 2154,740 2242,739 2330,739 2418,740 2507,740"/>
+                <TextEquiv>
+                    <Unicode>Auch der ehrlichste Denker wird es ohne Fümor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="722,806 824,793 905,811 945,797 987,813 1007,800 1031,813 1150,806 1148,747 1081,729 1055,725 1015,749 951,729 914,749 874,733 859,747 813,729 720,736"/>
+                <Baseline points="734,788 760,788 786,787 812,784 839,783 865,785 891,787 918,788 944,788 970,788 997,788 1023,788 1049,788 1076,788 1102,787 1128,786 1155,788"/>
+                <TextEquiv>
+                    <Unicode>niemals zum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1815,826 1859,811 1872,824 1901,804 1940,815 1958,808 1991,815 2004,806 2040,813 2042,753 2015,753 1984,782 1943,769 1896,782 1870,764 1843,773 1817,762"/>
+                <Baseline points="1829,800 1856,800 1883,800 1910,800 1938,798 1965,797 1992,797 2019,796 2047,794"/>
+                <TextEquiv>
+                    <Unicode>mine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="718,868 1136,861 1297,929 1562,907 1738,954 2112,905 2297,943 2467,914 2465,788 1817,833 1650,795 716,804"/>
+                <Baseline points="728,850 815,853 902,853 989,852 1076,855 1163,855 1250,856 1338,859 1425,859 1512,861 1599,862 1686,862 1773,862 1860,862 1948,862 2035,865 2122,862 2209,862 2296,865 2383,868 2471,868"/>
+                <TextEquiv>
+                    <Unicode>ungen Philosophen, sondern nur zum Pedanten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="716,998 744,1009 760,996 833,1011 881,998 929,1009 954,993 985,1002 1004,991 1035,1004 1033,927 859,936 811,914 780,940 742,916 714,918"/>
+                <Baseline points="728,976 754,978 780,979 806,981 832,982 858,982 884,982 910,982 936,982 962,983 988,984 1014,986 1041,988"/>
+                <TextEquiv>
+                    <Unicode>bringen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

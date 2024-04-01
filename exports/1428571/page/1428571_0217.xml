@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_00:25</Creator>
+        <Created>2023-05-10T13:15:31.169+02:00</Created>
+        <LastChange>2023-07-30T00:25:57.532+02:00</LastChange>
+        <TranskribusMetadata docId="1428571" pageId="55411281" pageNr="217" tsid="131471871" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ABINFECRNJAWWDHHJHEEHSHI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDJTEHFKYGFCSLFSUYIEFWGE" imageId="44685424"/>
+    </Metadata>
+    <Page imageFilename="1428571_0217.jpg" imageWidth="3608" imageHeight="4840">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792981573" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="334,1551 1212,1551 1212,2567 334,2567"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="482,1625 576,1667 625,1640 702,1657 748,1635 828,1678 904,1682 955,1657 1056,1680 1076,1510 914,1555 847,1537 750,1556 694,1524 485,1559"/>
+                <Baseline points="489,1619 537,1613 627,1613 717,1613 806,1613 896,1601 985,1601 1075,1601"/>
+                <TextEquiv>
+                    <Unicode>G.C.H.F.P:P:S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="326,1809 642,1773 822,1811 943,1758 1195,1804 1212,1700 1086,1661 937,1709 841,1670 736,1685 636,1750 558,1683 456,1732 331,1706"/>
+                <Baseline points="334,1786 406,1786 495,1774 585,1774 675,1774 764,1768 854,1762 944,1756 1033,1750 1123,1750 1212,1744"/>
+                <TextEquiv>
+                    <Unicode>taisb sfoja fdow</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="411,1945 637,1956 693,1929 730,1952 1099,1898 1154,1923 1158,1838 723,1862 552,1847 414,1888"/>
+                <Baseline points="418,1936 442,1930 531,1930 621,1936 711,1924 800,1924 890,1924 979,1912 1069,1900 1159,1894"/>
+                <TextEquiv>
+                    <Unicode>welod uk. aamte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="572,2085 621,2109 908,2072 930,2089 979,2067 1072,2094 1134,2069 1179,2083 1184,1962 1131,1981 1069,1963 995,2009 928,1972 870,1968 690,2010 576,2012"/>
+                <Baseline points="579,2079 645,2079 734,2073 824,2067 914,2061 1003,2055 1093,2055 1183,2055"/>
+                <TextEquiv>
+                    <Unicode>Geweis nagej</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="424,2556 439,2566 482,2558 512,2573 541,2559 580,2583 633,2559 648,2567 652,2466 639,2463 611,2481 594,2471 574,2482 565,2473 546,2486 509,2450 429,2449"/>
+                <Baseline points="430,2557 472,2557 561,2551 651,2551"/>
+                <TextEquiv>
+                    <Unicode>A.M.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

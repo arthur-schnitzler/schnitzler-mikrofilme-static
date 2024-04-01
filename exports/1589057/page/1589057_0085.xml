@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:57</Creator>
+        <Created>2023-09-27T14:39:37.420+02:00</Created>
+        <LastChange>2024-01-22T19:57:59.791+01:00</LastChange>
+        <TranskribusMetadata docId="1589057" pageId="60125726" pageNr="85" tsid="145637659" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KLWACAICOMDGBRSDEVIUVFNN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZPPTUAYECAIYAEKSQEEVSGE" imageId="48550803"/>
+    </Metadata>
+    <Page imageFilename="1589057_0085.jpg" imageWidth="3320" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790055424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="934,461 934,881 3088,881 3088,461"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="931,655 1041,613 1225,642 1311,599 1479,621 1757,567 2191,605 2456,546 3079,562 3082,463 2929,436 2774,444 2707,492 2456,449 2185,500 2060,460 1958,508 1669,471 1228,538 939,460"/>
+                <Baseline points="949,600 1061,594 1174,591 1286,588 1399,582 1511,579 1624,576 1737,573 1849,566 1962,564 2074,560 2187,552 2299,549 2412,543 2525,542 2637,534 2750,532 2862,531 2975,524 3088,522"/>
+                <TextEquiv>
+                    <Unicode>Nichts widerwärtiger als ein Selhstzufriedener, nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="920,733 1057,770 1145,722 1380,797 1637,717 1811,786 2303,674 2619,722 2774,669 2918,698 2924,583 2044,578 1720,639 1418,594 923,658"/>
+                <Baseline points="934,725 1033,719 1133,713 1233,713 1333,710 1432,708 1532,705 1632,701 1732,697 1831,692 1931,688 2031,683 2131,677 2230,676 2330,672 2430,668 2530,666 2629,661 2729,655 2829,652 2929,654"/>
+                <TextEquiv>
+                    <Unicode>ummoralischer, als einer der nicht mit sich zufrae</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="958,864 1140,864 1166,848 1244,869 1292,845 1295,746 1220,768 1196,752 1129,746 1059,792 960,797"/>
+                <Baseline points="973,851 998,850 1023,848 1048,848 1073,848 1098,848 1123,848 1148,846 1173,845 1198,845 1223,845 1248,845 1273,846 1299,848"/>
+                <TextEquiv>
+                    <Unicode>den ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_02:38</Creator>
+        <Created>2023-05-10T12:09:18.713+02:00</Created>
+        <LastChange>2023-07-29T02:38:53.705+02:00</LastChange>
+        <TranskribusMetadata docId="1428189" pageId="55398287" pageNr="33" tsid="131391111" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ESUWZRFNIZJPIYZXQLDEAAMR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHUZJOSMMADEGFWTWEYGCUOJ" imageId="44673165"/>
+    </Metadata>
+    <Page imageFilename="1428189_0033.jpg" imageWidth="3315" imageHeight="4248">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711798860241" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="534,158 3107,158 3107,347 534,347"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2505,243 2682,220 2785,258 2906,241 3031,259 3102,231 3104,146 3044,157 2992,127 2901,118 2830,147 2735,119 2660,146 2609,119 2548,151 2507,140"/>
+                <Baseline points="2516,217 2525,220 2570,220 2615,217 2659,217 2704,214 2749,214 2794,211 2838,208 2883,211 2928,214 2973,214 3018,208 3030,208 3074,211 3107,211"/>
+                <TextEquiv>
+                    <Unicode>de la riviere et le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="525,321 538,321 554,310 560,314 567,308 573,310 580,306 590,310 595,304 612,301 612,196 588,189 579,179 575,183 571,179 566,183 525,185"/>
+                <Baseline points="534,280 579,280 617,280"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2723,349 2746,357 2770,338 2805,357 2845,342 2895,342 2934,358 2968,353 2979,342 3005,343 3005,306 2972,301 2953,315 2932,314 2891,291 2871,297 2818,278 2785,293 2770,286 2740,299 2723,295"/>
+                <Baseline points="2734,331 2779,331 2824,331 2868,331 2913,331 2958,331 3003,337 3009,337"/>
+                <TextEquiv>
+                    <Unicode>a une lettre de ses ai-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

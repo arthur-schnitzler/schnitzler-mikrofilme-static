@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:11:07.728+02:00</Created>
+        <LastChange>2023-08-15T10:00:55.574+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436241" pageNr="240" tsid="132846419" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VIWSCZEPFMOPSWLRJOFXTOHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AQHDINRNFWDFGQKBKULOVDCG" imageId="44710230"/>
+    </Metadata>
+    <Page imageFilename="1429033_0240.jpg" imageWidth="3560" imageHeight="5512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800437324" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="884,1498 2895,1498 2895,2175 884,2175"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="890,1879 1140,1740 1220,1800 2144,1629 2256,1713 2464,1596 2618,1586 2863,1720 2908,1383 2670,1358 2266,1567 2196,1512 2060,1579 1983,1510 1334,1678 1125,1581 912,1713"/>
+                <Baseline points="913,1797 937,1791 1026,1785 1115,1779 1204,1774 1293,1762 1382,1744 1471,1726 1560,1714 1649,1696 1738,1679 1827,1667 1916,1655 2005,1643 2094,1637 2183,1625 2272,1625 2361,1607 2450,1596 2539,1590 2628,1578 2717,1560 2806,1548 2895,1548"/>
+                <TextEquiv>
+                    <Unicode>Ist es nicht lustig, Elselt¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="868,1988 2119,1819 2285,1876 2397,1792 2709,1755 2821,1819 2836,1698 2548,1606 2142,1787 2000,1735 1894,1812 1569,1837 1505,1775 1329,1874 882,1869"/>
+                <Baseline points="884,1969 967,1957 1056,1946 1145,1940 1234,1928 1323,1916 1412,1898 1501,1886 1590,1880 1679,1868 1768,1863 1857,1857 1946,1845 2035,1827 2124,1821 2213,1809 2302,1797 2391,1791 2480,1785 2569,1774 2658,1762 2747,1750 2836,1738"/>
+                <TextEquiv>
+                    <Unicode>Dem Himmel, 1 sind es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="900,2166 972,2189 1044,2147 1175,2144 1286,2114 1393,2117 1403,2045 1346,2052 1286,1981 1244,2013 1185,2015 1130,2057 1026,2072 942,2137 902,2139"/>
+                <Baseline points="913,2165 955,2165 1044,2147 1133,2135 1222,2124 1311,2112 1400,2094"/>
+                <TextEquiv>
+                    <Unicode>selle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

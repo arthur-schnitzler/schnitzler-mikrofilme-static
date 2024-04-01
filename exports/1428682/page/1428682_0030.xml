@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:16</Creator>
+        <Created>2023-05-10T14:49:48.023+02:00</Created>
+        <LastChange>2023-08-14T22:16:12.288+02:00</LastChange>
+        <TranskribusMetadata docId="1428682" pageId="55426354" pageNr="30" tsid="132827841" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BXDHPDUHMOXNTNDVMWNXJHEL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KAFJUTFJJHIJCGKXXNRAHCKI" imageId="44700431"/>
+    </Metadata>
+    <Page imageFilename="1428682_0030.jpg" imageWidth="6584" imageHeight="4344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810436680" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3669,493 6157,493 6157,1495 3669,1495"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6000,587 6016,587 6053,613 6061,607 6079,609 6097,593 6101,597 6118,589 6126,597 6148,599 6158,471 6146,469 6136,477 6128,471 6108,473 6085,459 6061,469 6041,447 6035,451 6012,439"/>
+                <Baseline points="6014,554 6068,548 6157,543"/>
+                <TextEquiv>
+                    <Unicode>30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3658,759 4732,706 5244,767 5244,599 5126,645 4669,593 3973,666 3658,619"/>
+                <Baseline points="3669,716 3759,710 3848,716 3938,710 4027,710 4117,710 4206,710 4296,710 4385,710 4475,710 4564,710 4654,710 4743,704 4833,710 4922,704 5012,710 5101,716 5191,716 5250,722"/>
+                <TextEquiv>
+                    <Unicode>19.10. Wien-Brünn (Vorlesunz).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3670,957 3753,965 4058,872 4151,908 4269,874 4493,870 4584,900 4584,785 4485,767 4212,793 4135,767 4095,793 4008,763 3884,793 3821,765 3670,805"/>
+                <Baseline points="3681,871 3771,865 3860,865 3950,865 4039,865 4129,865 4218,859 4308,859 4397,859 4487,865 4576,871 4588,871"/>
+                <TextEquiv>
+                    <Unicode>20.10.Brünn-Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3658,1185 3761,1208 3840,1177 4012,1202 4076,1173 4313,1173 4580,1204 4720,1185 4720,1066 4523,1076 4447,1048 4265,1080 4182,1044 4060,1068 3900,1030 3658,1092"/>
+                <Baseline points="3669,1169 3759,1169 3848,1169 3938,1169 4027,1163 4117,1163 4206,1163 4296,1163 4385,1163 4475,1163 4564,1169 4654,1175 4725,1175"/>
+                <TextEquiv>
+                    <Unicode>6.11.Wien-Semmering.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3664,1366 3755,1408 3896,1408 4010,1351 4173,1384 4418,1317 4614,1355 4625,1230 4418,1254 4349,1220 4281,1256 4091,1266 3979,1220 3759,1264 3664,1248"/>
+                <Baseline points="3675,1324 3765,1324 3854,1324 3944,1324 4033,1324 4123,1318 4212,1318 4302,1318 4391,1318 4481,1318 4570,1330 4630,1324"/>
+                <TextEquiv>
+                    <Unicode>7.8.11.Semmering.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3664,1519 3739,1491 3864,1535 4044,1475 4139,1505 4315,1477 4408,1509 4455,1485 4663,1503 4726,1487 4728,1394 4602,1422 4424,1382 4095,1428 3666,1388"/>
+                <Baseline points="3675,1479 3765,1479 3854,1479 3944,1479 4033,1473 4123,1473 4212,1473 4302,1473 4391,1473 4481,1473 4570,1473 4660,1473 4731,1485"/>
+                <TextEquiv>
+                    <Unicode>9.11.Semmering-Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

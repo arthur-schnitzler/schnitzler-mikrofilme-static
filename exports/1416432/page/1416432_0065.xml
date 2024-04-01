@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_05:02</Creator>
+        <Created>2023-05-01T21:55:05.443+02:00</Created>
+        <LastChange>2023-07-25T05:02:08.320+02:00</LastChange>
+        <TranskribusMetadata docId="1416432" pageId="54946152" pageNr="65" tsid="130585187" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RCDCNDYTRXQABNXHAENFKRDY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDBDAXHLUGMOGRGMBDLWJESY" imageId="44450237"/>
+    </Metadata>
+    <Page imageFilename="1416432_0065.jpg" imageWidth="1720" imageHeight="2264">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831798952" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="164,216 1562,216 1562,730 164,730"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="155,298 688,294 733,330 836,294 1029,333 1251,279 1308,319 1503,287 1505,183 805,198 585,155 156,219"/>
+                <Baseline points="164,292 188,292 218,290 248,292 278,294 308,296 338,296 368,294 398,290 428,288 458,288 488,288 518,286 548,284 578,284 608,284 638,284 668,284 698,282 728,282 758,284 788,282 818,282 848,282 878,282 908,282 938,284 968,282 998,280 1028,280 1058,280 1088,276 1118,276 1148,276 1178,274 1208,276 1238,274 1268,272 1298,270 1328,270 1358,270 1388,268 1418,266 1448,266 1478,266 1508,266"/>
+                <TextEquiv>
+                    <Unicode>liebe Freund, aufs herzlichste</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="193,486 298,484 326,466 407,498 446,501 498,476 513,491 562,496 568,348 462,348 372,404 247,387 197,395"/>
+                <Baseline points="204,446 208,446 238,444 268,438 298,440 328,440 358,438 388,436 418,434 448,432 478,430 508,430 538,430 568,428"/>
+                <TextEquiv>
+                    <Unicode>gegrüßt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="829,513 1009,493 1185,514 1244,484 1390,496 1513,472 1560,459 1562,316 1412,336 1342,293 1185,351 1039,324 831,367"/>
+                <Baseline points="838,466 842,466 872,462 902,456 932,452 962,452 992,448 1022,448 1052,448 1082,448 1112,448 1142,448 1172,446 1202,444 1232,444 1262,440 1292,436 1322,436 1352,436 1382,438 1412,442 1442,446 1472,450 1502,450 1532,452 1562,458"/>
+                <TextEquiv>
+                    <Unicode>Arthur Schässe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="188,731 319,762 353,738 427,765 619,699 654,715 709,694 745,720 844,708 851,592 699,649 578,609 461,637 372,604 308,622 252,597 195,605"/>
+                <Baseline points="200,716 220,716 250,720 280,718 310,716 340,714 370,710 400,710 430,706 460,708 490,706 520,704 550,704 580,704 610,700 640,696 670,696 700,694 730,694 760,692 790,690 820,684 850,684"/>
+                <TextEquiv>
+                    <Unicode>Mar, 5.2.94</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

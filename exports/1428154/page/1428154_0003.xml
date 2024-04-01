@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_19:32</Creator>
+        <Created>2023-05-10T11:24:06.058+02:00</Created>
+        <LastChange>2023-07-27T19:32:13.038+02:00</LastChange>
+        <TranskribusMetadata docId="1428154" pageId="55386680" pageNr="3" tsid="131289109" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LTZNNEPTDAFIAQHOAQNPGGTA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OGOHBMCJERQSOFCXUPNIJOJA" imageId="44661577"/>
+    </Metadata>
+    <Page imageFilename="1428154_0003.jpg" imageWidth="6472" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711820702205" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3378,1030 5754,1030 5754,2845 3378,2845"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3728,1188 3870,1190 4005,1121 4297,1144 4384,1090 4593,1121 4693,1088 4751,1119 4782,1106 4793,934 4443,892 4361,942 4234,931 4145,965 3942,944 3851,896 3744,925"/>
+                <Baseline points="3742,1146 3802,1140 3891,1134 3981,1128 4070,1116 4160,1110 4249,1104 4339,1098 4428,1092 4518,1086 4608,1080 4697,1080 4787,1086"/>
+                <TextEquiv>
+                    <Unicode>Vorder Welt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4072,1548 5372,1517 5751,1419 5755,1307 5616,1313 5347,1215 4974,1244 4770,1321 4082,1238"/>
+                <Baseline points="4088,1426 4142,1438 4232,1432 4321,1438 4411,1438 4500,1432 4590,1432 4679,1426 4769,1426 4858,1414 4948,1408 5037,1408 5127,1402 5216,1396 5306,1396 5395,1390 5485,1396 5575,1396 5664,1396 5754,1402"/>
+                <TextEquiv>
+                    <Unicode>Komalité in fünf Aufond</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3365,2711 3428,2717 3522,2686 3684,2721 3797,2665 3951,2653 3986,2669 4001,2505 3770,2503 3707,2534 3644,2526 3592,2565 3472,2540 3378,2559"/>
+                <Baseline points="3378,2686 3456,2680 3545,2674 3635,2668 3724,2656 3814,2644 3903,2638 3993,2638"/>
+                <TextEquiv>
+                    <Unicode>16 May 88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3365,2851 3478,2859 3515,2830 3709,2821 3778,2876 3824,2869 3874,2915 3940,2919 3957,2713 3759,2709 3655,2763 3553,2769 3505,2736 3378,2713"/>
+                <Baseline points="3378,2829 3420,2835 3509,2829 3599,2823 3688,2811 3778,2811 3867,2799 3957,2787"/>
+                <TextEquiv>
+                    <Unicode>1 Juin 80</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

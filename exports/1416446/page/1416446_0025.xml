@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_08:06</Creator>
+        <Created>2023-05-01T22:01:15.443+02:00</Created>
+        <LastChange>2023-07-25T08:06:48.121+02:00</LastChange>
+        <TranskribusMetadata docId="1416446" pageId="54947161" pageNr="25" tsid="130588099" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GKVOLBEDRMVFMTVVCOHBWGMP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRPNAMAKNLRGBYGZHIMJRTZF" imageId="44451246"/>
+    </Metadata>
+    <Page imageFilename="1416446_0025.jpg" imageWidth="5475" imageHeight="5194">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830474187" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1964,2147 3349,2147 3349,2696 1964,2696"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1967,2327 2190,2360 2283,2296 2427,2284 2631,2341 2836,2231 3035,2272 3184,2204 3342,2216 3354,2088 2757,2119 2425,2226 1979,2188"/>
+                <Baseline points="1976,2316 2005,2310 2095,2304 2185,2304 2274,2298 2364,2292 2453,2280 2543,2274 2632,2262 2722,2250 2811,2244 2901,2238 2991,2226 3080,2220 3170,2208 3259,2202 3349,2197"/>
+                <TextEquiv>
+                    <Unicode>Auf baldige Wieder¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1951,2499 2008,2516 2051,2494 2119,2520 2231,2447 2264,2453 2338,2425 2465,2447 2470,2398 2410,2368 2260,2362 2216,2379 2143,2344 1961,2392"/>
+                <Baseline points="1964,2471 2023,2465 2113,2447 2202,2435 2292,2429 2382,2423 2471,2417"/>
+                <TextEquiv>
+                    <Unicode>sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2020,2690 2145,2736 2530,2660 2825,2672 2933,2743 3136,2712 3210,2690 3224,2463 2684,2496 2444,2624 2202,2506 2034,2496"/>
+                <Baseline points="2029,2680 2053,2686 2143,2680 2232,2680 2322,2674 2411,2668 2501,2662 2591,2656 2680,2650 2770,2644 2859,2638 2949,2620 3038,2614 3128,2620 3217,2620"/>
+                <TextEquiv>
+                    <Unicode>Wien 8.6.05.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

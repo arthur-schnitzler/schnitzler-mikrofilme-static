@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:38</Creator>
+        <Created>2023-05-10T11:23:34.804+02:00</Created>
+        <LastChange>2023-08-01T03:38:49.310+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55387294" pageNr="175" tsid="131649372" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EAGDSNDGVRGAZNHIYWFMJCQU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CJTQWLIEIFXSBLNESHEYFBGV" imageId="44662191"/>
+    </Metadata>
+    <Page imageFilename="1428151_0175.jpg" imageWidth="6824" imageHeight="4488">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821561254" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3658,87 6427,87 6427,4211 3658,4211"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5588,263 5623,256 5651,274 5724,239 5751,260 5834,263 5879,284 5910,263 5924,277 5966,274 5976,76 5928,66 5599,83"/>
+                <Baseline points="5615,155 5621,155 5711,149 5800,149 5890,143 5980,137"/>
+                <TextEquiv>
+                    <Unicode>Votre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="5149,294 5197,294 5228,274 5260,298 5277,284 5308,294 5332,277 5402,308 5481,284 5561,322 5557,118 5453,114 5433,93 5377,128 5277,97 5145,111"/>
+                <Baseline points="5168,244 5257,238 5347,238 5436,238 5526,244 5568,244"/>
+                <TextEquiv>
+                    <Unicode>G.C.Hr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3663,606 3982,596 4210,731 4906,568 6101,599 6125,312 5685,395 5232,270 4598,391 4373,294 3999,409 3667,364"/>
+                <Baseline points="3682,566 3712,561 3801,555 3891,549 3980,555 4070,549 4159,555 4249,561 4338,555 4428,555 4517,549 4607,549 4696,549 4786,543 4875,537 4965,537 5054,531 5144,531 5234,531 5323,531 5413,531 5502,531 5592,531 5681,531 5771,525 5860,531 5950,537 6039,537 6129,543"/>
+                <TextEquiv>
+                    <Unicode>Früher Jannen und Stimmenbändlähmung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3639,1004 4075,956 4311,1039 5079,876 5339,966 5588,817 6357,890 6419,696 5727,564 5073,585 4802,727 4654,637 3643,703"/>
+                <Baseline points="3658,847 3741,841 3831,841 3921,841 4010,841 4100,847 4189,847 4279,859 4368,859 4458,847 4547,847 4637,841 4726,835 4816,835 4905,835 4995,835 5084,829 5174,823 5263,823 5353,823 5442,829 5532,817 5621,817 5711,817 5800,817 5890,823 5980,823 6069,823 6159,829 6248,829 6338,835 6427,835"/>
+                <TextEquiv>
+                    <Unicode>Hughlings Jackson (Londn) lancet 10/4 1886</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3649,1343 3937,1357 4037,1278 4197,1323 4515,1264 4661,1302 4875,1243 5031,1267 5031,1094 4941,1056 4667,1028 4515,1115 3649,1011"/>
+                <Baseline points="3670,1217 3694,1211 3783,1199 3873,1199 3962,1199 4052,1205 4141,1199 4231,1205 4320,1211 4410,1211 4499,1211 4589,1211 4678,1205 4768,1199 4858,1187 4947,1181 5037,1193"/>
+                <TextEquiv>
+                    <Unicode>palimt mit Syptelis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="4068,4210 4100,4200 4127,4221 4183,4197 4259,4228 4339,4207 4366,4235 4404,4210 4463,4245 4460,3951 4411,3947 4380,3978 4307,3958 4179,3996 4065,3951"/>
+                <Baseline points="4088,4201 4177,4195 4267,4195 4356,4201 4446,4201 4470,4201"/>
+                <TextEquiv>
+                    <Unicode>v. 710</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

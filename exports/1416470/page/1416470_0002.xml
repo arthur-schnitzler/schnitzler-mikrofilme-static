@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_12:27</Creator>
+        <Created>2023-05-01T22:05:49.984+02:00</Created>
+        <LastChange>2023-07-25T12:27:45.639+02:00</LastChange>
+        <TranskribusMetadata docId="1416470" pageId="54947992" pageNr="2" tsid="130624418" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BSWKWRYDMFGHNIVIRFFIBYGB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OIUIDIEVRWRJCBPFXUPLRLCA" imageId="44452047"/>
+    </Metadata>
+    <Page imageFilename="1416470_0002.jpg" imageWidth="5061" imageHeight="4600">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830081190" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1117,1622 3668,1622 3668,2250 1117,2250"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1110,1714 1250,1734 1365,1696 1450,1737 1662,1695 1991,1754 2180,1734 2203,1569 1584,1583 1527,1546 1114,1515"/>
+                <Baseline points="1117,1702 1129,1702 1218,1702 1308,1702 1397,1696 1487,1696 1577,1696 1666,1696 1756,1690 1845,1684 1935,1684 2025,1684 2114,1684 2204,1672"/>
+                <TextEquiv>
+                    <Unicode>Redlich, Professor Josef</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1987,1911 2108,1953 2157,1920 2199,1946 2264,1920 2300,1946 2350,1923 2509,1937 2629,1986 2764,1958 2761,1807 2275,1829 2171,1778 2060,1806 1986,1790"/>
+                <Baseline points="1995,1869 2084,1881 2174,1881 2264,1881 2353,1881 2443,1881 2532,1887 2622,1887 2712,1887 2765,1881"/>
+                <TextEquiv>
+                    <Unicode>22/5/1900— 28/11/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3350,2153 3439,2169 3486,2146 3535,2158 3599,2108 3658,2126 3658,2025 3586,2044 3525,2021 3439,2020 3381,1983 3350,1991"/>
+                <Baseline points="3357,2108 3447,2108 3536,2108 3626,2108 3662,2108"/>
+                <TextEquiv>
+                    <Unicode>dessers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3355,2259 3403,2233 3456,2248 3491,2241 3506,2256 3526,2247 3541,2255 3566,2239 3577,2247 3588,2236 3627,2254 3667,2243 3665,2139 3646,2147 3592,2131 3535,2157 3467,2156 3439,2169 3354,2149"/>
+                <Baseline points="3363,2228 3452,2234 3542,2234 3632,2234 3668,2240"/>
+                <TextEquiv>
+                    <Unicode>card.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

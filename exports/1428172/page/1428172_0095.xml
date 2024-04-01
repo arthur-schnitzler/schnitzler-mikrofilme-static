@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:11</Creator>
+        <Created>2023-05-10T11:47:39.398+02:00</Created>
+        <LastChange>2023-07-28T18:11:18.070+02:00</LastChange>
+        <TranskribusMetadata docId="1428172" pageId="55392017" pageNr="95" tsid="131369751" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AIWESQIEZEHLGQOPPHQEEUNQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WOWNWLWKYPIPKQXBISILTJJZ" imageId="44666902"/>
+    </Metadata>
+    <Page imageFilename="1428172_0095.jpg" imageWidth="3496" imageHeight="4264">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802368586" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1110,242 2997,242 2997,514 1110,514"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1292,352 1328,340 1400,348 1434,316 1452,332 1474,332 1500,310 1520,320 1544,308 1620,316 1664,296 1666,206 1522,220 1492,212 1476,222 1426,214 1404,226 1374,216 1356,228 1296,220"/>
+                <Baseline points="1304,301 1334,298 1379,298 1388,298 1400,298 1445,298 1490,298 1534,295 1579,292 1624,292 1669,292"/>
+                <TextEquiv>
+                    <Unicode>ouvrage de ses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1100,342 1114,344 1128,336 1144,320 1178,320 1178,234 1162,234 1154,238 1142,234 1136,240 1124,234 1116,238 1112,234 1100,234"/>
+                <Baseline points="1110,304 1155,304 1182,304"/>
+                <TextEquiv>
+                    <Unicode>De'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2898,540 2924,532 2932,536 2942,526 2982,544 3000,538 2964,360 2952,360 2926,394 2906,384 2882,406 2872,408"/>
+                <Baseline points="2899,486 2944,495 2988,504 2997,504"/>
+                <TextEquiv>
+                    <Unicode>eo</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

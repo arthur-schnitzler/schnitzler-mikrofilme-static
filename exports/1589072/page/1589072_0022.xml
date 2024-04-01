@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:55.953+02:00</Created>
+        <LastChange>2024-01-22T21:46:16.717+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127245" pageNr="22" tsid="145643579" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JRTNYAOUMTBEXOTUNLOQVMEX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EAOSRFZYTBKJWUVFYQLAIQVT" imageId="48552322"/>
+    </Metadata>
+    <Page imageFilename="1589072_0022.jpg" imageWidth="2920" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786855424" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="578,314 578,965 2559,965 2559,314"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2393,391 2408,394 2423,386 2480,426 2502,421 2515,409 2544,414 2552,282 2530,285 2502,268 2468,297 2440,292 2433,300 2398,302"/>
+                <Baseline points="2410,384 2438,384 2467,384 2495,382 2524,380 2553,378"/>
+                <TextEquiv>
+                    <Unicode>15</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="565,704 701,654 1608,661 1685,704 1757,669 2076,704 2158,666 2552,726 2537,481 2440,505 2297,461 1915,575 1747,525 1543,565 1311,513 969,548 691,505 565,548"/>
+                <Baseline points="578,653 677,654 776,653 875,651 974,653 1073,656 1172,656 1271,656 1370,656 1469,656 1568,653 1667,657 1766,656 1865,655 1964,653 2063,653 2162,652 2261,652 2360,653 2459,650 2559,653"/>
+                <TextEquiv>
+                    <Unicode>Er lebte nicht sein leben, sondern seine Aate-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="567,837 595,827 699,867 758,827 862,862 907,845 989,880 1102,837 1100,679 862,652 726,671 704,654 565,704"/>
+                <Baseline points="578,781 604,779 630,778 657,778 683,779 710,781 736,784 762,787 789,785 815,783 842,781 868,781 894,781 921,783 947,784 974,784 1000,785 1026,787 1053,787 1079,788 1106,790"/>
+                <TextEquiv>
+                    <Unicode>biograchiog.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="619,951 823,956 979,1011 1261,969 1670,1001 1672,842 1568,875 1484,835 1256,852 1145,818 984,877 907,845 622,875"/>
+                <Baseline points="632,927 684,930 736,933 789,933 841,930 893,931 946,931 998,930 1050,930 1103,927 1155,924 1207,924 1260,920 1312,918 1364,918 1417,921 1469,916 1521,913 1574,913 1626,910 1679,906"/>
+                <TextEquiv>
+                    <Unicode>Beklommet, die niht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:39</Creator>
+        <Created>2023-09-27T14:40:11.085+02:00</Created>
+        <LastChange>2024-01-22T20:39:17.309+01:00</LastChange>
+        <TranskribusMetadata docId="1589062" pageId="60126010" pageNr="104" tsid="145640628" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VYAUCWERLRBHDTCHOFSKNPXE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QYUXNHLXHEKVJYSKXJOIILFV" imageId="48551087"/>
+    </Metadata>
+    <Page imageFilename="1589062_0104.jpg" imageWidth="3080" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789148401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="725,1393 725,1759 2763,1759 2763,1393"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="731,1519 905,1476 1101,1519 1216,1483 1552,1506 1601,1471 1873,1511 2090,1463 2179,1511 2373,1463 2539,1509 2610,1499 2612,1374 2307,1409 1942,1358 1769,1420 1504,1366 1409,1422 1267,1379 1007,1422 731,1387"/>
+                <Baseline points="746,1468 839,1468 933,1468 1026,1468 1120,1468 1213,1468 1307,1465 1400,1465 1494,1467 1587,1465 1681,1468 1775,1465 1868,1465 1962,1465 2055,1463 2149,1462 2242,1459 2336,1459 2429,1459 2523,1456 2617,1456"/>
+                <TextEquiv>
+                    <Unicode>Schliesglich ob ich nun habgierig bin oder.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="711,1662 1014,1618 1254,1667 1333,1616 1455,1652 1726,1611 2737,1626 2763,1539 2263,1539 2200,1504 1881,1552 714,1522"/>
+                <Baseline points="725,1599 826,1599 928,1599 1030,1599 1132,1593 1234,1596 1336,1593 1438,1595 1540,1593 1642,1593 1744,1596 1845,1593 1947,1591 2049,1593 2151,1590 2253,1590 2355,1587 2457,1590 2559,1589 2661,1587 2763,1590"/>
+                <TextEquiv>
+                    <Unicode>nicht,hat irgend jemand deshalb das Recht mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="749,1779 854,1782 884,1756 930,1779 1020,1731 1119,1771 1152,1754 1223,1802 1320,1822 1320,1649 1257,1680 1155,1652 971,1690 895,1654 749,1682"/>
+                <Baseline points="764,1725 792,1728 820,1726 848,1725 876,1725 904,1725 932,1725 960,1725 988,1726 1016,1728 1044,1726 1072,1725 1100,1725 1128,1727 1156,1727 1184,1725 1212,1725 1240,1725 1268,1725 1296,1724 1325,1722"/>
+                <TextEquiv>
+                    <Unicode>zu bestehlen?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

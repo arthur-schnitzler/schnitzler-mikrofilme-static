@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:41:03.953+02:00</Created>
+        <LastChange>2024-01-22T21:25:12.891+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60127062" pageNr="185" tsid="145642689" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HJZOZDEGGUMOCTUPUJHAAAGW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EAKPBUZLPOHRHQOJFARTATSA" imageId="48552139"/>
+    </Metadata>
+    <Page imageFilename="1589064_0185.jpg" imageWidth="2856" imageHeight="3416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788706453" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="220,2397 220,2669 492,2669 492,2397"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="266,2480 302,2474 334,2487 346,2480 413,2511 442,2493 489,2489 488,2419 433,2422 391,2394 379,2398 342,2379 319,2376 291,2393 264,2381"/>
+                <Baseline points="274,2475 301,2471 328,2469 355,2469 383,2469 410,2469 437,2473 464,2476 492,2478"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="211,2641 240,2636 247,2645 261,2636 267,2645 296,2646 333,2636 351,2643 371,2628 384,2640 396,2637 409,2533 396,2529 380,2541 365,2528 338,2527 295,2539 287,2529 252,2544 223,2537"/>
+                <Baseline points="220,2633 246,2630 272,2626 298,2621 324,2617 350,2616 376,2614 403,2612"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="761,327 761,479 886,479 886,327"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="754,418 774,414 802,422 830,414 855,420 884,414 882,240 827,247 812,262 800,260 764,281 753,278"/>
+                <Baseline points="761,427 786,427 811,427 836,427 861,428 886,429"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="1021,405 1021,771 2523,771 2523,405"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1366,532 1568,471 1908,475 2018,532 2261,498 2418,528 2418,397 2303,380 1783,424 1695,376 1517,372 1366,406"/>
+                <Baseline points="1373,468 1425,468 1477,468 1530,470 1582,469 1635,471 1687,468 1739,468 1792,468 1844,470 1897,469 1949,471 2001,471 2054,471 2106,471 2159,469 2211,468 2263,471 2316,474 2368,470 2421,471"/>
+                <TextEquiv>
+                    <Unicode>Mahrheiten anfähren;die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1659,604 1768,595 1880,637 2042,601 2215,619 2304,665 2438,633 2487,657 2520,637 2520,551 2289,513 2060,548 1657,522"/>
+                <Baseline points="1666,591 1708,591 1751,594 1794,599 1837,598 1880,599 1923,600 1965,598 2008,599 2051,600 2094,602 2137,603 2180,602 2223,600 2265,600 2308,600 2351,601 2394,603 2437,603 2480,603 2523,603"/>
+                <TextEquiv>
+                    <Unicode>is über meine Person.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1070,610 1179,611 1238,636 1306,618 1339,629 1406,599 1541,631 1541,544 1513,555 1463,531 1414,543 1192,514 1070,538"/>
+                <Baseline points="1077,603 1102,602 1128,600 1154,600 1180,600 1206,600 1232,601 1258,603 1284,603 1310,603 1335,603 1361,602 1387,600 1413,599 1439,600 1465,600 1491,601 1517,604 1543,603"/>
+                <TextEquiv>
+                    <Unicode>1Wahrl.eit.e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1554,751 1636,736 1823,768 1870,755 1897,778 2065,770 2064,667 1973,646 1762,670 1553,649"/>
+                <Baseline points="1561,734 1586,734 1611,734 1637,732 1662,731 1688,731 1713,731 1738,731 1764,733 1789,734 1815,734 1840,734 1865,734 1891,733 1916,731 1942,731 1967,731 1992,733 2018,735 2043,736 2069,737"/>
+                <TextEquiv>
+                    <Unicode>eben wurden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1014,759 1105,778 1158,753 1229,776 1335,772 1393,804 1530,793 1529,666 1410,674 1385,698 1226,656 1181,677 1145,658 1014,684"/>
+                <Baseline points="1021,731 1046,731 1072,731 1097,731 1123,731 1149,731 1174,732 1200,734 1226,736 1251,740 1277,740 1303,740 1328,738 1354,734 1380,734 1405,734 1431,734 1457,733 1482,732 1508,732 1534,734"/>
+                <TextEquiv>
+                    <Unicode>erke geschr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:33</Creator>
+        <Created>2023-09-27T14:34:54.905+02:00</Created>
+        <LastChange>2024-01-22T18:33:18.745+01:00</LastChange>
+        <TranskribusMetadata docId="1589033" pageId="60123601" pageNr="77" tsid="145632846" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EYTYVBEXMSEZCZWSZDCKYPLZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GOMTMHWGSAZRPGEQORKRVNNE" imageId="48548679"/>
+    </Metadata>
+    <Page imageFilename="1589033_0077.jpg" imageWidth="2984" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793200750" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="444,1013 444,1169 579,1169 579,1013"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="436,1175 457,1170 478,1185 485,1178 516,1182 549,1163 575,1166 568,1046 546,1053 513,1029 502,1031 478,1008 426,1027"/>
+                <Baseline points="444,1113 471,1113 498,1114 525,1118 552,1119 579,1119"/>
+                <TextEquiv>
+                    <Unicode>Se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="722,526 722,1956 2620,1956 2620,526"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="718,650 1088,622 1307,678 1698,688 1868,617 2183,683 2607,626 2607,530 2360,539 2273,485 2101,532 1879,471 1613,544 1258,563 721,516"/>
+                <Baseline points="734,623 828,620 922,620 1016,622 1110,622 1204,620 1298,615 1392,615 1486,614 1580,614 1674,614 1768,611 1862,608 1956,607 2050,604 2144,602 2238,600 2332,598 2426,596 2520,596 2614,588"/>
+                <TextEquiv>
+                    <Unicode>Direktor: (24 Franzi) Probieren sie die Rol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="723,902 1364,914 1507,860 1561,897 2150,881 2127,798 1693,805 1648,770 1397,829 725,808"/>
+                <Baseline points="737,880 808,880 879,880 950,877 1021,878 1092,877 1163,877 1234,877 1305,874 1376,874 1447,871 1518,868 1589,871 1660,871 1731,868 1802,868 1873,866 1944,864 2015,864 2086,864 2157,874"/>
+                <TextEquiv>
+                    <Unicode>Eine kleine Szene wird probiert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="716,1031 1062,1090 1479,1006 2532,1027 2532,949 2400,897 2275,956 1846,949 1681,895 1420,954 716,933"/>
+                <Baseline points="728,1008 818,1011 908,1008 999,1008 1089,1008 1180,1006 1270,1005 1361,1005 1451,1004 1542,1000 1632,999 1722,999 1813,996 1903,996 1994,996 2084,990 2175,987 2265,990 2356,987 2446,987 2537,993"/>
+                <TextEquiv>
+                    <Unicode>Nun kommt der Rohrpostbrief an Franzi an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="711,1189 1027,1145 1517,1170 1976,1123 2273,1163 2456,1128 2433,1072 2021,1043 714,1074"/>
+                <Baseline points="725,1149 811,1143 898,1140 985,1140 1072,1137 1159,1137 1246,1137 1332,1135 1419,1134 1506,1132 1593,1130 1680,1131 1767,1128 1854,1125 1940,1125 2027,1125 2114,1121 2201,1119 2288,1116 2375,1119 2462,1125"/>
+                <TextEquiv>
+                    <Unicode>Sie liest ihn für sich, wird totenklass.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="718,1321 996,1272 1349,1328 1432,1281 1543,1309 1630,1274 1776,1316 2228,1255 2499,1288 2499,1196 2397,1180 1959,1218 1747,1170 1453,1220 721,1203"/>
+                <Baseline points="734,1268 822,1271 911,1271 999,1268 1088,1268 1176,1264 1265,1265 1353,1265 1442,1265 1530,1262 1619,1262 1707,1258 1796,1261 1884,1256 1973,1256 2061,1253 2150,1253 2238,1250 2327,1247 2415,1247 2504,1256"/>
+                <TextEquiv>
+                    <Unicode>Ihre Szene kommt. Sie spielt wunderschön.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="709,1434 1309,1470 1566,1389 1903,1437 2030,1389 2374,1401 2412,1291 2063,1321 2018,1288 1933,1319 1872,1283 1703,1316 1432,1281 1331,1345 711,1328"/>
+                <Baseline points="722,1399 806,1402 891,1399 975,1396 1060,1397 1145,1396 1229,1396 1314,1393 1398,1392 1483,1387 1568,1390 1652,1387 1737,1387 1821,1387 1906,1385 1991,1386 2075,1383 2160,1380 2244,1377 2329,1375 2414,1378"/>
+                <TextEquiv>
+                    <Unicode>Während sie im Probieren ist, kommt die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="737,1599 1364,1597 1639,1526 2390,1538 2541,1519 2543,1460 2014,1399 1853,1474 739,1462"/>
+                <Baseline points="749,1534 843,1534 938,1531 1033,1528 1127,1528 1222,1527 1317,1528 1411,1524 1506,1522 1601,1519 1695,1519 1790,1519 1885,1516 1979,1518 2074,1515 2169,1511 2263,1510 2358,1508 2453,1510 2548,1507"/>
+                <TextEquiv>
+                    <Unicode>Tragödin, schlägt einen skandal,nimmt ihre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="721,1717 1844,1724 2035,1648 2616,1634 2619,1533 2499,1561 2247,1517 1882,1601 723,1608"/>
+                <Baseline points="737,1665 831,1662 925,1665 1019,1659 1113,1661 1207,1660 1301,1656 1396,1656 1490,1653 1584,1650 1678,1650 1772,1647 1866,1647 1960,1645 2055,1643 2149,1642 2243,1639 2337,1641 2431,1638 2525,1635 2620,1626"/>
+                <TextEquiv>
+                    <Unicode>Entlassung,zieht sie wieder zurück und ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="732,1846 895,1868 940,1844 1003,1856 1043,1837 1182,1863 1225,1851 1225,1722 991,1731 928,1710 885,1731 812,1707 784,1731 732,1724"/>
+                <Baseline points="746,1793 771,1793 796,1793 822,1795 847,1795 873,1793 898,1793 923,1793 949,1791 974,1790 1000,1792 1025,1792 1051,1791 1076,1790 1101,1790 1127,1790 1152,1790 1178,1792 1203,1793 1229,1793"/>
+                <TextEquiv>
+                    <Unicode>ferkt sich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="716,1990 1170,1973 1262,2006 1460,1966 1550,2004 1705,1995 1707,1816 1385,1870 1286,1830 977,1870 718,1849"/>
+                <Baseline points="728,1925 777,1925 826,1922 875,1922 924,1922 973,1920 1022,1921 1071,1922 1120,1922 1169,1922 1219,1919 1268,1916 1317,1919 1366,1917 1415,1914 1464,1916 1513,1914 1562,1915 1611,1914 1660,1916 1710,1922"/>
+                <TextEquiv>
+                    <Unicode>Die Probe geht weiter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

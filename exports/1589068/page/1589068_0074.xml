@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:54.967+02:00</Created>
+        <LastChange>2024-01-22T21:15:18.081+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126853" pageNr="74" tsid="145642240" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PVOPJLPSGSIDKKZICAKVDZTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMLWPDHCZPEFQQLOZZHGQXDD" imageId="48551930"/>
+    </Metadata>
+    <Page imageFilename="1589068_0074.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787586700" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="576,519 576,1018 2466,1018 2466,519"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="562,659 866,685 1409,590 2421,600 2385,513 2237,525 2141,456 1938,433 1487,466 1294,548 565,541"/>
+                <Baseline points="576,612 668,608 760,606 853,606 945,606 1038,606 1130,603 1222,603 1315,599 1407,596 1500,594 1592,594 1684,593 1777,592 1869,589 1962,587 2054,585 2146,584 2239,582 2331,579 2424,579"/>
+                <TextEquiv>
+                    <Unicode>Man könnte Goothes Wort:„Der Handelnde ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="569,774 1374,722 2240,741 2378,715 2381,612 2033,590 1823,600 1607,673 569,682"/>
+                <Baseline points="582,734 672,734 762,734 852,734 942,731 1032,728 1122,728 1212,728 1302,725 1392,722 1482,722 1572,719 1662,722 1752,719 1842,719 1932,716 2022,713 2112,713 2202,710 2292,707 2382,698"/>
+                <TextEquiv>
+                    <Unicode>inmer gewissenlos“ dahin ergänzen: Der Be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="569,910 718,915 767,875 1023,922 1226,856 1402,887 1814,847 2054,880 2230,852 2280,899 2362,835 2463,842 2465,715 2421,710 2216,753 1729,727 1470,795 1200,729 572,783"/>
+                <Baseline points="585,862 679,862 773,859 867,858 961,859 1055,856 1149,854 1243,853 1337,855 1431,853 1525,853 1619,850 1713,850 1807,844 1901,844 1995,844 2089,842 2183,841 2277,838 2371,835 2466,832"/>
+                <TextEquiv>
+                    <Unicode>trachtende ist es gleichfalls, aber dazusror</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="569,1061 762,1028 1005,1061 1092,1030 1143,1054 1315,1045 1317,920 1256,901 1049,910 1002,950 861,910 572,908"/>
+                <Baseline points="582,988 619,988 656,988 693,988 730,988 767,986 804,985 841,985 878,985 915,982 952,982 989,982 1026,981 1063,979 1100,979 1137,976 1174,976 1211,976 1248,976 1285,976 1322,976"/>
+                <TextEquiv>
+                    <Unicode>laut, ohne Risiko.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

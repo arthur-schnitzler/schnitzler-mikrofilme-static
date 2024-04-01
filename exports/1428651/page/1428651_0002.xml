@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_18:18</Creator>
+        <Created>2023-05-10T14:43:47.144+02:00</Created>
+        <LastChange>2023-08-14T18:18:19.140+02:00</LastChange>
+        <TranskribusMetadata docId="1428651" pageId="55424079" pageNr="2" tsid="132820914" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BLQILKFPPIOGTERXUUQNAMQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ELXEGBUPFZAEKWOBCLTIURCM" imageId="44698157"/>
+    </Metadata>
+    <Page imageFilename="1428651_0002.jpg" imageWidth="3320" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814794125" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="244,1489 2455,1489 2455,2459 244,2459"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="837,1718 1413,1666 1574,1702 1809,1616 1945,1660 2216,1640 2443,1598 2453,1506 2351,1451 1927,1421 1524,1463 1393,1373 1038,1538 859,1508"/>
+                <Baseline points="850,1697 889,1697 934,1694 978,1692 1023,1689 1068,1686 1113,1683 1157,1674 1202,1668 1247,1662 1292,1656 1336,1650 1381,1644 1426,1635 1471,1629 1515,1623 1560,1617 1605,1611 1650,1605 1694,1599 1739,1596 1784,1590 1829,1584 1874,1581 1918,1578 1963,1572 2008,1572 2053,1569 2097,1566 2142,1563 2187,1557 2232,1554 2276,1551 2321,1548 2366,1548 2411,1542 2455,1539"/>
+                <TextEquiv>
+                    <Unicode>ver Emppadsame.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="229,2463 303,2477 343,2453 369,2463 410,2453 436,2465 476,2439 488,2451 538,2445 574,2254 556,2250 470,2291 420,2295 269,2250"/>
+                <Baseline points="244,2449 283,2446 328,2444 373,2435 417,2426 462,2417 507,2402 552,2396"/>
+                <TextEquiv>
+                    <Unicode>1891</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_16:46</Creator>
+        <Created>2023-05-10T11:34:16.219+02:00</Created>
+        <LastChange>2023-07-24T16:46:10.335+02:00</LastChange>
+        <TranskribusMetadata docId="1428162" pageId="55388309" pageNr="3" tsid="130545892" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ASZYMFCRDPIWXJDOJAFBFKJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDQHBQXGDHBISJDUSGYEHUGE" imageId="44663202"/>
+    </Metadata>
+    <Page imageFilename="1428162_0003.jpg" imageWidth="4170" imageHeight="5264">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818864252" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1384,1895 2059,1895 2059,2206 1384,2206"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1574,1984 1598,1972 1648,2020 1678,2020 1726,2056 1842,1962 2054,1964 2054,1906 2028,1898 1996,1914 1924,1916 1906,1896 1834,1896 1812,1916 1740,1844 1690,1824 1642,1826 1600,1864 1578,1856"/>
+                <Baseline points="1587,1957 1611,1951 1700,1957 1790,1957 1880,1951 1969,1945 2059,1945"/>
+                <TextEquiv>
+                    <Unicode>Tarquinin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1378,2244 1392,2244 1486,2326 1502,2324 1602,2218 1620,2214 1614,2144 1596,2154 1578,2146 1562,2154 1468,2082 1402,2148 1372,2148"/>
+                <Baseline points="1384,2178 1474,2190 1563,2196 1623,2196"/>
+                <TextEquiv>
+                    <Unicode>Krago</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

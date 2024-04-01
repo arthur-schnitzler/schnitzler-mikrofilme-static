@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_23:33</Creator>
+        <Created>2023-05-02T07:44:47.914+02:00</Created>
+        <LastChange>2023-07-25T23:33:18.512+02:00</LastChange>
+        <TranskribusMetadata docId="1416705" pageId="54950800" pageNr="197" tsid="130849445" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AJHNVBZCZKMJHHUBHVGPWSET&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PZGAEWRXXLASKJXXIAYMRQKE" imageId="44454526"/>
+    </Metadata>
+    <Page imageFilename="1416705_0197.jpg" imageWidth="3975" imageHeight="4055">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829706157" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="486,1413 1752,1413 1752,3548 486,3548"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="817,1479 826,1479 831,1487 849,1477 859,1488 888,1488 899,1479 918,1488 925,1368 883,1371 871,1361 859,1361 855,1366 839,1364 822,1371"/>
+                <Baseline points="824,1469 833,1469 877,1472 922,1463"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="613,3408 1435,3474 1505,3445 1754,3516 1713,3381 1199,3398 966,3336 605,3326"/>
+                <Baseline points="615,3350 659,3359 704,3365 749,3374 794,3380 839,3386 883,3392 928,3392 973,3398 1018,3404 1063,3410 1107,3413 1152,3418 1197,3421 1242,3430 1286,3433 1331,3442 1376,3448 1421,3451 1466,3451 1510,3454 1555,3457 1600,3457 1645,3463 1690,3469 1734,3472 1752,3475"/>
+                <TextEquiv>
+                    <Unicode>wunsch betracht habe Sie bei ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="495,3595 589,3598 669,3559 774,3566 856,3616 969,3582 1329,3602 1314,3479 1218,3431 1034,3465 905,3425 770,3447 590,3371 474,3396"/>
+                <Baseline points="486,3430 531,3439 576,3451 621,3463 665,3472 710,3478 755,3484 800,3487 845,3493 889,3496 934,3499 979,3502 1024,3505 1068,3505 1113,3508 1158,3514 1203,3520 1248,3526 1292,3532 1325,3538"/>
+                <TextEquiv>
+                    <Unicode>mindestens gleiche Eheuse.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

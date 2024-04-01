@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:51.239+02:00</Created>
+        <LastChange>2024-01-22T21:36:55.824+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127412" pageNr="96" tsid="145643093" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GXDLGWDKKAEYHZBHBOMYVGCI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BDWIEVKQIBYZSPDDPVVTYCKG" imageId="48552489"/>
+    </Metadata>
+    <Page imageFilename="1589070_0096.jpg" imageWidth="3016" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787171574" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="516,918 516,1293 2503,1293 2503,918"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="502,1014 611,1051 760,1004 892,1039 1138,994 1270,1021 1382,987 1454,1024 1988,987 2043,1019 2351,979 2500,1039 2502,919 502,929"/>
+                <Baseline points="516,996 615,999 714,996 814,996 913,997 1012,993 1112,993 1211,996 1310,989 1410,989 1509,992 1608,984 1708,986 1807,984 1906,984 2006,984 2105,984 2204,983 2304,983 2403,981 2503,981"/>
+                <TextEquiv>
+                    <Unicode>Wir werden immer glauben, auf dem Weg zu sein, auch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="539,1175 897,1128 1213,1173 1521,1128 1640,1170 1841,1121 2192,1143 2271,1123 2274,1049 1938,1066 1767,1001 1392,1039 1315,1006 1242,1049 542,1076"/>
+                <Baseline points="554,1127 640,1127 726,1128 812,1127 899,1124 985,1124 1071,1124 1157,1121 1244,1121 1330,1122 1416,1119 1502,1119 1589,1119 1675,1120 1761,1115 1847,1113 1934,1115 2020,1113 2106,1112 2192,1112 2279,1115"/>
+                <TextEquiv>
+                    <Unicode>wann wir schon am Ziels sind. Der letzte Err-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="577,1317 606,1322 639,1295 668,1320 723,1287 746,1302 780,1277 885,1275 979,1325 1024,1320 1021,1203 932,1170 897,1163 793,1200 775,1185 746,1208 666,1180 574,1195"/>
+                <Baseline points="590,1259 615,1257 641,1256 667,1258 693,1259 719,1259 744,1259 770,1259 796,1259 822,1259 848,1259 874,1259 899,1259 925,1260 951,1262 977,1262 1003,1261 1029,1259"/>
+                <TextEquiv>
+                    <Unicode>Manschhait.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

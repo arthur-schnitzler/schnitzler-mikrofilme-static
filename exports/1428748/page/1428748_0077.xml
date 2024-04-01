@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_01:39</Creator>
+        <Created>2023-05-10T15:02:57.364+02:00</Created>
+        <LastChange>2023-08-15T01:39:23.978+02:00</LastChange>
+        <TranskribusMetadata docId="1428748" pageId="55429437" pageNr="77" tsid="132836323" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PBUSYKWGDAHEWRBMZDYPPHOB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TNKWAYKZIRXJBMEMHBEOBARH" imageId="44703510"/>
+    </Metadata>
+    <Page imageFilename="1428748_0077.jpg" imageWidth="3528" imageHeight="4008">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711806891343" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="985,395 3321,395 3321,944 985,944"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1016,469 1129,483 1161,460 1190,457 1230,478 1256,457 1291,472 1314,457 1390,452 1390,324 1303,313 1277,290 1146,295 1103,313 1016,295"/>
+                <Baseline points="1033,445 1078,445 1122,445 1167,447 1212,447 1257,445 1302,445 1346,445 1391,445 1394,445"/>
+                <TextEquiv>
+                    <Unicode>Lüder!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="993,591 1375,559 1566,596 1806,562 1806,455 1636,521 1419,449 996,483"/>
+                <Baseline points="1009,573 1009,570 1054,570 1099,564 1143,561 1188,561 1233,561 1278,561 1323,561 1367,558 1412,555 1457,558 1502,558 1547,558 1591,561 1636,558 1681,558 1726,558 1771,555 1815,555"/>
+                <TextEquiv>
+                    <Unicode>Je-de lisut!.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="984,727 1071,698 1181,747 1358,721 1471,750 1566,686 1627,715 1775,672 1966,689 1995,677 1998,570 1896,536 1630,596 1332,593 1271,562 987,602"/>
+                <Baseline points="1000,680 1021,680 1066,680 1111,677 1155,677 1200,674 1245,674 1290,674 1335,674 1379,674 1424,674 1469,674 1514,674 1558,674 1603,671 1648,671 1693,671 1738,668 1782,666 1827,668 1872,668 1917,666 1962,663 2006,660"/>
+                <TextEquiv>
+                    <Unicode>wach desselbens sal ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="990,802 1792,808 2064,889 2374,787 3318,776 3318,695 2163,625 990,735"/>
+                <Baseline points="1006,788 1036,788 1081,791 1125,791 1170,791 1215,794 1260,794 1305,794 1349,794 1394,794 1439,797 1484,797 1529,794 1573,794 1618,794 1663,794 1708,791 1753,794 1797,794 1842,794 1887,794 1932,794 1977,791 2021,791 2066,791 2111,788 2156,785 2201,785 2245,782 2290,782 2335,785 2380,785 2425,785 2469,785 2514,782 2559,779 2604,779 2649,773 2693,773 2738,770 2783,770 2828,770 2873,767 2917,767 2962,764 3007,761 3052,761 3097,758 3141,761 3186,764 3231,764 3276,767 3321,770"/>
+                <TextEquiv>
+                    <Unicode>Sei weitet so bös. Es war, mit ein bissel Jahrheit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="970,1007 2082,999 2082,863 2006,845 1743,845 1572,892 1358,793 1242,828 1106,808 970,860"/>
+                <Baseline points="985,916 1012,919 1057,919 1102,922 1146,922 1191,925 1236,922 1281,922 1326,922 1370,925 1415,928 1460,931 1505,934 1550,934 1594,934 1639,931 1684,934 1729,931 1774,928 1818,928 1863,928 1908,925 1953,925 1998,919 2042,913 2087,907"/>
+                <TextEquiv>
+                    <Unicode>delis... C. est. peilus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

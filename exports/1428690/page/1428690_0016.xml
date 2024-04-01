@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_20:29</Creator>
+        <Created>2023-05-10T14:52:42.094+02:00</Created>
+        <LastChange>2023-08-14T20:29:51.900+02:00</LastChange>
+        <TranskribusMetadata docId="1428690" pageId="55426814" pageNr="16" tsid="132824806" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GNIVUTTZILVZQJFVYEGHAJHV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RFQDPHJGUHFNWEKLXSNFABJI" imageId="44700889"/>
+    </Metadata>
+    <Page imageFilename="1428690_0016.jpg" imageWidth="3368" imageHeight="4216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711809498146" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="653,609 2537,609 2537,1299 653,1299"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="639,730 728,745 777,726 803,742 831,730 864,749 904,719 1001,745 1003,604 944,601 925,613 871,599 848,611 831,599 806,613 691,559 641,573"/>
+                <Baseline points="653,662 698,665 743,662 788,662 833,662 877,659 922,662 967,659 1006,662"/>
+                <TextEquiv>
+                    <Unicode>Theater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="653,907 672,904 688,914 719,893 740,897 763,885 806,897 897,888 895,763 871,761 831,730 787,742 768,728 733,745 700,738 669,756 651,752"/>
+                <Baseline points="665,821 710,821 755,821 800,821 844,824 889,824 901,824"/>
+                <TextEquiv>
+                    <Unicode>1904</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="646,989 975,1057 1773,1033 2020,949 2532,947 2534,836 648,900"/>
+                <Baseline points="659,979 701,979 746,976 791,976 836,976 880,976 925,973 970,973 1015,970 1059,970 1104,967 1149,967 1194,967 1239,964 1283,961 1328,961 1373,961 1418,958 1463,958 1507,958 1552,958 1597,955 1642,952 1686,952 1731,949 1776,949 1821,946 1866,946 1910,946 1955,946 2000,946 2045,943 2090,940 2134,940 2179,940 2224,937 2269,937 2314,937 2358,937 2403,934 2448,934 2493,931 2537,934"/>
+                <TextEquiv>
+                    <Unicode>14.12. Gesellschaftskonzert. Mahler III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="646,1203 2302,1167 2304,1059 2135,1012 651,1064"/>
+                <Baseline points="662,1137 698,1131 743,1131 788,1131 833,1131 877,1131 922,1128 967,1125 1012,1128 1056,1125 1101,1125 1146,1122 1191,1119 1236,1119 1280,1116 1325,1113 1370,1116 1415,1113 1460,1113 1504,1113 1549,1110 1594,1110 1639,1110 1684,1107 1728,1104 1773,1104 1818,1104 1863,1104 1907,1107 1952,1104 1997,1104 2042,1101 2087,1098 2131,1095 2176,1095 2221,1095 2266,1095 2311,1095"/>
+                <TextEquiv>
+                    <Unicode>20.12. Konzert Schaffende Künstler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="651,1315 1137,1289 1285,1379 1358,1346 1510,1374 1515,1191 1398,1181 1322,1221 1076,1205 942,1240 869,1193 653,1207"/>
+                <Baseline points="665,1286 668,1289 713,1289 758,1286 803,1286 847,1286 892,1286 937,1286 982,1283 1027,1283 1071,1283 1116,1280 1161,1280 1206,1277 1251,1277 1295,1277 1340,1277 1385,1274 1430,1271 1475,1274 1519,1274"/>
+                <TextEquiv>
+                    <Unicode>22.12. Mahler III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

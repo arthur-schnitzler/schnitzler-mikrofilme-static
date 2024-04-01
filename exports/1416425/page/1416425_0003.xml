@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_01:12</Creator>
+        <Created>2023-05-01T21:53:42.660+02:00</Created>
+        <LastChange>2023-07-25T01:12:56.268+02:00</LastChange>
+        <TranskribusMetadata docId="1416425" pageId="54945629" pageNr="3" tsid="130579711" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GEMQDZBZJAUVBHAVBHIQWWUE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZETAHPIMJUJCKRONELAZBDYP" imageId="44449714"/>
+    </Metadata>
+    <Page imageFilename="1416425_0003.jpg" imageWidth="5320" imageHeight="4376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832136466" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_3"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_3" custom="readingOrder {index:0;}">
+            <Coords points="149,3961 1737,3961 1737,4111 149,4111"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="136,4050 164,4054 212,4030 232,4044 296,4030 376,4040 402,4028 422,4038 430,3932 386,3928 376,3918 322,3938 262,3920 248,3904 168,3942 146,3930"/>
+                <Baseline points="149,4029 161,4035 250,4023 340,4017 429,4011"/>
+                <TextEquiv>
+                    <Unicode>G.H.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1548,4150 1562,4150 1602,4174 1634,4156 1652,4158 1666,4146 1674,4148 1688,4138 1696,4142 1714,4126 1732,4124 1732,4056 1706,4050 1692,4058 1672,4048 1656,4056 1636,4050 1616,4064 1598,4062 1588,4068 1570,4058 1548,4062"/>
+                <Baseline points="1558,4101 1647,4101 1737,4101"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="710,469 4722,469 4722,565 710,565"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4324,542 4384,550 4408,534 4480,544 4528,532 4544,546 4570,528 4606,548 4676,518 4686,530 4718,528 4718,408 4630,402 4576,440 4488,446 4460,470 4430,452 4382,470 4324,444"/>
+                <Baseline points="4334,531 4364,525 4453,525 4543,525 4632,525 4722,519"/>
+                <TextEquiv>
+                    <Unicode>G.C.H.F.P.P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="708,626 720,626 752,596 762,600 768,594 784,600 852,572 844,488 824,488 814,480 802,484 790,474 786,478 762,468 740,488 718,478 696,484"/>
+                <Baseline points="710,543 799,549 853,555"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="4310,3669 5104,3669 5104,4111 4310,4111"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4470,3782 4542,3758 4614,3830 4792,3816 4826,3842 4852,3822 4996,3840 5096,3816 5104,3680 4932,3698 4852,3672 4778,3700 4666,3686 4628,3704 4476,3680"/>
+                <Baseline points="4483,3749 4567,3749 4656,3749 4746,3743 4835,3737 4925,3725 5014,3725 5104,3719"/>
+                <TextEquiv>
+                    <Unicode>Monsieur le Sr. P. F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4524,3902 4602,3904 4626,3896 4636,3906 4686,3886 4716,3894 4798,3882 4804,3820 4718,3820 4692,3834 4654,3822 4634,3834 4618,3832 4598,3820 4548,3842 4530,3834"/>
+                <Baseline points="4537,3886 4626,3874 4716,3868 4805,3862"/>
+                <TextEquiv>
+                    <Unicode>H.C.F:F.F.P.D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4366,4018 4424,4018 4468,3984 4522,3994 4632,3944 4764,3960 4800,3944 4806,3880 4634,3906 4480,3898 4462,3908 4424,3876 4392,3896 4376,3890"/>
+                <Baseline points="4381,3952 4447,3946 4537,3946 4626,3940 4716,3928 4805,3916"/>
+                <TextEquiv>
+                    <Unicode>d'après le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4530,4084 4544,4082 4576,4102 4608,4090 4642,4112 4708,4076 4730,4082 4768,4072 4778,4086 4792,4088 4794,4026 4780,4028 4772,4018 4748,4012 4716,4026 4646,4002 4612,4022 4596,4012 4572,4020 4534,4002"/>
+                <Baseline points="4543,4065 4620,4071 4710,4065 4799,4059"/>
+                <TextEquiv>
+                    <Unicode>G.H.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4300,4102 4314,4102 4336,4116 4374,4094 4404,4106 4412,4100 4438,4100 4456,4116 4466,4116 4474,4026 4448,4022 4438,4030 4426,4016 4416,4016 4406,4024 4394,4018 4366,4034 4346,4034 4332,4026 4324,4030 4320,4022 4306,4024"/>
+                <Baseline points="4310,4101 4381,4095 4471,4089"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

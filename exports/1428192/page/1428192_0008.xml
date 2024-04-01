@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_02:51</Creator>
+        <Created>2023-05-10T12:19:03.364+02:00</Created>
+        <LastChange>2023-07-29T02:51:43.735+02:00</LastChange>
+        <TranskribusMetadata docId="1428192" pageId="55400241" pageNr="8" tsid="131391735" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HMVLETTWCNDDDUGKQGXGKZRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWLXLZVAVJQHPKFVYDPPOXOE" imageId="44675065"/>
+    </Metadata>
+    <Page imageFilename="1428192_0008.jpg" imageWidth="3352" imageHeight="4072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797222682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="277,385 2522,385 2522,720 277,720"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="262,550 2322,488 2324,324 2259,308 2063,382 1782,365 1542,251 1076,362 267,308"/>
+                <Baseline points="277,495 313,495 358,489 403,486 447,486 492,483 537,480 582,480 626,477 671,474 716,477 761,474 806,477 850,474 895,474 940,474 985,471 1029,471 1074,471 1119,465 1164,462 1209,462 1253,459 1298,459 1343,456 1388,450 1432,447 1477,444 1522,447 1567,447 1612,447 1656,447 1701,447 1746,447 1791,447 1835,447 1880,447 1925,447 1970,447 2015,447 2059,447 2104,447 2149,441 2194,441 2239,438 2283,435 2328,435"/>
+                <TextEquiv>
+                    <Unicode>Heut früh war Februwerte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="322,812 512,763 1068,842 1376,703 2006,657 2512,752 2515,605 2294,520 1967,597 1804,507 1567,578 330,608"/>
+                <Baseline points="343,704 373,707 417,710 462,707 507,710 552,707 597,707 641,707 686,707 731,707 776,704 820,704 865,707 910,704 955,698 1000,695 1044,695 1089,689 1134,686 1179,683 1223,683 1268,677 1313,674 1358,671 1403,668 1447,668 1492,668 1537,668 1582,665 1627,665 1671,665 1716,665 1761,665 1806,662 1850,662 1895,662 1940,659 1985,659 2030,656 2074,659 2119,656 2164,656 2209,656 2253,653 2298,656 2343,650 2388,650 2433,650 2477,650 2522,656"/>
+                <TextEquiv>
+                    <Unicode>hals bevandis nicht ersählt? -</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

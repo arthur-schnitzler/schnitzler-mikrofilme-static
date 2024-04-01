@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_22:46</Creator>
+        <Created>2023-05-01T21:51:33.805+02:00</Created>
+        <LastChange>2023-07-24T22:46:46.963+02:00</LastChange>
+        <TranskribusMetadata docId="1416405" pageId="54945285" pageNr="19" tsid="130575666" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JKPPSTBWZFTDFGQMMKVIFYXN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZDRRRZJSQQKIRZUEJHGDDJR" imageId="44449370"/>
+    </Metadata>
+    <Page imageFilename="1416405_0019.jpg" imageWidth="5112" imageHeight="4121">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832500138" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2006,1652 3117,1652 3117,2124 2006,2124"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2010,1726 2142,1749 2274,1710 2584,1710 2731,1761 2830,1717 3101,1717 3101,1657 2965,1630 2797,1689 2644,1614 2462,1597 2362,1649 2171,1590 2009,1603"/>
+                <Baseline points="2018,1708 2108,1702 2197,1702 2287,1702 2377,1708 2466,1708 2556,1708 2645,1714 2735,1714 2824,1720 2914,1714 3004,1714 3093,1720 3105,1714"/>
+                <TextEquiv>
+                    <Unicode>Lieber Arthur. Für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2000,1903 2139,1865 2250,1907 2515,1872 3115,1890 3083,1736 2816,1817 2362,1813 2123,1750 1999,1790"/>
+                <Baseline points="2006,1857 2096,1863 2185,1863 2275,1869 2365,1869 2454,1869 2544,1869 2633,1869 2723,1875 2813,1875 2902,1875 2992,1875 3081,1869 3117,1869"/>
+                <TextEquiv>
+                    <Unicode>Ihre abendliche Vir-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2021,2092 2257,2003 2312,2018 2444,2003 2445,1925 2394,1946 2335,1940 2294,1965 2211,1942 2154,1957 2022,1907"/>
+                <Baseline points="2030,1988 2120,2000 2209,2006 2299,2000 2388,1994 2448,1988"/>
+                <TextEquiv>
+                    <Unicode>ginia"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2353,2154 2452,2181 2491,2154 2606,2189 2754,2114 3033,2129 3030,2024 2957,2011 2794,2052 2722,2021 2634,2059 2512,1988 2396,2038 2350,2021"/>
+                <Baseline points="2359,2090 2448,2096 2538,2108 2627,2108 2717,2108 2807,2108 2896,2114 2986,2108 3034,2102"/>
+                <TextEquiv>
+                    <Unicode>Herzlichst</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_00:54</Creator>
+        <Created>2023-05-10T15:01:36.758+02:00</Created>
+        <LastChange>2023-08-15T00:54:31.691+02:00</LastChange>
+        <TranskribusMetadata docId="1428744" pageId="55428655" pageNr="18" tsid="132835370" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GDAOJQMIZQTTFSTYKUPBWMBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULZPGJRLAZXNITKBDINFWMMS" imageId="44702728"/>
+    </Metadata>
+    <Page imageFilename="1428744_0018.jpg" imageWidth="3315" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711807509256" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="205,738 2441,738 2441,1153 205,1153"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="190,860 2321,852 2432,824 2435,676 195,718"/>
+                <Baseline points="205,862 244,862 289,859 334,853 379,847 423,847 468,844 513,844 558,844 602,841 647,841 692,841 737,841 782,841 826,841 871,841 916,835 961,835 1005,835 1050,832 1095,832 1140,829 1185,829 1229,826 1274,823 1319,823 1364,823 1408,826 1453,823 1498,823 1543,817 1588,817 1632,817 1677,814 1722,814 1767,811 1811,811 1856,808 1901,805 1946,805 1991,808 2035,805 2080,802 2125,802 2170,802 2214,802 2259,800 2304,797 2349,794 2394,791 2438,788"/>
+                <TextEquiv>
+                    <Unicode>og nichtrob dann bau nedeseg doch läumte nun; eil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="902,1008 1030,1053 1832,972 1991,1025 2410,1008 2385,843 1421,877 1321,838 1195,913 908,866"/>
+                <Baseline points="919,988 937,988 982,988 1026,985 1071,982 1116,979 1161,979 1205,976 1250,973 1295,973 1340,973 1385,973 1429,970 1474,970 1519,970 1564,970 1608,967 1653,967 1698,967 1743,967 1788,964 1832,961 1877,961 1922,958 1967,955 2011,955 2056,955 2101,958 2146,955 2191,952 2235,955 2280,952 2325,946 2370,943 2414,937"/>
+                <TextEquiv>
+                    <Unicode>Tgnid nie viel het mid asw. tglod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="528,1176 941,1139 1109,1198 1712,1120 2301,1173 2435,1120 2438,1016 2256,980 1701,1078 1558,1030 1134,1083 908,1003 754,1075 531,1042"/>
+                <Baseline points="546,1140 561,1140 605,1140 650,1143 695,1143 740,1140 785,1137 829,1134 874,1134 919,1134 964,1134 1008,1134 1053,1134 1098,1134 1143,1134 1188,1134 1232,1128 1277,1128 1322,1125 1367,1125 1411,1122 1456,1125 1501,1122 1546,1122 1591,1119 1635,1119 1680,1116 1725,1116 1770,1113 1814,1113 1859,1113 1904,1113 1949,1113 1994,1113 2038,1110 2083,1113 2128,1110 2173,1107 2217,1107 2262,1107 2307,1101 2352,1098 2397,1095 2441,1098"/>
+                <TextEquiv>
+                    <Unicode>tneg ammasz, nezöd mola faaël neaV ned</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

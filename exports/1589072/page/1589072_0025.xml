@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:56.448+02:00</Created>
+        <LastChange>2024-01-22T21:46:17.242+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127258" pageNr="25" tsid="145643584" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WVQVMMIDVKXMNUJYMKPCKQVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EVDMKGCFZXLIEBHXITVSNXLO" imageId="48552335"/>
+    </Metadata>
+    <Page imageFilename="1589072_0025.jpg" imageWidth="2936" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786860204" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="436,412 436,986 2213,986 2213,412"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="422,508 499,522 533,499 558,514 595,495 614,497 618,426 572,409 547,420 531,403 505,401 470,374 445,389 428,382"/>
+                <Baseline points="436,486 462,491 488,489 515,486 541,483 568,483 594,482 621,480"/>
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="531,668 1627,689 1725,756 2176,762 2210,752 2206,618 2022,593 1727,645 1516,574 1466,604 1168,549 936,612 813,556 637,610 528,587"/>
+                <Baseline points="543,657 626,654 710,659 793,660 877,663 960,667 1044,673 1127,672 1211,675 1294,679 1378,677 1461,681 1545,684 1628,686 1712,689 1795,692 1879,695 1962,702 2046,701 2129,705 2213,710"/>
+                <TextEquiv>
+                    <Unicode>das ist ein gefährlicher Narr, der einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="531,806 1399,813 1782,913 2118,858 2116,756 1059,758 526,683"/>
+                <Baseline points="543,782 622,784 701,785 780,789 859,791 938,795 1017,796 1096,800 1175,803 1254,806 1333,808 1412,810 1491,815 1570,818 1649,820 1728,821 1807,825 1886,830 1965,831 2044,833 2123,839"/>
+                <TextEquiv>
+                    <Unicode>Schlafenden mit den Dolch in der Hör-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="531,1009 1579,1023 1698,998 1696,907 884,879 767,813 524,804"/>
+                <Baseline points="537,910 595,913 653,913 711,916 769,920 827,923 885,925 943,925 1001,926 1059,928 1118,931 1176,931 1234,934 1292,937 1350,940 1408,941 1466,943 1524,943 1582,948 1640,948 1699,955"/>
+                <TextEquiv>
+                    <Unicode>kitzolt, un ihn aufzunocken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

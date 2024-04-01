@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:52.294+02:00</Created>
+        <LastChange>2024-01-22T21:15:14.369+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126733" pageNr="50" tsid="145642215" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RJMITAUOCSVSQSLKWODWLOKC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYKAXDMKXRKWBXQDDEBXNRKL" imageId="48551810"/>
+    </Metadata>
+    <Page imageFilename="1589068_0050.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787551476" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="495,588 495,956 2516,956 2516,588"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="566,708 977,738 1496,686 1811,755 1998,686 2512,706 2509,605 2389,595 2108,632 1530,568 1437,620 563,588"/>
+                <Baseline points="579,650 675,650 772,654 869,653 966,658 1063,659 1160,665 1256,662 1353,665 1450,669 1547,673 1644,676 1741,674 1838,674 1934,681 2031,680 2128,685 2225,686 2322,689 2419,689 2516,686"/>
+                <TextEquiv>
+                    <Unicode>Schicksal-? Eine Baumwurzel, über die du stolperst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="494,812 659,790 1085,871 1225,817 1446,854 1565,827 1673,866 1752,817 2467,836 2467,745 1503,753 1213,711 736,745 492,684"/>
+                <Baseline points="507,782 605,780 703,784 802,785 900,788 998,791 1097,792 1195,795 1293,797 1392,800 1490,800 1588,800 1687,807 1785,808 1883,811 1982,815 2080,812 2178,815 2277,817 2375,818 2474,818"/>
+                <TextEquiv>
+                    <Unicode>ist es ebenso sehr wie der Mörder, der air mit sei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="485,979 576,957 765,996 1252,982 1323,957 1321,881 974,836 480,846"/>
+                <Baseline points="495,907 536,907 578,910 619,910 661,910 703,912 744,913 786,913 828,914 869,916 911,917 953,918 994,916 1036,919 1078,922 1119,922 1161,925 1203,925 1244,925 1286,925 1328,925"/>
+                <TextEquiv>
+                    <Unicode>nem Polche auflauert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

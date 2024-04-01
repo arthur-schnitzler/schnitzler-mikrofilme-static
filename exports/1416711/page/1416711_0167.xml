@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_05:05</Creator>
+        <Created>2023-05-02T07:47:16.923+02:00</Created>
+        <LastChange>2023-07-26T05:05:18.393+02:00</LastChange>
+        <TranskribusMetadata docId="1416711" pageId="54951420" pageNr="167" tsid="130895851" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QTWCVDXPZXILQRQHZTMSCRJO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QUUOZFKJVYPBNYAGGETUTLWY" imageId="44455146"/>
+    </Metadata>
+    <Page imageFilename="1416711_0167.jpg" imageWidth="3487" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828826599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1089,1331 2035,1331 2035,1568 1089,1568"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1082,1436 1188,1449 1463,1404 1585,1444 1792,1442 1794,1350 1696,1334 1548,1360 1478,1333 1367,1353 1295,1331 1142,1360 1085,1348"/>
+                <Baseline points="1089,1402 1125,1402 1169,1402 1214,1402 1259,1399 1304,1399 1349,1399 1393,1399 1438,1396 1483,1390 1528,1387 1572,1390 1617,1390 1662,1387 1707,1387 1752,1384 1796,1381"/>
+                <TextEquiv>
+                    <Unicode>Viele Grüße herzuchst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1815,1435 1846,1427 1855,1436 1867,1437 1878,1445 1899,1433 1923,1443 1932,1441 1929,1345 1904,1346 1897,1340 1888,1346 1880,1342 1856,1350 1848,1346 1831,1357 1812,1354"/>
+                <Baseline points="1820,1419 1868,1417 1913,1420 1934,1423"/>
+                <TextEquiv>
+                    <Unicode>Ihr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1784,1613 1925,1671 1949,1668 1962,1679 2036,1674 2031,1494 1925,1504 1857,1475 1781,1501"/>
+                <Baseline points="1787,1549 1832,1552 1877,1555 1922,1552 1966,1555 2011,1558 2035,1558"/>
+                <TextEquiv>
+                    <Unicode>Salzeny</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

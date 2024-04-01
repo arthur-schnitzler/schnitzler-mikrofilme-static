@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:38</Creator>
+        <Created>2023-05-10T11:23:29.760+02:00</Created>
+        <LastChange>2023-08-01T03:38:42.182+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55387199" pageNr="148" tsid="131649345" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ASCLMEPBNJUUFZMYNQPEYLUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OOQMOOOHLRFVVTIOLOHUPZZO" imageId="44662096"/>
+    </Metadata>
+    <Page imageFilename="1428151_0148.jpg" imageWidth="6936" imageHeight="4856">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821509062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4068,254 6287,254 6287,2873 4068,2873"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5774,405 5797,393 5883,419 5904,405 5959,428 6008,395 6091,386 6124,356 6188,349 6223,368 6283,352 6269,120 6198,120 6091,229 5964,287 5899,264 5823,284 5765,259"/>
+                <Baseline points="5780,304 5870,304 5959,310 6049,310 6138,316 6228,328 6287,328"/>
+                <TextEquiv>
+                    <Unicode>Cha</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4158,1783 4493,1663 5185,1545 5356,1598 5478,1568 5615,1649 5659,1240 5504,1175 5108,1182 4958,1117 4509,1279 4216,1276"/>
+                <Baseline points="4181,1694 4193,1694 4283,1682 4372,1664 4462,1652 4551,1640 4641,1628 4730,1616 4820,1604 4909,1586 4999,1568 5088,1557 5178,1557 5267,1551 5357,1551 5446,1551 5536,1545 5625,1568"/>
+                <TextEquiv>
+                    <Unicode>Zu Elhik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4054,2074 4193,2109 4630,1980 4946,2197 5353,1970 5911,1926 5929,1674 5675,1792 5407,1790 5166,1637 4944,1690 4828,1605 4579,1753 4075,1778"/>
+                <Baseline points="4068,2046 4098,2040 4187,2028 4277,2010 4366,2004 4456,1992 4545,1986 4635,1974 4724,1974 4814,1962 4903,1956 4993,1944 5082,1932 5178,1928 5178,1928 5202,1920 5291,1938 5380,1920 5470,1920 5559,1920 5649,1914 5738,1914 5828,1914 5917,1914"/>
+                <TextEquiv>
+                    <Unicode>Mr Arrosh and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4398,2474 5027,2352 5337,2333 5446,2400 6001,2319 6077,2359 6119,2097 5624,2028 5194,2065 4946,2197 4868,2141 4731,2199 4539,2118 4422,2160"/>
+                <Baseline points="4414,2416 4498,2410 4587,2404 4677,2398 4766,2392 4856,2386 4945,2362 5034,2356 5124,2344 5213,2344 5303,2332 5392,2332 5482,2332 5571,2326 5661,2320 5750,2314 5840,2314 5929,2308 6019,2290 6108,2296"/>
+                <TextEquiv>
+                    <Unicode>St Publikums</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4715,2960 5030,2948 5198,3078 5490,2916 5661,2997 5751,2935 5969,2942 5973,2689 5538,2625 5240,2511 5071,2551 4981,2481 4722,2498"/>
+                <Baseline points="4730,2851 4820,2857 4909,2863 4999,2851 5088,2857 5178,2857 5267,2851 5357,2851 5446,2845 5536,2839 5625,2839 5715,2839 5804,2845 5894,2851 5977,2851"/>
+                <TextEquiv>
+                    <Unicode>Abbfeitzel</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

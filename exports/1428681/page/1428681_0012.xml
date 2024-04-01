@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:17</Creator>
+        <Created>2023-05-10T14:49:44.717+02:00</Created>
+        <LastChange>2023-08-14T22:17:44.945+02:00</LastChange>
+        <TranskribusMetadata docId="1428681" pageId="55426201" pageNr="12" tsid="132828077" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CCNJWKAMJEPOEFABEPTAFRCL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OXELWRGDLPSMJZMGMJRQZCMN" imageId="44700278"/>
+    </Metadata>
+    <Page imageFilename="1428681_0012.jpg" imageWidth="3368" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810636262" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="292,373 3151,373 3151,750 292,750"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="273,546 2123,413 2537,503 2481,304 1567,366 1367,298 1024,385 278,292"/>
+                <Baseline points="292,464 301,465 346,465 390,465 435,468 480,468 525,468 569,468 614,468 659,471 704,477 748,480 793,483 838,480 883,480 928,477 972,474 1017,468 1062,465 1107,468 1151,459 1196,450 1241,444 1286,444 1330,441 1375,444 1420,444 1465,447 1509,444 1554,441 1599,441 1644,441 1688,441 1733,444 1778,441 1823,441 1867,441 1912,441 1957,438 2002,438 2046,435 2091,432 2136,426 2181,426 2226,429 2270,426 2315,423 2360,423 2405,423 2449,426 2494,429 2541,438"/>
+                <TextEquiv>
+                    <Unicode>Velierb, 1923 1814, 19/4 7/2 13/5 24/1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1387,754 1637,844 1918,762 2284,863 2419,788 2590,816 2843,706 3144,681 3150,562 3007,518 2829,577 2509,501 2174,593 1395,529"/>
+                <Baseline points="1403,730 1444,728 1488,728 1533,728 1578,725 1623,719 1668,722 1712,725 1757,722 1802,722 1847,722 1894,716 1894,716 1942,716 1987,719 2032,716 2076,719 2121,719 2166,716 2211,710 2255,710 2300,716 2345,713 2390,716 2434,713 2479,704 2524,698 2569,692 2613,689 2658,689 2703,689 2748,683 2792,680 2837,680 2882,677 2927,674 2972,674 3016,677 3061,677 3106,677 3151,677"/>
+                <TextEquiv>
+                    <Unicode>11/6 18/6 16/6 11/6 (Rarp kan)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1077,802 1105,807 1114,799 1142,818 1159,810 1204,827 1240,799 1282,796 1302,571 1229,574 1195,557 1156,574 1100,560"/>
+                <Baseline points="1098,740 1113,740 1157,737 1202,728 1247,725 1294,725"/>
+                <TextEquiv>
+                    <Unicode>18</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

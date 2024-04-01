@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:24</Creator>
+        <Created>2023-05-02T08:21:39.708+02:00</Created>
+        <LastChange>2023-07-27T22:24:50.711+02:00</LastChange>
+        <TranskribusMetadata docId="1416758" pageId="54954789" pageNr="78" tsid="131305510" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TJBCPBJMGJWZNFDUUFABIOVK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QLIIHKOWXLYTFENVBLZDHZLN" imageId="44458514"/>
+    </Metadata>
+    <Page imageFilename="1416758_0078.jpg" imageWidth="6151" imageHeight="3641">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825605174" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="907,564 2148,564 2148,976 907,976"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="897,711 1399,768 1790,683 2015,748 2142,706 2149,391 904,377"/>
+                <Baseline points="907,638 984,638 1074,632 1163,626 1253,626 1342,620 1432,620 1522,620 1611,620 1701,620 1790,620 1880,614 1969,614 2059,614 2148,614"/>
+                <TextEquiv>
+                    <Unicode>Verhältnis Georg pirere</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1781,837 1854,835 1882,810 1888,815 1911,809 1927,823 1953,820 1953,683 1917,685 1906,674 1885,674 1872,685 1855,675 1846,682 1838,675 1810,680 1801,671 1781,675"/>
+                <Baseline points="1790,781 1880,781 1957,781"/>
+                <TextEquiv>
+                    <Unicode>7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1317,810 1366,803 1431,821 1528,795 1646,831 1664,817 1720,820 1722,677 1667,689 1639,677 1582,699 1528,683 1475,706 1448,694 1318,699"/>
+                <Baseline points="1325,793 1366,793 1456,799 1545,793 1635,799 1724,787"/>
+                <TextEquiv>
+                    <Unicode>nur wohl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1275,1028 1315,1029 1330,1014 1348,1022 1411,989 1448,990 1481,1006 1497,992 1540,992 1543,874 1492,868 1469,886 1445,883 1400,899 1382,879 1324,894 1312,883 1276,885"/>
+                <Baseline points="1283,966 1366,966 1456,966 1545,960"/>
+                <TextEquiv>
+                    <Unicode>in ver</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

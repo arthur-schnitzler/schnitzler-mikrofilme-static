@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:13</Creator>
+        <Created>2023-05-10T12:05:20.961+02:00</Created>
+        <LastChange>2023-07-29T01:13:09.822+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55397192" pageNr="23" tsid="131388991" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WCLNREAGXXDNPEBAQGIHBHWK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UOIUWFEZIAOKHGZUPIVSHYTX" imageId="44672070"/>
+    </Metadata>
+    <Page imageFilename="1428185_0023.jpg" imageWidth="3256" imageHeight="3992">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799787914" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="462,1746 1700,1746 1700,2519 462,2519"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="958,1816 970,1814 1010,1840 1028,1838 1042,1848 1056,1842 1088,1856 1124,1852 1132,1694 1108,1688 1084,1704 1064,1700 1006,1732 986,1714 962,1716"/>
+                <Baseline points="969,1805 996,1802 1041,1799 1086,1799 1130,1796"/>
+                <TextEquiv>
+                    <Unicode>in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1480,2090 1492,2094 1506,2082 1524,2084 1558,2112 1574,2104 1626,2108 1644,2096 1658,2098 1662,2018 1642,2010 1604,2024 1570,2004 1556,2006 1540,1990 1516,2004 1486,2000"/>
+                <Baseline points="1491,2076 1530,2073 1575,2073 1620,2067 1664,2064"/>
+                <TextEquiv>
+                    <Unicode>zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="924,2160 984,2152 1010,2134 1030,2136 1054,2156 1094,2158 1118,2148 1126,2160 1156,2158 1168,2056 1146,2048 1124,2054 1088,2026 1082,2032 1072,2024 1000,2040 968,2024 938,2034"/>
+                <Baseline points="936,2136 942,2136 987,2130 1032,2124 1077,2121 1121,2115 1166,2112"/>
+                <TextEquiv>
+                    <Unicode>ren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="450,2224 468,2222 486,2210 506,2220 518,2212 526,2218 540,2218 552,2136 542,2136 538,2130 528,2136 500,2132 490,2138 462,2132"/>
+                <Baseline points="462,2207 501,2198 545,2195"/>
+                <TextEquiv>
+                    <Unicode>rt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1538,2404 1564,2398 1574,2402 1590,2388 1600,2398 1618,2384 1634,2398 1654,2378 1672,2386 1686,2376 1696,2376 1696,2320 1676,2318 1662,2306 1644,2306 1620,2288 1612,2294 1600,2290 1574,2310 1552,2300 1538,2300"/>
+                <Baseline points="1548,2374 1593,2374 1637,2374 1682,2374 1700,2374"/>
+                <TextEquiv>
+                    <Unicode>an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="500,2512 518,2522 532,2512 558,2516 564,2512 574,2520 592,2522 612,2518 616,2410 584,2416 560,2436 544,2426 538,2432 530,2424 502,2424"/>
+                <Baseline points="510,2509 528,2506 572,2503 617,2506"/>
+                <TextEquiv>
+                    <Unicode>at</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_20:00</Creator>
+        <Created>2023-05-10T15:30:06.827+02:00</Created>
+        <LastChange>2023-08-14T20:00:05.712+02:00</LastChange>
+        <TranskribusMetadata docId="1429072" pageId="55436802" pageNr="117" tsid="132824065" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EIFZNMQBEXZOBRHLEXVCYGNE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CUIKIQEUGLKOWOIRZFCXVNVQ" imageId="44710791"/>
+    </Metadata>
+    <Page imageFilename="1429072_0117.jpg" imageWidth="4168" imageHeight="5160">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797721379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1254,2416 2812,2416 2812,2799 1254,2799"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1246,2469 2423,2506 2421,2365 1631,2368 1502,2326 1339,2374 1244,2352"/>
+                <Baseline points="1254,2472 1343,2466 1433,2472 1522,2472 1612,2472 1702,2472 1791,2472 1881,2472 1970,2472 2060,2478 2150,2478 2239,2478 2329,2484 2418,2490 2424,2490"/>
+                <TextEquiv>
+                    <Unicode>“LIVING HOURS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1525,2616 2414,2646 2392,2570 2241,2545 2181,2576 2036,2547 1995,2575 1931,2543 1800,2563 1656,2529 1524,2559"/>
+                <Baseline points="1534,2603 1624,2609 1714,2609 1803,2615 1893,2615 1982,2615 2072,2615 2161,2621 2251,2621 2341,2627 2418,2633"/>
+                <TextEquiv>
+                    <Unicode>A Play in One Act,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1808,2805 1942,2772 2181,2812 2797,2800 2807,2702 2358,2702 2087,2657 1976,2715 1850,2698 1806,2724"/>
+                <Baseline points="1815,2771 1905,2771 1994,2771 2084,2771 2173,2771 2263,2771 2353,2777 2442,2777 2532,2777 2621,2783 2711,2783 2800,2789 2812,2789"/>
+                <TextEquiv>
+                    <Unicode>by Arthur Schnitzler.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:08</Creator>
+        <Created>2023-05-10T11:54:18.171+02:00</Created>
+        <LastChange>2023-07-28T21:08:24.519+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55393897" pageNr="33" tsid="131377662" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UJGKXXSCSQJGYHTOJFQANISE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ALFVYROEPWUDMSQVOAEDEBCJ" imageId="44668782"/>
+    </Metadata>
+    <Page imageFilename="1428176_0033.jpg" imageWidth="3352" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801459666" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="579,167 1671,167 1671,281 579,281"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1413,227 1430,231 1448,226 1468,233 1498,224 1511,231 1534,226 1561,233 1574,224 1587,227 1587,191 1576,190 1558,202 1551,197 1522,197 1505,188 1489,200 1464,186 1453,186 1439,197 1413,193"/>
+                <Baseline points="1423,220 1468,217 1513,220 1558,217 1591,220"/>
+                <TextEquiv>
+                    <Unicode>3s à 2 2 r 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1242,323 1287,318 1320,343 1348,334 1410,370 1458,352 1516,374 1543,357 1596,357 1632,377 1662,365 1668,224 1345,231 1273,191 1247,193"/>
+                <Baseline points="1253,262 1268,262 1313,265 1358,262 1402,256 1447,256 1492,253 1537,253 1582,253 1626,250 1671,253"/>
+                <TextEquiv>
+                    <Unicode>De la riviere avec les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="567,330 682,296 794,329 915,332 1016,289 1130,319 1191,303 1195,181 1060,211 854,188 773,208 709,190 670,211 569,186"/>
+                <Baseline points="579,268 614,271 659,271 704,268 749,268 794,268 838,268 883,265 928,265 973,265 1017,262 1062,265 1107,262 1152,262 1197,262"/>
+                <TextEquiv>
+                    <Unicode>mit einer xxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

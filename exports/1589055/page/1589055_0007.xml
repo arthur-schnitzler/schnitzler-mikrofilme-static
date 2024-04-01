@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:25.491+02:00</Created>
+        <LastChange>2024-01-22T19:42:24.356+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125351" pageNr="7" tsid="145636166" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GJJXLPNEZZQDBEIGZQTTAARS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ADWFYNREWMSKYNFUZLOAXBAI" imageId="48550428"/>
+    </Metadata>
+    <Page imageFilename="1589055_0007.jpg" imageWidth="2904" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790580236" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="352,519 352,792 2451,792 2451,519"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="338,614 715,599 810,648 1027,614 1140,648 1282,609 1563,655 1783,606 2007,658 2188,645 2185,555 1945,516 1793,550 1698,506 1476,562 1256,531 1215,570 826,488 733,542 531,488 475,526 335,513"/>
+                <Baseline points="352,582 444,585 536,588 628,588 720,591 812,594 904,597 996,600 1088,600 1180,603 1273,606 1365,606 1457,606 1549,608 1641,612 1733,612 1825,615 1917,618 2009,621 2101,621 2194,630"/>
+                <TextEquiv>
+                    <Unicode>Mögt immer ihr mich einen Harren schelten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="377,743 650,715 846,774 1156,733 1293,779 1383,743 1424,782 1705,743 1992,802 2239,753 2446,782 2446,712 1556,645 1422,694 1241,614 1058,684 862,619 660,686 495,632 374,655"/>
+                <Baseline points="388,713 491,713 594,716 697,716 800,722 903,725 1006,727 1110,731 1213,734 1316,737 1419,737 1522,737 1625,740 1728,743 1832,743 1935,746 2038,754 2141,752 2244,754 2347,754 2451,761"/>
+                <TextEquiv>
+                    <Unicode>s ist wahr, ich lassa auch den Nachbar gelten:-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

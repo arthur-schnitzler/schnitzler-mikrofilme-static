@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_08:57</Creator>
+        <Created>2023-05-01T22:02:31.435+02:00</Created>
+        <LastChange>2023-07-25T08:57:21.781+02:00</LastChange>
+        <TranskribusMetadata docId="1416451" pageId="54947334" pageNr="2" tsid="130590090" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ICNEELKRKGGRLYXHEPOHLJYV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOFEKOJXRQAKZXILQRIVDJBX" imageId="44451417"/>
+    </Metadata>
+    <Page imageFilename="1416451_0002.jpg" imageWidth="5931" imageHeight="4967">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830327640" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="961,941 3361,941 3361,1890 961,1890"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1409,1245 2596,1033 2861,1071 3356,1001 3373,733 1438,760"/>
+                <Baseline points="1432,1110 1480,1104 1570,1098 1659,1092 1749,1086 1838,1074 1928,1068 2017,1062 2107,1056 2196,1044 2286,1038 2376,1038 2465,1026 2555,1032 2644,1026 2734,1026 2823,1020 2913,1020 3002,1014 3092,1008 3181,996 3271,991 3361,1008"/>
+                <TextEquiv>
+                    <Unicode>Letters to ARTHUR SCHNITELER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="943,1368 992,1373 1035,1346 1078,1346 1117,1370 1189,1353 1197,758 1119,758 1088,779 1047,758 953,782"/>
+                <Baseline points="961,1164 1020,1158 1110,1158 1199,1158"/>
+                <TextEquiv>
+                    <Unicode>4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1006,1698 1262,1715 1312,1747 1510,1735 1645,1667 1783,1703 1785,1505 1628,1549 1566,1513 1426,1602 1385,1573 1281,1578 1194,1522 1008,1525"/>
+                <Baseline points="1020,1677 1074,1671 1164,1677 1253,1677 1343,1677 1432,1677 1522,1671 1611,1665 1701,1665 1790,1671"/>
+                <TextEquiv>
+                    <Unicode>Kraus, Karl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2082,1870 2316,1928 2482,1875 2671,1942 2859,1920 3006,1961 3098,1932 3088,1701 2878,1679 2813,1723 2627,1698 2555,1725 2318,1650 2077,1720"/>
+                <Baseline points="2095,1838 2185,1838 2274,1844 2364,1844 2453,1850 2543,1850 2632,1850 2722,1862 2811,1868 2901,1868 2990,1874 3080,1874 3098,1880"/>
+                <TextEquiv>
+                    <Unicode>10/1892 — 22/1/1908</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:46</Creator>
+        <Created>2023-09-27T14:40:27.031+02:00</Created>
+        <LastChange>2024-01-22T20:46:13.715+01:00</LastChange>
+        <TranskribusMetadata docId="1589063" pageId="60125923" pageNr="18" tsid="145640891" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OHPYMKGQAJOPLUMXIEPBUAXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZPULITNGQDRSLAYRAJHVWERL" imageId="48551000"/>
+    </Metadata>
+    <Page imageFilename="1589063_0018.jpg" imageWidth="5768" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788779502" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3480,580 3480,1016 5397,1016 5397,580"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3481,710 4022,669 4196,722 5394,722 5389,629 5349,624 5160,648 5075,610 4979,648 4584,593 3476,574"/>
+                <Baseline points="3492,656 3587,644 3682,651 3777,656 3873,657 3968,662 4063,664 4158,668 4254,671 4349,674 4444,678 4539,680 4635,685 4730,686 4825,697 4920,692 5016,698 5111,698 5206,704 5301,705 5397,710"/>
+                <TextEquiv>
+                    <Unicode>Re ist noch nicht entschieden, weg törichter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3478,803 4937,872 5230,855 5237,796 4863,793 4670,705 4110,739 3638,669 3476,731"/>
+                <Baseline points="3492,794 3579,788 3667,794 3754,800 3842,800 3929,805 4017,806 4104,806 4192,811 4279,812 4367,820 4454,823 4542,823 4629,827 4717,829 4804,833 4892,839 4979,841 5067,841 5154,844 5242,847"/>
+                <TextEquiv>
+                    <Unicode>ist: seine geliebte zu seiner Frau oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3469,941 4539,979 4798,1017 4851,1063 5094,1041 5151,1082 5287,1060 5282,927 4660,879 4536,910 4207,829 3681,815 3464,862"/>
+                <Baseline points="3480,919 3570,919 3661,919 3751,925 3842,931 3932,937 4023,937 4113,938 4204,949 4294,949 4385,949 4475,950 4566,956 4656,961 4747,962 4837,968 4928,973 5018,973 5109,974 5199,980 5290,985"/>
+                <TextEquiv>
+                    <Unicode>seine Frau zu seiner beliebten zu mechen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

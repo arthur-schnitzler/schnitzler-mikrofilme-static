@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:54.006+02:00</Created>
+        <LastChange>2024-01-22T21:15:16.521+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126802" pageNr="64" tsid="145642229" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JRGCNCYXRSNHWFFMRUBBOUHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBJMNMXOIWKZLDMVMMSTNWCI" imageId="48551879"/>
+    </Metadata>
+    <Page imageFilename="1589068_0064.jpg" imageWidth="2888" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787571807" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="758,424 758,946 2385,946 2385,424"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="745,556 1723,495 2301,547 2305,448 1818,416 1707,459 1529,422 1042,467 749,432"/>
+                <Baseline points="758,534 835,528 912,528 990,525 1067,524 1145,522 1222,519 1300,518 1377,515 1455,510 1532,508 1609,507 1687,504 1764,501 1842,501 1919,497 1997,495 2074,490 2152,486 2229,486 2307,483"/>
+                <TextEquiv>
+                    <Unicode>Man steht im Leben immer wieder vor der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="760,675 1147,695 2380,626 2382,541 2161,519 1947,547 1681,513 1612,549 1543,517 1410,568 1224,531 764,551"/>
+                <Baseline points="770,653 850,653 931,656 1012,653 1093,650 1173,650 1254,648 1335,645 1416,641 1496,638 1577,638 1658,633 1739,630 1819,628 1900,623 1981,623 2062,618 2142,617 2223,615 2304,614 2385,615"/>
+                <TextEquiv>
+                    <Unicode>wahl es sich selbst leicht und den Andern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="760,808 2285,774 2371,749 2374,669 2085,654 1820,703 1634,665 1424,715 1218,671 764,685"/>
+                <Baseline points="773,788 853,785 933,783 1013,784 1093,781 1173,776 1253,776 1334,773 1414,770 1494,770 1574,767 1654,762 1734,762 1814,760 1895,758 1975,755 2055,750 2135,749 2215,749 2295,743 2376,737"/>
+                <TextEquiv>
+                    <Unicode>schmer zu machen-oder ungekehrt. Aber hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="755,937 1493,911 1495,804 1456,790 1378,822 1040,784 760,820"/>
+                <Baseline points="767,913 803,916 840,915 876,913 913,913 949,913 986,913 1022,912 1059,910 1095,910 1132,908 1169,907 1205,906 1242,903 1278,901 1315,901 1351,901 1388,899 1424,899 1461,901 1498,901"/>
+                <TextEquiv>
+                    <Unicode>man denn die Wali?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

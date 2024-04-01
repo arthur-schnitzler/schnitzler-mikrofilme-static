@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_20:24</Creator>
+        <Created>2023-05-10T11:53:30.654+02:00</Created>
+        <LastChange>2023-07-28T20:24:04.378+02:00</LastChange>
+        <TranskribusMetadata docId="1428174" pageId="55394209" pageNr="119" tsid="131375490" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SZDNFZXOOZWXHUGKXHDZVJQO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RWVKLKRCGANUBAGYCKQHJEIT" imageId="44669093"/>
+    </Metadata>
+    <Page imageFilename="1428174_0119.jpg" imageWidth="3355" imageHeight="4264">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801876531" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="424,242 1295,242 1295,690 424,690"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="921,328 940,328 967,348 1007,347 1026,362 1059,341 1095,347 1122,341 1124,249 1094,243 1070,250 1032,276 990,266 957,278 941,271 922,279"/>
+                <Baseline points="928,298 946,298 991,298 1036,295 1080,298 1125,292"/>
+                <TextEquiv>
+                    <Unicode>₤</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="415,713 571,694 770,726 918,668 1276,688 1298,545 1195,488 1038,572 884,584 734,646 419,656"/>
+                <Baseline points="424,680 444,677 489,677 534,674 579,674 624,668 668,665 713,656 758,650 803,647 848,644 892,641 937,641 982,639 1027,641 1071,639 1116,639 1161,636 1206,636 1251,636 1295,639"/>
+                <TextEquiv>
+                    <Unicode>Yas Thaskan</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

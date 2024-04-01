@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_14:46</Creator>
+        <Created>2023-05-01T22:00:02.979+02:00</Created>
+        <LastChange>2023-07-25T14:46:35.870+02:00</LastChange>
+        <TranskribusMetadata docId="1416441" pageId="54948317" pageNr="394" tsid="130684750" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QQYISMGQPOIJQNENKKGQXCIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KXIDZNRWDBFQGARNNZSKLRVY" imageId="44452353"/>
+    </Metadata>
+    <Page imageFilename="1416441_0394.jpg" imageWidth="3524" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830878925" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1235,1272 1853,1272 1853,1827 1235,1827"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1224,1338 1238,1336 1254,1348 1288,1344 1326,1362 1342,1356 1372,1374 1396,1368 1366,1090 1328,1100 1260,1092 1242,1106 1230,1100 1200,1116"/>
+                <Baseline points="1235,1322 1280,1328 1325,1337 1370,1337 1397,1337"/>
+                <TextEquiv>
+                    <Unicode>G.C. H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1766,1838 1776,1838 1784,1830 1798,1830 1810,1818 1816,1822 1822,1814 1828,1820 1838,1814 1848,1814 1844,1770 1820,1770 1810,1774 1800,1768 1784,1768 1782,1772 1774,1768 1762,1770"/>
+                <Baseline points="1776,1814 1820,1817 1853,1817"/>
+                <TextEquiv>
+                    <Unicode>p</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

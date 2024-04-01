@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:25</Creator>
+        <Created>2023-05-10T11:40:36.887+02:00</Created>
+        <LastChange>2023-07-28T17:25:29.554+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55390750" pageNr="186" tsid="131366990" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BCFACGGUJGNZXUBGTZFHHGHP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZDJSSCKKNGDUNYZGTTMKTXFN" imageId="44665636"/>
+    </Metadata>
+    <Page imageFilename="1428169_0186.jpg" imageWidth="3368" imageHeight="4040">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803523052" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="763,716 3010,716 3010,1409 763,1409"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="743,878 1473,791 2689,822 2929,785 2935,576 2381,716 749,671"/>
+                <Baseline points="763,802 787,802 832,805 877,805 921,805 966,802 1011,802 1056,802 1101,802 1145,802 1190,796 1235,796 1280,796 1324,793 1369,793 1414,793 1459,793 1503,790 1548,790 1593,787 1638,787 1682,787 1727,787 1772,787 1817,784 1861,784 1906,784 1951,781 1996,781 2040,781 2085,781 2130,781 2175,778 2219,778 2264,778 2309,775 2354,775 2398,775 2443,775 2488,775 2533,772 2577,769 2622,772 2667,772 2712,772 2756,772 2801,772 2846,772 2891,769 2936,766"/>
+                <TextEquiv>
+                    <Unicode>Der Arzt zu Frau W: Ein Menschenkenner war ja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1006,973 1135,961 1266,1031 1445,967 1903,970 1906,833 1009,852"/>
+                <Baseline points="1023,948 1062,948 1106,948 1151,945 1196,945 1241,942 1285,942 1330,942 1375,942 1420,942 1465,942 1509,939 1554,936 1599,936 1644,936 1688,936 1733,936 1778,933 1823,933 1867,930 1912,936"/>
+                <TextEquiv>
+                    <Unicode>Ihr Herr Gemal nie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="760,1286 2538,1283 2943,1249 3002,1135 760,1149"/>
+                <Baseline points="775,1238 817,1241 862,1244 907,1244 951,1244 996,1244 1041,1244 1086,1244 1130,1241 1175,1241 1220,1241 1265,1241 1309,1238 1354,1238 1399,1238 1444,1238 1488,1241 1533,1238 1578,1238 1623,1241 1667,1241 1712,1238 1757,1238 1802,1238 1846,1238 1891,1238 1936,1238 1981,1238 2025,1235 2070,1235 2115,1235 2160,1232 2204,1229 2249,1229 2294,1229 2339,1229 2384,1226 2428,1226 2473,1226 2518,1226 2563,1226 2607,1226 2652,1223 2697,1223 2742,1223 2786,1223 2831,1223 2876,1223 2921,1220 2965,1220 3010,1217"/>
+                <TextEquiv>
+                    <Unicode>Julian tut der Frau W. in gewissem Sinn leid. Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="760,1411 920,1403 975,1428 1012,1400 1146,1445 1283,1453 1342,1425 1384,1445 1484,1403 1487,1280 1308,1302 1191,1261 1073,1311 1026,1291 939,1316 830,1277 760,1288"/>
+                <Baseline points="775,1396 820,1396 865,1396 910,1399 954,1399 999,1399 1044,1396 1089,1396 1133,1396 1178,1396 1223,1393 1268,1393 1312,1390 1357,1390 1402,1393 1447,1393 1488,1396"/>
+                <TextEquiv>
+                    <Unicode>soll wen haben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

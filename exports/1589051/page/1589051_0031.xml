@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:59.315+02:00</Created>
+        <LastChange>2024-01-22T19:19:37.008+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125177" pageNr="31" tsid="145635139" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HPPLFFDXTFJYPRKAVZYWPMYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LVKRBICJADTEEFJENKGABGUX" imageId="48550254"/>
+    </Metadata>
+    <Page imageFilename="1589051_0031.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790796290" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="653,765 653,1222 1815,1222 1815,765"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="647,827 1623,813 1764,849 1764,757 1721,747 647,773"/>
+                <Baseline points="656,812 711,811 767,809 822,812 878,809 933,809 989,811 1044,812 1100,809 1155,811 1211,811 1267,809 1322,809 1378,810 1433,810 1489,809 1544,809 1600,809 1655,809 1711,809 1767,809"/>
+                <TextEquiv>
+                    <Unicode>Wir ist mein Herz so wund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="658,967 1596,940 1811,974 1811,883 1653,852 1377,891 1232,865 1131,908 960,866 758,905 658,879"/>
+                <Baseline points="665,937 722,938 780,940 837,937 895,937 952,938 1010,940 1067,937 1125,936 1182,936 1240,937 1297,937 1355,937 1412,937 1470,940 1527,939 1585,939 1642,938 1700,937 1757,937 1815,937"/>
+                <TextEquiv>
+                    <Unicode>Vom vielen Abschied,nehmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="725,1022 775,1011 793,1000 819,1009 829,998 839,1000 849,1011 859,1011 859,975 845,971 834,975 799,952 775,945 740,964 728,964"/>
+                <Baseline points="734,1000 759,1002 785,1002 810,999 836,998 862,1000"/>
+                <TextEquiv>
+                    <Unicode>las</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="652,1081 1790,1099 1791,1000 1712,990 1524,1029 1108,997 653,1033"/>
+                <Baseline points="659,1068 715,1068 772,1068 829,1066 886,1065 942,1068 999,1068 1056,1068 1113,1070 1169,1066 1226,1066 1283,1065 1340,1066 1396,1067 1453,1065 1510,1068 1567,1067 1623,1067 1680,1066 1737,1068 1794,1068"/>
+                <TextEquiv>
+                    <Unicode>Nun kommt in dieser Stund</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="645,1210 1729,1207 1609,1127 1381,1164 1076,1124 823,1171 645,1150"/>
+                <Baseline points="653,1200 706,1198 760,1200 814,1200 868,1200 922,1200 976,1199 1030,1198 1084,1200 1138,1198 1192,1197 1245,1197 1299,1197 1353,1197 1407,1197 1461,1194 1515,1197 1569,1197 1623,1197 1677,1200 1731,1200"/>
+                <TextEquiv>
+                    <Unicode>Das wohlbekannte Cränien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
