@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_22:27</Creator>
+        <Created>2023-05-01T21:47:53.568+02:00</Created>
+        <LastChange>2023-07-24T22:27:03.509+02:00</LastChange>
+        <TranskribusMetadata docId="1416398" pageId="54944773" pageNr="84" tsid="130574799" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CIBJUCUHLUPPVGWYNKREPHTQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RWYYMMUQQVXVVHEEAXZJLKBX" imageId="44448858"/>
+    </Metadata>
+    <Page imageFilename="1416398_0084.jpg" imageWidth="4304" imageHeight="4568">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711833146246" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1289,579 3137,579 3137,2228 1289,2228"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2622,735 2657,730 2677,742 2710,737 2719,744 2749,735 2749,528 2733,533 2716,528 2698,547 2654,535 2641,547 2622,547"/>
+                <Baseline points="2636,629 2681,632 2725,629 2755,632"/>
+                <TextEquiv>
+                    <Unicode>17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1288,1380 2202,1339 2292,1387 2696,1348 3040,1398 3134,1371 3134,1304 2544,1323 2119,1238 1706,1311 1286,1240"/>
+                <Baseline points="1301,1334 1346,1340 1391,1343 1436,1343 1480,1346 1525,1346 1570,1349 1615,1349 1660,1349 1704,1349 1749,1349 1794,1349 1839,1349 1883,1349 1928,1349 1973,1349 2018,1346 2063,1346 2107,1349 2152,1346 2197,1349 2242,1346 2286,1346 2331,1346 2376,1349 2421,1352 2466,1352 2510,1352 2555,1355 2600,1355 2645,1355 2690,1352 2734,1355 2779,1355 2824,1355 2869,1355 2913,1358 2958,1358 3003,1361 3048,1364 3093,1364 3137,1370"/>
+                <TextEquiv>
+                    <Unicode>ich wiederkenne“, ob ich nicht doch aus den Stücken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1277,1571 1426,1561 1584,1626 1807,1561 2016,1605 2101,1573 2099,1481 1688,1506 1371,1440 1274,1476"/>
+                <Baseline points="1289,1528 1334,1534 1379,1540 1424,1540 1468,1543 1513,1543 1558,1546 1603,1546 1648,1546 1692,1546 1737,1549 1782,1549 1827,1549 1871,1546 1916,1552 1961,1555 2006,1558 2051,1561 2095,1564 2104,1567"/>
+                <TextEquiv>
+                    <Unicode>besolut hingehen darf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2122,1917 2152,1920 2225,1878 2282,1901 2312,1883 2420,1931 2441,1915 2468,1938 2501,1933 2489,1793 2416,1786 2257,1713 2202,1743 2179,1736 2136,1766 2110,1764"/>
+                <Baseline points="2128,1839 2170,1851 2215,1854 2260,1857 2304,1863 2349,1866 2394,1868 2439,1871 2484,1868 2501,1866"/>
+                <TextEquiv>
+                    <Unicode>Herrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2296,2188 2448,2202 2494,2237 2530,2225 2576,2241 2618,2214 2861,2227 2857,2152 2762,2170 2691,2131 2599,2152 2487,2099 2441,2122 2393,2106 2292,2115"/>
+                <Baseline points="2310,2182 2355,2185 2400,2188 2445,2191 2490,2200 2534,2200 2579,2203 2624,2209 2669,2209 2713,2212 2758,2215 2803,2215 2848,2215 2866,2218"/>
+                <TextEquiv>
+                    <Unicode>Hermann</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

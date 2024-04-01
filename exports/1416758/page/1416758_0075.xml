@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:24</Creator>
+        <Created>2023-05-02T08:21:39.335+02:00</Created>
+        <LastChange>2023-07-27T22:24:49.750+02:00</LastChange>
+        <TranskribusMetadata docId="1416758" pageId="54954781" pageNr="75" tsid="131305507" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SKZIWNUJFIOGVTZXTWUDWERT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VOKYFKQQEYLAGRYFQEXFDXUH" imageId="44458506"/>
+    </Metadata>
+    <Page imageFilename="1416758_0075.jpg" imageWidth="5877" imageHeight="3716">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825602906" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2270,398 4886,398 4886,774 2270,774"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2672,574 3200,605 3815,465 4857,514 4885,275 2680,278"/>
+                <Baseline points="2688,495 2736,507 2825,501 2915,495 3005,495 3094,495 3184,501 3273,495 3363,495 3453,483 3542,477 3632,471 3721,465 3811,465 3901,465 3990,465 4080,465 4170,460 4259,460 4349,460 4438,454 4528,448 4618,448 4707,448 4797,454 4886,460"/>
+                <TextEquiv>
+                    <Unicode>Menschen zur Besichtungen darstellen -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2254,596 2339,580 2353,594 2394,591 2419,602 2419,363 2328,377 2317,388 2270,360 2254,360"/>
+                <Baseline points="2270,525 2359,525 2425,525"/>
+                <TextEquiv>
+                    <Unicode>Ge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3867,618 4140,613 4294,679 4379,627 4632,594 4868,660 4874,476 4728,503 4456,476 4395,517 4195,495 4071,542 3870,509"/>
+                <Baseline points="3883,615 3889,615 3978,615 4068,609 4158,603 4247,603 4337,597 4426,591 4516,591 4606,591 4695,591 4785,597 4875,603"/>
+                <TextEquiv>
+                    <Unicode>in der Weltdraupen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3381,671 3428,676 3452,701 3485,693 3516,704 3529,690 3582,706 3617,701 3623,520 3565,525 3485,481 3439,514 3414,509 3386,520"/>
+                <Baseline points="3399,615 3488,615 3578,609 3626,615"/>
+                <TextEquiv>
+                    <Unicode>habe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3106,679 3131,684 3169,662 3216,684 3255,668 3285,671 3293,555 3266,552 3246,566 3233,563 3213,583 3169,569 3114,572"/>
+                <Baseline points="3124,639 3202,633 3291,627"/>
+                <TextEquiv>
+                    <Unicode>neten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="4585,792 4632,794 4662,781 4717,789 4766,761 4777,770 4879,764 4882,660 4849,651 4819,618 4775,613 4755,627 4728,618 4700,624 4681,643 4640,632 4626,646 4590,646"/>
+                <Baseline points="4600,764 4618,764 4707,758 4797,752 4886,752"/>
+                <TextEquiv>
+                    <Unicode>1) Wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

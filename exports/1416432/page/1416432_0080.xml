@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_05:02</Creator>
+        <Created>2023-05-01T21:55:07.751+02:00</Created>
+        <LastChange>2023-07-25T05:02:11.967+02:00</LastChange>
+        <TranskribusMetadata docId="1416432" pageId="54946200" pageNr="80" tsid="130585202" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SJDZBZMWVFPSNKPICHLYZVTO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IZCXLKAJHJHVFEZTXFYYUQGA" imageId="44450285"/>
+    </Metadata>
+    <Page imageFilename="1416432_0080.jpg" imageWidth="1847" imageHeight="1575">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831809212" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="225,187 1690,187 1690,1201 225,1201"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1091,250 1129,260 1155,245 1172,249 1182,244 1195,251 1221,246 1223,203 1184,205 1141,188 1131,194 1095,189"/>
+                <Baseline points="1099,243 1103,243 1133,241 1163,241 1193,237 1223,239"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1137,546 1241,570 1323,556 1340,568 1379,562 1412,578 1439,562 1447,374 1360,384 1320,374 1210,298 1147,302"/>
+                <Baseline points="1145,503 1175,501 1205,501 1235,499 1265,501 1295,499 1325,497 1355,495 1385,491 1415,491 1445,491"/>
+                <TextEquiv>
+                    <Unicode>Herse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="218,547 580,569 767,526 851,558 953,523 1041,541 1044,441 863,447 785,402 682,450 568,355 433,469 344,441 226,321"/>
+                <Baseline points="225,549 233,545 263,543 293,543 323,541 353,543 383,545 413,547 443,549 473,551 503,549 533,549 563,547 593,543 623,543 653,539 683,537 713,535 743,537 773,535 803,531 833,531 863,529 893,525 923,523 953,519 983,517 1013,515 1043,515"/>
+                <TextEquiv>
+                    <Unicode>Herrn Doctor Theodor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="693,882 1685,808 1695,662 1499,600 1322,708 1224,695 1073,760 707,660"/>
+                <Baseline points="701,857 719,855 749,855 759,855 761,855 791,851 821,849 851,849 881,845 911,841 941,839 971,833 1001,831 1031,827 1061,825 1091,825 1121,823 1151,821 1181,825 1211,825 1241,823 1271,821 1301,819 1331,819 1361,819 1391,815 1421,813 1451,811 1481,807 1511,803 1541,801 1571,799 1600,797 1630,795 1660,793 1690,799"/>
+                <TextEquiv>
+                    <Unicode>Baden bei Wint.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="452,1207 1052,1173 1215,1190 1276,1240 1304,1236 1314,1087 1160,1040 1096,1075 980,1056 859,1114 715,1124 562,980 464,1027"/>
+                <Baseline points="460,1191 473,1189 503,1185 533,1187 563,1189 593,1187 623,1187 653,1183 683,1181 713,1179 743,1177 773,1173 803,1171 833,1169 863,1163 893,1161 923,1161 953,1161 983,1159 1013,1155 1043,1151 1073,1151 1103,1151 1133,1149 1163,1145 1193,1145 1223,1145 1253,1145 1283,1137 1314,1128"/>
+                <TextEquiv>
+                    <Unicode>Clenenstrape -</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

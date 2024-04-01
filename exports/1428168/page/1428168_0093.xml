@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:02</Creator>
+        <Created>2023-05-10T11:39:13.169+02:00</Created>
+        <LastChange>2023-07-28T17:02:42.028+02:00</LastChange>
+        <TranskribusMetadata docId="1428168" pageId="55389844" pageNr="93" tsid="131365802" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UZCKBQLSUZWIYVZROCGMCQTG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POSRXKBLYPFZXFAFTQFCOWTH" imageId="44664733"/>
+    </Metadata>
+    <Page imageFilename="1428168_0093.jpg" imageWidth="4536" imageHeight="6008">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818320518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="985,553 2550,553 2550,810 985,810"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1721,613 1871,626 1981,615 2003,634 2075,630 2163,595 2163,505 2140,513 2110,489 2073,485 2055,503 2026,495 1997,511 1944,491 1918,509 1856,501 1813,532 1766,511 1721,527"/>
+                <Baseline points="1731,609 1821,603 1911,603 2000,603 2090,603 2167,609"/>
+                <TextEquiv>
+                    <Unicode>Zu S. 2.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="975,826 1875,783 2165,875 2545,830 2547,695 2202,720 2061,675 1819,730 1734,679 1505,677 977,730"/>
+                <Baseline points="985,800 1027,800 1116,800 1206,794 1295,794 1385,788 1475,788 1564,782 1654,782 1743,782 1833,782 1923,782 2012,782 2102,776 2191,776 2281,776 2370,776 2460,776 2550,770"/>
+                <TextEquiv>
+                    <Unicode>1) Ist das nicht auch schwulstig?</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2986,4590 3428,4590 3428,4656 2986,4656"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2975,4676 3042,4653 3062,4665 3107,4653 3126,4667 3191,4669 3247,4647 3293,4667 3424,4624 3424,4561 3289,4586 3220,4583 3187,4553 3161,4569 2975,4555"/>
+                <Baseline points="2986,4640 3075,4646 3165,4646 3254,4646 3344,4640 3428,4646"/>
+                <TextEquiv>
+                    <Unicode>kne, sagt</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

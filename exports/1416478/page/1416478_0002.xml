@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_09:33</Creator>
+        <Created>2023-05-01T22:06:51.066+02:00</Created>
+        <LastChange>2023-07-27T09:33:08.316+02:00</LastChange>
+        <TranskribusMetadata docId="1416478" pageId="54948223" pageNr="2" tsid="131159157" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JYPPXMBFVUZTQRZXLVJULBFC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GZQWMCMCHJYMNCKWRUBGBTMT" imageId="44452263"/>
+    </Metadata>
+    <Page imageFilename="1416478_0002.jpg" imageWidth="4990" imageHeight="4648">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829878518" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="764,571 3984,571 3984,2083 764,2083"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2431,659 2500,629 2591,647 2633,632 2714,666 2831,642 2824,556 2637,561 2515,495 2465,529 2420,526"/>
+                <Baseline points="2437,621 2527,633 2616,639 2706,645 2795,651 2837,657"/>
+                <TextEquiv>
+                    <Unicode>1: „ „ —: —:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="970,1174 1167,1152 1490,1257 1854,1281 2118,1225 2238,1292 2252,846 980,870"/>
+                <Baseline points="979,1159 991,1159 1081,1159 1170,1153 1260,1153 1350,1141 1439,1141 1529,1141 1619,1135 1708,1135 1798,1129 1887,1129 1977,1129 2067,1123 2156,1129 2246,1123"/>
+                <TextEquiv>
+                    <Unicode>ers 6 ARTHUR SCHNITZLES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2947,1669 2991,1691 3176,1655 3547,1658 3630,1621 3633,1563 3550,1593 3368,1518 3241,1569 3146,1544 3007,1580 2951,1572"/>
+                <Baseline points="2957,1648 3005,1654 3094,1654 3184,1654 3273,1648 3363,1642 3453,1636 3542,1636 3632,1625"/>
+                <TextEquiv>
+                    <Unicode>16 letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3061,1801 3305,1848 3579,1793 3677,1839 3977,1869 3983,1633 3844,1674 3569,1659 3477,1724 3363,1690 3248,1726 3191,1686 3064,1682"/>
+                <Baseline points="3070,1786 3088,1786 3178,1786 3267,1780 3357,1780 3447,1780 3536,1780 3626,1774 3716,1774 3805,1768 3895,1768 3984,1762"/>
+                <TextEquiv>
+                    <Unicode>2 visit. Cardo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="751,1956 943,1983 1117,1905 1243,1912 1368,1856 1652,1905 1659,1744 1480,1761 1401,1721 1281,1731 1148,1691 1019,1721 840,1620 767,1623"/>
+                <Baseline points="764,1863 854,1858 943,1858 1033,1852 1123,1852 1212,1846 1302,1846 1392,1834 1481,1828 1571,1828 1660,1822"/>
+                <TextEquiv>
+                    <Unicode>Rosenthal, Moriz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1409,2151 1988,2149 2192,2219 2427,2154 2652,2151 2645,1962 2563,1931 2124,1938 2068,1976 1774,1883 1599,1894 1403,1975"/>
+                <Baseline points="1415,2043 1505,2043 1595,2037 1684,2031 1774,2037 1863,2043 1953,2049 2043,2043 2132,2049 2222,2055 2312,2061 2401,2073 2491,2067 2580,2067 2652,2061"/>
+                <TextEquiv>
+                    <Unicode>25/10 / 1882 - 25/5 | 24</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

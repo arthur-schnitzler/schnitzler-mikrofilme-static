@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_23:58</Creator>
+        <Created>2023-05-01T22:01:41.127+02:00</Created>
+        <LastChange>2023-07-24T23:58:42.203+02:00</LastChange>
+        <TranskribusMetadata docId="1416449" pageId="54947215" pageNr="12" tsid="130576634" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GFVKMGAUNTEVWNXPLMARXXLY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JJWNZRPUWTRDSQVTLJHDWTJO" imageId="44451300"/>
+    </Metadata>
+    <Page imageFilename="1416449_0012.jpg" imageWidth="4891" imageHeight="5144">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830388307" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2601,2134 3085,2134 3085,2868 2601,2868"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2590,2208 2640,2220 2652,2230 2678,2224 2688,2236 2708,2226 2734,2236 2742,2248 2758,2248 2768,2124 2748,2124 2702,2080 2692,2088 2674,2068 2662,2070 2630,2046 2622,2054 2600,2046"/>
+                <Baseline points="2601,2196 2679,2190 2768,2184"/>
+                <TextEquiv>
+                    <Unicode>Dr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2774,2746 2798,2744 2810,2752 2860,2732 2870,2738 2904,2716 2924,2724 2930,2514 2890,2520 2878,2532 2848,2534 2828,2548 2822,2542 2792,2562 2780,2562"/>
+                <Baseline points="2786,2667 2840,2661 2930,2661"/>
+                <TextEquiv>
+                    <Unicode>sien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2624,2924 2748,2908 2802,2874 2854,2896 2900,2878 2940,2910 2970,2900 3004,2924 3030,2914 3078,2928 3082,2762 3020,2756 3004,2772 2968,2756 2912,2772 2844,2740 2736,2754 2686,2732 2628,2738"/>
+                <Baseline points="2637,2852 2727,2858 2816,2852 2906,2852 2995,2846 3085,2846"/>
+                <TextEquiv>
+                    <Unicode>Mernwarte st.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

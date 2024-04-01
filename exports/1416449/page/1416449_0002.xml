@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_23:58</Creator>
+        <Created>2023-05-01T22:01:39.655+02:00</Created>
+        <LastChange>2023-07-24T23:58:39.561+02:00</LastChange>
+        <TranskribusMetadata docId="1416449" pageId="54947173" pageNr="2" tsid="130576624" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XUCQBXPGIJKZZWESWGLWZCZB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IZTELPAXBOZHNGHLTRKAVSYS" imageId="44451258"/>
+    </Metadata>
+    <Page imageFilename="1416449_0002.jpg" imageWidth="4871" imageHeight="5113">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830380869" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="794,1007 3649,1007 3649,2243 794,2243"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2417,1119 2596,1100 2686,1124 2776,1108 2823,1132 2991,1133 3006,844 2895,865 2875,844 2773,843 2713,870 2427,900"/>
+                <Baseline points="2425,1081 2460,1081 2550,1075 2640,1075 2729,1069 2819,1063 2908,1057 2998,1057"/>
+                <TextEquiv>
+                    <Unicode>HNITZIER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1888,1171 1958,1142 1983,1162 1998,1148 2025,1174 2065,1168 2080,896 2025,893 1990,907 1967,894 1948,910 1924,900 1903,907"/>
+                <Baseline points="1899,1116 1983,1105 2072,1105"/>
+                <TextEquiv>
+                    <Unicode>TH.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="786,1826 860,1849 1104,1818 1180,1866 1309,1874 1818,1789 1822,1708 1708,1685 1470,1722 1275,1646 1019,1665 933,1723 793,1678"/>
+                <Baseline points="794,1821 836,1827 925,1821 1015,1821 1105,1821 1194,1815 1284,1809 1373,1803 1463,1803 1553,1797 1642,1791 1732,1785 1821,1791"/>
+                <TextEquiv>
+                    <Unicode>Kesser, Hermann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3030,1884 3148,1838 3221,1830 3295,1844 3353,1839 3392,1817 3425,1825 3428,1722 3216,1712 3180,1739 3125,1713 3036,1712"/>
+                <Baseline points="3040,1833 3070,1833 3159,1827 3249,1821 3338,1821 3428,1821"/>
+                <TextEquiv>
+                    <Unicode>letter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3015,2073 3063,2097 3356,2020 3452,2052 3631,2024 3651,1926 3574,1890 3394,1930 3324,1899 3286,1913 3212,1886 3024,1880"/>
+                <Baseline points="3022,2054 3112,2024 3201,2018 3291,2012 3380,2012 3470,2006 3559,2006 3649,2012"/>
+                <TextEquiv>
+                    <Unicode>postcards.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2991,2278 3053,2292 3166,2251 3449,2282 3512,2236 3622,2231 3622,2160 3471,2109 3380,2145 3263,2129 3228,2152 3108,2082 2991,2101"/>
+                <Baseline points="2998,2233 3088,2227 3177,2222 3267,2222 3356,2216 3446,2222 3536,2222 3625,2233"/>
+                <TextEquiv>
+                    <Unicode>l. rem.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

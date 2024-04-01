@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_21:04</Creator>
+        <Created>2023-05-01T21:58:13.369+02:00</Created>
+        <LastChange>2023-07-24T21:04:41.138+02:00</LastChange>
+        <TranskribusMetadata docId="1416439" pageId="54946722" pageNr="41" tsid="130571782" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HOAWWNKUJEXRENEITWTTNZUX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UXJYQUZUARVBCLNTUTFLEDLH" imageId="44450807"/>
+    </Metadata>
+    <Page imageFilename="1416439_0041.jpg" imageWidth="3433" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831147565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="832,857 2388,857 2388,1607 832,1607"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1876,972 1922,979 1951,1000 1975,993 2004,970 2023,975 2029,770 2015,770 1991,789 1970,794 1894,846 1880,844"/>
+                <Baseline points="1889,910 1895,910 1940,910 1985,907 2030,907"/>
+                <TextEquiv>
+                    <Unicode>P</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="956,1023 1013,1033 1023,1021 1065,1019 1093,998 1149,983 1225,1008 1259,1002 1255,880 1227,884 1193,867 1162,880 1124,855 1092,853 1067,871 1013,872 1000,882 983,874 952,888"/>
+                <Baseline points="964,955 1009,961 1053,961 1098,964 1143,964 1188,961 1232,964 1262,964"/>
+                <TextEquiv>
+                    <Unicode>lieber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="819,1221 1796,1139 2219,1194 2223,1025 2158,1008 1835,1059 1280,1029 1141,1103 825,1044"/>
+                <Baseline points="832,1149 835,1146 880,1149 925,1146 970,1146 1015,1146 1059,1146 1104,1143 1149,1143 1194,1143 1238,1140 1283,1137 1328,1137 1373,1131 1418,1131 1462,1128 1507,1125 1552,1125 1597,1122 1641,1122 1686,1122 1731,1122 1776,1122 1821,1122 1865,1122 1910,1116 1955,1119 2000,1116 2044,1116 2089,1116 2134,1119 2179,1119 2224,1119"/>
+                <TextEquiv>
+                    <Unicode>ich bin mit der Arbeit fertig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="855,1406 1431,1339 1764,1414 2033,1343 2370,1440 2385,1223 1888,1265 1709,1217 1514,1282 1105,1250 855,1303"/>
+                <Baseline points="865,1334 910,1334 955,1337 1000,1337 1044,1340 1089,1337 1134,1337 1179,1334 1224,1334 1268,1334 1313,1334 1358,1334 1403,1334 1447,1334 1492,1334 1537,1334 1582,1334 1627,1331 1671,1328 1716,1328 1761,1331 1806,1328 1850,1328 1895,1322 1940,1322 1985,1319 2030,1319 2074,1316 2119,1319 2164,1322 2209,1325 2253,1331 2298,1337 2343,1340 2388,1343"/>
+                <TextEquiv>
+                    <Unicode>und in Mein, Erbitt Verkehr!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1063,1631 1160,1629 1286,1694 1412,1646 1697,1674 1880,1617 2212,1661 2217,1431 2147,1412 2010,1474 1774,1482 1669,1528 1375,1503 1274,1530 1233,1501 1065,1532"/>
+                <Baseline points="1074,1591 1095,1594 1140,1597 1185,1597 1229,1597 1274,1594 1319,1591 1364,1594 1409,1597 1453,1594 1498,1594 1543,1591 1588,1591 1632,1591 1677,1585 1722,1582 1767,1579 1812,1579 1856,1576 1901,1576 1946,1576 1991,1576 2036,1582 2080,1579 2125,1579 2170,1579 2217,1574"/>
+                <TextEquiv>
+                    <Unicode>J.S. Morgen aber Dfo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

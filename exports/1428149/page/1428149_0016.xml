@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_07:10</Creator>
+        <Created>2023-05-10T11:22:53.736+02:00</Created>
+        <LastChange>2023-07-28T07:10:31.746+02:00</LastChange>
+        <TranskribusMetadata docId="1428149" pageId="55386390" pageNr="16" tsid="131323703" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KFOXBLTKIOHHFANNDCLHCPEB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WEHYNDPELKSTCZNFBGUELXCE" imageId="44661288"/>
+    </Metadata>
+    <Page imageFilename="1428149_0016.jpg" imageWidth="6664" imageHeight="4312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821996779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3995,696 6217,696 6217,1819 3995,1819"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3985,845 6030,812 6210,779 6213,604 5554,709 4905,579 4598,723 3988,690"/>
+                <Baseline points="4001,800 4067,800 4156,794 4246,794 4335,794 4425,794 4515,794 4604,788 4694,788 4783,782 4873,782 4962,782 5052,782 5142,776 5231,776 5321,770 5410,770 5500,770 5590,764 5679,758 5769,758 5858,758 5948,758 6037,752 6127,746 6217,752"/>
+                <TextEquiv>
+                    <Unicode>Erst die Auflehnung ist es, die den Glauben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3988,1020 6155,923 6158,809 3991,873"/>
+                <Baseline points="4007,955 4013,949 4102,949 4192,943 4282,943 4371,937 4461,943 4550,937 4640,937 4730,937 4819,937 4909,931 4998,931 5088,931 5177,925 5267,925 5357,925 5446,919 5536,919 5625,913 5715,913 5805,907 5894,913 5984,907 6073,901 6163,895"/>
+                <TextEquiv>
+                    <Unicode>zur Frömmigkeit adel; ohne Auflehnung ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3980,1133 5337,1139 5615,1100 5617,973 5479,1017 4930,984 4791,1036 4398,973 4146,1042 3982,1014"/>
+                <Baseline points="3995,1104 4007,1104 4096,1098 4186,1098 4276,1098 4365,1098 4455,1098 4544,1092 4634,1092 4724,1092 4813,1086 4903,1086 4992,1080 5082,1080 5172,1080 5261,1075 5351,1075 5440,1069 5530,1069 5619,1069"/>
+                <TextEquiv>
+                    <Unicode>er Fatalismus, beinahe Ketzerai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4600,1488 4625,1483 4647,1499 4656,1496 4672,1519 4747,1533 4769,1297 4750,1297 4731,1311 4719,1305 4678,1316 4661,1327 4617,1319"/>
+                <Baseline points="4622,1433 4676,1433 4765,1421"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4689,1624 4731,1618 4753,1599 4811,1610 4847,1643 4883,1632 4927,1641 4952,1663 4974,1657 4991,1463 4930,1494 4844,1502 4786,1452 4697,1494"/>
+                <Baseline points="4706,1564 4718,1570 4807,1564 4897,1558 4986,1546"/>
+                <TextEquiv>
+                    <Unicode>Mrty</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="4742,1812 4769,1826 4797,1804 4811,1818 4847,1801 4908,1796 4919,1654 4875,1654 4850,1635 4839,1638 4814,1613 4803,1618 4786,1610 4772,1624 4758,1621"/>
+                <Baseline points="4759,1809 4825,1803 4915,1797"/>
+                <TextEquiv>
+                    <Unicode>Tal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

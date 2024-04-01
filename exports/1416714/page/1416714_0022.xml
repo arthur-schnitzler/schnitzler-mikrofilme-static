@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_01:34</Creator>
+        <Created>2023-05-02T07:50:32.036+02:00</Created>
+        <LastChange>2023-07-26T01:34:39.897+02:00</LastChange>
+        <TranskribusMetadata docId="1416714" pageId="54951181" pageNr="22" tsid="130867620" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OBVGNOKDZQNVDCJLOPXROJNS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVICVZGWJKDBOLIRQUJWRPLG" imageId="44454907"/>
+    </Metadata>
+    <Page imageFilename="1416714_0022.jpg" imageWidth="4139" imageHeight="3575">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828546230" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2306,561 3667,561 3667,1188 2306,1188"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2841,654 2966,635 3022,684 3170,696 3219,667 3393,647 3395,581 3323,552 3182,584 3119,569 2843,581"/>
+                <Baseline points="2852,626 2861,623 2906,623 2951,623 2996,623 3040,623 3085,620 3130,617 3175,617 3219,614 3264,611 3309,611 3354,611 3398,611"/>
+                <TextEquiv>
+                    <Unicode>Wien, 5. August 1909.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3020,817 3046,812 3053,819 3066,817 3075,821 3095,838 3116,836 3119,739 3092,739 3085,746 3075,744 3064,753 3061,747 3053,746 3042,754 3037,749 3024,749"/>
+                <Baseline points="3031,799 3076,799 3121,796"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2429,1040 2559,1004 2727,1049 3327,1027 3507,982 3626,1010 3660,1001 3664,882 3488,863 3265,938 2431,941"/>
+                <Baseline points="2438,999 2455,999 2500,999 2545,999 2590,999 2634,999 2679,996 2724,993 2769,993 2814,993 2858,990 2903,987 2948,987 2993,984 3037,984 3082,981 3127,981 3172,981 3216,978 3261,978 3306,978 3351,975 3395,975 3440,972 3485,969 3530,969 3575,966 3619,963 3664,963"/>
+                <TextEquiv>
+                    <Unicode>Anfang August sende ich das Stück gestrichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2295,1151 3585,1107 3662,1088 3664,996 2298,1037"/>
+                <Baseline points="2306,1089 2324,1089 2369,1092 2414,1092 2458,1089 2503,1089 2548,1086 2593,1086 2637,1086 2682,1083 2727,1083 2772,1080 2817,1080 2861,1080 2906,1077 2951,1074 2996,1074 3040,1074 3085,1071 3130,1068 3175,1068 3219,1068 3264,1068 3309,1068 3354,1065 3398,1062 3443,1062 3488,1062 3533,1059 3577,1056 3622,1053 3667,1053"/>
+                <TextEquiv>
+                    <Unicode>und korrigiert an Schlenther ein mit einem kurzen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2300,1231 3437,1231 3459,1108 2302,1151"/>
+                <Baseline points="2309,1178 2342,1178 2387,1178 2432,1178 2476,1178 2521,1175 2566,1175 2611,1172 2655,1172 2700,1169 2745,1169 2790,1166 2834,1166 2879,1163 2924,1163 2969,1160 3013,1160 3058,1160 3103,1157 3148,1157 3193,1157 3237,1154 3282,1154 3327,1154 3372,1154 3416,1148 3461,1148"/>
+                <TextEquiv>
+                    <Unicode>Brief, hauptsächlich über Besetzungsfragen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

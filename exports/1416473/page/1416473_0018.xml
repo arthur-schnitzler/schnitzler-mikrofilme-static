@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_15:35</Creator>
+        <Created>2023-05-01T22:06:05.185+02:00</Created>
+        <LastChange>2023-07-25T15:35:11.065+02:00</LastChange>
+        <TranskribusMetadata docId="1416473" pageId="54948109" pageNr="18" tsid="130706127" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XMYPCBTXBLKKQCKFWYJVBLHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HDJWNITIJIZNRKZPHVKYJDBZ" imageId="44452155"/>
+    </Metadata>
+    <Page imageFilename="1416473_0018.jpg" imageWidth="4424" imageHeight="3705">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829938708" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1433,1060 2994,1060 2994,1869 1433,1869"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1428,1152 1455,1145 1468,1130 1479,1128 1501,1134 1516,1126 1525,1133 1544,1124 1568,1133 1585,1123 1585,1085 1558,1082 1534,1098 1494,1084 1482,1091 1477,1086 1447,1088 1437,1081 1425,1085"/>
+                <Baseline points="1433,1110 1477,1116 1522,1122 1567,1116 1588,1110"/>
+                <TextEquiv>
+                    <Unicode>zu Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1678,1427 1853,1410 2034,1448 2099,1415 2224,1433 2453,1385 2559,1411 2562,1343 2405,1329 2296,1355 2209,1323 2025,1357 1886,1333 1826,1363 1681,1361"/>
+                <Baseline points="1686,1406 1713,1403 1758,1406 1803,1403 1848,1400 1892,1400 1937,1397 1982,1394 2027,1394 2071,1394 2116,1391 2161,1391 2206,1388 2251,1385 2295,1385 2340,1385 2385,1382 2430,1379 2474,1379 2519,1376 2564,1376"/>
+                <TextEquiv>
+                    <Unicode>Theater verknüpft zu sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2026,1663 2245,1727 2324,1699 2435,1721 2613,1659 2988,1631 2992,1526 2573,1534 2321,1584 2031,1556"/>
+                <Baseline points="2033,1662 2051,1662 2095,1662 2140,1662 2185,1665 2230,1662 2274,1659 2319,1659 2364,1659 2409,1656 2454,1653 2498,1653 2543,1653 2588,1650 2633,1647 2677,1647 2722,1645 2767,1642 2812,1639 2857,1633 2901,1633 2946,1627 2991,1627"/>
+                <TextEquiv>
+                    <Unicode>Mit herzlichen Grüßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2063,1875 2317,1922 2522,1851 2724,1889 2991,1842 2993,1745 2834,1786 2499,1735 2358,1783 2157,1719 2068,1743"/>
+                <Baseline points="2071,1856 2098,1859 2143,1859 2188,1859 2233,1859 2277,1859 2322,1856 2367,1853 2412,1853 2457,1851 2501,1848 2546,1848 2591,1845 2636,1845 2680,1842 2725,1842 2770,1842 2815,1842 2860,1839 2904,1836 2949,1839 2994,1839"/>
+                <TextEquiv>
+                    <Unicode>Max Reinhardt</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

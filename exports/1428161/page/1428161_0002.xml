@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=31_07_2023_23:55</Creator>
+        <Created>2023-05-10T11:34:03.352+02:00</Created>
+        <LastChange>2023-07-31T23:55:35.459+02:00</LastChange>
+        <TranskribusMetadata docId="1428161" pageId="55388221" pageNr="2" tsid="131643556" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TEXROGVKWUNWKGRKOIGDFHTL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UZWFRMVIWFKNXTDQJUAHUXNK" imageId="44663114"/>
+    </Metadata>
+    <Page imageFilename="1428161_0002.jpg" imageWidth="3624" imageHeight="4824">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818963132" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="686,1120 2638,1120 2638,1227 686,1227"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1767,1157 1840,1202 1865,1181 1923,1242 2015,1170 2047,1193 2103,1160 2134,1184 2348,1158 2611,1180 2635,1171 2638,1020 2550,993 2259,1012 2196,1073 2148,1074 1947,1073 1867,1026 1829,1064 1769,1064"/>
+                <Baseline points="1773,1188 1832,1188 1922,1188 2011,1182 2101,1182 2191,1176 2280,1176 2370,1170 2459,1170 2549,1176 2638,1182"/>
+                <TextEquiv>
+                    <Unicode>Sept. 1886</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="680,1188 762,1225 810,1206 893,1232 911,1217 982,1267 1058,1195 1238,1221 1364,1195 1364,1087 1282,1027 1216,1094 1127,1098 1082,1139 1046,1120 1023,1139 910,1055 822,1144 782,1111 745,1147 680,1146"/>
+                <Baseline points="686,1211 776,1206 865,1211 955,1206 1044,1206 1134,1211 1223,1206 1313,1211 1367,1217"/>
+                <TextEquiv>
+                    <Unicode>estspiel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

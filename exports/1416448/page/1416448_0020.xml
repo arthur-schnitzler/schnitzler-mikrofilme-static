@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_08:53</Creator>
+        <Created>2023-05-01T22:01:38.989+02:00</Created>
+        <LastChange>2023-07-25T08:53:46.341+02:00</LastChange>
+        <TranskribusMetadata docId="1416448" pageId="54947253" pageNr="20" tsid="130589742" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=USCIDDJSZYMVTVZQJIRZXOIF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ERGHVHREEPXBVFHVEMNNRSAV" imageId="44451336"/>
+    </Metadata>
+    <Page imageFilename="1416448_0020.jpg" imageWidth="4770" imageHeight="2588">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830423554" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1635,111 3131,111 3131,920 1635,920"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1670,201 1838,227 1933,197 1986,232 2163,197 2303,234 2398,182 2438,201 2554,175 2558,84 2476,93 2366,56 2219,104 2074,82 1901,126 1814,63 1676,65"/>
+                <Baseline points="1683,184 1707,188 1752,194 1796,199 1841,202 1886,205 1931,205 1976,208 2020,208 2065,202 2110,202 2155,197 2199,194 2244,191 2289,188 2334,179 2379,179 2423,170 2468,167 2513,161 2558,164"/>
+                <TextEquiv>
+                    <Unicode>Adr: Iusbruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2301,376 2342,366 2425,441 2701,294 2833,298 3008,232 3093,236 3104,110 2807,154 2667,117 2584,179 2312,221"/>
+                <Baseline points="2319,292 2337,289 2382,283 2426,277 2471,271 2516,265 2561,259 2605,256 2650,253 2695,247 2740,244 2785,238 2829,235 2874,232 2919,232 2964,235 3008,232 3053,232 3098,232"/>
+                <TextEquiv>
+                    <Unicode>of lleagh rue.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1631,790 1867,800 2357,703 3054,731 3121,714 3145,474 2890,597 2526,573 2344,651 2187,631 1923,694 1644,655"/>
+                <Baseline points="1644,770 1653,770 1698,773 1743,770 1788,764 1832,761 1877,758 1922,752 1967,746 2011,746 2056,743 2101,740 2146,734 2190,731 2235,722 2280,716 2325,710 2370,701 2414,698 2459,692 2504,689 2549,683 2593,680 2638,680 2683,677 2728,677 2773,671 2817,668 2862,665 2907,656 2952,656 2996,653 3041,650 3086,647 3131,644"/>
+                <TextEquiv>
+                    <Unicode>noch vielen dane für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1616,976 1985,872 2044,891 2249,843 2321,885 2407,828 2541,839 2550,761 2424,766 2390,725 2249,757 2122,735 1916,839 1815,783 1761,811 1639,794"/>
+                <Baseline points="1635,907 1662,907 1707,910 1752,910 1796,904 1841,901 1886,898 1910,886 1922,883 1967,874 2011,871 2056,865 2101,859 2146,850 2190,844 2235,838 2280,832 2325,826 2370,823 2414,823 2459,823 2504,820 2549,817"/>
+                <TextEquiv>
+                    <Unicode>ihre Farten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

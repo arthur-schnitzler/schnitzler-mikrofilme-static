@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_14:25</Creator>
+        <Created>2023-05-10T11:30:25.394+02:00</Created>
+        <LastChange>2023-07-28T14:25:55.906+02:00</LastChange>
+        <TranskribusMetadata docId="1428158" pageId="55387616" pageNr="13" tsid="131356275" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EVWXYHOOUTJDLTGQZTQMDRFB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OJRRHPHOQMYBKADACFVWBGUA" imageId="44662512"/>
+    </Metadata>
+    <Page imageFilename="1428158_0013.jpg" imageWidth="3800" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711819223998" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="674,385 2071,385 2071,1159 674,1159"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="942,533 962,530 996,552 1060,554 1095,516 1119,523 1149,508 1183,523 1294,484 1288,375 1158,334 1072,278 1033,268 930,310"/>
+                <Baseline points="946,435 990,435 1035,441 1080,441 1125,444 1169,450 1214,450 1259,450 1295,450"/>
+                <TextEquiv>
+                    <Unicode>Ayrn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="670,766 744,783 901,754 943,783 1041,748 1183,766 1232,739 1301,763 1382,729 1514,736 1514,665 1310,665 1139,564 964,591 788,520 672,537"/>
+                <Baseline points="680,713 725,722 769,728 814,731 859,731 904,728 949,731 993,731 1038,731 1083,731 1128,728 1172,725 1217,722 1262,722 1307,725 1351,728 1396,728 1441,728 1486,725 1518,721"/>
+                <TextEquiv>
+                    <Unicode>Wie halb, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1684,817 1772,776 1929,791 2001,758 2067,768 2071,530 1976,537 1946,506 1922,505 1843,548 1812,528 1726,596 1689,589"/>
+                <Baseline points="1695,749 1713,752 1757,761 1802,764 1847,767 1892,764 1936,761 1981,758 2026,752 2071,746"/>
+                <TextEquiv>
+                    <Unicode>Mulme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="665,987 749,964 1046,1050 1212,970 1522,1012 2020,975 2018,911 1824,883 1647,783 1451,891 1212,869 955,775 663,864"/>
+                <Baseline points="674,943 719,940 764,940 808,940 853,937 898,940 943,940 987,937 1032,937 1077,934 1122,934 1166,934 1211,937 1256,940 1301,943 1346,949 1390,952 1435,952 1480,955 1525,955 1569,955 1614,955 1659,955 1704,961 1748,963 1793,963 1838,963 1883,963 1927,963 1972,963 2017,961 2023,961"/>
+                <TextEquiv>
+                    <Unicode>wodurch - muss in in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="694,1228 1080,1299 1232,1176 1358,1149 1674,1223 1677,1019 1568,1085 1478,1090 1261,1050 1156,977 1046,1050 697,1066"/>
+                <Baseline points="704,1137 740,1149 784,1146 829,1146 874,1143 919,1143 963,1140 1008,1143 1053,1140 1098,1140 1143,1143 1187,1143 1232,1143 1277,1143 1322,1140 1366,1137 1411,1140 1456,1137 1501,1134 1545,1131 1590,1131 1635,1131 1680,1131"/>
+                <TextEquiv>
+                    <Unicode>nomsfra -d</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

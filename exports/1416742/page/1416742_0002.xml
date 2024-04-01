@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:26</Creator>
+        <Created>2023-05-02T08:08:58.783+02:00</Created>
+        <LastChange>2023-07-26T22:26:18.705+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54952910" pageNr="2" tsid="131084008" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XKZVXZCLSFDTHKUBPUJEZPAI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMTNRGJGTKDFRYCYONWCEABG" imageId="44456635"/>
+    </Metadata>
+    <Page imageFilename="1416742_0002.jpg" imageWidth="2505" imageHeight="3727">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827030355" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="746,1479 1576,1479 1576,1873 746,1873"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="741,1560 803,1573 881,1543 1115,1522 1190,1552 1297,1531 1473,1560 1472,1447 1196,1448 986,1508 889,1457 740,1456"/>
+                <Baseline points="746,1529 791,1529 836,1529 880,1529 925,1532 970,1532 1015,1534 1060,1532 1104,1534 1149,1534 1194,1529 1239,1529 1284,1534 1328,1534 1373,1534 1418,1540 1463,1543 1475,1543"/>
+                <TextEquiv>
+                    <Unicode>ischer. Verlag.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1221,1872 1262,1869 1278,1883 1296,1882 1288,1736 1270,1734 1254,1746 1240,1739 1222,1753 1215,1753"/>
+                <Baseline points="1224,1836 1269,1842 1296,1839"/>
+                <TextEquiv>
+                    <Unicode>P:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="913,1901 1040,1860 1072,1873 1101,1862 1191,1866 1188,1783 1111,1787 1074,1771 1052,1779 938,1741 908,1753"/>
+                <Baseline points="916,1839 961,1836 1006,1839 1051,1839 1096,1839 1140,1845 1185,1845 1191,1845"/>
+                <TextEquiv>
+                    <Unicode>1888</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1352,1987 1370,1979 1390,1990 1459,1985 1510,1966 1578,1968 1570,1755 1539,1752 1440,1794 1344,1768"/>
+                <Baseline points="1352,1857 1397,1854 1442,1851 1487,1854 1532,1860 1576,1863"/>
+                <TextEquiv>
+                    <Unicode>1908</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

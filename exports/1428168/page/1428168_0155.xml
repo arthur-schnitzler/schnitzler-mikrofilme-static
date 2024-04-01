@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:03</Creator>
+        <Created>2023-05-10T11:39:24.525+02:00</Created>
+        <LastChange>2023-07-28T17:03:27.218+02:00</LastChange>
+        <TranskribusMetadata docId="1428168" pageId="55390339" pageNr="155" tsid="131365891" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QNBNWTRYQNZWZNQSJBUOKYFW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WYJAFOLBCABTDLNSGBJVKPTE" imageId="44665225"/>
+    </Metadata>
+    <Page imageFilename="1428168_0155.jpg" imageWidth="4504" imageHeight="5672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818414868" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="800,576 3206,576 3206,881 800,881"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1935,689 2004,704 2296,635 2371,638 2422,677 2488,650 2539,665 2545,557 2413,554 2317,524 2293,545 2202,533 2163,563 2079,566 1941,502"/>
+                <Baseline points="1952,656 2012,650 2101,638 2191,632 2280,626 2370,632 2459,626 2549,626"/>
+                <TextEquiv>
+                    <Unicode>Zu Seite 44.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="782,906 2690,867 3195,815 3201,704 1571,656 1207,800 785,761"/>
+                <Baseline points="800,865 877,871 967,865 1056,859 1146,853 1235,853 1325,847 1415,841 1504,841 1594,835 1683,835 1773,829 1862,823 1952,823 2041,817 2131,817 2221,811 2310,806 2400,806 2489,806 2579,800 2668,800 2758,794 2847,794 2937,788 3027,782 3116,776 3206,770"/>
+                <TextEquiv>
+                    <Unicode>1) Warum antwortet hostius dem Gastgeber gar nicht?</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1486,4463 3170,4463 3170,5090 1486,5090"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1968,4582 2184,4555 2326,4633 2464,4558 2554,4555 2687,4609 2723,4585 2813,4609 2819,4375 2705,4411 2521,4372 2452,4408 2118,4390 1974,4423"/>
+                <Baseline points="1988,4531 2018,4531 2107,4531 2197,4531 2286,4525 2376,4525 2465,4525 2555,4519 2644,4519 2734,4519 2824,4513"/>
+                <TextEquiv>
+                    <Unicode>gesandter vor der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1953,4742 2064,4724 2281,4814 2569,4802 2675,4745 2958,4742 2961,4591 2699,4609 2630,4576 2497,4639 2389,4594 2260,4655 1956,4624"/>
+                <Baseline points="1970,4710 1982,4710 2071,4710 2161,4710 2250,4710 2340,4710 2430,4704 2519,4698 2609,4698 2698,4692 2788,4692 2877,4692 2967,4680"/>
+                <TextEquiv>
+                    <Unicode>Zwiegespräch mich mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1769,4940 1935,4946 2031,5007 2320,4979 2404,4913 3027,4955 3069,4943 3072,4793 2708,4742 2482,4823 2064,4790 1917,4841 1772,4802"/>
+                <Baseline points="1785,4901 1826,4901 1916,4895 2006,4895 2095,4889 2185,4883 2274,4883 2364,4883 2453,4883 2543,4883 2633,4877 2722,4871 2812,4871 2901,4871 2991,4871 3080,4860"/>
+                <TextEquiv>
+                    <Unicode>men. - Wein in meinen Becher!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1465,5148 2067,5109 2290,5178 2416,5112 3141,5115 3168,4934 2362,5007 1859,4943 1604,5025 1468,4989"/>
+                <Baseline points="1486,5074 1558,5080 1647,5080 1737,5080 1826,5080 1916,5074 2006,5074 2095,5074 2185,5068 2274,5068 2364,5068 2453,5063 2543,5063 2633,5057 2722,5057 2812,5057 2901,5057 2991,5051 3080,5045 3170,5045"/>
+                <TextEquiv>
+                    <Unicode>Und dies aufs Wohl des Manns, der nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

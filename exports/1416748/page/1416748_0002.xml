@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_10:40</Creator>
+        <Created>2023-05-02T08:18:26.840+02:00</Created>
+        <LastChange>2023-07-26T10:40:36.288+02:00</LastChange>
+        <TranskribusMetadata docId="1416748" pageId="54953947" pageNr="2" tsid="130930666" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JATJJTFTDKDIGLAUHGCSEMDW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ATQWLTXDUPTEZKIEJBQLCRLD" imageId="44457672"/>
+    </Metadata>
+    <Page imageFilename="1416748_0002.jpg" imageWidth="4150" imageHeight="3642">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825829442" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="955,806 3134,806 3134,1153 955,1153"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1188,955 1208,965 1254,943 1357,971 1395,951 1445,977 1510,947 1538,959 1578,947 1592,657 1518,655 1489,633 1437,667 1391,651 1323,653 1297,671 1202,667"/>
+                <Baseline points="1200,880 1229,877 1274,877 1319,874 1364,871 1409,871 1453,868 1498,868 1543,862 1588,856"/>
+                <TextEquiv>
+                    <Unicode>SCHNITTE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="939,967 981,979 1029,957 1087,947 1136,961 1156,659 1120,651 1073,675 1047,661 1023,669 995,657 959,663"/>
+                <Baseline points="955,904 967,904 1011,901 1056,898 1101,895 1146,892"/>
+                <TextEquiv>
+                    <Unicode>ERTHUR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1532,1132 2681,1142 2927,1228 3122,1212 3148,603 2858,577 2354,643 2137,571 1912,657 1843,627 1544,866"/>
+                <Baseline points="1543,1125 1567,1125 1612,1119 1656,1119 1701,1122 1746,1122 1791,1119 1835,1119 1880,1119 1925,1122 1970,1125 2015,1128 2059,1125 2104,1122 2149,1122 2194,1122 2238,1113 2283,1107 2328,1107 2373,1107 2418,1104 2462,1104 2507,1104 2552,1098 2597,1095 2641,1089 2686,1080 2731,1077 2776,1077 2821,1074 2865,1074 2910,1071 2955,1068 3000,1068 3044,1068 3089,1068 3134,1068"/>
+                <TextEquiv>
+                    <Unicode>Direktion des Deutschen Volkothecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1120,1168 1164,1180 1220,1170 1236,1180 1260,1164 1284,1176 1327,1170 1367,1148 1429,1142 1453,1152 1461,1021 1413,1007 1367,1021 1268,989 1214,1015 1162,983 1132,979"/>
+                <Baseline points="1134,1143 1146,1143 1191,1140 1235,1140 1280,1140 1325,1137 1370,1131 1415,1125 1459,1128"/>
+                <TextEquiv>
+                    <Unicode>Letters to</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

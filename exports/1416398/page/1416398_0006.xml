@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_22:26</Creator>
+        <Created>2023-05-01T21:47:44.624+02:00</Created>
+        <LastChange>2023-07-24T22:26:42.919+02:00</LastChange>
+        <TranskribusMetadata docId="1416398" pageId="54944523" pageNr="6" tsid="130574720" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CPUYMUSUGGYNSVYRLROLIRRQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAUBFOEKRQXPVXISJLVRFPBP" imageId="44448609"/>
+    </Metadata>
+    <Page imageFilename="1416398_0006.jpg" imageWidth="4983" imageHeight="4664">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711833081529" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="627,1765 1648,1765 1648,2207 627,2207"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="616,1928 1267,1838 1418,1863 1644,1824 1648,1772 1484,1790 1380,1754 1307,1787 1160,1750 1051,1799 626,1790"/>
+                <Baseline points="627,1881 662,1881 752,1875 842,1869 931,1869 1021,1863 1110,1863 1200,1845 1289,1839 1379,1833 1469,1827 1558,1815 1648,1815"/>
+                <TextEquiv>
+                    <Unicode>Jr Matinee Reicher bed</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="635,2101 1451,2050 1518,1997 1626,2008 1635,1887 1483,1886 1336,1958 1283,1934 1040,1984 938,1951 644,1987"/>
+                <Baseline points="644,2066 734,2048 824,2042 913,2030 1003,2024 1092,2018 1182,2012 1272,2006 1361,2000 1451,2000 1540,1994 1630,1988"/>
+                <TextEquiv>
+                    <Unicode>Geldgehend besorgen soll.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1028,2234 1087,2219 1229,2282 1272,2274 1321,2291 1312,2103 1271,2087 1215,2108 1111,2082 1064,2113 1023,2114"/>
+                <Baseline points="1033,2185 1122,2185 1212,2191 1301,2197 1319,2191"/>
+                <TextEquiv>
+                    <Unicode>P.D.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

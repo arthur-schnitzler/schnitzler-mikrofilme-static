@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_12:07</Creator>
+        <Created>2023-05-10T11:18:48.223+02:00</Created>
+        <LastChange>2023-07-25T12:07:13.062+02:00</LastChange>
+        <TranskribusMetadata docId="1428143" pageId="55386035" pageNr="120" tsid="130615383" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VXSFKVCOUHDQFCIIDXJQMYOI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOIQEYEIMAKGRONVMRUQTSXA" imageId="44660934"/>
+    </Metadata>
+    <Page imageFilename="1428143_0120.jpg" imageWidth="3592" imageHeight="4344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711822495716" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="671,576 3054,576 3054,1114 671,1114"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2839,673 2860,679 2881,664 2938,679 2979,661 3012,685 3048,679 3051,494 3000,506 2967,485 2911,509 2893,497 2872,515 2842,509"/>
+                <Baseline points="2857,632 2875,629 2919,629 2964,626 3009,626 3054,626"/>
+                <TextEquiv>
+                    <Unicode>110</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="667,804 1551,783 1810,863 1890,795 2196,789 2646,860 2643,658 2512,631 2211,679 2119,604 1872,723 1750,664 1458,738 664,714"/>
+                <Baseline points="683,782 728,782 773,782 818,782 862,782 907,785 952,782 997,785 1041,788 1086,788 1131,788 1176,785 1221,785 1265,785 1310,785 1355,782 1400,782 1445,782 1489,782 1534,782 1579,785 1624,785 1668,785 1713,785 1758,788 1803,791 1848,788 1892,788 1937,788 1982,785 2027,785 2071,782 2116,785 2161,785 2206,785 2251,785 2295,785 2340,785 2385,785 2430,785 2475,788 2519,785 2564,788 2609,791 2654,791"/>
+                <TextEquiv>
+                    <Unicode>den vergitterten wensjern henaussehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1429,1051 1464,1054 1512,1015 1548,1036 1574,1018 1592,1033 1616,1021 1649,1036 1702,1030 1717,1045 1768,1033 1765,893 1720,917 1625,827 1589,827 1551,857 1458,783 1420,792"/>
+                <Baseline points="1445,1006 1489,1012 1534,1015 1579,1018 1594,1018 1600,1018 1645,1021 1689,1018 1734,1018 1773,1018"/>
+                <TextEquiv>
+                    <Unicode>“verher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="655,1095 1345,1107 1533,1253 1720,1119 1845,1229 2185,1283 2524,1104 3048,1104 3048,1015 655,1030"/>
+                <Baseline points="671,1092 716,1092 761,1092 806,1092 850,1092 895,1092 940,1092 985,1092 1030,1095 1074,1092 1119,1095 1164,1095 1209,1092 1253,1095 1298,1095 1343,1098 1388,1098 1433,1098 1477,1098 1522,1098 1567,1098 1612,1098 1656,1098 1701,1098 1746,1098 1791,1098 1836,1098 1880,1098 1925,1098 1970,1098 2015,1101 2060,1101 2104,1104 2149,1104 2194,1104 2239,1101 2283,1101 2328,1101 2373,1101 2418,1098 2463,1101 2507,1098 2552,1098 2597,1098 2642,1098 2687,1098 2731,1098 2776,1098 2821,1095 2866,1098 2910,1098 2955,1098 3000,1098 3045,1098 3051,1098"/>
+                <TextEquiv>
+                    <Unicode>Die österreichischen Kriegsgefangenen sind in</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

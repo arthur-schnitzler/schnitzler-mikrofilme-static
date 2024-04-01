@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_10:59</Creator>
+        <Created>2023-05-02T08:18:35.848+02:00</Created>
+        <LastChange>2023-07-26T10:59:07.476+02:00</LastChange>
+        <TranskribusMetadata docId="1416749" pageId="54954031" pageNr="15" tsid="130931274" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=APISYMYNBAUYTWDHHDZYWLXB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LCKHYZLTKURIUTMLHKVISRGB" imageId="44457756"/>
+    </Metadata>
+    <Page imageFilename="1416749_0015.jpg" imageWidth="2154" imageHeight="3559">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825827412" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="373,986 1836,986 1836,1410 373,1410"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="379,1090 632,1041 1831,1085 1831,993 1695,967 835,1012 619,962 379,984"/>
+                <Baseline points="388,1039 432,1036 477,1036 522,1036 567,1036 612,1036 656,1039 701,1039 746,1039 791,1039 836,1042 880,1042 925,1039 970,1039 1015,1039 1059,1039 1104,1039 1149,1042 1194,1042 1239,1042 1283,1042 1328,1042 1373,1042 1418,1045 1463,1045 1507,1045 1552,1045 1597,1045 1642,1045 1686,1045 1731,1045 1776,1045 1821,1045 1836,1047"/>
+                <TextEquiv>
+                    <Unicode>Sonne und Schnee, Glückliche! - Lass es Dir wohl erge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="379,1150 898,1181 1161,1150 1415,1194 1552,1150 1822,1159 1822,1105 1719,1089 379,1089"/>
+                <Baseline points="388,1143 432,1140 477,1143 522,1143 567,1140 612,1143 656,1143 701,1143 746,1143 791,1143 836,1143 880,1143 925,1143 970,1143 1015,1143 1059,1146 1104,1143 1149,1146 1194,1146 1239,1146 1283,1149 1328,1149 1373,1149 1418,1149 1463,1149 1507,1149 1552,1149 1597,1149 1642,1149 1686,1149 1731,1149 1776,1146 1821,1149 1827,1152"/>
+                <TextEquiv>
+                    <Unicode>hen, grüsse Albert, wenn er bei Dir ist, und sei selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="362,1264 478,1284 683,1243 862,1288 935,1248 1243,1273 1268,1250 1317,1268 1317,1206 1259,1186 1061,1215 1011,1177 916,1192 866,1168 494,1204 360,1163"/>
+                <Baseline points="373,1239 418,1239 462,1242 507,1242 552,1242 597,1242 641,1242 686,1242 731,1242 776,1245 821,1242 865,1245 910,1245 955,1248 1000,1245 1045,1248 1089,1248 1134,1248 1179,1248 1224,1245 1268,1242 1313,1245 1322,1245"/>
+                <TextEquiv>
+                    <Unicode>herzlichst von uns Allen gegrüsst!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="909,1393 933,1395 960,1384 987,1398 1014,1402 1018,1398 1025,1406 1045,1409 1045,1290 993,1304 984,1313 956,1313 940,1304 920,1319 909,1320"/>
+                <Baseline points="919,1349 964,1346 1009,1346 1050,1349"/>
+                <TextEquiv>
+                    <Unicode>Dein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1072,1420 1096,1418 1103,1425 1123,1416 1206,1440 1279,1420 1281,1297 1257,1295 1177,1331 1157,1324 1141,1337 1110,1335 1092,1320 1070,1328"/>
+                <Baseline points="1083,1400 1128,1397 1173,1397 1218,1400 1262,1400 1286,1400"/>
+                <TextEquiv>
+                    <Unicode>Arthur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

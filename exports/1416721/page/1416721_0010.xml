@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_21:54</Creator>
+        <Created>2023-05-02T07:52:36.412+02:00</Created>
+        <LastChange>2023-07-25T21:54:46.317+02:00</LastChange>
+        <TranskribusMetadata docId="1416721" pageId="54951502" pageNr="10" tsid="130831521" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VBKPWAXCRSHJWAWULFHZXPYX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GEMYYRWSAMZQQRNUZNDAPIIY" imageId="44455228"/>
+    </Metadata>
+    <Page imageFilename="1416721_0010.jpg" imageWidth="4234" imageHeight="4631">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828493287" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2217,2462 3625,2462 3625,3193 2217,3193"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3011,2537 3232,2537 3315,2599 3368,2565 3470,2623 3628,2653 3609,2360 3456,2339 3354,2396 3312,2384 3153,2432 3088,2416 3005,2450"/>
+                <Baseline points="3016,2524 3058,2524 3103,2521 3148,2524 3192,2518 3237,2518 3282,2512 3327,2515 3371,2518 3377,2515 3422,2530 3467,2533 3512,2542 3556,2554 3601,2563 3625,2566"/>
+                <TextEquiv>
+                    <Unicode>einen Hause</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2345,2551 2444,2564 2517,2544 2616,2565 2681,2542 2709,2564 2773,2536 2936,2533 2941,2312 2348,2366"/>
+                <Baseline points="2351,2533 2357,2533 2402,2539 2446,2542 2491,2545 2536,2548 2581,2548 2625,2545 2670,2545 2715,2545 2760,2539 2804,2536 2849,2533 2894,2530 2939,2530"/>
+                <TextEquiv>
+                    <Unicode>Sie doch an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2209,2721 2343,2707 2431,2771 2568,2709 2695,2770 2877,2720 2977,2734 2981,2605 2916,2634 2813,2614 2701,2685 2586,2636 2508,2558 2396,2575 2347,2551 2212,2616"/>
+                <Baseline points="2217,2703 2220,2703 2264,2700 2309,2697 2354,2697 2399,2694 2443,2697 2488,2697 2533,2697 2578,2697 2622,2697 2667,2697 2712,2694 2757,2688 2801,2688 2846,2682 2891,2679 2936,2676 2982,2666"/>
+                <TextEquiv>
+                    <Unicode>besten drei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2465,2868 2687,2929 2884,2853 3064,2863 3143,2834 3346,2867 3403,2848 3410,2702 3284,2696 3091,2770 3005,2708 2662,2784 2470,2776"/>
+                <Baseline points="2473,2858 2512,2858 2557,2858 2601,2858 2646,2855 2691,2852 2736,2852 2780,2852 2825,2849 2870,2846 2915,2843 2960,2840 3004,2840 3049,2834 3094,2834 3139,2831 3183,2831 3228,2828 3273,2825 3318,2822 3362,2819 3407,2822"/>
+                <TextEquiv>
+                    <Unicode>Adolf Sonnenthal.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2382,3193 2402,3186 2453,3220 2501,3228 2550,3212 2574,3221 2666,3168 2727,3180 2731,3052 2617,3048 2603,3035 2506,3064 2450,3063 2418,3086 2387,3073"/>
+                <Baseline points="2388,3181 2434,3180 2479,3180 2524,3183 2569,3177 2613,3177 2658,3174 2703,3168 2730,3171"/>
+                <TextEquiv>
+                    <Unicode>1849</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

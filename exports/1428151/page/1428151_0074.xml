@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:38</Creator>
+        <Created>2023-05-10T11:23:16.502+02:00</Created>
+        <LastChange>2023-08-01T03:38:13.617+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55386894" pageNr="74" tsid="131649269" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LHPQCCPXSAXSLZMQAYBJHMQZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZEPYBPZMVSDUPTLRYHGUTLT" imageId="44661791"/>
+    </Metadata>
+    <Page imageFilename="1428151_0074.jpg" imageWidth="6648" imageHeight="4344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821373275" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="310,3995 3019,3995 3019,4145 310,4145"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="294,4087 419,4104 436,4119 509,4102 546,4131 661,4073 690,4078 698,3999 568,4009 529,3992 472,4007 426,3967 362,3987 306,3955"/>
+                <Baseline points="310,4081 340,4075 429,4075 519,4051 608,4045 698,4057"/>
+                <TextEquiv>
+                    <Unicode>9 -9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1725,4175 2203,4109 2455,4173 2511,4126 2585,4156 2707,4114 2824,4166 3013,4126 3010,4051 2910,4029 2049,4031 1980,3987 1723,4024"/>
+                <Baseline points="1736,4105 1825,4105 1915,4117 2004,4117 2094,4105 2183,4105 2273,4105 2362,4111 2452,4123 2541,4117 2631,4117 2720,4117 2810,4123 2899,4129 2989,4135 3019,4135"/>
+                <TextEquiv>
+                    <Unicode>(inführt versoffn apamssch</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="3633,194 6086,194 6086,2474 3633,2474"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="5698,308 5837,294 5850,281 5889,294 5974,247 6080,274 6080,176 6038,166 5945,179 5815,157 5739,184 5695,179"/>
+                <Baseline points="5710,244 5799,244 5889,244 5978,244 6068,250 6086,250"/>
+                <TextEquiv>
+                    <Unicode>avant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3620,1116 3764,1153 3965,1119 4009,1148 4197,1087 4425,1089 4432,1003 4379,1011 4246,935 4151,996 4007,964 3936,979 3828,906 3730,955 3635,955"/>
+                <Baseline points="3633,1133 3717,1127 3806,1115 3896,1109 3985,1103 4075,1091 4164,1086 4254,1074 4344,1068 4433,1068"/>
+                <TextEquiv>
+                    <Unicode>Streicher Anna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3725,1383 4261,1422 4349,1353 4822,1305 4897,1353 5091,1280 5198,1336 5524,1231 5531,1123 5157,1121 4614,1241 4430,1204 4205,1278 3740,1216"/>
+                <Baseline points="3741,1366 3830,1360 3920,1360 4009,1354 4099,1354 4188,1348 4278,1336 4367,1330 4457,1324 4546,1318 4636,1312 4725,1306 4815,1294 4904,1288 4994,1276 5083,1270 5173,1265 5262,1259 5352,1241 5441,1229 5531,1229"/>
+                <TextEquiv>
+                    <Unicode>Car Caryng ihren leichteren Grades</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3740,1591 3894,1562 4085,1655 4398,1517 4875,1542 5414,1432 5693,1510 5710,1309 5519,1256 4910,1398 4790,1329 4432,1468 4180,1410 4021,1491 3754,1427"/>
+                <Baseline points="3753,1569 3830,1557 3920,1557 4009,1557 4099,1551 4188,1539 4278,1527 4367,1521 4457,1509 4546,1497 4636,1491 4725,1485 4815,1467 4904,1467 4994,1467 5083,1455 5173,1444 5262,1438 5352,1432 5441,1420 5531,1414 5620,1402 5710,1396"/>
+                <TextEquiv>
+                    <Unicode>beimustetoriren clon. Krampf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3759,1823 5069,1669 5238,1713 5681,1640 5693,1510 5304,1527 5010,1632 4929,1571 4611,1677 4227,1593 3772,1696"/>
+                <Baseline points="3777,1784 3806,1790 3896,1784 3985,1778 4075,1772 4164,1766 4254,1760 4344,1754 4433,1748 4523,1736 4612,1724 4702,1718 4791,1706 4881,1694 4970,1682 5060,1670 5149,1664 5239,1658 5328,1646 5418,1634 5507,1629 5597,1623 5686,1617"/>
+                <TextEquiv>
+                    <Unicode>s. ad ducloren mit daraus folgenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3750,2056 3867,2102 4031,2014 4352,2029 4513,1963 4760,1987 4964,1921 5135,1946 5147,1826 5039,1762 4731,1792 4506,1828 4281,1936 4063,1931 3943,1811 3769,1877"/>
+                <Baseline points="3765,2046 3806,2046 3896,2034 3985,2016 4075,2004 4164,1998 4254,1987 4344,1981 4433,1969 4523,1963 4612,1951 4702,1939 4791,1927 4881,1921 4970,1909 5060,1897 5149,1885"/>
+                <TextEquiv>
+                    <Unicode>Spasmus in Atinctoren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="3661,2448 4474,2198 4988,2225 5340,2110 5522,2161 5541,2000 5355,1953 5049,2056 4359,2061 3693,2203"/>
+                <Baseline points="3693,2309 3747,2303 3836,2285 3926,2273 4015,2261 4105,2249 4194,2237 4284,2231 4373,2213 4463,2201 4552,2195 4642,2183 4731,2177 4821,2166 4910,2154 5000,2142 5089,2130 5179,2124 5268,2106 5358,2088 5447,2076 5537,2076"/>
+                <TextEquiv>
+                    <Unicode>Zeitweise blos Luternus u Tram¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="3948,2474 4131,2445 4268,2496 4494,2401 4626,2423 4702,2377 4807,2386 4817,2303 4653,2264 4584,2296 4523,2247 4300,2359 4156,2367 3965,2325"/>
+                <Baseline points="3962,2464 4009,2452 4099,2440 4188,2428 4278,2422 4367,2410 4457,2398 4546,2386 4636,2380 4725,2374 4815,2368"/>
+                <TextEquiv>
+                    <Unicode>versons -Parere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

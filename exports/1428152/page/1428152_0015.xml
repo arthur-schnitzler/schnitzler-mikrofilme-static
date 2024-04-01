@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_09:06</Creator>
+        <Created>2023-05-10T11:23:22.391+02:00</Created>
+        <LastChange>2023-07-28T09:06:07.897+02:00</LastChange>
+        <TranskribusMetadata docId="1428152" pageId="55386493" pageNr="15" tsid="131329245" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IITDBGCDCAHXURANYESBVDLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIEFBDREUFNNBNNDSWIQIUWP" imageId="44661390"/>
+    </Metadata>
+    <Page imageFilename="1428152_0015.jpg" imageWidth="3432" imageHeight="4840">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821146770" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1338,4252 2437,4252 2437,4340 1338,4340"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1331,4348 1732,4331 1797,4360 2153,4313 2287,4348 2434,4315 2435,4210 1334,4247"/>
+                <Baseline points="1338,4330 1407,4325 1493,4319 1579,4313 1664,4313 1750,4313 1836,4307 1922,4313 2008,4307 2093,4302 2179,4302 2265,4302 2351,4302 2437,4302"/>
+                <TextEquiv>
+                    <Unicode>Schaits-Buchdruckerei, Wien, IX. Alserstrasse 32.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

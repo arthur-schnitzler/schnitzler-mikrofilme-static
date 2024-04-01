@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_19:29</Creator>
+        <Created>2023-05-02T08:19:23.456+02:00</Created>
+        <LastChange>2023-07-27T19:29:40.054+02:00</LastChange>
+        <TranskribusMetadata docId="1416753" pageId="54954285" pageNr="44" tsid="131288531" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XKIJXRSSZTLQTDKRCXBRVHCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UUAPGLTSWYSIEMVRDLXWZSCR" imageId="44458010"/>
+    </Metadata>
+    <Page imageFilename="1416753_0044.jpg" imageWidth="3628" imageHeight="3720">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825759609" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1182,941 2283,941 2283,1329 1182,1329"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1171,1081 1554,1034 1711,1067 1850,1022 2099,1021 2103,937 1792,974 1655,949 1574,992 1178,962"/>
+                <Baseline points="1182,1041 1209,1035 1253,1038 1298,1033 1343,1035 1388,1033 1433,1030 1477,1027 1522,1027 1567,1024 1612,1024 1656,1021 1701,1021 1746,1018 1791,1015 1836,1015 1880,1009 1925,1006 1970,1003 2015,997 2060,994 2104,991"/>
+                <TextEquiv>
+                    <Unicode>sehr oft an Sie, grüße Rudi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1177,1256 1277,1269 1615,1188 2222,1173 2278,1163 2284,1066 1649,1081 1512,1129 1185,1097"/>
+                <Baseline points="1188,1176 1209,1179 1253,1176 1298,1176 1343,1173 1388,1170 1433,1167 1477,1167 1522,1164 1567,1164 1612,1158 1656,1155 1701,1152 1746,1149 1791,1143 1836,1146 1880,1143 1925,1140 1970,1137 2015,1134 2060,1134 2104,1131 2149,1125 2194,1125 2239,1125 2283,1125"/>
+                <TextEquiv>
+                    <Unicode>herzlich und hoffe gute Nachricht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1521,1392 1640,1370 1659,1380 1763,1329 1839,1333 1847,1245 1814,1215 1744,1218 1711,1197 1632,1186 1539,1217"/>
+                <Baseline points="1537,1319 1579,1313 1624,1310 1668,1307 1713,1304 1758,1298 1803,1292 1848,1283"/>
+                <TextEquiv>
+                    <Unicode>Jugo</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

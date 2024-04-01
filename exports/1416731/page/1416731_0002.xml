@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_03:15</Creator>
+        <Created>2023-05-02T07:55:59.653+02:00</Created>
+        <LastChange>2023-07-26T03:15:39.405+02:00</LastChange>
+        <TranskribusMetadata docId="1416731" pageId="54951954" pageNr="2" tsid="130881584" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DTJZHFNMOJNHLFHZOMGDXRUJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PTTMQQZWWLYOBTPFQAZTZPVC" imageId="44455680"/>
+    </Metadata>
+    <Page imageFilename="1416731_0002.jpg" imageWidth="5225" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828223267" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1073,492 4683,492 4683,606 1073,606"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1047,709 1548,564 2099,740 2920,591 4636,641 4672,492 1052,492"/>
+                <Baseline points="1073,596 1103,590 1193,584 1282,584 1372,578 1461,584 1551,578 1640,572 1730,578 1819,578 1909,578 1998,578 2088,578 2177,578 2267,578 2356,578 2446,578 2535,578 2625,566 2714,560 2803,560 2893,566 2982,566 3072,566 3161,560 3251,560 3340,560 3430,560 3519,560 3609,560 3698,560 3788,554 3877,548 3967,548 4056,548 4146,542 4235,548 4325,542 4414,548 4504,548 4593,554 4683,554"/>
+                <TextEquiv>
+                    <Unicode>„ 4 „ —„ — „ 4„ „ -„ - „ 5„ 1„ 50 „ rf j „ i„,, p. p.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

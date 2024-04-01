@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_01:00</Creator>
+        <Created>2023-05-01T21:48:23.164+02:00</Created>
+        <LastChange>2023-07-25T01:00:13.081+02:00</LastChange>
+        <TranskribusMetadata docId="1416402" pageId="54944629" pageNr="3" tsid="130579398" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VMUHVPBAGGATUHGSEEYOCHLN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMLOQYAPFAYTADBLUXRTBOAU" imageId="44448715"/>
+    </Metadata>
+    <Page imageFilename="1416402_0003.jpg" imageWidth="5080" imageHeight="4058">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832826742" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1867,1250 3318,1250 3318,1836 1867,1836"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1882,1369 2095,1301 2203,1367 2354,1307 2623,1356 3301,1358 3298,1212 3098,1247 2868,1102 2786,1107 2626,1227 2494,1234 2309,1143 2194,1169 2022,1069 1877,1107"/>
+                <Baseline points="1891,1312 1981,1306 2070,1300 2160,1306 2249,1312 2339,1312 2428,1318 2518,1318 2607,1318 2697,1318 2786,1318 2876,1324 2965,1324 3055,1330 3144,1330 3234,1330 3306,1330"/>
+                <TextEquiv>
+                    <Unicode>Briefe au Richard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1857,1561 1942,1595 2124,1546 2575,1566 2726,1637 3066,1572 3314,1621 3312,1465 2902,1465 2755,1369 2577,1374 2358,1486 1855,1385"/>
+                <Baseline points="1867,1557 1957,1557 2046,1551 2136,1545 2225,1551 2315,1557 2404,1557 2494,1551 2583,1551 2673,1551 2763,1545 2852,1551 2942,1551 3031,1563 3121,1569 3210,1569 3300,1575 3318,1581"/>
+                <TextEquiv>
+                    <Unicode>Beer - Hofmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2100,1842 2227,1860 2340,1830 2389,1857 2623,1819 2801,1895 2955,1837 2957,1617 2728,1639 2644,1617 2488,1664 2249,1597 2102,1621"/>
+                <Baseline points="2112,1820 2154,1820 2243,1826 2333,1820 2422,1820 2512,1820 2601,1820 2691,1820 2780,1820 2870,1814 2959,1814"/>
+                <TextEquiv>
+                    <Unicode>Abschrift</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

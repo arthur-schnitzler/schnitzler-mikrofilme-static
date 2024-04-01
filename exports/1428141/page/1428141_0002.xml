@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_08:51</Creator>
+        <Created>2023-05-10T11:17:00.932+02:00</Created>
+        <LastChange>2023-07-28T08:51:10.641+02:00</LastChange>
+        <TranskribusMetadata docId="1428141" pageId="55385140" pageNr="2" tsid="131326996" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NBAECVABUCGMCJMQRKLGEOMD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ERZFPKXJTATBOQNIDLJJOLPR" imageId="44660039"/>
+    </Metadata>
+    <Page imageFilename="1428141_0002.jpg" imageWidth="5032" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711822698999" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2779,647 4330,647 4330,3302 2779,3302"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2768,702 3583,722 3632,673 3680,722 3866,685 3921,724 4002,687 4055,726 4315,722 4313,627 3994,642 3942,592 3890,644 3215,603 3158,663 3059,603 2846,598 2766,662"/>
+                <Baseline points="2779,703 2869,697 2958,703 3048,703 3137,703 3227,703 3316,703 3406,703 3495,703 3585,709 3674,709 3764,709 3853,709 3943,709 4032,709 4122,709 4211,715 4301,721 4319,721"/>
+                <TextEquiv>
+                    <Unicode>DERrt GeIST IM WORT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3444,830 3498,852 3519,834 3537,848 3562,840 3581,848 3589,838 3616,852 3669,838 3669,792 3651,792 3630,776 3610,776 3597,792 3581,778 3540,776 3527,790 3509,774 3490,772 3471,784 3444,786"/>
+                <Baseline points="3454,829 3543,835 3633,835 3674,835"/>
+                <TextEquiv>
+                    <Unicode>UND</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2768,991 4324,1009 4322,920 4254,914 4082,914 4033,958 3977,912 3775,908 3729,951 3684,908 3174,896 3083,943 3040,900 2844,896 2766,947"/>
+                <Baseline points="2779,990 2869,984 2958,984 3048,990 3137,984 3227,990 3316,990 3406,996 3495,996 3585,996 3674,996 3764,996 3853,996 3943,1002 4032,1002 4122,1002 4211,1002 4301,1008 4330,1014"/>
+                <TextEquiv>
+                    <Unicode>DERGEIST IN DER TAT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3317,1342 3345,1356 3374,1342 3391,1360 3422,1346 3438,1358 3575,1346 3595,1360 3663,1346 3729,1360 3820,1350 3820,1317 3775,1290 3750,1313 3731,1298 3713,1315 3692,1296 3670,1313 3649,1292 3626,1315 3601,1292 3570,1313 3546,1290 3515,1315 3492,1298 3476,1311 3397,1298 3376,1310 3360,1294 3317,1310"/>
+                <Baseline points="3328,1342 3418,1342 3507,1348 3597,1348 3686,1348 3776,1348 3823,1354"/>
+                <TextEquiv>
+                    <Unicode>VORLÄUFIGE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2863,1490 4229,1504 4229,1430 3969,1465 3919,1426 3841,1459 3806,1424 3748,1457 3581,1424 3531,1459 3467,1424 3420,1459 3383,1422 2941,1422 2863,1459"/>
+                <Baseline points="2875,1485 2964,1485 3054,1485 3143,1485 3233,1485 3322,1485 3412,1485 3501,1485 3591,1485 3680,1485 3770,1485 3859,1485 3949,1491 4038,1491 4128,1491 4217,1491 4235,1497"/>
+                <TextEquiv>
+                    <Unicode>BEMERKUNGEN ZU ZWEI DIAGRAMMAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3467,1616 3482,1616 3500,1633 3517,1632 3529,1618 3546,1635 3570,1632 3579,1622 3597,1635 3634,1633 3632,1575 3603,1573 3585,1595 3579,1595 3552,1569 3525,1569 3511,1571 3490,1595 3467,1595"/>
+                <Baseline points="3477,1616 3567,1616 3638,1622"/>
+                <TextEquiv>
+                    <Unicode>VON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="2953,1777 4072,1793 4144,1785 4144,1730 2951,1723"/>
+                <Baseline points="2964,1777 3054,1771 3143,1771 3233,1771 3322,1777 3412,1771 3501,1777 3591,1777 3680,1777 3770,1777 3859,1777 3949,1783 4038,1783 4128,1783 4146,1783"/>
+                <TextEquiv>
+                    <Unicode>ARTHUR SCHNITZLES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2786,3282 4229,3288 4229,3226 3934,3209 3638,3255 3379,3218 3315,3259 3275,3224 2786,3217"/>
+                <Baseline points="2797,3281 2887,3281 2976,3281 3066,3281 3155,3287 3245,3287 3334,3287 3424,3287 3513,3287 3603,3287 3692,3287 3782,3287 3871,3287 3961,3287 4050,3287 4140,3287 4229,3292 4235,3292"/>
+                <TextEquiv>
+                    <Unicode>S. FISCHER / VerLAG / BERLIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

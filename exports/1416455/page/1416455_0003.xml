@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_09:18</Creator>
+        <Created>2023-05-01T22:03:22.264+02:00</Created>
+        <LastChange>2023-07-25T09:18:11.711+02:00</LastChange>
+        <TranskribusMetadata docId="1416455" pageId="54947546" pageNr="3" tsid="130592006" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JTDJQNZXWFRMBGBMEOERALFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MOTYPIUSDJACKDANXBJCLFXS" imageId="44451623"/>
+    </Metadata>
+    <Page imageFilename="1416455_0003.jpg" imageWidth="5083" imageHeight="4489">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830296351" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="937,1633 4029,1633 4029,2135 937,2135"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="914,1850 1042,1880 1110,1844 1140,1866 1250,1846 1308,1808 1430,1848 1562,1836 1590,1516 1510,1542 1404,1516 1320,1560 1240,1556 1194,1506 1114,1482 1026,1524 944,1516"/>
+                <Baseline points="937,1725 955,1725 1044,1725 1134,1719 1223,1719 1313,1707 1402,1689 1492,1683 1581,1683"/>
+                <TextEquiv>
+                    <Unicode>Lindau, Paul</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1644,1944 1716,1952 1832,1880 1908,1886 2028,1820 2176,1912 2454,1886 2452,1692 2332,1700 2258,1668 2026,1756 1772,1680 1640,1688"/>
+                <Baseline points="1653,1814 1743,1826 1832,1826 1922,1832 2011,1832 2101,1832 2190,1832 2280,1832 2369,1832 2459,1838 2465,1832"/>
+                <TextEquiv>
+                    <Unicode>11/ 1895 - 26/2/1906</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3390,2016 3548,2046 3626,2008 3654,2022 3688,1992 3714,1990 3830,2032 3838,1924 3776,1918 3720,1862 3644,1896 3600,1868 3542,1884 3512,1860 3402,1856"/>
+                <Baseline points="3402,2005 3480,1993 3569,1981 3659,1975 3748,1975 3838,1975"/>
+                <TextEquiv>
+                    <Unicode>4 letters</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3396,2162 3492,2194 3568,2174 3638,2184 3716,2148 3756,2172 3808,2152 3876,2172 3912,2150 3980,2168 4024,2152 4026,2024 3856,2020 3772,2054 3626,2006 3494,2058 3466,2038 3398,2042"/>
+                <Baseline points="3408,2119 3498,2125 3587,2119 3677,2113 3766,2107 3856,2107 3945,2113 4029,2125"/>
+                <TextEquiv>
+                    <Unicode>2 post cards.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

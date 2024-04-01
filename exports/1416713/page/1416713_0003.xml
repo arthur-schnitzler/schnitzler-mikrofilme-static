@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_10:44</Creator>
+        <Created>2023-05-02T07:48:30.961+02:00</Created>
+        <LastChange>2023-07-25T10:44:03.503+02:00</LastChange>
+        <TranskribusMetadata docId="1416713" pageId="54950822" pageNr="3" tsid="130599318" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LIKCYEJQQBLLDVJMYJNEGJZX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CHSQQQEUQNXFJEAUSGSERXDL" imageId="44454548"/>
+    </Metadata>
+    <Page imageFilename="1416713_0003.jpg" imageWidth="4408" imageHeight="3561">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828618503" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1137,1111 2656,1111 2656,1383 1137,1383"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1126,1174 1154,1170 1186,1192 1214,1180 1228,1194 1264,1176 1292,1186 1336,1170 1424,1174 1426,1034 1370,1028 1340,1044 1310,1034 1288,1046 1240,1028 1218,1038 1128,1026"/>
+                <Baseline points="1137,1164 1161,1167 1205,1167 1250,1167 1295,1167 1340,1164 1384,1161 1429,1161"/>
+                <TextEquiv>
+                    <Unicode>Mlenthe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2568,1350 2578,1350 2598,1364 2602,1362 2622,1380 2630,1376 2654,1376 2650,1306 2638,1304 2620,1312 2604,1312 2598,1306 2586,1306 2584,1310 2566,1308"/>
+                <Baseline points="2578,1346 2623,1349 2656,1349"/>
+                <TextEquiv>
+                    <Unicode>ance.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2376,1366 2414,1366 2420,1362 2426,1366 2440,1356 2450,1360 2474,1356 2474,1270 2454,1270 2442,1278 2430,1274 2410,1280 2406,1276 2398,1282 2392,1278 2376,1278"/>
+                <Baseline points="2387,1349 2432,1349 2477,1349"/>
+                <TextEquiv>
+                    <Unicode>on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1534,1402 1568,1404 1630,1438 1744,1380 1766,1386 1802,1370 1890,1376 1918,1396 1926,1242 1900,1230 1884,1242 1822,1232 1764,1248 1708,1230 1656,1250 1542,1232"/>
+                <Baseline points="1546,1373 1567,1373 1611,1370 1656,1373 1701,1370 1746,1367 1790,1364 1835,1361 1880,1361 1925,1355"/>
+                <TextEquiv>
+                    <Unicode>Burgtheate</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

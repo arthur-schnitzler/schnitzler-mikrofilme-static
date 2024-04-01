@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_10:33</Creator>
+        <Created>2023-05-02T08:16:43.457+02:00</Created>
+        <LastChange>2023-07-26T10:33:00.909+02:00</LastChange>
+        <TranskribusMetadata docId="1416745" pageId="54953562" pageNr="2" tsid="130930224" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NECMXJZYDEBFSBOSBNAJVTCL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EWMTCAGAUGOUANGKCCAQYXED" imageId="44457287"/>
+    </Metadata>
+    <Page imageFilename="1416745_0002.jpg" imageWidth="3880" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825886935" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="853,967 2422,967 2422,1328 853,1328"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="833,1229 925,1254 963,1220 1050,1230 1295,1155 1373,1193 1493,1169 1597,1188 1615,847 1413,878 1271,850 1181,879 1067,847 961,878 854,862"/>
+                <Baseline points="853,1056 895,1056 939,1056 984,1053 1029,1053 1074,1050 1118,1050 1163,1044 1208,1041 1253,1038 1297,1035 1342,1032 1387,1032 1432,1029 1476,1026 1521,1026 1566,1020 1611,1017"/>
+                <TextEquiv>
+                    <Unicode>ARTHUR SCHVITZLER.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1678,1334 1835,1312 1900,1348 2142,1293 2234,1315 2282,1297 2329,1338 2418,1355 2421,1213 2236,1191 2074,1237 2028,1227 1990,1256 1842,1217 1680,1230"/>
+                <Baseline points="1688,1303 1706,1303 1751,1306 1796,1303 1841,1306 1885,1303 1930,1303 1975,1303 2020,1300 2064,1297 2109,1294 2154,1291 2199,1291 2243,1291 2288,1291 2333,1294 2378,1294 2422,1297"/>
+                <TextEquiv>
+                    <Unicode>Theodor v. Sosnosky</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1135,1363 1191,1372 1252,1355 1281,1368 1334,1344 1401,1373 1457,1356 1568,1365 1576,1212 1522,1203 1343,1263 1292,1242 1142,1232"/>
+                <Baseline points="1148,1318 1172,1318 1217,1318 1262,1318 1306,1315 1351,1309 1396,1309 1441,1309 1485,1303 1530,1300 1575,1306"/>
+                <TextEquiv>
+                    <Unicode>Letters to</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_09:01</Creator>
+        <Created>2023-05-01T22:03:15.846+02:00</Created>
+        <LastChange>2023-07-25T09:01:07.324+02:00</LastChange>
+        <TranskribusMetadata docId="1416454" pageId="54947516" pageNr="3" tsid="130590253" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MLWYHCJGPRFYZMGWSOHMNXNF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RCCTQRTCPWVAZEIRWWGIYWAE" imageId="44451593"/>
+    </Metadata>
+    <Page imageFilename="1416454_0003.jpg" imageWidth="4990" imageHeight="4568">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830304268" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="716,863 3779,863 3779,2010 716,2010"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2010,940 2074,968 2298,919 2341,943 2377,927 2537,951 2665,927 2672,740 2577,736 2541,758 2326,726 2283,748 2235,714 2124,745 2019,715"/>
+                <Baseline points="2018,937 2042,937 2131,937 2221,931 2310,925 2400,919 2490,919 2579,919 2669,913"/>
+                <TextEquiv>
+                    <Unicode>SCHNITZIER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="993,1010 1068,988 1117,1020 1249,974 1352,1010 1627,963 1691,990 1765,941 1892,968 1906,745 1788,726 1606,766 1009,773"/>
+                <Baseline points="1003,997 1092,991 1182,991 1271,985 1361,979 1451,973 1540,961 1630,955 1719,955 1809,949 1898,943"/>
+                <TextEquiv>
+                    <Unicode>Hers to ARTHUR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="704,1826 866,1790 971,1826 1395,1666 1964,1690 1966,1583 1850,1545 1744,1567 1636,1501 1144,1589 712,1443"/>
+                <Baseline points="716,1677 806,1677 895,1677 985,1677 1074,1671 1164,1671 1253,1665 1343,1660 1433,1660 1522,1665 1612,1660 1701,1660 1791,1660 1880,1654 1970,1648"/>
+                <TextEquiv>
+                    <Unicode>Liliencrou, Detter von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1484,2053 1663,2044 1790,2008 1909,2019 2181,1917 2179,1779 2061,1799 1919,1721 1774,1748 1730,1713 1675,1730 1650,1712 1482,1748"/>
+                <Baseline points="1492,1857 1582,1863 1671,1857 1761,1863 1851,1863 1940,1863 2030,1857 2119,1863 2185,1863"/>
+                <TextEquiv>
+                    <Unicode>9/12/96 — 27</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3236,2058 3367,2041 3421,2066 3462,2050 3558,2075 3654,2039 3770,2041 3779,1892 3743,1901 3701,1865 3649,1895 3607,1884 3465,1917 3429,1903 3395,1928 3246,1903"/>
+                <Baseline points="3248,2000 3331,2000 3421,2000 3511,1994 3600,1982 3690,1982 3779,1976"/>
+                <TextEquiv>
+                    <Unicode>2p carr ds</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

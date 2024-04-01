@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:24</Creator>
+        <Created>2023-05-02T08:21:29.315+02:00</Created>
+        <LastChange>2023-07-27T22:24:23.303+02:00</LastChange>
+        <TranskribusMetadata docId="1416758" pageId="54954562" pageNr="1" tsid="131305427" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XNETLPCIWAJXFMGTIEMPGMPB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LIKZRVQDUREKCIIXVLONOXMC" imageId="44458287"/>
+    </Metadata>
+    <Page imageFilename="1416758_0001.jpg" imageWidth="6136" imageHeight="3625">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825546445" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2251,809 3684,809 3684,2948 2251,2948"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2244,873 2787,845 2966,907 3031,873 3153,907 3383,883 3145,793 2958,842 2728,836 2617,752 2539,816 2243,806"/>
+                <Baseline points="2251,859 2341,859 2430,859 2520,859 2609,859 2699,859 2788,859 2878,865 2968,865 3057,865 3147,865 3236,871 3326,871 3386,883"/>
+                <TextEquiv>
+                    <Unicode>duks Haus in quiliger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2308,969 2784,977 2881,1051 2995,995 3135,987 3285,1106 3381,1130 3373,940 3275,910 3222,946 3108,880 3031,940 2933,953 2886,922 2433,919 2350,876 2306,907"/>
+                <Baseline points="2317,967 2406,967 2496,967 2585,973 2675,967 2765,973 2854,985 2944,991 3033,985 3123,985 3212,991 3302,1003 3380,1027"/>
+                <TextEquiv>
+                    <Unicode>Eriuneemens je beholle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2319,2756 2712,2764 2875,2713 2994,2725 3059,2779 3147,2720 3288,2764 3490,2744 3490,2705 3315,2637 3217,2661 3135,2598 2956,2691 2622,2635 2424,2702 2319,2689"/>
+                <Baseline points="2329,2705 2418,2717 2508,2723 2597,2723 2687,2723 2776,2717 2866,2717 2956,2717 3045,2717 3135,2723 3224,2723 3314,2723 3404,2729 3493,2735"/>
+                <TextEquiv>
+                    <Unicode>Mit könne Iroßen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2373,2870 3523,2911 3681,2955 3655,2730 3567,2779 3210,2775 2997,2860 2743,2787 2586,2832 2502,2771 2368,2769"/>
+                <Baseline points="2382,2866 2472,2866 2561,2872 2651,2872 2741,2878 2830,2878 2920,2878 3009,2884 3099,2884 3189,2884 3278,2890 3368,2896 3457,2902 3547,2914 3636,2926 3684,2938"/>
+                <TextEquiv>
+                    <Unicode>The velrein atles (the re)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

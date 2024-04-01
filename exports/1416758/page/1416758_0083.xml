@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:24</Creator>
+        <Created>2023-05-02T08:21:40.408+02:00</Created>
+        <LastChange>2023-07-27T22:24:51.798+02:00</LastChange>
+        <TranskribusMetadata docId="1416758" pageId="54954799" pageNr="83" tsid="131305515" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PITIIYQAJQDRQOXVQCIIUBKW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CZIUPTMSBLIGFZFJXQAKTFXF" imageId="44458524"/>
+    </Metadata>
+    <Page imageFilename="1416758_0083.jpg" imageWidth="6216" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825608941" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="896,386 3990,386 3990,589 896,589"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3093,476 3287,438 3477,480 3527,449 3579,484 3634,438 3730,436 3924,476 3985,456 3987,190 3841,183 3682,251 3531,205 3385,207 3359,233 3239,194 3095,209"/>
+                <Baseline points="3106,442 3183,436 3273,442 3363,442 3452,442 3542,436 3631,436 3721,436 3811,442 3900,436 3990,436"/>
+                <TextEquiv>
+                    <Unicode>Dr. Arthur Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="879,746 1025,763 1566,576 2633,556 2644,185 894,155"/>
+                <Baseline points="896,579 937,579 1027,555 1117,555 1206,543 1296,543 1385,543 1475,543 1565,531 1654,531 1744,525 1833,531 1923,525 2013,525 2102,525 2192,519 2281,519 2371,519 2461,519 2550,519 2640,519"/>
+                <TextEquiv>
+                    <Unicode>haft, es ist ein geschwindeller Cite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3163,617 3224,611 3257,578 3289,591 3302,578 3318,580 3311,452 3272,443 3257,458 3250,454 3239,460 3226,449 3217,454 3202,443 3185,443 3167,460 3156,460"/>
+                <Baseline points="3171,531 3261,537 3321,537"/>
+                <TextEquiv>
+                    <Unicode>Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3433,591 3507,598 3549,582 3564,598 3588,585 3654,604 3732,593 3774,613 3832,580 3859,606 3883,604 3883,486 3752,445 3680,465 3564,445 3483,480 3433,476"/>
+                <Baseline points="3446,537 3530,537 3619,537 3709,537 3799,537 3888,531"/>
+                <TextEquiv>
+                    <Unicode>S. spoettelgasse</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

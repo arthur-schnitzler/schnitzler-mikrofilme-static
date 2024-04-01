@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_06:42</Creator>
+        <Created>2023-05-10T11:30:35.225+02:00</Created>
+        <LastChange>2023-08-01T06:42:24.252+02:00</LastChange>
+        <TranskribusMetadata docId="1428157" pageId="55388617" pageNr="179" tsid="131652674" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JZLTSEQGZETOPRJAKQNBYYQE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XIFOMTWVQBGIPFAXJOIWATMJ" imageId="44663508"/>
+    </Metadata>
+    <Page imageFilename="1428157_0179.jpg" imageWidth="3144" imageHeight="4520">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711819897813" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1319,406 2298,406 2298,484 1319,484"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1306,772 1363,786 1523,713 1782,703 2259,800 2288,788 2296,441 1877,440 1819,405 1312,448"/>
+                <Baseline points="1319,474 1358,474 1403,474 1447,474 1492,468 1537,468 1582,471 1627,468 1671,465 1716,465 1761,462 1806,459 1850,462 1895,462 1940,459 1985,459 2030,456 2074,456 2119,456 2164,459 2209,456 2254,456 2298,456"/>
+                <TextEquiv>
+                    <Unicode>Gouvernement mais elle eut a beaucune</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

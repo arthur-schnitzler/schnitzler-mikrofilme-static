@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:38</Creator>
+        <Created>2023-05-10T11:23:09.615+02:00</Created>
+        <LastChange>2023-08-01T03:38:03.306+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55386727" pageNr="38" tsid="131649229" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LTLPTLUWVGYJYOYJOYICYYYJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RDNNTHMRWBPUJCFKDRDLTGTZ" imageId="44661624"/>
+    </Metadata>
+    <Page imageFilename="1428151_0038.jpg" imageWidth="6904" imageHeight="4840">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821304519" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="776,302 6429,302 6429,1151 776,1151"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="762,526 949,464 1253,488 1318,441 1486,492 1598,444 1766,478 1762,188 1503,212 1465,249 1373,184 1240,219 1117,184 758,270"/>
+                <Baseline points="776,352 866,352 956,352 1045,352 1135,352 1224,352 1314,358 1404,358 1493,358 1583,364 1673,358 1762,364 1768,364"/>
+                <TextEquiv>
+                    <Unicode>de la rivierement de la viele</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3664,857 4696,669 5334,721 5474,649 5662,741 5846,652 6079,731 6372,676 6376,584 5546,468 4771,618 4057,550 3671,635"/>
+                <Baseline points="3686,770 3692,764 3782,758 3872,746 3961,740 4051,728 4140,723 4230,717 4320,705 4409,699 4499,687 4589,681 4678,675 4768,675 4857,675 4947,675 5037,669 5126,663 5216,663 5306,663 5395,663 5485,663 5574,657 5664,657 5754,651 5843,651 5933,651 6023,651 6112,651 6202,645 6292,645 6381,645"/>
+                <TextEquiv>
+                    <Unicode>In 3 F. von Lagericen bei Tahes Körperscheinungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3675,1018 3907,1079 4091,939 4317,987 4675,864 6236,840 6290,697 5843,652 5679,765 5263,765 5078,680 4521,779 4375,707 3685,833"/>
+                <Baseline points="3698,938 3782,944 3872,932 3961,926 4051,920 4140,914 4230,902 4320,896 4409,890 4499,878 4589,872 4678,866 4768,860 4857,854 4947,848 5037,842 5126,836 5216,836 5306,836 5395,830 5485,824 5574,824 5664,818 5754,818 5843,806 5933,800 6023,794 6112,788 6202,782 6292,776"/>
+                <TextEquiv>
+                    <Unicode>i doppels. Adduit confrectui. (Sequer &amp;r avis)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3671,1216 4897,1110 5286,1175 5700,1018 6413,1137 6434,833 6045,799 5293,970 4986,871 4501,1035 4194,953 3876,1093 3685,1045"/>
+                <Baseline points="3698,1135 3740,1141 3830,1129 3919,1123 4009,1111 4099,1111 4188,1105 4278,1099 4367,1099 4457,1093 4547,1099 4636,1093 4726,1087 4816,1081 4905,1069 4995,1057 5084,1045 5174,1039 5264,1033 5353,1027 5443,1027 5533,1021 5622,1015 5712,1009 5802,1003 5891,991 5981,985 6070,985 6160,973 6250,968 6339,956 6429,956"/>
+                <TextEquiv>
+                    <Unicode>Zusammenhang zwischen den Kriegerschein u Anfall</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

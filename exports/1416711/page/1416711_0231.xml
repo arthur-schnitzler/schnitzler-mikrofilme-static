@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_05:07</Creator>
+        <Created>2023-05-02T07:47:32.795+02:00</Created>
+        <LastChange>2023-07-26T05:07:51.184+02:00</LastChange>
+        <TranskribusMetadata docId="1416711" pageId="54951700" pageNr="231" tsid="130896194" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MQSYFNYNEYNITAWIHXWNTETL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RADSAORIHUQHVPZACAXEGNAY" imageId="44455426"/>
+    </Metadata>
+    <Page imageFilename="1416711_0231.jpg" imageWidth="3490" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828875591" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1217,1111 2381,1111 2381,2132 1217,2132"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1248,1200 1414,1190 1559,1237 1900,1200 2344,1220 2344,1109 2301,1126 2124,1061 1822,1124 1559,1129 1379,1051 1248,1094"/>
+                <Baseline points="1256,1161 1301,1169 1346,1178 1390,1184 1435,1187 1480,1190 1525,1193 1569,1196 1614,1199 1659,1199 1704,1202 1749,1202 1793,1199 1838,1199 1883,1196 1928,1190 1972,1187 2017,1181 2032,1178 2056,1175 2101,1178 2145,1181 2190,1184 2235,1184 2280,1187 2325,1190 2348,1196"/>
+                <TextEquiv>
+                    <Unicode>zusammen bin,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1569,1476 1741,1488 1782,1464 1833,1466 1905,1416 2071,1417 2064,1305 1888,1312 1748,1274 1556,1280"/>
+                <Baseline points="1569,1358 1614,1364 1659,1366 1704,1372 1749,1378 1793,1381 1838,1384 1883,1387 1928,1390 1972,1393 2017,1390 2062,1387 2074,1387"/>
+                <TextEquiv>
+                    <Unicode>Geschreiben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2094,1467 2128,1474 2164,1470 2215,1484 2263,1477 2232,1336 2192,1349 2175,1365 2165,1363 2134,1396 2111,1403 2084,1426"/>
+                <Baseline points="2098,1447 2143,1450 2187,1459 2232,1474 2267,1478"/>
+                <TextEquiv>
+                    <Unicode>Mr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1237,1930 1555,1900 1712,1981 1878,1886 2078,1907 2152,1870 2378,1935 2381,1809 2086,1792 1901,1826 1744,1761 1617,1832 1240,1798"/>
+                <Baseline points="1247,1898 1292,1904 1337,1907 1381,1904 1426,1904 1471,1904 1516,1904 1560,1898 1605,1892 1650,1892 1695,1892 1740,1889 1784,1886 1829,1886 1874,1889 1919,1889 1963,1883 2008,1883 2053,1883 2098,1880 2143,1877 2187,1883 2232,1889 2277,1889 2322,1895 2366,1898 2381,1901"/>
+                <TextEquiv>
+                    <Unicode>Wenn fitz nicht bitte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1213,2162 1390,2144 1434,2171 1657,2171 1729,2124 1786,2124 1782,2040 1694,2010 1656,2046 1505,1989 1368,2034 1298,2015 1248,2037 1206,2013"/>
+                <Baseline points="1217,2089 1262,2095 1307,2101 1352,2104 1396,2107 1441,2110 1486,2110 1531,2113 1575,2116 1620,2116 1665,2119 1710,2122 1754,2119 1790,2113"/>
+                <TextEquiv>
+                    <Unicode>eine Zeile.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

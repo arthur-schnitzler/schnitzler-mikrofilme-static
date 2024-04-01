@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_03:11</Creator>
+        <Created>2023-05-02T07:52:56.851+02:00</Created>
+        <LastChange>2023-07-26T03:11:16.380+02:00</LastChange>
+        <TranskribusMetadata docId="1416723" pageId="54951711" pageNr="56" tsid="130880984" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZLAYOYCTNKOIRXHNMPFCMIQL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HGCGTRHMKZWWWXIANRRWJVZL" imageId="44455437"/>
+    </Metadata>
+    <Page imageFilename="1416723_0056.jpg" imageWidth="4349" imageHeight="4616">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828453290" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="453,484 3147,484 3147,1679 453,1679"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3001,611 3019,611 3035,625 3087,597 3103,617 3134,623 3152,442 3081,430 3071,418 3049,408 3043,412 3031,398 3023,398"/>
+                <Baseline points="3018,546 3057,543 3102,537 3147,534"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="442,649 557,635 599,655 659,633 730,657 898,611 971,633 1059,591 1144,595 1144,456 1047,414 951,428 892,464 844,442 679,470 442,452"/>
+                <Baseline points="453,552 477,549 522,549 567,546 612,549 656,555 701,552 746,558 791,558 836,558 880,558 925,561 970,558 1015,552 1059,549 1104,546 1149,540"/>
+                <TextEquiv>
+                    <Unicode>1: — „ „ —: —:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1445,1395 1745,1439 1855,1391 1932,1435 2713,1413 3013,1373 3015,1294 2376,1349 2205,1304 1447,1335"/>
+                <Baseline points="1457,1391 1498,1391 1543,1391 1588,1391 1633,1391 1678,1391 1722,1388 1767,1388 1812,1388 1857,1388 1901,1388 1946,1388 1991,1388 2036,1388 2081,1385 2125,1385 2170,1382 2215,1382 2260,1382 2305,1382 2349,1379 2394,1379 2439,1379 2484,1379 2528,1379 2573,1376 2618,1376 2663,1376 2708,1376 2752,1376 2797,1373 2842,1373 2887,1370 2932,1370 2976,1367 3021,1364"/>
+                <TextEquiv>
+                    <Unicode>wenn sie doch”. Es war freilich am Schluß so verhault, daß ich gar Niemanden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1461,1564 3075,1507 3075,1461 2985,1431 2776,1475 1463,1445"/>
+                <Baseline points="1474,1534 1513,1528 1558,1528 1603,1528 1648,1525 1692,1525 1737,1525 1782,1522 1827,1522 1872,1519 1916,1522 1961,1522 2006,1522 2051,1522 2096,1522 2140,1519 2185,1519 2230,1519 2275,1516 2319,1516 2364,1513 2409,1513 2454,1510 2499,1507 2543,1507 2588,1507 2633,1507 2678,1507 2723,1507 2767,1507 2812,1504 2857,1504 2902,1504 2946,1504 2991,1504 3036,1504 3081,1507"/>
+                <TextEquiv>
+                    <Unicode>gesehen habe – für mich ist es so aufwählend schön, daß ist kamm ertragen kann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1672,1700 1708,1694 1743,1727 1813,1696 1883,1702 1942,1666 2018,1692 2245,1650 2344,1674 2436,1656 2438,1608 2358,1576 2253,1588 2199,1562 2064,1600 1992,1586 1805,1616 1676,1576"/>
+                <Baseline points="1686,1666 1725,1669 1770,1669 1815,1666 1860,1666 1904,1666 1949,1666 1994,1663 2039,1663 2084,1660 2128,1657 2173,1654 2218,1651 2263,1648 2308,1648 2352,1648 2397,1645 2442,1645"/>
+                <TextEquiv>
+                    <Unicode>Nachmals alles kann nur diek!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

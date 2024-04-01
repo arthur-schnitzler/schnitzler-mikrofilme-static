@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_17:43</Creator>
+        <Created>2023-05-02T08:19:14.844+02:00</Created>
+        <LastChange>2023-07-27T17:43:17.830+02:00</LastChange>
+        <TranskribusMetadata docId="1416752" pageId="54954084" pageNr="1" tsid="131276404" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NGWLPECLOTOYVIKMXQVBZYQE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GSOPYWFFWWAUHODIWUYMTWQR" imageId="44457809"/>
+    </Metadata>
+    <Page imageFilename="1416752_0001.jpg" imageWidth="2770" imageHeight="3639">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825806603" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="973,1654 1743,1654 1743,1807 973,1807"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="962,1716 1004,1710 1060,1730 1080,1716 1092,1726 1160,1716 1182,1728 1314,1712 1362,1734 1362,1646 1340,1640 1232,1668 1194,1652 1160,1666 1108,1632 1082,1646 1044,1624 998,1652 962,1650"/>
+                <Baseline points="973,1704 1017,1704 1062,1707 1107,1707 1152,1704 1197,1707 1241,1707 1286,1707 1331,1707 1367,1704"/>
+                <TextEquiv>
+                    <Unicode>ten. (12.X.189)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1412,1740 1444,1728 1474,1742 1546,1714 1624,1716 1656,1730 1706,1714 1740,1716 1740,1622 1702,1630 1682,1618 1650,1638 1586,1640 1544,1656 1476,1628 1412,1652"/>
+                <Baseline points="1423,1704 1468,1704 1510,1707 1534,1704 1579,1704 1623,1704 1668,1704 1713,1704 1743,1704"/>
+                <TextEquiv>
+                    <Unicode>und 12.11.18</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="978,1814 1028,1820 1048,1806 1070,1824 1104,1824 1140,1802 1210,1810 1230,1824 1264,1802 1350,1812 1348,1744 1272,1754 1214,1722 1182,1728 1160,1716 1028,1758 976,1738"/>
+                <Baseline points="988,1794 1032,1794 1077,1794 1122,1794 1167,1794 1212,1794 1256,1797 1301,1797 1346,1797 1355,1794"/>
+                <TextEquiv>
+                    <Unicode>Dorotheum Wien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1428,1820 1480,1806 1566,1830 1584,1814 1624,1824 1660,1806 1686,1806 1736,1826 1736,1752 1678,1758 1648,1734 1640,1742 1626,1732 1604,1738 1546,1712 1476,1744 1446,1728 1428,1732"/>
+                <Baseline points="1438,1794 1483,1794 1528,1794 1573,1794 1617,1794 1662,1794 1707,1794 1740,1797"/>
+                <TextEquiv>
+                    <Unicode>28. Januar 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

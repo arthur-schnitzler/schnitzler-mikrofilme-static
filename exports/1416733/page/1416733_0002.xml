@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_03:23</Creator>
+        <Created>2023-05-02T07:56:16.460+02:00</Created>
+        <LastChange>2023-07-26T03:23:47.573+02:00</LastChange>
+        <TranskribusMetadata docId="1416733" pageId="54952005" pageNr="2" tsid="130882371" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IFCWRSZRSHBESPPYWAZDZWPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SSHZKHUSPWHCDBWBPQQIWZVT" imageId="44455731"/>
+    </Metadata>
+    <Page imageFilename="1416733_0002.jpg" imageWidth="5241" imageHeight="4199">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828214399" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1336,832 4300,832 4300,1835 1336,1835"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2144,1104 2611,1157 3192,919 4002,936 4102,887 4114,676 2164,749"/>
+                <Baseline points="2165,990 2230,984 2320,978 2409,972 2499,972 2588,960 2678,954 2767,954 2856,948 2946,942 3035,936 3125,930 3214,930 3304,924 3393,918 3483,912 3572,906 3662,906 3751,900 3841,894 3930,888 4020,882 4109,882"/>
+                <TextEquiv>
+                    <Unicode>LETTERS TO ARTHUR SCHNITZER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1320,1242 1410,1211 1451,1242 1488,1228 1500,793 1476,780 1425,805 1381,785 1332,790"/>
+                <Baseline points="1336,1115 1407,1109 1497,1109"/>
+                <TextEquiv>
+                    <Unicode>112</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1359,1507 1503,1498 1636,1537 1916,1427 2006,1422 2054,1468 2130,1461 2135,1337 2088,1340 1972,1259 1690,1306 1527,1228 1374,1230"/>
+                <Baseline points="1377,1449 1419,1449 1509,1449 1598,1449 1687,1443 1777,1437 1866,1431 1956,1425 2045,1419 2135,1425"/>
+                <TextEquiv>
+                    <Unicode>Werfel, Franz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3362,1678 3489,1721 3635,1685 3705,1714 3978,1646 4279,1658 4289,1515 4167,1517 4077,1561 4004,1527 3839,1563 3438,1468 3377,1490"/>
+                <Baseline points="3375,1681 3393,1681 3483,1670 3572,1658 3662,1652 3751,1652 3841,1646 3930,1634 4020,1622 4109,1616 4199,1616 4288,1616"/>
+                <TextEquiv>
+                    <Unicode>1 letter (uneated)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3445,1896 3953,1789 4060,1870 4155,1857 4286,1804 4301,1665 3978,1646 3807,1704 3632,1687 3465,1714"/>
+                <Baseline points="3465,1825 3495,1819 3584,1807 3674,1795 3763,1789 3853,1777 3942,1771 4031,1759 4121,1747 4210,1741 4300,1735"/>
+                <TextEquiv>
+                    <Unicode>p. card. (13.vii.1928)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

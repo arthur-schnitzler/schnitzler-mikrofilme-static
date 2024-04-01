@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_12:38</Creator>
+        <Created>2023-05-01T22:05:54.659+02:00</Created>
+        <LastChange>2023-07-25T12:38:04.640+02:00</LastChange>
+        <TranskribusMetadata docId="1416471" pageId="54948006" pageNr="1" tsid="130628350" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VNHOWMJPDMQFONDGXLSSAMPX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TQGORHUQVQTFEQVPMIHYKIXC" imageId="44452061"/>
+    </Metadata>
+    <Page imageFilename="1416471_0001.jpg" imageWidth="5112" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830073491" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1355,1491 3040,1491 3040,2590 1355,2590"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1342,1654 1685,1612 1765,1661 1926,1659 2350,1579 2721,1583 2791,1557 2795,1487 2711,1448 2242,1446 2050,1510 1795,1479 1689,1534 1350,1522"/>
+                <Baseline points="1355,1618 1361,1618 1451,1612 1541,1612 1630,1606 1720,1606 1809,1606 1899,1600 1989,1594 2078,1588 2168,1582 2257,1576 2347,1571 2437,1565 2526,1553 2616,1547 2705,1547 2795,1541"/>
+                <TextEquiv>
+                    <Unicode>Anthor ARTHUR SCHNITZLE R</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1361,1805 2091,1761 2142,1797 2507,1726 2656,1754 2689,1630 2301,1632 2236,1681 2062,1697 1752,1665 1632,1714 1518,1665 1369,1693"/>
+                <Baseline points="1373,1774 1433,1774 1523,1768 1612,1774 1702,1774 1792,1774 1881,1768 1971,1768 2060,1756 2150,1744 2240,1738 2329,1726 2419,1720 2508,1714 2598,1702 2688,1696"/>
+                <TextEquiv>
+                    <Unicode>Title POSTHUMUS PAPERS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1769,1942 1822,1956 2095,1920 2226,1940 2305,1914 2368,1942 2434,1918 2444,1805 2350,1791 2215,1826 2160,1791 2089,1824 2030,1807 1838,1903 1771,1911"/>
+                <Baseline points="1780,1935 1815,1935 1905,1923 1995,1911 2084,1905 2174,1899 2263,1893 2353,1887 2443,1875"/>
+                <TextEquiv>
+                    <Unicode>- LETTERS-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1377,2134 1524,2156 1716,2089 2640,2081 2674,2073 2681,1981 2413,1926 2148,2005 1928,1997 1758,2067 1659,2024 1385,2026"/>
+                <Baseline points="1391,2108 1427,2114 1517,2108 1606,2102 1696,2090 1786,2090 1875,2084 1965,2078 2054,2072 2144,2066 2234,2054 2323,2048 2413,2042 2502,2042 2592,2042 2682,2036"/>
+                <TextEquiv>
+                    <Unicode>Date. Class mark FILE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1395,2344 1430,2348 1457,2330 1487,2344 1540,2322 1601,2348 1644,2324 1671,2338 1738,2330 1763,2344 1765,2226 1673,2230 1659,2215 1565,2209 1544,2191 1481,2215 1430,2201 1399,2207"/>
+                <Baseline points="1409,2293 1499,2293 1588,2287 1678,2287 1768,2287"/>
+                <TextEquiv>
+                    <Unicode> v. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1397,2583 2136,2595 2389,2523 2440,2562 2701,2521 2950,2556 3036,2540 3044,2421 2705,2383 2507,2450 2360,2424 1777,2515 1404,2487"/>
+                <Baseline points="1409,2580 1427,2580 1517,2580 1606,2574 1696,2574 1786,2568 1875,2562 1965,2556 2054,2550 2144,2544 2234,2532 2323,2526 2413,2520 2502,2514 2592,2508 2682,2496 2771,2490 2861,2490 2950,2484 3040,2490"/>
+                <TextEquiv>
+                    <Unicode>From Capiridge Univ. Library, Eng-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_19:29</Creator>
+        <Created>2023-05-02T08:19:27.851+02:00</Created>
+        <LastChange>2023-07-27T19:29:58.554+02:00</LastChange>
+        <TranskribusMetadata docId="1416753" pageId="54954389" pageNr="78" tsid="131288629" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AAYPZNQLKSBGRWKVZYCWQDAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RMVTVADLEBFAOTRLGBDLCSTK" imageId="44458114"/>
+    </Metadata>
+    <Page imageFilename="1416753_0078.jpg" imageWidth="3165" imageHeight="3623">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825785307" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1199,1698 1924,1698 1924,1872 1199,1872"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1267,1770 1349,1788 1404,1752 1571,1799 1631,1770 1750,1790 1850,1775 1850,1671 1642,1702 1536,1649 1455,1686 1346,1677 1311,1651 1267,1668"/>
+                <Baseline points="1277,1748 1322,1751 1366,1754 1411,1754 1456,1757 1501,1754 1545,1757 1590,1757 1635,1757 1680,1757 1724,1757 1769,1757 1814,1757 1853,1754"/>
+                <TextEquiv>
+                    <Unicode>Hugo von Hofmannsthal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1190,1850 1404,1863 1551,1913 1613,1898 1700,1909 1695,1812 1635,1788 1503,1796 1465,1775 1441,1796 1410,1785 1369,1805 1318,1783 1296,1803 1231,1779 1187,1785"/>
+                <Baseline points="1199,1838 1244,1841 1289,1841 1334,1844 1378,1850 1423,1850 1468,1856 1513,1859 1557,1859 1602,1859 1647,1856 1692,1859 1701,1862"/>
+                <TextEquiv>
+                    <Unicode>bittet Sie, sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1741,1905 1761,1900 1779,1909 1817,1902 1843,1914 1861,1902 1891,1911 1922,1898 1920,1752 1892,1752 1874,1764 1869,1759 1828,1785 1808,1770 1783,1785 1759,1779 1739,1788"/>
+                <Baseline points="1748,1847 1793,1856 1838,1850 1883,1853 1924,1853"/>
+                <TextEquiv>
+                    <Unicode>seulx</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

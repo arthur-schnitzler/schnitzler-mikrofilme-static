@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_03:32</Creator>
+        <Created>2023-05-02T07:54:13.541+02:00</Created>
+        <LastChange>2023-07-26T03:32:03.530+02:00</LastChange>
+        <TranskribusMetadata docId="1416729" pageId="54951886" pageNr="32" tsid="130883444" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SINLZXNLQYIOKFSJQCRZWNBL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IGSGUURDUTYCDFECAYMKCWNN" imageId="44455612"/>
+    </Metadata>
+    <Page imageFilename="1416729_0032.jpg" imageWidth="5144" imageHeight="4186">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828342521" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1492,1729 3857,1729 3857,2231 1492,2231"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2218,1881 3457,1884 3463,1526 2777,1591 2573,1562 2484,1615 2224,1594"/>
+                <Baseline points="2233,1815 2299,1815 2388,1803 2478,1797 2567,1791 2657,1791 2746,1785 2836,1779 2926,1779 3015,1785 3105,1785 3194,1785 3284,1791 3373,1785 3463,1785"/>
+                <TextEquiv>
+                    <Unicode>Er sorrento 5 19 30 3/17 n =</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1615,2067 3706,2082 3706,1869 1615,1887"/>
+                <Baseline points="1630,2048 1654,2042 1743,2042 1833,2036 1922,2030 2012,2030 2101,2030 2191,2030 2281,2030 2370,2030 2460,2036 2549,2036 2639,2042 2728,2042 2818,2048 2908,2048 2997,2048 3087,2054 3176,2054 3266,2054 3355,2048 3445,2042 3535,2030 3624,2024 3714,2000"/>
+                <TextEquiv>
+                    <Unicode>arno bietet sieben prezent deutscher raf 20/8 901.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1476,2348 3641,2360 3854,2325 3854,2061 3330,2174 2606,2050 1476,2141"/>
+                <Baseline points="1492,2215 1582,2215 1672,2215 1761,2209 1851,2203 1940,2203 2030,2197 2119,2197 2209,2191 2299,2191 2388,2191 2478,2197 2567,2191 2657,2197 2746,2203 2836,2203 2926,2209 3015,2215 3105,2215 3194,2215 3284,2215 3326,2215 3338,2215 3409,2215 3499,2221 3588,2215 3678,2209 3767,2209 3857,2209"/>
+                <TextEquiv>
+                    <Unicode>en sie acceptable? danke fuer brief gruess = vollmoelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

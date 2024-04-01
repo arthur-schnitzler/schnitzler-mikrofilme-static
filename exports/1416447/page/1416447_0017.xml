@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_08:11</Creator>
+        <Created>2023-05-01T22:01:17.276+02:00</Created>
+        <LastChange>2023-07-25T08:11:34.949+02:00</LastChange>
+        <TranskribusMetadata docId="1416447" pageId="54947132" pageNr="17" tsid="130588180" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KKDAWJTANNZXZKXTHHAGMENI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EYFWPEBCJUXQBZIHYJZDHYVT" imageId="44451217"/>
+    </Metadata>
+    <Page imageFilename="1416447_0017.jpg" imageWidth="4925" imageHeight="5208">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830451240" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="674,2434 2132,2434 2132,2936 674,2936"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="664,2486 1018,2489 1299,2612 1530,2500 2128,2526 2126,2453 1780,2380 1625,2460 1497,2395 664,2424"/>
+                <Baseline points="674,2490 764,2490 854,2496 943,2496 1033,2496 1122,2496 1212,2490 1302,2484 1391,2490 1481,2490 1570,2490 1660,2496 1749,2496 1839,2502 1929,2502 2018,2508 2108,2520 2132,2520"/>
+                <TextEquiv>
+                    <Unicode>unsern trauciesten General.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1251,2692 1337,2664 1432,2694 1512,2664 1630,2714 1685,2690 1946,2743 1990,2717 1982,2630 1647,2635 1525,2562 1362,2593 1249,2655"/>
+                <Baseline points="1260,2669 1349,2663 1439,2663 1528,2663 1618,2681 1708,2687 1797,2699 1887,2705 1976,2717 1994,2723"/>
+                <TextEquiv>
+                    <Unicode>Dein alten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1691,3053 1824,3075 1840,3058 1889,3057 1997,2965 2048,2975 2026,2790 1993,2794 1926,2750 1893,2776 1840,2783 1802,2814 1762,2807 1731,2820 1669,2865"/>
+                <Baseline points="1678,2878 1767,2884 1857,2896 1947,2902 2036,2926 2048,2920"/>
+                <TextEquiv>
+                    <Unicode>fection</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

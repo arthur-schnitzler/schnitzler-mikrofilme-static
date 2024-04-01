@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_21:05</Creator>
+        <Created>2023-05-01T21:58:31.661+02:00</Created>
+        <LastChange>2023-07-24T21:05:21.575+02:00</LastChange>
+        <TranskribusMetadata docId="1416439" pageId="54947231" pageNr="191" tsid="130572021" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MZOHFRDEHEPLWQBCKTBACDMO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZBZNFOCLFHGDYTBIXBZOQKHW" imageId="44451316"/>
+    </Metadata>
+    <Page imageFilename="1416439_0191.jpg" imageWidth="3412" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831270743" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1187,1496 2089,1496 2089,1991 1187,1991"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1748,1590 1770,1597 1787,1586 1838,1585 1861,1604 1905,1607 1928,1481 1886,1477 1815,1494 1790,1480 1768,1480"/>
+                <Baseline points="1757,1575 1784,1572 1829,1563 1874,1555 1919,1546"/>
+                <TextEquiv>
+                    <Unicode>G03?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1179,1706 1541,1710 1610,1672 1844,1656 1966,1684 2057,1661 2063,1588 1925,1573 1841,1608 1766,1595 1686,1640 1616,1604 1378,1627 1281,1586 1185,1619"/>
+                <Baseline points="1187,1680 1211,1683 1256,1683 1301,1689 1346,1689 1390,1689 1435,1686 1480,1680 1525,1680 1569,1674 1614,1671 1659,1665 1704,1662 1749,1659 1793,1656 1838,1653 1883,1650 1928,1647 1972,1644 2017,1638 2062,1641"/>
+                <TextEquiv>
+                    <Unicode>Kleins Geschenk den Inhalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1189,1824 1334,1837 1571,1792 1666,1826 1720,1789 1860,1814 1978,1778 2085,1811 2089,1713 1986,1746 1861,1708 1738,1761 1678,1738 1464,1766 1349,1727 1192,1741"/>
+                <Baseline points="1196,1808 1238,1802 1283,1799 1328,1796 1372,1796 1417,1796 1462,1796 1507,1793 1552,1790 1596,1787 1641,1784 1686,1781 1731,1778 1775,1778 1820,1772 1865,1772 1910,1772 1954,1772 1999,1775 2044,1781 2089,1793"/>
+                <TextEquiv>
+                    <Unicode>noch gegen Ihm Grundken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1225,1915 1505,1900 1588,1923 1681,1893 1763,1915 1827,1881 1937,1893 1938,1867 1813,1814 1599,1873 1476,1829 1314,1896 1226,1885"/>
+                <Baseline points="1232,1907 1268,1910 1313,1910 1358,1907 1402,1901 1447,1898 1492,1895 1537,1895 1581,1892 1626,1889 1671,1889 1716,1886 1760,1880 1805,1880 1850,1880 1895,1880 1940,1880"/>
+                <TextEquiv>
+                    <Unicode>eine Bibliothek für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1506,2032 1582,1984 1655,1996 1712,1984 1790,2018 1806,2010 1881,2028 1881,1932 1828,1931 1770,1949 1747,1937 1703,1957 1611,1910 1506,1943"/>
+                <Baseline points="1513,1972 1558,1978 1602,1981 1647,1981 1692,1981 1737,1981 1781,1978 1826,1978 1871,1978 1883,1978"/>
+                <TextEquiv>
+                    <Unicode>heinrich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

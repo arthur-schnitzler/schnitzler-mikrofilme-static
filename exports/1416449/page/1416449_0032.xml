@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_23:58</Creator>
+        <Created>2023-05-01T22:01:44.413+02:00</Created>
+        <LastChange>2023-07-24T23:58:47.791+02:00</LastChange>
+        <TranskribusMetadata docId="1416449" pageId="54947295" pageNr="32" tsid="130576655" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IDLDWEGJHDPJDKDESISOPFYP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YQLBXJGQFIESNIWYYUYOKRFZ" imageId="44451378"/>
+    </Metadata>
+    <Page imageFilename="1416449_0032.jpg" imageWidth="4923" imageHeight="5281">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830403270" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3464,2787 4671,2787 4671,3958 3464,3958"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3665,2872 3752,2860 3820,2880 3873,2854 3928,2869 3971,2852 4042,2854 4048,2712 3921,2750 3882,2742 3858,2753 3843,2741 3793,2765 3716,2744 3671,2748"/>
+                <Baseline points="3673,2861 3685,2855 3775,2849 3865,2849 3954,2843 4044,2837"/>
+                <TextEquiv>
+                    <Unicode>Ostkar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3600,2958 3816,2955 3855,2972 4029,2955 4041,2951 4042,2843 3931,2869 3873,2854 3831,2878 3752,2860 3642,2877 3601,2867"/>
+                <Baseline points="3608,2951 3697,2951 3787,2951 3877,2951 3966,2945 4044,2951"/>
+                <TextEquiv>
+                    <Unicode>arté post</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3582,3070 3604,3079 3687,3059 3795,3076 3835,3061 3943,3076 3985,3064 3985,2978 3937,2964 3858,2981 3816,2955 3582,2958"/>
+                <Baseline points="3590,3052 3679,3058 3769,3052 3859,3052 3948,3052 3988,3060"/>
+                <TextEquiv>
+                    <Unicode>Artolina p</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3455,3372 3820,3295 3965,3346 4124,3339 4196,3391 4666,3330 4669,3142 4536,3105 4362,3096 4251,3163 4056,3162 3893,3103 3461,3100"/>
+                <Baseline points="3464,3279 3506,3285 3596,3279 3685,3279 3775,3285 3865,3285 3954,3285 4044,3273 4133,3267 4223,3267 4313,3267 4402,3261 4492,3267 4582,3261 4671,3261"/>
+                <TextEquiv>
+                    <Unicode>Yem Dr Anthön. Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="3869,3786 3918,3795 3956,3781 3980,3796 4014,3780 4075,3787 4075,3629 3968,3615 3940,3588 3869,3586"/>
+                <Baseline points="3877,3751 3966,3751 4056,3751 4080,3751"/>
+                <TextEquiv>
+                    <Unicode>Den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3665,3985 4008,3941 4098,3974 4223,3934 4445,3952 4476,3940 4477,3846 4299,3786 4201,3861 4146,3838 4092,3875 3964,3894 3934,3867 3832,3867 3715,3920 3665,3911"/>
+                <Baseline points="3673,3948 3763,3942 3853,3936 3942,3930 4032,3930 4122,3930 4211,3930 4301,3930 4390,3930 4480,3936"/>
+                <TextEquiv>
+                    <Unicode>Bernwartestr</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

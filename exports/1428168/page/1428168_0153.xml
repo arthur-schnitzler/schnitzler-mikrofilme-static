@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:03</Creator>
+        <Created>2023-05-10T11:39:24.159+02:00</Created>
+        <LastChange>2023-07-28T17:03:26.383+02:00</LastChange>
+        <TranskribusMetadata docId="1428168" pageId="55390324" pageNr="153" tsid="131365887" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NSTBQDYKLAZDEJOXRLARDPGF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SKIWPICFKANKMCURXKPGKFWQ" imageId="44665210"/>
+    </Metadata>
+    <Page imageFilename="1428168_0153.jpg" imageWidth="4472" imageHeight="5688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818412025" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="818,529 3788,529 3788,2662 818,2662"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3610,651 3639,651 3681,622 3704,634 3713,625 3730,628 3764,611 3781,611 3781,505 3750,508 3736,499 3716,511 3693,497 3659,519 3639,508 3624,522 3610,522"/>
+                <Baseline points="3626,585 3716,579 3788,585"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1866,731 2106,705 2252,751 2357,693 2506,739 2511,539 2431,559 2212,514 2072,588 2012,571 1935,614 1869,611"/>
+                <Baseline points="1882,705 1971,699 2061,687 2150,687 2240,681 2330,681 2419,675 2509,687"/>
+                <TextEquiv>
+                    <Unicode>Zu Seite 43.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="802,942 1421,970 1752,890 1952,956 2403,862 2834,916 3091,879 3099,696 808,808"/>
+                <Baseline points="818,932 860,926 949,920 1039,914 1129,914 1218,908 1308,902 1398,902 1487,902 1577,896 1666,890 1756,884 1846,878 1935,878 2025,872 2115,872 2204,866 2294,860 2383,854 2473,848 2563,848 2652,848 2742,842 2832,836 2921,830 3011,830 3100,830"/>
+                <TextEquiv>
+                    <Unicode>1) Ich würde die 1. und 2. szene zusammenziehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="865,2745 939,2780 967,2762 990,2785 1056,2780 1076,2765 1196,2777 1193,2571 1167,2568 1127,2594 1104,2580 945,2568 902,2540 862,2551"/>
+                <Baseline points="878,2646 967,2646 1057,2646 1147,2652 1200,2652"/>
+                <TextEquiv>
+                    <Unicode>Hostium</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

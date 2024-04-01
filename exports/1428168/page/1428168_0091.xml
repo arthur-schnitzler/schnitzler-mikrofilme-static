@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:02</Creator>
+        <Created>2023-05-10T11:39:12.818+02:00</Created>
+        <LastChange>2023-07-28T17:02:41.279+02:00</LastChange>
+        <TranskribusMetadata docId="1428168" pageId="55389830" pageNr="91" tsid="131365800" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YCALYCFESISVPAWQTZSROWZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XOVQGLLHMLRMQINMLVTEBLZB" imageId="44664719"/>
+    </Metadata>
+    <Page imageFilename="1428168_0091.jpg" imageWidth="4616" imageHeight="5944">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711818317755" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1521,2229 3556,2229 3556,4682 1521,4682"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1508,2306 3117,2323 3217,2315 3219,2217 2289,2196 1511,2262"/>
+                <Baseline points="1521,2321 1611,2315 1700,2315 1790,2309 1879,2309 1969,2309 2058,2303 2148,2303 2237,2297 2327,2297 2416,2291 2506,2291 2596,2285 2685,2285 2775,2285 2864,2285 2954,2279 3043,2279 3133,2279 3222,2279"/>
+                <TextEquiv>
+                    <Unicode>TARQUINIUS SUPERBUS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1525,2449 1838,2464 2249,2391 3083,2472 3178,2449 3183,2302 1528,2357"/>
+                <Baseline points="1539,2399 1575,2399 1665,2393 1754,2393 1844,2393 1933,2393 2023,2387 2112,2387 2202,2381 2291,2381 2381,2375 2470,2375 2560,2375 2649,2369 2739,2369 2828,2369 2918,2363 3007,2363 3097,2363 3186,2369"/>
+                <TextEquiv>
+                    <Unicode>x.u.x.o.u ouauuauauauxaa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3259,3606 3302,3621 3325,3612 3353,3621 3400,3602 3455,3617 3483,3640 3510,3625 3551,3638 3551,3506 3504,3493 3457,3461 3430,3472 3334,3474 3302,3455 3261,3451"/>
+                <Baseline points="3270,3592 3288,3586 3377,3580 3467,3580 3556,3586"/>
+                <TextEquiv>
+                    <Unicode>1878.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3074,4704 3125,4695 3149,4710 3193,4698 3223,4710 3274,4687 3315,4698 3351,4680 3404,4706 3449,4695 3444,4540 3347,4542 3287,4572 3255,4546 3232,4553 3185,4536 3170,4553 3070,4570"/>
+                <Baseline points="3085,4660 3174,4660 3264,4660 3353,4666 3443,4672 3455,4672"/>
+                <TextEquiv>
+                    <Unicode>anzieht!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

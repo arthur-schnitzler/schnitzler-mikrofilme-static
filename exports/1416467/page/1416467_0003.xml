@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_12:08</Creator>
+        <Created>2023-05-01T22:05:17.579+02:00</Created>
+        <LastChange>2023-07-25T12:08:57.272+02:00</LastChange>
+        <TranskribusMetadata docId="1416467" pageId="54947911" pageNr="3" tsid="130616115" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NKMBGYKUFCWSIIBVOVTLSLCH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AIZSYRNPXJOCKPSUVAYGHHEQ" imageId="44451968"/>
+    </Metadata>
+    <Page imageFilename="1416467_0003.jpg" imageWidth="4124" imageHeight="4552">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830101470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="456,1511 1205,1511 1205,1586 456,1586"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="870,1604 948,1608 982,1628 1012,1624 1024,1634 1058,1630 1080,1610 1132,1624 1174,1608 1186,1618 1200,1614 1202,1516 1146,1492 1098,1514 1084,1506 1058,1520 1018,1504 984,1522 932,1508 908,1486 872,1492"/>
+                <Baseline points="880,1564 892,1564 937,1564 982,1561 1026,1561 1071,1561 1116,1564 1161,1561 1205,1561"/>
+                <TextEquiv>
+                    <Unicode>ermann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="444,1626 470,1626 494,1646 502,1640 510,1644 540,1642 546,1506 520,1494 494,1492 486,1484 478,1488 472,1484 448,1486"/>
+                <Baseline points="456,1576 501,1576 546,1573"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_05:09</Creator>
+        <Created>2023-05-02T07:47:42.771+02:00</Created>
+        <LastChange>2023-07-26T05:09:12.446+02:00</LastChange>
+        <TranskribusMetadata docId="1416711" pageId="54951944" pageNr="290" tsid="130896383" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GPZFNYMMFMSINIBBQCZSXJDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NHVYMDMIOASAHSUXJJQXFYYT" imageId="44455670"/>
+    </Metadata>
+    <Page imageFilename="1416711_0290.jpg" imageWidth="3824" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828921117" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1106,2155 2545,2155 2545,2289 1106,2289"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1431,2238 2217,2233 2264,2201 2541,2246 2541,2190 2407,2174 1431,2191"/>
+                <Baseline points="1438,2219 1482,2219 1527,2219 1572,2222 1617,2222 1661,2219 1706,2222 1751,2219 1796,2216 1841,2219 1885,2219 1930,2216 1975,2213 2020,2213 2064,2213 2109,2213 2154,2208 2199,2205 2243,2205 2288,2208 2333,2208 2378,2208 2422,2213 2467,2216 2512,2216 2545,2219"/>
+                <TextEquiv>
+                    <Unicode>Beitz! Kaiserl. Schloss Hellbrunn-Salzburg und auch Hen¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1147,2244 1184,2228 1216,2231 1242,2248 1259,2235 1288,2237 1294,2231 1325,2241 1368,2224 1368,2197 1325,2201 1302,2192 1274,2202 1263,2194 1147,2202"/>
+                <Baseline points="1154,2219 1199,2222 1244,2222 1289,2222 1333,2222 1372,2222"/>
+                <TextEquiv>
+                    <Unicode>Ville quisse en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1098,2281 1152,2291 1201,2270 1249,2296 1270,2284 1307,2296 1389,2284 1472,2294 1469,2242 1420,2223 1331,2246 1281,2231 1244,2248 1216,2230 1162,2240 1140,2220 1096,2212"/>
+                <Baseline points="1106,2261 1151,2264 1196,2267 1241,2273 1286,2276 1330,2276 1375,2279 1420,2279 1465,2279 1474,2279"/>
+                <TextEquiv>
+                    <Unicode>herzeich das Fällen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1776,2314 2490,2295 2490,2230 2263,2199 2216,2234 2144,2209 2089,2234 1777,2231"/>
+                <Baseline points="1784,2279 1823,2279 1867,2276 1912,2276 1957,2273 2002,2273 2046,2267 2091,2264 2136,2261 2181,2264 2202,2264 2246,2264 2291,2264 2336,2267 2381,2270 2425,2273 2470,2273 2494,2276"/>
+                <TextEquiv>
+                    <Unicode>viele früsse Ossibles.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

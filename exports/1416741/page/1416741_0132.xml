@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_17:41</Creator>
+        <Created>2023-05-02T08:01:26.929+02:00</Created>
+        <LastChange>2023-07-27T17:41:01.828+02:00</LastChange>
+        <TranskribusMetadata docId="1416741" pageId="54953039" pageNr="132" tsid="131276023" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UBDFYHCOMNVSJIAUAAHNASQK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DJXIGIRISGOZQDHLBDPGZITV" imageId="44456764"/>
+    </Metadata>
+    <Page imageFilename="1416741_0132.jpg" imageWidth="3890" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827683248" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2105,630 3757,630 3757,1156 2105,1156"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3381,706 3428,718 3500,705 3524,726 3553,714 3578,730 3597,717 3619,726 3684,689 3729,714 3756,709 3751,583 3659,607 3532,610 3518,624 3428,608 3380,629"/>
+                <Baseline points="3389,680 3434,680 3479,689 3524,692 3568,698 3613,692 3658,692 3703,692 3748,689 3757,689"/>
+                <TextEquiv>
+                    <Unicode>24./5.1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2097,770 2136,762 2205,783 2302,762 2326,777 2441,773 2441,630 2325,652 2265,614 2215,636 2180,630 2125,667 2097,667"/>
+                <Baseline points="2105,713 2150,713 2195,710 2239,710 2284,707 2329,710 2374,710 2419,713 2443,713"/>
+                <TextEquiv>
+                    <Unicode>S. Fischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2463,881 2851,872 2957,903 3137,855 3484,865 3485,776 3418,762 3249,793 2465,796"/>
+                <Baseline points="2472,848 2502,848 2547,848 2592,845 2637,848 2681,845 2726,845 2771,845 2816,845 2861,845 2905,845 2950,842 2995,842 3040,842 3085,839 3129,839 3174,839 3219,836 3264,836 3309,833 3353,833 3398,833 3443,833 3488,839"/>
+                <TextEquiv>
+                    <Unicode>Fie cherverlag Berlin Bülowstrasse 90</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2453,1022 3209,1009 3333,972 3635,1012 3635,927 3474,905 2572,944 2454,916"/>
+                <Baseline points="2463,979 2472,976 2517,976 2562,976 2607,973 2652,976 2696,973 2741,973 2786,973 2831,970 2876,973 2920,970 2965,970 3010,970 3055,970 3100,970 3144,970 3189,967 3234,970 3279,970 3324,967 3368,970 3413,967 3458,967 3503,967 3548,964 3592,964 3637,964"/>
+                <TextEquiv>
+                    <Unicode>Mei n Anwalt Doktor Hoffmann wird persönlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2465,1066 2551,1090 2603,1068 3346,1060 3346,1022 3170,1000 2466,1028"/>
+                <Baseline points="2472,1066 2499,1063 2544,1066 2589,1066 2634,1066 2678,1066 2723,1066 2768,1066 2813,1066 2858,1066 2902,1066 2947,1063 2992,1066 3037,1063 3082,1060 3126,1060 3171,1057 3216,1057 3261,1057 3306,1057 3350,1060"/>
+                <TextEquiv>
+                    <Unicode>bei Ihnen vorsprechen Dank Gruss</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="3316,1226 3363,1222 3399,1244 3462,1218 3499,1234 3534,1221 3616,1234 3616,1097 3494,1080 3460,1058 3412,1087 3316,1096"/>
+                <Baseline points="3324,1146 3350,1140 3395,1143 3440,1143 3485,1143 3530,1143 3574,1143 3619,1143"/>
+                <TextEquiv>
+                    <Unicode>Schnitzler</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

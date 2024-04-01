@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_22:20</Creator>
+        <Created>2023-05-01T21:49:41.581+02:00</Created>
+        <LastChange>2023-07-24T22:20:14.602+02:00</LastChange>
+        <TranskribusMetadata docId="1416404" pageId="54945143" pageNr="85" tsid="130574416" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WKWRVXUPFPVKIBXZVJXMMNDH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UMHNQXINFFEJFJDINVPFZXMS" imageId="44449228"/>
+    </Metadata>
+    <Page imageFilename="1416404_0085.jpg" imageWidth="5047" imageHeight="4039">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832599883" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2091,2345 3202,2345 3202,2746 2091,2746"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2098,2412 2110,2410 2118,2418 2130,2418 2148,2404 2154,2410 2172,2400 2204,2420 2230,2402 2238,2406 2244,2400 2256,2400 2258,2362 2230,2360 2224,2354 2186,2364 2180,2358 2172,2360 2140,2326 2120,2338 2110,2328 2100,2328"/>
+                <Baseline points="2109,2401 2168,2395 2258,2395"/>
+                <TextEquiv>
+                    <Unicode>Genova</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2078,2504 2298,2526 2432,2484 2700,2484 2914,2538 3024,2504 3028,2392 2938,2390 2828,2338 2682,2424 2608,2392 2322,2436 2168,2400 2082,2434"/>
+                <Baseline points="2091,2497 2133,2497 2222,2497 2312,2491 2401,2485 2491,2479 2581,2473 2670,2473 2760,2467 2850,2467 2939,2467 3029,2485"/>
+                <TextEquiv>
+                    <Unicode>Bnauf Westeres: "Pegli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2104,2668 2166,2624 2474,2604 3114,2624 3116,2508 3000,2568 2924,2532 2624,2540 2486,2498 2286,2582 2188,2528 2104,2546"/>
+                <Baseline points="2115,2628 2133,2628 2222,2616 2312,2616 2401,2611 2491,2605 2581,2605 2670,2605 2760,2605 2850,2605 2939,2611 3029,2611 3118,2616"/>
+                <TextEquiv>
+                    <Unicode>Grauv Hôtel Méditerranée</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2296,2780 2384,2758 2476,2790 2606,2752 2824,2798 2926,2762 3006,2782 3198,2740 3198,2614 2296,2624"/>
+                <Baseline points="2306,2736 2395,2718 2485,2718 2575,2718 2664,2712 2754,2718 2844,2718 2933,2718 3023,2718 3112,2724 3202,2724"/>
+                <TextEquiv>
+                    <Unicode>Herzlichst Richard</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

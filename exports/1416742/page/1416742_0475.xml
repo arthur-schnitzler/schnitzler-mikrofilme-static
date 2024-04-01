@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_22:29</Creator>
+        <Created>2023-05-02T08:10:37.899+02:00</Created>
+        <LastChange>2023-07-26T22:29:33.158+02:00</LastChange>
+        <TranskribusMetadata docId="1416742" pageId="54955021" pageNr="475" tsid="131084988" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JAIQDVNTPQLVEGSEHUBVCSJE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOYJGHXQKDKMKGFLYWSVOIFA" imageId="44458746"/>
+    </Metadata>
+    <Page imageFilename="1416742_0475.jpg" imageWidth="2616" imageHeight="3288">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711827392198" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="728,806 2019,806 2019,1337 728,1337"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="724,881 2002,951 2000,819 1886,778 1705,810 722,775"/>
+                <Baseline points="733,856 778,856 823,859 868,859 913,859 957,859 1002,859 1047,859 1092,859 1136,859 1181,859 1226,859 1271,859 1315,859 1360,862 1405,862 1450,862 1494,862 1539,862 1584,862 1629,865 1673,865 1718,868 1763,871 1808,871 1852,871 1897,871 1942,871 1987,865 2002,862"/>
+                <TextEquiv>
+                    <Unicode>wegen des Anatol-Zyklus inzwischen bereits ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="719,1000 789,983 832,989 884,960 930,951 991,976 1000,967 1029,976 1029,906 967,902 929,878 860,913 786,900 719,906"/>
+                <Baseline points="728,945 772,942 817,945 862,945 907,945 951,945 996,945 1032,945"/>
+                <TextEquiv>
+                    <Unicode>schrieben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="851,1059 919,1043 983,1078 1056,1080 1186,1045 1348,1080 1484,1046 1484,987 1206,1008 1116,984 1057,1003 1000,967 937,991 851,989"/>
+                <Baseline points="859,1038 904,1035 948,1035 993,1035 1038,1035 1083,1038 1127,1038 1172,1038 1217,1038 1262,1038 1306,1038 1351,1038 1396,1038 1441,1038 1485,1041 1488,1041"/>
+                <TextEquiv>
+                    <Unicode>Mit herzlichen Grüssen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1453,1162 1532,1168 1624,1143 1659,1164 1683,1145 1764,1172 1803,1154 1848,1154 1848,1095 1824,1086 1795,1100 1729,1054 1688,1045 1664,1062 1611,1054 1453,1089"/>
+                <Baseline points="1461,1127 1506,1127 1551,1127 1596,1130 1641,1130 1685,1130 1730,1130 1775,1130 1820,1130 1852,1133"/>
+                <TextEquiv>
+                    <Unicode>Ihr ergebener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1526,1441 1594,1460 1721,1422 1821,1427 1884,1410 1962,1357 2013,1359 2016,1278 1970,1272 1824,1183 1540,1154"/>
+                <Baseline points="1539,1324 1572,1327 1617,1327 1661,1321 1706,1318 1751,1315 1796,1312 1840,1309 1885,1309 1930,1309 1975,1306 2019,1306"/>
+                <TextEquiv>
+                    <Unicode>S. Fischer</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

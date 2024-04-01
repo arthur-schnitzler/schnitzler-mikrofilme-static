@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_14:43</Creator>
+        <Created>2023-05-01T21:59:16.660+02:00</Created>
+        <LastChange>2023-07-25T14:43:55.608+02:00</LastChange>
+        <TranskribusMetadata docId="1416441" pageId="54946863" pageNr="3" tsid="130683599" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DPBKXOFRFWAJCHASHKASFLJP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IOFVTMBAMQICXOTSLZSOKQDI" imageId="44450948"/>
+    </Metadata>
+    <Page imageFilename="1416441_0003.jpg" imageWidth="2973" imageHeight="3512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711830584786" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="379,1377 1761,1377 1761,1580 379,1580"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="370,1471 928,1444 1070,1504 1459,1459 1656,1514 1756,1495 1755,1392 1255,1418 1018,1352 832,1390 366,1343"/>
+                <Baseline points="379,1427 424,1427 468,1427 513,1430 558,1433 603,1433 648,1436 692,1433 737,1436 782,1439 827,1439 872,1439 916,1442 961,1442 1006,1445 1051,1445 1096,1448 1140,1448 1185,1451 1230,1451 1275,1454 1319,1454 1364,1454 1409,1457 1454,1457 1499,1457 1543,1460 1588,1460 1633,1460 1678,1463 1723,1466 1761,1466"/>
+                <TextEquiv>
+                    <Unicode>Briefe Arthur Schnitzlers an Hugo von Hofmannsth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="738,1609 762,1601 787,1609 802,1620 825,1620 819,1506 793,1511 764,1526 743,1511 735,1513"/>
+                <Baseline points="746,1552 791,1555 824,1555"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="876,1668 887,1667 899,1658 927,1663 942,1649 959,1647 932,1494 894,1502 878,1495 868,1511 849,1514"/>
+                <Baseline points="866,1555 910,1564 949,1570"/>
+                <TextEquiv>
+                    <Unicode>891</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

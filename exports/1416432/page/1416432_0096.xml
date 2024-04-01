@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_05:02</Creator>
+        <Created>2023-05-01T21:55:10.462+02:00</Created>
+        <LastChange>2023-07-25T05:02:15.880+02:00</LastChange>
+        <TranskribusMetadata docId="1416432" pageId="54946265" pageNr="96" tsid="130585218" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KZBGELAOMTUBBPEWPTMLRXQT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSIIUHFDDAKRZRSQPWDCBVCZ" imageId="44450350"/>
+    </Metadata>
+    <Page imageFilename="1416432_0096.jpg" imageWidth="1785" imageHeight="1335">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711831819644" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="259,181 1440,181 1440,927 259,927"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1350,256 1359,256 1378,247 1385,251 1395,248 1427,268 1438,265 1436,183 1387,180 1374,184 1356,197 1349,197"/>
+                <Baseline points="1356,231 1386,233 1416,233 1440,233"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="252,459 291,478 368,439 432,473 625,468 776,440 910,461 964,431 1087,474 1112,465 1119,342 920,291 610,383 495,357 408,387 347,360 257,372"/>
+                <Baseline points="259,457 277,461 307,461 337,457 367,457 397,457 427,455 457,451 487,451 517,451 547,449 577,445 607,443 637,441 667,439 697,437 727,433 757,431 787,429 817,425 847,423 877,419 907,419 937,417 967,417 997,417 1027,417 1057,419 1087,421 1117,423"/>
+                <TextEquiv>
+                    <Unicode>Dr. Theoder Herzl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="819,674 907,686 952,658 1024,683 1148,668 1214,703 1248,686 1302,690 1302,620 1149,632 1043,552 995,558 893,609 819,594"/>
+                <Baseline points="825,667 855,665 885,665 915,667 945,667 975,665 1005,663 1035,659 1065,661 1095,663 1125,663 1155,665 1185,665 1215,667 1245,667 1275,663 1305,663"/>
+                <TextEquiv>
+                    <Unicode>Paris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="367,743 380,743 393,733 423,749 444,749 461,762 483,760 477,644 461,645 453,637 405,631 361,636"/>
+                <Baseline points="373,729 403,729 433,731 463,733 485,735"/>
+                <TextEquiv>
+                    <Unicode>EN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1245,808 1257,809 1267,803 1274,807 1278,803 1291,808 1300,804 1308,809 1312,804 1315,807 1327,804 1317,697 1307,697 1302,702 1267,698 1236,711"/>
+                <Baseline points="1249,793 1279,789 1309,795 1329,799"/>
+                <TextEquiv>
+                    <Unicode>P.S.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="294,832 317,834 337,851 385,829 395,818 423,841 452,832 470,818 466,760 440,748 420,749 402,736 370,760 341,794 307,782 292,786"/>
+                <Baseline points="299,809 329,811 359,807 389,813 419,817 449,821 473,813"/>
+                <TextEquiv>
+                    <Unicode>6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1269,849 1283,852 1291,849 1315,858 1324,858 1331,854 1337,856 1334,811 1326,811 1321,817 1316,815 1303,819 1286,804 1267,806"/>
+                <Baseline points="1275,845 1305,847 1335,849 1338,847"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="417,1016 649,921 1328,923 1328,886 1127,859 999,781 784,883 710,869 645,809 526,865 417,858"/>
+                <Baseline points="423,895 453,901 483,907 513,911 543,913 573,911 595,915 603,917 633,917 663,913 693,911 723,909 753,909 783,907 813,907 843,909 873,905 903,903 933,901 963,901 993,903 1023,901 1053,901 1083,901 1113,903 1143,905 1173,905 1203,905 1233,907 1263,909 1293,913 1323,917 1331,917"/>
+                <TextEquiv>
+                    <Unicode>of one Monclan-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

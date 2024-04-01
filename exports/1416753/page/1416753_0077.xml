@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_19:29</Creator>
+        <Created>2023-05-02T08:19:27.720+02:00</Created>
+        <LastChange>2023-07-27T19:29:57.963+02:00</LastChange>
+        <TranskribusMetadata docId="1416753" pageId="54954385" pageNr="77" tsid="131288628" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AIUWCHGGITTLHOAJTYRWUFUB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NOCCAZRPQHFCCYPEDXXNUSNF" imageId="44458110"/>
+    </Metadata>
+    <Page imageFilename="1416753_0077.jpg" imageWidth="3165" imageHeight="3623">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711825784582" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1184,1567 1936,1567 1936,1794 1184,1794"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1206,1643 1301,1638 1356,1664 1429,1631 1491,1668 1607,1621 1692,1649 1743,1644 1786,1635 1789,1558 1711,1545 1609,1563 1573,1546 1528,1567 1481,1543 1208,1592"/>
+                <Baseline points="1211,1635 1250,1635 1295,1632 1339,1632 1384,1629 1429,1623 1474,1623 1519,1620 1563,1617 1608,1617 1653,1617 1698,1617 1742,1617 1787,1620"/>
+                <TextEquiv>
+                    <Unicode>abend auf diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1180,1806 1302,1827 1484,1778 1624,1833 1814,1771 1934,1787 1932,1729 1793,1693 1636,1689 1577,1716 1494,1678 1176,1672"/>
+                <Baseline points="1184,1748 1229,1751 1274,1754 1319,1757 1363,1757 1408,1754 1453,1757 1498,1757 1542,1757 1587,1763 1632,1760 1677,1760 1721,1763 1766,1766 1811,1769 1856,1769 1901,1778 1936,1784"/>
+                <TextEquiv>
+                    <Unicode>Pitz zu setzen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

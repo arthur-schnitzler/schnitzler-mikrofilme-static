@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_05:06</Creator>
+        <Created>2023-05-02T07:47:26.017+02:00</Created>
+        <LastChange>2023-07-26T05:06:44.992+02:00</LastChange>
+        <TranskribusMetadata docId="1416711" pageId="54951508" pageNr="189" tsid="130896056" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RODWNANKPGBKSBXYQELFLEOD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UFJNFSOCCOCBOGZEYHQBAAUR" imageId="44455234"/>
+    </Metadata>
+    <Page imageFilename="1416711_0189.jpg" imageWidth="3483" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711828843820" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="934,1236 2203,1236 2203,1732 934,1732"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="925,1348 1171,1327 1290,1362 1436,1309 2010,1311 2011,1263 1785,1238 928,1288"/>
+                <Baseline points="934,1331 940,1331 985,1328 1029,1328 1074,1325 1119,1322 1164,1319 1209,1316 1253,1316 1298,1313 1343,1313 1388,1310 1432,1307 1477,1304 1522,1301 1567,1301 1612,1298 1656,1292 1701,1292 1746,1292 1791,1292 1836,1289 1880,1286 1925,1289 1970,1289 2015,1292"/>
+                <TextEquiv>
+                    <Unicode>werde voh’s genau nicht mehr wollen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="952,1419 1316,1385 1505,1432 1677,1381 1830,1377 1833,1334 1653,1305 1292,1363 959,1336"/>
+                <Baseline points="961,1406 985,1403 1029,1400 1074,1394 1119,1391 1164,1388 1209,1385 1253,1385 1298,1382 1343,1382 1388,1379 1432,1376 1477,1370 1522,1367 1567,1364 1612,1361 1656,1355 1701,1352 1746,1352 1791,1349 1836,1340"/>
+                <TextEquiv>
+                    <Unicode>Wann kommen sie nach hren?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1619,1463 1669,1489 1853,1453 1929,1481 2003,1474 2053,1455 2052,1373 1908,1370 1815,1409 1768,1380 1751,1392 1618,1389"/>
+                <Baseline points="1627,1447 1671,1447 1716,1444 1761,1441 1806,1438 1850,1438 1895,1438 1940,1450 1985,1456 2030,1453 2056,1453"/>
+                <TextEquiv>
+                    <Unicode>Herzlichst sehr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1971,1595 1994,1596 2002,1588 2018,1595 2045,1574 2071,1574 2087,1559 2118,1550 2129,1557 2146,1545 2201,1553 2202,1474 2091,1473 2065,1461 2040,1473 2018,1466 2006,1474 1973,1470"/>
+                <Baseline points="1979,1546 2024,1543 2068,1540 2113,1537 2158,1540 2203,1543"/>
+                <TextEquiv>
+                    <Unicode>Salter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="978,1761 1040,1742 1091,1756 1155,1712 1210,1703 1296,1728 1365,1716 1370,1645 1296,1646 1275,1632 1232,1650 1155,1653 1105,1635 987,1653"/>
+                <Baseline points="988,1722 1012,1719 1056,1716 1101,1710 1146,1707 1191,1704 1235,1701 1280,1698 1325,1692 1370,1686"/>
+                <TextEquiv>
+                    <Unicode>Grüsselin Augo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

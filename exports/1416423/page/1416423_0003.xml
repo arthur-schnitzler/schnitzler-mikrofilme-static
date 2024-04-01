@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_01:04</Creator>
+        <Created>2023-05-01T21:53:29.746+02:00</Created>
+        <LastChange>2023-07-25T01:04:54.324+02:00</LastChange>
+        <TranskribusMetadata docId="1416423" pageId="54945591" pageNr="3" tsid="130579626" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AWFAESYJCUCENNEFAIWXMMZS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TPVRMSKKVZCFXVAFOSNBSFYJ" imageId="44449676"/>
+    </Metadata>
+    <Page imageFilename="1416423_0003.jpg" imageWidth="4472" imageHeight="4330">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832198789" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="501,1228 1194,1228 1194,1344 501,1344"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="488,1374 556,1376 598,1340 664,1368 886,1316 1158,1344 1184,1336 1196,1190 1104,1182 964,1250 818,1192 712,1222 500,1206"/>
+                <Baseline points="501,1334 522,1334 567,1331 612,1328 656,1328 701,1325 746,1322 791,1319 836,1313 880,1310 925,1307 970,1301 1015,1296 1060,1293 1104,1290 1149,1287 1194,1278"/>
+                <TextEquiv>
+                    <Unicode>Ehrenstein, Alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

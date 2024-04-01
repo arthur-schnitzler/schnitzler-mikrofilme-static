@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_03:38</Creator>
+        <Created>2023-05-10T11:23:08.333+02:00</Created>
+        <LastChange>2023-08-01T03:38:01.117+02:00</LastChange>
+        <TranskribusMetadata docId="1428151" pageId="55386697" pageNr="30" tsid="131649221" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IRIZNPDRJQKVVUQACQPGYVOC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EFLMELEZSBWBQCTBQCRAWVKE" imageId="44661594"/>
+    </Metadata>
+    <Page imageFilename="1428151_0030.jpg" imageWidth="7077" imageHeight="4808">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821288229" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3626,665 6633,665 6633,1805 3626,1805"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3846,944 4335,1004 4963,793 5621,895 5689,560 5377,493 5129,605 5076,553 4708,624 4478,744 3880,662"/>
+                <Baseline points="3871,924 3889,924 3978,918 4068,900 4157,882 4247,864 4336,853 4426,841 4515,829 4605,817 4694,805 4784,799 4873,781 4963,775 5052,769 5142,763 5231,757 5321,751 5410,745 5499,733 5589,721 5678,715"/>
+                <TextEquiv>
+                    <Unicode>Paralyse H. Stuntand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3598,1331 4095,1331 4610,1139 5061,1230 5711,996 5997,1154 6565,1113 6588,808 5948,729 5460,872 5302,801 4839,948 3625,1026"/>
+                <Baseline points="3632,1222 3716,1228 3805,1222 3895,1216 3984,1210 4074,1193 4163,1175 4253,1169 4342,1163 4432,1151 4521,1133 4611,1127 4700,1115 4790,1103 4879,1103 4969,1091 5058,1085 5148,1067 5237,1061 5326,1043 5416,1031 5505,1020 5595,1008 5684,1002 5774,996 5863,996 5953,990 6042,996 6132,1008 6221,1020 6311,1037 6400,1049 6490,1061 6579,1061"/>
+                <TextEquiv>
+                    <Unicode>T Smyth (Matras) Britilied Jour 17/7 Kth</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3598,1594 4275,1632 6144,1290 6618,1414 6640,1151 6215,1068 5678,1211 5287,1136 5001,1241 4437,1203 3997,1380 3625,1339"/>
+                <Baseline points="3626,1521 3680,1527 3770,1521 3859,1509 3949,1503 4038,1497 4127,1485 4217,1473 4306,1461 4396,1449 4485,1437 4575,1425 4664,1419 4754,1407 4843,1389 4933,1377 5022,1366 5112,1348 5201,1336 5291,1318 5380,1306 5470,1294 5559,1282 5649,1276 5738,1270 5828,1264 5917,1258 6007,1252 6096,1252 6185,1258 6275,1264 6364,1276 6454,1294 6543,1324 6633,1336"/>
+                <TextEquiv>
+                    <Unicode>doggelf. Stückparals bei 35 dank. Tracheot</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3628,1861 4561,1903 5114,1707 5584,1722 5975,1538 6452,1647 6550,1376 5734,1316 4452,1662 3658,1606"/>
+                <Baseline points="3656,1795 3674,1795 3764,1795 3853,1795 3943,1783 4032,1777 4121,1771 4211,1759 4300,1753 4390,1747 4479,1735 4569,1723 4658,1712 4748,1700 4837,1688 4927,1664 5016,1652 5106,1634 5195,1622 5285,1610 5374,1592 5464,1586 5553,1574 5643,1562 5732,1550 5822,1539 5911,1527 6001,1521 6090,1515 6180,1509 6269,1509 6358,1515 6448,1521 6542,1539"/>
+                <TextEquiv>
+                    <Unicode>Aorbenanenys ook Spall A Boonek Nuse</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

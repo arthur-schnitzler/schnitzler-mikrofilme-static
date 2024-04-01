@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_15:12</Creator>
+        <Created>2023-05-01T22:06:14.581+02:00</Created>
+        <LastChange>2023-07-25T15:12:58.737+02:00</LastChange>
+        <TranskribusMetadata docId="1416475" pageId="54948068" pageNr="2" tsid="130695675" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NMNRQWALVYHGLQZVETXDAFWA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CRCARNCZZQIEXHAOTFYERTUK" imageId="44452115"/>
+    </Metadata>
+    <Page imageFilename="1416475_0002.jpg" imageWidth="5112" imageHeight="4648">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829903702" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="961,834 4068,834 4068,1796 961,1796"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1030,1045 1272,1059 1612,957 1708,1001 2020,947 2200,986 2435,924 2613,1003 2704,970 2715,665 2391,630 2210,705 1906,657 1774,717 1042,673"/>
+                <Baseline points="1045,931 1099,937 1188,937 1278,937 1368,937 1457,931 1547,920 1636,914 1726,914 1816,908 1905,902 1995,902 2085,896 2174,896 2264,896 2353,896 2443,896 2533,896 2622,884 2712,884"/>
+                <TextEquiv>
+                    <Unicode>S. Mers to ARTHUR SCHNITAER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="942,1691 1080,1681 1149,1637 1264,1653 1376,1578 1612,1547 1693,1576 2077,1553 2085,1426 1764,1409 1683,1455 1384,1380 1266,1441 1103,1437 959,1376"/>
+                <Baseline points="961,1571 1009,1565 1099,1565 1188,1565 1278,1553 1368,1553 1457,1547 1547,1541 1636,1535 1726,1523 1816,1517 1905,1517 1995,1517 2085,1511"/>
+                <TextEquiv>
+                    <Unicode>Rilke, Rainer Maria.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1910,1895 1977,1904 2077,1864 2173,1879 2221,1839 2321,1849 2383,1822 2552,1841 2665,1801 2731,1818 2729,1576 2573,1576 2544,1551 2419,1603 2277,1535 2162,1530 1906,1562"/>
+                <Baseline points="1917,1660 2001,1672 2091,1678 2180,1678 2270,1678 2359,1678 2449,1678 2539,1678 2628,1678 2718,1678 2736,1678"/>
+                <TextEquiv>
+                    <Unicode>April 1896- 24/6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3663,1904 3697,1912 3730,1895 3811,1914 3876,1868 3916,1891 3955,1889 4030,1841 4062,1837 4068,1655 4041,1662 4012,1635 3991,1651 3966,1633 3909,1658 3891,1637 3851,1664 3776,1630 3745,1655 3705,1645 3672,1660"/>
+                <Baseline points="3680,1786 3710,1786 3799,1780 3889,1774 3978,1774 4068,1774"/>
+                <TextEquiv>
+                    <Unicode>lessers</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

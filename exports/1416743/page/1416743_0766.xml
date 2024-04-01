@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=27_07_2023_22:33</Creator>
+        <Created>2023-05-02T08:12:12.996+02:00</Created>
+        <LastChange>2023-07-27T22:33:58.974+02:00</LastChange>
+        <TranskribusMetadata docId="1416743" pageId="54955373" pageNr="766" tsid="131306451" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VPTVRFEFDKIBBZELGAXYCSMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZXCHQHLPGEAMFEDPDRTBISMR" imageId="44459098"/>
+    </Metadata>
+    <Page imageFilename="1416743_0766.jpg" imageWidth="3082" imageHeight="3848">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711826697667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="480,442 2597,442 2597,693 480,693"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1633,551 1915,511 2031,555 2148,519 2227,547 2341,524 2494,566 2591,530 2595,430 2284,403 2205,443 2063,409 1838,449 1635,430"/>
+                <Baseline points="1644,519 1656,519 1701,516 1746,513 1791,516 1835,516 1880,513 1925,510 1970,510 2015,507 2059,507 2104,507 2149,504 2194,507 2238,501 2283,501 2328,501 2373,504 2418,501 2462,498 2507,495 2552,492 2597,492"/>
+                <TextEquiv>
+                    <Unicode>M 57 / Bülowstrasse 9c</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="467,607 871,558 1081,590 1336,539 1578,556 1584,445 1372,433 1268,475 712,473 664,445 537,492 475,477"/>
+                <Baseline points="480,582 510,579 555,576 600,579 644,573 689,567 734,561 779,558 823,552 868,552 913,549 958,546 1003,543 1047,540 1092,540 1137,540 1182,537 1226,534 1271,528 1316,531 1361,531 1406,525 1450,525 1495,525 1540,525 1585,525"/>
+                <TextEquiv>
+                    <Unicode>S. Fischer/Verlag / Berlin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="793,653 1546,645 1745,592 2180,623 2313,598 2315,551 1911,511 795,581"/>
+                <Baseline points="806,620 841,623 886,623 931,623 976,620 1020,617 1065,614 1110,614 1155,611 1200,611 1244,611 1289,608 1334,606 1379,606 1423,603 1468,603 1513,600 1558,597 1603,594 1647,594 1692,594 1737,594 1782,591 1826,591 1871,591 1916,588 1961,588 2006,588 2050,582 2095,582 2140,582 2185,579 2229,576 2274,576 2319,573"/>
+                <TextEquiv>
+                    <Unicode>Fernsprechanschlüsse: Amt Lützow Nr. 1662. 6162 und 9292 / Postscheckkonto: Berlin Nr: 16692</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1213,731 1366,763 1478,719 1593,719 1675,687 1709,706 1760,683 1819,725 1889,732 1892,619 1575,626 1516,647 1459,628 1366,645 1349,628 1215,632"/>
+                <Baseline points="1226,683 1253,683 1298,680 1343,680 1388,677 1394,677 1403,674 1447,680 1492,677 1537,677 1582,671 1626,668 1671,668 1716,671 1761,671 1806,668 1850,665 1895,665"/>
+                <TextEquiv>
+                    <Unicode>HEATERARTEILING</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

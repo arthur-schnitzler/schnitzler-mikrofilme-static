@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_22:23</Creator>
+        <Created>2023-05-01T21:48:56.206+02:00</Created>
+        <LastChange>2023-07-24T22:23:31.954+02:00</LastChange>
+        <TranskribusMetadata docId="1416403" pageId="54944778" pageNr="5" tsid="130574474" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VUELYZPOBPOTWSDDHRMAKEBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QAXBONSYRRQJJTGKXKMQAQQR" imageId="44448863"/>
+    </Metadata>
+    <Page imageFilename="1416403_0005.jpg" imageWidth="3624" imageHeight="4002">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711832632283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1254,451 3034,451 3034,1631 1254,1631"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1915,519 1965,515 2010,552 2032,544 2131,585 2150,580 2166,598 2194,586 2243,618 2300,620 2303,464 2220,454 2188,475 2161,464 2112,481 1994,458 1916,460"/>
+                <Baseline points="1923,507 1968,510 2003,513 2021,507 2066,504 2111,507 2156,504 2201,504 2245,501 2290,510 2305,510"/>
+                <TextEquiv>
+                    <Unicode>Votre â¢</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2774,631 2801,635 2825,618 2855,616 2879,629 2901,623 2931,636 2950,627 2969,642 3018,642 3038,487 2970,458 2915,456 2847,486 2794,471"/>
+                <Baseline points="2789,567 2810,564 2855,552 2899,546 2944,537 2989,537 3034,540"/>
+                <TextEquiv>
+                    <Unicode>..........</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2584,621 2595,620 2623,598 2628,602 2645,599 2650,605 2664,598 2681,609 2689,605 2706,609 2706,575 2695,575 2688,568 2676,570 2673,564 2662,561 2634,568 2585,568"/>
+                <Baseline points="2592,603 2619,600 2664,597 2708,600"/>
+                <TextEquiv>
+                    <Unicode>"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1297,1236 1539,1204 1745,1256 2132,1158 2293,1149 2386,1188 2391,1120 2133,1100 2075,1127 1929,1082 1713,1153 1465,1151 1408,1116 1303,1142"/>
+                <Baseline points="1305,1218 1314,1218 1358,1221 1403,1218 1448,1215 1493,1212 1538,1209 1582,1206 1627,1203 1672,1200 1717,1200 1762,1197 1806,1194 1851,1194 1896,1191 1941,1185 1986,1182 2030,1176 2075,1173 2120,1167 2165,1161 2210,1161 2254,1161 2299,1158 2344,1161 2389,1167"/>
+                <TextEquiv>
+                    <Unicode>Es grusse ou son</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1245,1423 1336,1400 1451,1455 1584,1398 2190,1378 2198,1188 1968,1260 1899,1238 1706,1325 1249,1336"/>
+                <Baseline points="1254,1394 1263,1394 1308,1397 1352,1394 1397,1394 1442,1394 1487,1394 1532,1391 1576,1391 1621,1388 1666,1388 1711,1388 1756,1382 1800,1379 1845,1376 1890,1376 1935,1364 1962,1358 2003,1364 2048,1361 2093,1364 2138,1370 2183,1370 2195,1373"/>
+                <TextEquiv>
+                    <Unicode>Herzen Th</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1623,1644 1751,1665 1897,1644 2142,1660 2329,1621 2331,1531 2190,1512 2094,1455 2041,1466 1865,1406 1630,1439"/>
+                <Baseline points="1632,1621 1660,1621 1705,1621 1750,1615 1794,1612 1839,1606 1884,1600 1929,1600 1974,1600 2018,1597 2063,1600 2108,1600 2153,1600 2198,1600 2242,1600 2287,1603 2332,1603"/>
+                <TextEquiv>
+                    <Unicode>Richawr</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

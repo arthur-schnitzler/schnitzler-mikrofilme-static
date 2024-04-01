@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_03:04</Creator>
+        <Created>2023-05-10T11:15:36.969+02:00</Created>
+        <LastChange>2023-07-28T03:04:24.663+02:00</LastChange>
+        <TranskribusMetadata docId="1428139" pageId="55384870" pageNr="27" tsid="131314853" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JMMQALVEICLDMCGRYCWFFWSU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TXRCSASBCNFPNUPTPSUAGCKU" imageId="44659769"/>
+    </Metadata>
+    <Page imageFilename="1428139_0027.jpg" imageWidth="6648" imageHeight="4312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711823233489" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3643,553 5428,553 5428,1461 3643,1461"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4630,628 4642,628 4656,618 4670,624 4690,622 4706,612 4734,624 4746,612 4768,610 4774,604 4790,608 4790,532 4780,532 4760,548 4740,534 4712,538 4704,530 4684,532 4678,526 4664,530 4654,542 4644,538 4630,542"/>
+                <Baseline points="4640,603 4730,609 4795,603"/>
+                <TextEquiv>
+                    <Unicode>-2-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3630,1016 3820,1042 3952,1022 4024,1054 4072,1024 4184,1048 4288,1004 4458,1000 4526,1030 4558,1024 4560,920 4364,900 4256,946 4144,912 4052,948 3834,904 3632,940"/>
+                <Baseline points="3643,997 3666,997 3756,997 3846,997 3935,997 4025,997 4114,991 4204,991 4294,991 4383,991 4473,985 4562,991"/>
+                <TextEquiv>
+                    <Unicode>Vielen herzlichen Dank!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4522,1198 4564,1190 4622,1206 4652,1184 4672,1194 4684,1192 4684,1066 4662,1074 4642,1068 4634,1074 4618,1062 4586,1072 4544,1058 4522,1062"/>
+                <Baseline points="4532,1140 4622,1140 4688,1140"/>
+                <TextEquiv>
+                    <Unicode>von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4554,1486 4670,1492 4768,1456 4816,1484 4940,1458 5000,1480 5054,1448 5164,1456 5196,1484 5290,1452 5424,1476 5422,1410 5278,1360 5156,1384 5090,1368 5012,1408 4860,1370 4686,1396 4600,1370 4552,1398"/>
+                <Baseline points="4562,1439 4652,1451 4742,1451 4831,1445 4921,1445 5010,1445 5100,1445 5189,1445 5279,1445 5369,1451 5428,1451"/>
+                <TextEquiv>
+                    <Unicode>Frau Elidda Eulenberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

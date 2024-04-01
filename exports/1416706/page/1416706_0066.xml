@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=26_07_2023_01:54</Creator>
+        <Created>2023-05-02T07:44:34.653+02:00</Created>
+        <LastChange>2023-07-26T01:54:38.495+02:00</LastChange>
+        <TranskribusMetadata docId="1416706" pageId="54950546" pageNr="66" tsid="130870098" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LSCQUGYGYSSFJDHYIMBCGSQI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USRHLTMCWGEAJTRXEPXFOUHO" imageId="44454272"/>
+    </Metadata>
+    <Page imageFilename="1416706_0066.jpg" imageWidth="2532" imageHeight="4103">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711829268361" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="382,436 2185,436 2185,1341 382,1341"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2005,527 2033,529 2056,504 2088,493 2145,525 2166,529 2183,521 2173,413 2137,411 2122,426 2092,419 2084,424 2056,407 2029,428 1997,436"/>
+                <Baseline points="2012,486 2057,489 2102,498 2147,498 2185,501"/>
+                <TextEquiv>
+                    <Unicode>: 1/4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1514,991 1542,1002 1628,983 1690,999 1705,991 1717,1002 1760,993 1758,896 1728,896 1709,913 1696,908 1643,927 1601,904 1546,919 1512,917"/>
+                <Baseline points="1525,976 1570,976 1615,976 1660,976 1705,976 1749,979 1764,982"/>
+                <TextEquiv>
+                    <Unicode>2.7.98.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="371,1103 1929,1107 2031,1152 2010,1040 368,1021"/>
+                <Baseline points="382,1080 427,1083 471,1083 516,1083 561,1083 606,1086 650,1083 695,1083 740,1086 785,1086 830,1086 874,1086 919,1086 964,1086 1009,1086 1054,1089 1098,1089 1143,1089 1188,1089 1233,1089 1278,1089 1322,1089 1367,1089 1412,1089 1457,1089 1502,1089 1546,1092 1591,1095 1636,1095 1681,1095 1726,1095 1770,1095 1815,1095 1860,1095 1905,1095 1949,1095 1994,1095 2036,1095"/>
+                <TextEquiv>
+                    <Unicode>Engels tritt wahrscheinlich erst 99 ein. Auch würden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="373,1230 2075,1226 2073,1143 1899,1127 371,1150"/>
+                <Baseline points="385,1203 430,1203 474,1203 519,1203 564,1203 609,1203 653,1203 698,1206 743,1203 788,1206 833,1206 877,1206 922,1206 967,1206 1012,1209 1057,1206 1101,1209 1146,1209 1191,1209 1236,1209 1281,1209 1325,1212 1370,1212 1415,1212 1460,1209 1505,1212 1549,1212 1594,1212 1639,1212 1684,1215 1728,1215 1773,1215 1818,1215 1863,1215 1908,1215 1952,1218 1997,1218 2042,1221 2078,1221"/>
+                <TextEquiv>
+                    <Unicode>Müller oder Reicher (der treffliche Vater Christinens)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="373,1351 947,1332 1084,1370 1290,1328 1537,1372 1535,1266 1495,1256 1349,1287 1099,1249 373,1279"/>
+                <Baseline points="385,1319 430,1319 474,1322 519,1322 564,1322 609,1322 653,1322 698,1325 743,1325 788,1322 833,1322 877,1325 922,1325 967,1325 1012,1325 1057,1325 1101,1325 1146,1325 1191,1325 1236,1325 1281,1328 1325,1328 1370,1328 1415,1328 1460,1328 1505,1331 1543,1328"/>
+                <TextEquiv>
+                    <Unicode>den Wiener Tap us sicher eher treffen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
