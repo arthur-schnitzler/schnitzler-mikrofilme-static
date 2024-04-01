@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_21:37</Creator>
+        <Created>2023-05-10T13:14:53.464+02:00</Created>
+        <LastChange>2023-07-29T21:37:29.275+02:00</LastChange>
+        <TranskribusMetadata docId="1428570" pageId="55410183" pageNr="59" tsid="131464699" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MVFTVXNVCUXHKBHXWMTDATJI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LABGNMWVPNQKSLYLXJMPYOPO" imageId="44684326"/>
+    </Metadata>
+    <Page imageFilename="1428570_0059.jpg" imageWidth="3496" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793193480" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="585,1018 2752,1018 2752,1914 585,1914"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="578,1114 805,1175 952,1118 1108,1175 1195,1114 1491,1089 1499,941 1093,881 930,904 710,857 590,892"/>
+                <Baseline points="585,1104 600,1107 644,1107 689,1110 734,1113 779,1113 823,1110 868,1104 913,1101 958,1095 1002,1092 1047,1089 1092,1083 1137,1083 1182,1077 1226,1074 1271,1071 1316,1068 1361,1068 1405,1068 1450,1068 1495,1077"/>
+                <TextEquiv>
+                    <Unicode>Der Verfahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2392,1246 2404,1247 2419,1258 2432,1251 2440,1253 2462,1232 2482,1232 2475,1123 2424,1146 2387,1141"/>
+                <Baseline points="2397,1200 2441,1208 2483,1205"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1081,1236 1877,1250 2172,1209 2173,1159 1907,1064 1669,1070 1550,1155 1382,1127 1262,1186 1083,1174"/>
+                <Baseline points="1089,1235 1101,1238 1146,1235 1191,1229 1235,1226 1280,1229 1325,1226 1370,1223 1414,1220 1459,1220 1504,1220 1549,1214 1594,1220 1638,1217 1683,1220 1728,1223 1773,1223 1817,1223 1862,1220 1907,1211 1952,1211 1997,1208 2041,1208 2086,1208 2131,1202 2176,1208"/>
+                <TextEquiv>
+                    <Unicode>un du dernier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2077,1900 2301,1926 2530,1884 2750,1931 2735,1710 2532,1704 2346,1802 2247,1765 2069,1779"/>
+                <Baseline points="2081,1854 2128,1859 2173,1862 2217,1868 2262,1871 2307,1874 2352,1877 2397,1880 2441,1883 2486,1886 2531,1886 2576,1889 2620,1898 2665,1898 2710,1898 2752,1904"/>
+                <TextEquiv>
+                    <Unicode>visten Secy</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

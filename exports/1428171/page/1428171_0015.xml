@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:16</Creator>
+        <Created>2023-05-10T11:45:15.822+02:00</Created>
+        <LastChange>2023-07-28T17:16:23.784+02:00</LastChange>
+        <TranskribusMetadata docId="1428171" pageId="55390879" pageNr="15" tsid="131366405" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VMRWXKOGHTRKRCPBTDBMZXWE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HOSGZEBESIJLVXTYBKWVQQWK" imageId="44665765"/>
+    </Metadata>
+    <Page imageFilename="1428171_0015.jpg" imageWidth="3560" imageHeight="4568">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802491550" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1227,2231 3006,2231 3006,2538 1227,2538"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1245,2371 1414,2399 1564,2334 1787,2384 2041,2323 2198,2371 2323,2296 2589,2371 3000,2345 2978,2174 2653,2229 2119,2150 1838,2209 1250,2128"/>
+                <Baseline points="1259,2310 1304,2313 1349,2313 1394,2316 1439,2319 1483,2319 1528,2319 1573,2316 1618,2313 1662,2307 1707,2307 1752,2310 1797,2307 1842,2307 1886,2304 1931,2307 1976,2304 2021,2301 2066,2301 2110,2295 2155,2292 2200,2289 2245,2292 2289,2289 2334,2289 2379,2286 2424,2286 2469,2281 2513,2281 2558,2284 2603,2286 2648,2289 2693,2289 2737,2292 2782,2298 2827,2301 2872,2301 2916,2301 2961,2295 3006,2292"/>
+                <TextEquiv>
+                    <Unicode>vielleicht ist ein Schulicht aus schon.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1215,2550 1276,2576 1438,2539 1486,2572 1632,2559 1702,2517 1765,2559 1844,2530 1918,2565 1923,2458 1811,2480 1669,2399 1473,2410 1398,2438 1221,2408"/>
+                <Baseline points="1227,2522 1253,2528 1298,2525 1343,2525 1388,2522 1433,2519 1477,2513 1522,2510 1567,2510 1612,2507 1657,2507 1701,2507 1746,2507 1791,2507 1836,2504 1880,2501 1925,2495"/>
+                <TextEquiv>
+                    <Unicode>Col Masulin</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

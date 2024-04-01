@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_10:10</Creator>
+        <Created>2023-05-10T12:30:43.369+02:00</Created>
+        <LastChange>2023-07-29T10:10:34.807+02:00</LastChange>
+        <TranskribusMetadata docId="1428204" pageId="55403848" pageNr="115" tsid="131406846" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GDWDJHJXQWSXNBENRUMRASTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LEILLHMTFQSLBNSAJKQFZKXX" imageId="44678641"/>
+    </Metadata>
+    <Page imageFilename="1428204_0115.jpg" imageWidth="3272" imageHeight="4376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795917156" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="140,105 2808,105 2808,681 140,681"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2651,197 2662,201 2674,196 2706,173 2724,181 2740,167 2761,176 2784,160 2793,171 2802,171 2804,133 2781,126 2751,123 2742,130 2720,126 2708,135 2681,128 2655,130"/>
+                <Baseline points="2662,164 2674,164 2719,161 2764,158 2808,155"/>
+                <TextEquiv>
+                    <Unicode>o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="886,383 913,375 939,393 966,383 1023,388 1037,375 1053,381 1100,361 1119,377 1148,365 1180,377 1205,368 1206,326 1123,318 1069,322 1048,334 1030,324 1005,331 952,286 890,281"/>
+                <Baseline points="898,358 943,361 988,364 1032,361 1077,355 1122,352 1167,355 1211,358"/>
+                <TextEquiv>
+                    <Unicode>Gouvernement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="128,399 370,393 388,409 541,383 582,406 747,386 747,347 724,336 610,345 555,317 352,363 244,318 208,351 176,333 130,345"/>
+                <Baseline points="140,388 170,385 214,385 259,379 304,379 349,376 394,376 438,376 483,373 528,373 573,373 617,376 662,373 707,373 752,373"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="238,434 254,429 272,447 342,439 365,452 395,434 427,452 482,454 573,420 623,432 625,397 584,404 553,386 537,399 464,391 445,406 416,395 391,407 363,397 310,406 288,395 240,407"/>
+                <Baseline points="250,420 271,423 316,420 361,423 405,420 450,420 495,420 540,420 585,417 629,414"/>
+                <TextEquiv>
+                    <Unicode>de mon ami a lʼhonneur à lisant avec</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="361,708 402,697 418,710 445,703 471,710 489,699 544,726 564,722 539,562 521,575 480,569 475,578 447,582 429,603 416,600 386,625 347,625"/>
+                <Baseline points="358,641 402,641 447,650 492,659 537,665 561,671"/>
+                <TextEquiv>
+                    <Unicode>yours,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

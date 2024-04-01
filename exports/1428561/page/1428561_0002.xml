@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_02:32</Creator>
+        <Created>2023-05-10T13:04:38.143+02:00</Created>
+        <LastChange>2023-07-25T02:32:23.861+02:00</LastChange>
+        <TranskribusMetadata docId="1428561" pageId="55407575" pageNr="2" tsid="130580846" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KIRQVIRWRBCAENVBSCIAIYSU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KUARQGJBAUHBHXQIKNPZJALW" imageId="44681722"/>
+    </Metadata>
+    <Page imageFilename="1428561_0002.jpg" imageWidth="3704" imageHeight="4952">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711794516915" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1091,777 2935,777 2935,2301 1091,2301"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2419,827 2514,864 2602,827 2636,856 2741,873 2759,856 2841,919 2885,915 2931,878 2900,588 2776,627 2704,583 2620,583 2414,781"/>
+                <Baseline points="2428,827 2523,841 2613,841 2702,847 2792,865 2881,877 2935,883"/>
+                <TextEquiv>
+                    <Unicode>102</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1081,1871 1158,1832 1254,1868 1310,1827 1466,1841 1517,1793 1937,1805 1985,1854 2090,1790 2375,1856 2442,1805 2444,1703 2173,1727 2119,1670 2065,1720 1949,1722 1756,1614 1673,1687 1510,1681 1415,1753 1195,1537 1088,1537"/>
+                <Baseline points="1091,1843 1103,1843 1193,1837 1282,1837 1372,1831 1461,1825 1551,1819 1640,1813 1730,1801 1819,1801 1909,1801 1998,1801 2088,1801 2177,1807 2267,1813 2356,1819 2446,1825"/>
+                <TextEquiv>
+                    <Unicode>Hirchenspiel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1275,2441 1424,2304 2371,2309 2400,2259 2244,2219 2061,2049 1993,2049 1871,2171 1793,2144 1698,2231 1603,2219 1456,2073 1273,2222"/>
+                <Baseline points="1282,2291 1372,2285 1461,2291 1551,2291 1640,2291 1730,2291 1819,2291 1909,2279 1998,2285 2088,2291 2177,2291 2267,2291 2356,2291 2404,2291"/>
+                <TextEquiv>
+                    <Unicode>frécle Taon,</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

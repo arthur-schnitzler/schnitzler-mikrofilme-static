@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_20:23</Creator>
+        <Created>2023-05-10T11:53:13.684+02:00</Created>
+        <LastChange>2023-07-28T20:23:38.520+02:00</LastChange>
+        <TranskribusMetadata docId="1428174" pageId="55393443" pageNr="25" tsid="131375389" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JFPEQWILFMYVLXSMIWMKVTTA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KFKUYMGLEFUPGNOBICMCZZON" imageId="44668328"/>
+    </Metadata>
+    <Page imageFilename="1428174_0025.jpg" imageWidth="3336" imageHeight="4072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801788668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="352,570 2821,570 2821,1290 352,1290"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2232,708 2322,705 2401,747 2434,747 2458,726 2510,747 2522,505 2461,490 2452,499 2413,469 2325,505 2307,496 2274,511 2244,499"/>
+                <Baseline points="2253,635 2298,632 2343,629 2388,626 2433,623 2477,620 2522,620"/>
+                <TextEquiv>
+                    <Unicode>erst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="499,714 723,738 907,686 968,750 1312,689 1430,744 1630,683 1636,466 1406,472 1294,423 856,466 702,399 505,402"/>
+                <Baseline points="516,650 522,653 567,653 611,650 656,650 701,650 746,650 791,650 835,650 880,650 925,647 970,650 1015,647 1059,650 1104,650 1149,650 1194,653 1238,647 1283,647 1328,641 1373,632 1418,632 1462,623 1507,623 1552,623 1597,623 1641,623"/>
+                <TextEquiv>
+                    <Unicode>dans la l'eil et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2098,732 2120,735 2138,717 2153,717 2165,708 2186,708 2186,562 2162,565 2129,590 2123,584 2117,590 2098,587"/>
+                <Baseline points="2116,632 2161,635 2194,632"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="381,1095 1203,1052 1500,943 2809,965 2821,723 2195,692 1445,910 1019,771 732,832 402,732"/>
+                <Baseline points="403,994 447,988 492,988 537,988 582,982 626,982 671,979 716,973 761,973 806,970 850,976 895,976 940,976 985,976 1032,972 1032,972 1074,964 1119,961 1164,958 1209,958 1253,958 1298,958 1343,955 1388,949 1432,943 1477,940 1522,940 1567,937 1612,934 1656,931 1701,925 1746,922 1791,919 1835,913 1880,904 1925,904 1970,901 2015,901 2059,898 2104,892 2149,889 2194,892 2239,889 2283,886 2328,886 2373,883 2418,883 2462,883 2507,883 2552,883 2597,880 2642,877 2686,877 2731,874 2776,868 2821,868"/>
+                <TextEquiv>
+                    <Unicode>ihn zu sagen u. den Achthelfe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="333,1394 859,1318 1200,1421 1678,1279 1984,1346 2129,1258 2492,1370 2546,956 2114,1095 1808,1004 1291,1140 813,1040 342,1197"/>
+                <Baseline points="352,1280 391,1265 435,1262 480,1259 525,1259 570,1256 614,1253 659,1253 704,1253 749,1253 794,1256 838,1259 883,1262 928,1259 973,1262 1018,1265 1062,1265 1107,1265 1152,1268 1197,1265 1241,1271 1286,1265 1331,1262 1376,1256 1421,1253 1465,1253 1510,1247 1555,1247 1600,1241 1644,1232 1689,1232 1734,1229 1779,1229 1824,1226 1868,1223 1913,1221 1958,1215 2003,1209 2047,1203 2092,1203 2137,1197 2182,1197 2227,1194 2271,1191 2316,1185 2361,1185 2406,1179 2450,1173 2495,1164 2543,1162"/>
+                <TextEquiv>
+                    <Unicode>am Lebenskraft. Gies er das</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

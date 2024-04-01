@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:35</Creator>
+        <Created>2023-05-10T11:41:25.466+02:00</Created>
+        <LastChange>2023-07-28T18:35:16.075+02:00</LastChange>
+        <TranskribusMetadata docId="1428170" pageId="55391190" pageNr="215" tsid="131370703" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YDRXNDYXZGGABELKJNJOAYYV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHXDNGEZRPLDKIZHNDLSSXKK" imageId="44666075"/>
+    </Metadata>
+    <Page imageFilename="1428170_0215.jpg" imageWidth="3320" imageHeight="4056">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803067152" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="343,170 3023,170 3023,944 343,944"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2697,245 2742,266 2785,253 2806,274 2833,256 2889,274 2921,259 2969,266 3014,253 3019,181 2963,179 2942,165 2892,173 2844,147 2750,163 2705,147"/>
+                <Baseline points="2712,241 2754,244 2799,247 2844,250 2889,244 2933,241 2978,232 3023,220"/>
+                <TextEquiv>
+                    <Unicode>soon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="570,490 712,429 2692,416 2713,330 2396,235 1575,362 1194,370 786,264 576,322"/>
+                <Baseline points="587,420 614,420 659,420 704,423 749,423 793,423 838,423 883,426 928,429 972,429 1017,429 1062,429 1107,429 1152,429 1196,429 1241,426 1286,423 1331,423 1375,423 1420,420 1465,414 1510,414 1554,411 1599,411 1644,408 1689,408 1734,405 1778,408 1823,408 1868,405 1913,405 1957,405 2002,399 2047,396 2092,390 2136,387 2181,382 2226,382 2271,379 2316,373 2360,373 2405,370 2450,367 2495,370 2539,370 2584,370 2629,379 2674,379 2718,379"/>
+                <TextEquiv>
+                    <Unicode>pene Herms well and die Ehl vorkommt;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2854,522 2878,525 2913,565 2926,565 2947,594 2961,597 3006,298 2961,285 2924,259 2894,259"/>
+                <Baseline points="2877,465 2897,462 2942,456 2989,448"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="328,621 437,600 466,621 520,616 600,648 714,626 765,645 762,554 712,549 677,522 640,528 610,506 514,509 440,469 389,472 370,490 325,474"/>
+                <Baseline points="343,573 387,579 432,579 477,581 522,581 567,581 611,584 656,584 701,581 746,581 772,579"/>
+                <TextEquiv>
+                    <Unicode>läuffig -.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="448,829 1061,760 1167,813 1274,752 1682,736 1783,706 1788,546 1287,680 1138,618 933,664 456,634"/>
+                <Baseline points="465,755 492,749 537,743 581,734 626,731 671,734 716,734 761,734 805,737 850,737 895,737 940,737 984,734 1029,734 1074,731 1119,731 1163,731 1208,731 1253,728 1298,725 1343,722 1387,719 1432,713 1477,713 1522,707 1566,707 1611,704 1656,701 1701,698 1745,695 1790,692"/>
+                <TextEquiv>
+                    <Unicode>Ihre Zärtlichkeit für karl?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="338,970 517,978 594,949 850,935 882,962 957,938 1082,981 1087,823 970,842 837,813 688,882 645,845 594,858 488,826 402,869 344,831"/>
+                <Baseline points="355,931 376,934 420,934 465,934 510,934 555,934 599,934 644,934 689,934 734,934 778,931 823,928 868,928 913,922 958,922 1002,919 1047,916 1092,919"/>
+                <TextEquiv>
+                    <Unicode>polar...  Agt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

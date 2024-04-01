@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:15</Creator>
+        <Created>2023-05-10T12:06:42.962+02:00</Created>
+        <LastChange>2023-07-29T01:15:36.380+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55399981" pageNr="483" tsid="131389462" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NVNYANMIAVHJWBESPXQDEAXL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BHIZDJVMGYHASBIWANGIUCGJ" imageId="44674805"/>
+    </Metadata>
+    <Page imageFilename="1428185_0483.jpg" imageWidth="3528" imageHeight="4296">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800264071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="200,191 1627,191 1627,359 200,359"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1532,290 1558,292 1588,312 1622,314 1622,162 1608,162 1572,184 1532,176"/>
+                <Baseline points="1543,241 1588,241 1627,241"/>
+                <TextEquiv>
+                    <Unicode>m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="190,406 302,418 392,366 430,362 482,380 528,370 574,390 622,386 662,370 666,224 620,230 492,158 432,176 366,166 296,192 272,180 236,206 194,194"/>
+                <Baseline points="200,349 220,343 265,340 310,340 355,337 400,337 444,334 489,334 534,334 579,334 623,334 668,334"/>
+                <TextEquiv>
+                    <Unicode>FJ</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

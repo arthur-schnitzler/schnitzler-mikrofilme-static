@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_15:06</Creator>
+        <Created>2023-05-10T13:10:00.697+02:00</Created>
+        <LastChange>2023-07-29T15:06:44.441+02:00</LastChange>
+        <TranskribusMetadata docId="1428565" pageId="55409052" pageNr="65" tsid="131437016" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EVBGZSBLHPDJYWVUZRPXIAKH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WVTACFBUDBKQKNICVTAMVCLA" imageId="44683197"/>
+    </Metadata>
+    <Page imageFilename="1428565_0065.jpg" imageWidth="3480" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793882805" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="448,475 2408,475 2408,1075 448,1075"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="435,557 475,542 494,561 523,564 612,528 695,547 750,526 803,530 807,444 784,432 762,451 724,449 686,430 652,451 621,435 583,471 537,475 468,516 437,506"/>
+                <Baseline points="448,542 453,543 498,543 543,537 587,534 632,534 677,531 722,528 767,525 811,528"/>
+                <TextEquiv>
+                    <Unicode>14.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="459,709 733,717 944,815 1010,755 1118,755 1204,709 1340,745 1338,588 1276,614 1049,566 1013,590 834,535 719,578 623,552 456,590"/>
+                <Baseline points="471,695 516,695 561,698 605,698 650,704 695,704 740,707 784,710 829,710 874,707 919,704 963,707 1008,704 1053,707 1098,704 1143,704 1187,704 1232,704 1277,701 1322,704 1346,704"/>
+                <TextEquiv>
+                    <Unicode>Robert Gräfin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="506,896 576,881 681,927 807,908 843,932 960,903 1065,929 1068,827 975,834 762,752 707,786 616,752 509,812"/>
+                <Baseline points="519,868 534,871 578,874 623,877 668,877 713,877 758,877 802,880 847,880 892,880 937,877 981,871 1026,862 1071,862"/>
+                <TextEquiv>
+                    <Unicode>Avelse:-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="485,1113 991,1065 1247,1156 1397,1101 1775,1132 2401,1030 2405,891 1837,874 1488,982 1170,913 963,972 822,905 490,941"/>
+                <Baseline points="498,1065 528,1059 573,1059 617,1056 662,1056 707,1053 752,1050 796,1047 841,1044 886,1041 931,1038 975,1032 1020,1029 1065,1026 1110,1026 1154,1026 1199,1029 1244,1032 1289,1035 1334,1035 1378,1035 1423,1029 1468,1026 1513,1023 1557,1026 1602,1026 1647,1023 1692,1023 1736,1020 1781,1020 1826,1017 1871,1014 1916,1011 1960,1011 2005,1008 2050,1005 2095,1002 2139,1002 2184,999 2229,999 2274,996 2318,993 2363,984 2408,987"/>
+                <TextEquiv>
+                    <Unicode>2 - so in Lands; andr Neppab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

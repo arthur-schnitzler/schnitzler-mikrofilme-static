@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:13</Creator>
+        <Created>2023-05-10T12:05:33.665+02:00</Created>
+        <LastChange>2023-07-29T01:13:21.946+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55397524" pageNr="70" tsid="131389039" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UMPOVOFWDYSTDDHZJPLEIISE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LDHKIIVDMMEOLIPGSUFFFLQK" imageId="44672402"/>
+    </Metadata>
+    <Page imageFilename="1428185_0070.jpg" imageWidth="3544" imageHeight="4408">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799841669" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1672,350 2855,350 2855,425 1672,425"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1664,406 2147,428 2315,394 2790,447 2853,428 2853,318 2707,300 2575,376 1664,371"/>
+                <Baseline points="1672,403 1690,406 1735,406 1779,406 1824,406 1869,406 1914,403 1959,403 2003,403 2048,403 2093,403 2138,403 2183,403 2227,403 2272,403 2317,403 2362,403 2407,403 2451,400 2496,403 2541,415 2586,415 2631,412 2675,415 2720,412 2765,409 2810,403 2855,400"/>
+                <TextEquiv>
+                    <Unicode>cœur à l'auteur. — Il mai</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

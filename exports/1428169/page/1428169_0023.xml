@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:24</Creator>
+        <Created>2023-05-10T11:40:15.040+02:00</Created>
+        <LastChange>2023-07-28T17:24:06.613+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55389696" pageNr="23" tsid="131366821" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VGNAWUWBCNXXKQRAQHUUDJHY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCGGHRDXSPHRVOKAFBSKRPVI" imageId="44664585"/>
+    </Metadata>
+    <Page imageFilename="1428169_0023.jpg" imageWidth="3592" imageHeight="4408">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803386272" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="695,726 2956,726 2956,1288 695,1288"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2572,809 2592,812 2628,804 2662,812 2693,790 2710,792 2716,688 2699,682 2690,688 2679,680 2662,691 2648,682 2628,685 2620,677 2597,694 2577,691"/>
+                <Baseline points="2586,785 2625,782 2669,782 2714,776"/>
+                <TextEquiv>
+                    <Unicode>19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="680,995 1328,1010 1641,956 2030,1007 2186,953 2326,1004 2326,908 2090,818 1760,871 1263,815 1105,871 682,787"/>
+                <Baseline points="695,967 719,967 764,964 809,964 854,964 898,964 943,964 988,964 1033,964 1078,967 1122,967 1167,964 1212,961 1257,961 1302,958 1346,958 1391,958 1436,961 1481,958 1526,955 1570,958 1615,955 1660,955 1705,955 1750,955 1794,952 1839,955 1884,955 1929,952 1974,952 2018,952 2063,952 2108,949 2153,949 2198,949 2242,946 2287,946 2332,949"/>
+                <TextEquiv>
+                    <Unicode>Der Junggeselle hat sich vergiftet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="685,1176 1963,1111 2549,1182 2676,1091 2953,1100 2955,1004 1551,1060 1461,995 688,1004"/>
+                <Baseline points="701,1119 716,1122 761,1125 806,1125 851,1122 895,1119 940,1119 985,1122 1030,1122 1075,1119 1119,1116 1164,1116 1209,1113 1254,1113 1299,1110 1343,1113 1388,1113 1433,1116 1478,1113 1523,1110 1567,1110 1612,1110 1657,1107 1702,1107 1747,1107 1791,1107 1836,1107 1881,1104 1926,1104 1971,1104 2015,1104 2060,1107 2105,1104 2150,1107 2195,1107 2239,1107 2284,1107 2329,1102 2374,1102 2419,1099 2463,1099 2508,1099 2553,1096 2598,1096 2643,1090 2687,1093 2732,1093 2777,1090 2822,1090 2866,1087 2911,1087 2956,1090"/>
+                <TextEquiv>
+                    <Unicode>Lyriker: Es war das Anständigste, was er hat tun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="688,1303 773,1306 821,1283 891,1323 925,1325 950,1306 1038,1317 1035,1151 984,1165 919,1142 888,1167 807,1151 759,1173 744,1162 685,1173"/>
+                <Baseline points="704,1278 749,1275 794,1275 839,1275 883,1275 928,1275 973,1275 1018,1278 1045,1278"/>
+                <TextEquiv>
+                    <Unicode>können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

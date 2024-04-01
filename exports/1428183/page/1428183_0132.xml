@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_00:39</Creator>
+        <Created>2023-05-10T12:04:12.320+02:00</Created>
+        <LastChange>2023-07-29T00:39:14.115+02:00</LastChange>
+        <TranskribusMetadata docId="1428183" pageId="55396884" pageNr="132" tsid="131387952" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CIMUCNCMYHPULQZUPRCRSDXV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EGUFGHYBUMSYOEGTGELARCHM" imageId="44671762"/>
+    </Metadata>
+    <Page imageFilename="1428183_0132.jpg" imageWidth="2392" imageHeight="4056">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800732873" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="534,1934 1763,1934 1763,2066 534,2066"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="523,2088 1070,2023 1647,2042 1757,2019 1762,1942 529,1990"/>
+                <Baseline points="534,2050 555,2053 599,2050 644,2047 689,2044 734,2041 778,2035 823,2032 868,2032 913,2029 958,2029 1002,2029 1047,2020 1092,2017 1137,2014 1181,2014 1226,2011 1271,2011 1316,2008 1360,2002 1405,2002 1450,2002 1495,2002 1540,1999 1584,1999 1629,1996 1674,1990 1719,1987 1763,1984"/>
+                <TextEquiv>
+                    <Unicode>dergestellt in der Offizin von R. Ball, Berlin 1898.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1141,2128 1181,2123 1198,2134 1256,2100 1313,2100 1342,2076 1375,2068 1436,2074 1438,2022 1368,2023 1353,2011 1258,2034 1207,2017 1188,2017 1175,2030 1145,2025"/>
+                <Baseline points="1152,2056 1172,2050 1217,2047 1262,2047 1307,2047 1352,2044 1396,2041 1441,2041"/>
+                <TextEquiv>
+                    <Unicode>ammen</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

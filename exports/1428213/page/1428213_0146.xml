@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_12:49</Creator>
+        <Created>2023-05-10T12:32:40.994+02:00</Created>
+        <LastChange>2023-07-29T12:49:03.522+02:00</LastChange>
+        <TranskribusMetadata docId="1428213" pageId="55404604" pageNr="146" tsid="131419683" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JRDVKCADWDRCFIPQRNEQQWSG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CIGOWMSMXIOUCDSEJTMGRFRM" imageId="44679325"/>
+    </Metadata>
+    <Page imageFilename="1428213_0146.jpg" imageWidth="4504" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795629724" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1116,1287 2143,1287 2143,1741 1116,1741"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1103,1415 1280,1394 1612,1576 1768,1539 1772,1229 1631,1179 1492,1199 1370,1147 1317,1179 1216,1173 1165,1207 1107,1190"/>
+                <Baseline points="1116,1349 1149,1349 1194,1349 1238,1346 1283,1340 1328,1343 1373,1343 1417,1340 1462,1343 1507,1340 1552,1340 1597,1340 1641,1337 1686,1340 1731,1340 1776,1340"/>
+                <TextEquiv>
+                    <Unicode>gen Vormittag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1252,1832 1462,1813 1533,1843 1678,1770 1768,1800 2138,1723 2143,1556 1961,1486 1713,1580 1389,1529 1261,1539"/>
+                <Baseline points="1265,1731 1292,1725 1337,1725 1382,1725 1426,1722 1471,1725 1516,1725 1561,1728 1606,1725 1650,1725 1695,1725 1740,1722 1785,1719 1829,1716 1874,1713 1919,1710 1964,1710 2009,1704 2053,1710 2098,1704 2143,1710"/>
+                <TextEquiv>
+                    <Unicode>herzlichen Grühs.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

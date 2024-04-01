@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:09</Creator>
+        <Created>2023-05-10T11:54:57.101+02:00</Created>
+        <LastChange>2023-07-28T21:09:15.817+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55395436" pageNr="243" tsid="131377874" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NFHTKCJDGSZLBLVFWJHVDZFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YZPHYZWDSMRSRMHPXWHYAJBF" imageId="44670317"/>
+    </Metadata>
+    <Page imageFilename="1428176_0243.jpg" imageWidth="3467" imageHeight="4520">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801637599" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1895,212 2686,212 2686,344 1895,344"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2036,292 2250,302 2295,277 2544,268 2648,293 2682,281 2686,225 2592,234 2522,187 2437,189 2038,243"/>
+                <Baseline points="2045,280 2056,280 2101,280 2146,280 2191,277 2236,277 2280,277 2325,277 2370,274 2415,271 2460,271 2504,268 2549,262 2582,262 2627,262 2671,262 2686,262"/>
+                <TextEquiv>
+                    <Unicode>comme le Sr. de la nouvelle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1885,346 1910,340 1971,378 2169,344 2320,383 2367,355 2428,351 2428,279 2295,275 2252,301 2166,290 2054,310 1932,277 1885,292"/>
+                <Baseline points="1895,334 1940,331 1985,331 2030,331 2074,328 2119,331 2164,325 2209,325 2254,325 2298,328 2343,325 2388,322 2433,325"/>
+                <TextEquiv>
+                    <Unicode>le reste de cette rue de ses</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

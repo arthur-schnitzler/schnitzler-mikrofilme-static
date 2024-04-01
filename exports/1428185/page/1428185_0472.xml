@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:15</Creator>
+        <Created>2023-05-10T12:06:41.481+02:00</Created>
+        <LastChange>2023-07-29T01:15:33.707+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55399915" pageNr="472" tsid="131389451" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BUAOTQHVLYKJIALJSCPTDGAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BFUMKKLQFCVYTFSERXHNGEQB" imageId="44674739"/>
+    </Metadata>
+    <Page imageFilename="1428185_0472.jpg" imageWidth="3496" imageHeight="4280">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800253560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2733,194 3050,194 3050,263 2733,263"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2720,320 2766,324 2808,302 2838,312 2870,296 2914,300 2950,322 2976,310 3046,314 3048,192 2986,194 2944,210 2922,194 2902,196 2858,230 2846,218 2800,230 2790,220 2724,224"/>
+                <Baseline points="2733,247 2736,250 2781,253 2826,253 2871,247 2916,247 2960,247 3005,247 3050,244"/>
+                <TextEquiv>
+                    <Unicode>de l'honneur de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

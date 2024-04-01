@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_11:44</Creator>
+        <Created>2023-05-10T13:39:04.964+02:00</Created>
+        <LastChange>2023-07-30T11:44:32.157+02:00</LastChange>
+        <TranskribusMetadata docId="1428586" pageId="55413460" pageNr="4" tsid="131501379" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PSQCYFQFNCAXKPNFAZCQZZPI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KADOWSSDOBUZTSQPTWXXDXYD" imageId="44687600"/>
+    </Metadata>
+    <Page imageFilename="1428586_0004.jpg" imageWidth="3864" imageHeight="4920">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790737170" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="650,254 2692,254 2692,2046 650,2046"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="636,304 648,302 680,321 690,314 736,334 764,330 778,341 797,334 831,337 822,237 773,244 746,269 690,230 660,239 646,228 629,232"/>
+                <Baseline points="650,304 740,316 829,322 835,322"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1231,355 1268,339 1331,358 1363,353 1375,344 1400,344 1396,255 1373,253 1361,265 1338,262 1326,272 1298,262 1280,283 1266,269 1224,269"/>
+                <Baseline points="1241,328 1331,334 1403,340"/>
+                <TextEquiv>
+                    <Unicode>le dernier des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="822,1475 1068,1375 1261,1519 1649,1333 2689,1268 2701,1152 2339,1212 2269,1154 1870,1245 1723,1124 1219,1294 838,1324"/>
+                <Baseline points="835,1462 901,1456 991,1450 1080,1438 1170,1433 1259,1421 1349,1415 1438,1409 1528,1391 1618,1373 1707,1361 1797,1355 1886,1343 1976,1331 2065,1325 2155,1319 2245,1307 2334,1301 2424,1295 2513,1289 2603,1283 2692,1295"/>
+                <TextEquiv>
+                    <Unicode>Prof. Heintain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1282,2030 1647,2051 2627,1974 2638,1798 2541,1744 2462,1798 2376,1735 2218,1877 1976,1897 1902,1814 1749,1846 1593,1675 1291,1856"/>
+                <Baseline points="1295,2030 1379,2030 1468,2036 1558,2030 1647,2030 1737,2024 1827,2018 1916,2012 2006,2006 2095,2006 2185,1994 2274,1982 2364,1976 2454,1970 2543,1964 2633,1976"/>
+                <TextEquiv>
+                    <Unicode>Erster Akt</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:25</Creator>
+        <Created>2023-05-10T11:40:37.605+02:00</Created>
+        <LastChange>2023-07-28T17:25:31.452+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55390779" pageNr="192" tsid="131366997" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GJQTWLFGTFAUFQPSDXNZQBXW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JNFREVUJBZOASUEJRSFMYHFB" imageId="44665665"/>
+    </Metadata>
+    <Page imageFilename="1428169_0192.jpg" imageWidth="3352" imageHeight="4040">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803528379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="763,627 2971,627 2971,1042 763,1042"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="748,740 2949,715 2949,627 2620,572 2391,649 1996,591 751,641"/>
+                <Baseline points="763,725 808,725 853,728 898,725 942,725 987,722 1032,722 1077,722 1121,722 1166,722 1211,722 1256,719 1300,719 1345,719 1390,716 1435,719 1479,716 1524,716 1569,716 1614,713 1658,713 1703,710 1748,710 1793,707 1837,707 1882,707 1927,707 1972,707 2017,704 2061,704 2106,704 2151,701 2196,701 2240,698 2285,695 2330,695 2375,692 2419,692 2464,695 2509,692 2554,692 2598,692 2643,692 2688,689 2733,689 2777,686 2822,686 2867,683 2912,680 2956,677"/>
+                <TextEquiv>
+                    <Unicode>Johanna, wie im I.Akt vom Talent der Jugend die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="748,906 2046,862 2430,977 2963,892 2963,773 2706,740 2510,804 751,820"/>
+                <Baseline points="763,883 778,883 823,880 868,880 913,880 957,880 1002,877 1047,877 1092,877 1136,877 1181,877 1226,874 1271,874 1315,871 1360,871 1405,871 1450,868 1494,868 1539,865 1584,868 1629,868 1673,868 1718,865 1763,865 1808,865 1852,865 1897,862 1942,859 1987,856 2031,856 2076,856 2121,856 2166,856 2210,856 2255,853 2300,853 2345,850 2389,850 2434,847 2479,847 2524,850 2569,847 2613,847 2658,847 2703,847 2748,841 2792,841 2837,838 2882,838 2927,835 2971,835"/>
+                <TextEquiv>
+                    <Unicode>Rede ist: Man kann ja ein Ende machen, wenn man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="757,1093 809,1093 889,1132 911,1116 1196,1116 1198,950 1104,919 1055,933 903,919 875,933 759,914"/>
+                <Baseline points="775,1032 799,1032 844,1032 889,1032 933,1032 978,1032 1023,1032 1068,1029 1112,1029 1157,1026 1202,1029"/>
+                <TextEquiv>
+                    <Unicode>alt wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

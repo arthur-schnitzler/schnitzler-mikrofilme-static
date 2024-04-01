@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_00:31</Creator>
+        <Created>2023-05-10T12:07:16.200+02:00</Created>
+        <LastChange>2023-07-29T00:31:58.245+02:00</LastChange>
+        <TranskribusMetadata docId="1428186" pageId="55398619" pageNr="203" tsid="131387549" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QINICLHMUVLKLPSXSQGXVYKP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLLMBZPTFQVERRXPUYJUWFMF" imageId="44673468"/>
+    </Metadata>
+    <Page imageFilename="1428186_0203.jpg" imageWidth="3027" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799643729" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="149,630 1686,630 1686,1457 149,1457"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="156,740 236,704 327,727 467,702 629,767 905,736 905,584 604,558 556,584 463,556 329,594 279,571 156,581"/>
+                <Baseline points="167,683 211,683 256,683 301,683 346,683 391,683 435,683 480,683 525,683 570,683 615,680 659,683 704,686 749,683 794,680 838,683 883,683 910,686"/>
+                <TextEquiv>
+                    <Unicode>und xxxxx.Jnold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1377,740 1448,721 1576,721 1592,731 1644,725 1646,575 1596,588 1561,615 1526,608 1494,583 1453,604 1440,590 1411,604 1378,600"/>
+                <Baseline points="1388,686 1424,689 1468,686 1513,680 1558,689 1603,686 1648,683"/>
+                <TextEquiv>
+                    <Unicode>.H.S. S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1025,746 1040,752 1079,723 1109,725 1148,696 1169,692 1190,702 1236,677 1236,602 1205,604 1178,583 1161,594 1148,590 1123,600 1084,590 1038,608 1025,604"/>
+                <Baseline points="1035,683 1080,686 1125,683 1137,683 1161,686 1197,686 1241,683"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="138,917 331,846 852,892 1680,857 1680,771 1409,782 1338,721 1086,784 884,742 138,763"/>
+                <Baseline points="149,829 194,832 238,832 283,835 328,832 373,835 417,835 462,832 507,835 552,835 597,835 641,835 686,832 731,832 776,835 821,835 865,835 910,835 955,838 1000,838 1044,838 1089,835 1134,835 1179,838 1224,838 1268,838 1313,838 1358,841 1403,838 1447,838 1492,838 1537,835 1582,832 1627,835 1671,832 1686,832"/>
+                <TextEquiv>
+                    <Unicode>Sie auf hei Jhnen xxx xxx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="171,1048 367,988 525,1027 611,990 738,1048 877,1052 1027,1009 1113,1042 1171,1030 1171,890 984,919 775,865 744,890 496,875 384,948 269,884 171,898"/>
+                <Baseline points="182,985 226,985 271,988 316,985 361,985 406,985 450,988 495,988 540,985 585,988 629,988 674,988 719,988 764,988 809,988 853,988 898,991 943,994 988,991 1032,991 1077,991 1122,991 1167,994 1176,991"/>
+                <TextEquiv>
+                    <Unicode>ndem oder bemerkt haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1396,998 1428,996 1469,1019 1492,1017 1532,1046 1542,1046 1542,915 1523,917 1513,911 1501,923 1492,917 1482,921 1475,913 1461,917 1440,911 1409,930 1396,929"/>
+                <Baseline points="1406,991 1412,991 1456,988 1501,991 1546,988"/>
+                <TextEquiv>
+                    <Unicode>G:A:S:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="613,1294 702,1302 736,1282 765,1311 796,1311 852,1300 886,1269 1017,1311 1163,1321 1202,1296 1202,1184 1117,1209 946,1200 840,1236 754,1230 725,1202 613,1202"/>
+                <Baseline points="623,1289 668,1289 713,1289 758,1289 803,1289 847,1286 892,1289 937,1292 982,1292 1027,1292 1071,1295 1116,1292 1161,1292 1206,1289"/>
+                <TextEquiv>
+                    <Unicode>it was for me:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="511,1453 588,1446 608,1459 621,1446 646,1455 656,1446 707,1444 707,1390 679,1396 656,1373 636,1392 625,1392 608,1378 592,1392 573,1373 550,1390 521,1361 511,1361"/>
+                <Baseline points="522,1444 534,1442 579,1444 623,1444 668,1444 713,1442"/>
+                <TextEquiv>
+                    <Unicode>J.W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="742,1448 804,1448 848,1486 902,1444 969,1478 1288,1488 1288,1321 1198,1367 1136,1353 1086,1380 1036,1355 946,1378 850,1361 798,1384 742,1361"/>
+                <Baseline points="752,1444 797,1442 841,1444 886,1442 931,1442 976,1442 1021,1442 1065,1442 1110,1444 1155,1444 1200,1444 1244,1444 1289,1447 1292,1447"/>
+                <TextEquiv>
+                    <Unicode>Istewad Iad’</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

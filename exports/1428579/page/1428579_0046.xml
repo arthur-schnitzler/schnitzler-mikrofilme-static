@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=01_08_2023_06:25</Creator>
+        <Created>2023-05-10T13:29:22.689+02:00</Created>
+        <LastChange>2023-08-01T06:25:37.522+02:00</LastChange>
+        <TranskribusMetadata docId="1428579" pageId="55412323" pageNr="46" tsid="131652033" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LSPYPRFWHECHFAUUDJECJDZU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XKFWIUSJGTPBDETBVFOSPIJO" imageId="44686464"/>
+    </Metadata>
+    <Page imageFilename="1428579_0046.jpg" imageWidth="3416" imageHeight="4072">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791683419" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="283,350 2934,350 2934,1060 283,1060"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2788,453 2822,448 2856,458 2884,437 2900,445 2924,437 2926,309 2895,306 2879,293 2835,314 2814,314 2803,325 2790,322"/>
+                <Baseline points="2803,406 2845,400 2889,400 2934,403"/>
+                <TextEquiv>
+                    <Unicode>45</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="469,715 1756,678 2063,639 2065,565 1696,508 861,636 474,631"/>
+                <Baseline points="486,701 501,701 546,698 591,698 635,695 680,695 725,689 770,689 814,686 859,686 904,680 949,680 994,677 1038,677 1083,674 1128,671 1173,671 1218,668 1262,665 1307,662 1352,662 1397,659 1441,656 1486,653 1531,653 1576,650 1621,647 1665,644 1710,641 1755,638 1800,635 1844,632 1889,629 1934,626 1979,626 2024,626 2068,626"/>
+                <TextEquiv>
+                    <Unicode>Markus: Der Bursch kann schreiben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="492,879 2309,785 2591,832 2597,725 497,788"/>
+                <Baseline points="507,874 540,874 585,877 629,877 674,874 719,871 764,868 809,865 853,865 898,859 943,856 988,856 1032,856 1077,853 1122,850 1167,847 1212,844 1256,841 1301,838 1346,838 1391,835 1435,835 1480,832 1525,829 1570,829 1615,826 1659,823 1704,817 1749,814 1794,814 1838,812 1883,809 1928,806 1973,806 2018,803 2062,800 2107,794 2152,794 2197,791 2241,788 2286,788 2331,785 2376,785 2421,779 2465,779 2510,776 2555,776 2600,779"/>
+                <TextEquiv>
+                    <Unicode>Von morgen an machen Sie mir die Leitartikel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="267,984 296,982 314,995 351,961 356,966 372,966 377,856 364,856 359,861 353,856 330,864 317,851 301,859 275,853"/>
+                <Baseline points="283,955 289,958 334,952 379,952"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="495,1063 890,1076 953,1037 1091,1063 1419,1018 1652,1042 1670,961 1521,924 1196,968 1023,927 827,1000 500,982"/>
+                <Baseline points="510,1050 513,1050 558,1050 603,1047 647,1047 692,1047 737,1044 782,1044 826,1041 871,1038 916,1038 961,1035 1006,1032 1050,1029 1095,1029 1140,1026 1185,1023 1229,1020 1274,1018 1319,1015 1364,1012 1409,1009 1453,1006 1498,1003 1543,1003 1588,1006 1632,1006 1677,1006"/>
+                <TextEquiv>
+                    <Unicode>Sie hab en Weltanschauung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

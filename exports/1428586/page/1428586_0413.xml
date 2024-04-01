@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_11:46</Creator>
+        <Created>2023-05-10T13:40:10.712+02:00</Created>
+        <LastChange>2023-07-30T11:46:31.787+02:00</LastChange>
+        <TranskribusMetadata docId="1428586" pageId="55415837" pageNr="413" tsid="131501971" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FBOYNSLQBVODXZPNNDFSTLGP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMZEEKPEFNWCVWLVIFDOWUUG" imageId="44689944"/>
+    </Metadata>
+    <Page imageFilename="1428586_0413.jpg" imageWidth="3736" imageHeight="4888">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791093218" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1242,673 3358,673 3358,2143 1242,2143"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3148,750 3165,744 3196,759 3233,747 3248,764 3258,759 3279,769 3297,759 3312,766 3345,735 3353,737 3358,600 3336,603 3270,644 3260,635 3241,641 3219,624 3152,632"/>
+                <Baseline points="3158,734 3178,729 3268,729 3358,723"/>
+                <TextEquiv>
+                    <Unicode>xxI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1229,1737 1344,1763 1888,1660 2586,1638 2599,1475 2112,1548 1491,1420 1254,1433"/>
+                <Baseline points="1242,1709 1248,1714 1338,1709 1428,1697 1517,1691 1607,1685 1697,1679 1786,1667 1876,1661 1965,1655 2055,1649 2145,1643 2234,1637 2324,1625 2414,1619 2503,1613 2593,1601"/>
+                <TextEquiv>
+                    <Unicode>Professor Bernhard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1604,2190 2035,2158 2256,2094 2572,2092 2591,1886 2510,1894 2275,1785 2111,1864 2004,1862 1825,1778 1638,1810"/>
+                <Baseline points="1619,2133 1685,2133 1774,2121 1864,2109 1954,2103 2043,2097 2133,2091 2222,2085 2312,2079 2402,2067 2491,2055 2581,2037"/>
+                <TextEquiv>
+                    <Unicode>Verhält</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

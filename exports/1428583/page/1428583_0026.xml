@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_17:46</Creator>
+        <Created>2023-05-10T13:35:16.604+02:00</Created>
+        <LastChange>2023-07-24T17:46:32.827+02:00</LastChange>
+        <TranskribusMetadata docId="1428583" pageId="55412689" pageNr="26" tsid="130554589" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CNKWXLRLSWYSUMBCNFEUNCEK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VUITWNZMYBGMLURQQNDVFVCQ" imageId="44686830"/>
+    </Metadata>
+    <Page imageFilename="1428583_0026.jpg" imageWidth="3496" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791228442" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="853,535 3116,535 3116,1845 853,1845"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2752,602 2766,602 2780,613 2797,596 2806,604 2825,593 2842,596 2842,526 2839,523 2820,526 2811,514 2792,517 2786,512 2778,520 2769,514 2755,514"/>
+                <Baseline points="2769,588 2805,585 2850,585"/>
+                <TextEquiv>
+                    <Unicode>7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="849,779 1577,753 2122,843 2716,765 2783,821 3019,748 3019,613 2752,700 1768,610 849,644"/>
+                <Baseline points="865,749 877,752 922,749 967,749 1011,749 1056,749 1101,746 1146,746 1190,746 1235,749 1280,746 1325,749 1370,749 1414,749 1459,749 1504,749 1549,749 1593,749 1638,749 1683,746 1728,746 1773,749 1817,749 1862,749 1907,749 1952,749 1996,749 2041,752 2086,752 2131,752 2175,749 2220,749 2265,749 2310,746 2355,746 2399,746 2444,743 2489,746 2534,743 2578,743 2623,746 2668,743 2713,746 2758,746 2802,743 2847,743 2892,743 2937,743 2981,743 3026,743"/>
+                <TextEquiv>
+                    <Unicode>Bernhardi bittet Dr. Binz, in einem Nebenz immer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="852,947 990,914 1054,942 1141,916 1257,950 1324,942 1355,933 1358,832 1273,841 1198,810 1181,824 1147,804 1116,815 1071,784 1004,796 953,835 931,821 891,852 852,843"/>
+                <Baseline points="868,910 910,907 955,904 999,904 1044,904 1089,901 1134,901 1179,901 1223,901 1268,901 1313,904 1358,907"/>
+                <TextEquiv>
+                    <Unicode>zu warten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="857,1074 1043,1124 1203,1068 1290,1113 1470,1065 1631,1091 1631,995 1560,973 1327,998 1223,978 1175,1004 857,984"/>
+                <Baseline points="874,1056 919,1056 964,1059 1008,1056 1053,1056 1098,1056 1143,1056 1187,1056 1232,1056 1277,1059 1322,1059 1367,1059 1411,1059 1456,1059 1501,1056 1546,1056 1590,1059 1635,1062 1638,1062"/>
+                <TextEquiv>
+                    <Unicode>Bernhardi, Hans.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="849,1299 1091,1220 2915,1273 3109,1237 3112,1124 852,1127"/>
+                <Baseline points="868,1211 913,1211 958,1211 1002,1211 1047,1211 1092,1214 1137,1214 1182,1217 1226,1217 1271,1217 1316,1217 1361,1214 1405,1214 1450,1214 1495,1211 1540,1211 1584,1211 1629,1211 1674,1208 1719,1208 1764,1208 1808,1208 1853,1208 1898,1208 1943,1208 1987,1208 2032,1208 2077,1208 2122,1208 2167,1208 2211,1208 2256,1205 2301,1208 2346,1205 2390,1205 2435,1205 2480,1205 2525,1208 2570,1205 2614,1205 2659,1205 2704,1208 2749,1208 2793,1211 2838,1211 2883,1208 2928,1208 2972,1208 3017,1208 3062,1208 3107,1208 3116,1211"/>
+                <TextEquiv>
+                    <Unicode>Bernh: Ein ähnlicher Fall bei uns wurde gesund.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="838,1378 3042,1411 3042,1245 2870,1302 838,1288"/>
+                <Baseline points="853,1364 898,1364 943,1364 988,1364 1032,1367 1077,1367 1122,1370 1167,1370 1211,1370 1256,1370 1301,1370 1346,1370 1390,1373 1435,1370 1480,1367 1525,1367 1570,1367 1614,1364 1659,1364 1704,1364 1749,1364 1793,1364 1838,1364 1883,1364 1928,1364 1973,1361 2017,1364 2062,1361 2107,1364 2152,1364 2196,1361 2241,1361 2286,1361 2331,1361 2375,1358 2420,1358 2465,1358 2510,1358 2555,1358 2599,1358 2644,1358 2689,1361 2734,1358 2778,1361 2823,1361 2868,1364 2913,1364 2958,1361 3002,1358 3047,1358"/>
+                <TextEquiv>
+                    <Unicode>Hans: Sie glauben also das selbe wie ich. Ent-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1049,1555 2553,1563 2553,1422 2080,1462 1690,1406 1049,1482"/>
+                <Baseline points="1065,1519 1110,1519 1155,1522 1199,1522 1244,1522 1289,1519 1334,1519 1379,1519 1423,1519 1468,1519 1513,1519 1558,1519 1602,1519 1647,1519 1692,1519 1737,1519 1781,1516 1826,1516 1871,1516 1916,1519 1961,1519 2005,1516 2050,1516 2095,1516 2140,1519 2184,1519 2229,1516 2274,1516 2319,1516 2364,1516 2408,1516 2453,1516 2498,1516 2543,1519 2561,1522"/>
+                <TextEquiv>
+                    <Unicode>setzlich! Wenn man töten könnte!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="852,1684 2367,1692 2367,1577 2319,1566 2207,1614 1541,1541 1040,1622 852,1574"/>
+                <Baseline points="868,1680 892,1680 937,1677 982,1677 1026,1677 1071,1677 1116,1677 1161,1677 1205,1674 1250,1677 1295,1677 1340,1674 1384,1674 1429,1674 1474,1674 1519,1674 1564,1674 1608,1677 1653,1674 1698,1674 1743,1674 1787,1674 1832,1671 1877,1674 1922,1671 1967,1674 2011,1674 2056,1674 2101,1674 2146,1674 2190,1671 2235,1671 2280,1671 2325,1674 2370,1677"/>
+                <TextEquiv>
+                    <Unicode>Bernhardi's Verdacht blitzt auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="852,1839 1327,1889 1445,1844 1597,1923 1729,1872 2373,1875 2373,1760 2328,1746 2274,1785 2151,1746 1487,1785 1243,1726 1175,1780 852,1760"/>
+                <Baseline points="868,1835 904,1832 949,1832 993,1832 1038,1832 1083,1832 1128,1835 1173,1835 1217,1835 1262,1835 1307,1832 1352,1832 1396,1832 1441,1832 1486,1832 1531,1829 1576,1829 1620,1829 1665,1829 1710,1829 1755,1829 1799,1829 1844,1829 1889,1829 1934,1829 1978,1829 2023,1832 2068,1832 2113,1832 2158,1832 2202,1832 2247,1832 2292,1832 2337,1832 2381,1832"/>
+                <TextEquiv>
+                    <Unicode>Bernh: Man kann Besseres: liigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

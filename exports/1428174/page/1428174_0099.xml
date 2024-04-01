@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_20:23</Creator>
+        <Created>2023-05-10T11:53:27.194+02:00</Created>
+        <LastChange>2023-07-28T20:23:59.647+02:00</LastChange>
+        <TranskribusMetadata docId="1428174" pageId="55394067" pageNr="99" tsid="131375469" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LYYWWHHDMGJLNIICXDLQHAEW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SJVTDCYOPRNWIZWTCBMPQDGB" imageId="44668951"/>
+    </Metadata>
+    <Page imageFilename="1428174_0099.jpg" imageWidth="3528" imageHeight="4328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801859173" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="232,505 1958,505 1958,1406 232,1406"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="269,690 435,652 584,725 696,658 959,675 1089,618 1602,671 1741,629 1867,683 1896,502 1451,446 1104,570 942,542 715,612 355,566 275,608"/>
+                <Baseline points="283,671 286,668 331,665 376,662 420,659 465,659 510,656 555,653 599,656 644,650 689,650 734,650 779,650 823,644 868,641 913,635 958,629 1002,626 1047,623 1092,620 1137,614 1181,611 1226,605 1271,599 1316,599 1361,596 1405,590 1450,588 1495,585 1540,582 1584,582 1629,576 1674,573 1719,570 1764,567 1808,558 1853,555 1898,555"/>
+                <TextEquiv>
+                    <Unicode>Nur xxx in d. Schönheit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="263,889 1457,862 1575,795 1951,776 1957,704 1854,725 1739,662 1657,715 1074,774 934,698 486,816 275,757"/>
+                <Baseline points="277,868 301,868 346,865 391,865 435,865 480,865 525,862 570,862 614,862 659,859 704,862 749,859 793,856 838,844 883,844 928,838 973,835 1017,829 1062,826 1107,820 1152,814 1196,808 1241,805 1286,799 1331,793 1376,790 1420,787 1465,782 1510,776 1555,770 1599,767 1644,761 1689,761 1734,758 1778,758 1823,755 1868,749 1913,746 1958,746"/>
+                <TextEquiv>
+                    <Unicode>Man habe Sie mieds. Um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="219,1133 473,1076 589,1116 797,1053 915,1102 1049,1051 1240,1076 1432,1032 1604,1087 1623,887 1346,852 1217,912 1156,879 692,1026 456,1026 395,973 233,959"/>
+                <Baseline points="232,1098 277,1098 322,1095 367,1089 411,1086 456,1080 501,1074 546,1074 590,1068 635,1062 680,1056 725,1056 770,1056 814,1053 859,1050 904,1041 949,1032 993,1029 1038,1023 1083,1020 1128,1017 1173,1014 1217,1005 1262,1002 1307,999 1352,993 1396,990 1441,987 1486,987 1531,987 1575,982 1620,976"/>
+                <TextEquiv>
+                    <Unicode>wir das ich das gleichsicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="263,1278 311,1287 330,1276 387,1299 423,1283 473,1318 540,1274 616,1283 648,1268 679,1283 683,1203 637,1182 603,1177 570,1196 536,1180 517,1196 475,1184 402,1215 355,1180 269,1173"/>
+                <Baseline points="277,1259 283,1259 328,1262 373,1259 417,1259 462,1256 507,1253 552,1250 596,1247 641,1241 686,1241"/>
+                <TextEquiv>
+                    <Unicode>Verhauter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="296,1423 311,1428 339,1417 353,1430 404,1398 416,1411 435,1400 450,1411 484,1392 509,1396 532,1383 559,1388 561,1356 513,1354 481,1365 467,1350 429,1352 414,1337 393,1337 376,1320 353,1325 343,1316 303,1314"/>
+                <Baseline points="310,1393 343,1396 388,1396 432,1393 477,1390 522,1384 567,1381"/>
+                <TextEquiv>
+                    <Unicode>vrai</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

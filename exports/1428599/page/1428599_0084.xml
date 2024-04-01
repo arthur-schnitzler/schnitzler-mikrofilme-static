@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_21:43</Creator>
+        <Created>2023-05-10T13:56:22.480+02:00</Created>
+        <LastChange>2023-07-25T21:43:13.753+02:00</LastChange>
+        <TranskribusMetadata docId="1428599" pageId="55415799" pageNr="84" tsid="130829219" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ERYGJMBHJHJHHHEYZTMGFPMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SFSXTMPVVGUHSOMYDOSCEJJN" imageId="44689906"/>
+    </Metadata>
+    <Page imageFilename="1428599_0084.jpg" imageWidth="2424" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789694544" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="695,3284 994,3284 994,3416 695,3416"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="682,3374 708,3376 736,3352 776,3358 804,3346 824,3368 864,3348 886,3360 908,3350 920,3362 956,3344 992,3352 994,3286 974,3276 958,3288 940,3278 924,3290 900,3280 886,3290 858,3266 820,3294 794,3280 686,3282"/>
+                <Baseline points="695,3340 725,3346 770,3343 815,3343 859,3340 904,3337 949,3337 994,3334"/>
+                <TextEquiv>
+                    <Unicode>spiel der Sonntag</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="824,3414 846,3420 858,3416 868,3424 882,3426 884,3422 890,3428 902,3428 916,3414 938,3420 944,3416 962,3418 960,3350 950,3350 940,3358 930,3356 922,3364 904,3350 866,3364 860,3358 822,3354"/>
+                <Baseline points="832,3403 877,3406 922,3406 964,3406"/>
+                <TextEquiv>
+                    <Unicode>Korr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

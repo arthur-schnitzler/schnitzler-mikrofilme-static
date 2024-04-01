@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:13</Creator>
+        <Created>2023-05-10T12:05:17.624+02:00</Created>
+        <LastChange>2023-07-29T01:13:06.496+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55397101" pageNr="10" tsid="131388978" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WBGNQKKDQXFTSEYXALPSTOQK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUHCQEWQERREKRIEWROLYVNK" imageId="44671979"/>
+    </Metadata>
+    <Page imageFilename="1428185_0010.jpg" imageWidth="3576" imageHeight="4584">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799773568" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="164,385 2593,385 2593,571 164,571"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2034,472 2058,482 2090,462 2166,480 2224,458 2374,454 2442,498 2528,464 2586,472 2590,370 2180,412 2038,380"/>
+                <Baseline points="2044,462 2056,462 2101,462 2145,459 2190,456 2235,453 2280,450 2324,450 2369,450 2414,450 2459,447 2503,444 2548,441 2593,435"/>
+                <TextEquiv>
+                    <Unicode>genommen würde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="212,504 262,500 302,530 316,522 354,532 380,522 428,526 450,514 476,526 512,516 510,384 478,396 444,382 392,406 350,392 334,408 300,398 284,412 210,388"/>
+                <Baseline points="223,495 268,492 313,492 358,489 402,495 432,495 444,495 489,498 516,495"/>
+                <TextEquiv>
+                    <Unicode>F</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="750,532 766,532 776,540 796,534 814,542 836,528 844,536 868,530 882,534 898,522 904,530 914,530 918,470 906,470 898,462 890,468 872,466 864,458 856,464 850,458 834,458 826,464 808,456 802,462 796,458 764,482 752,482"/>
+                <Baseline points="761,531 784,531 829,528 874,525 919,522"/>
+                <TextEquiv>
+                    <Unicode>Deine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="154,596 228,604 286,574 320,592 350,576 430,592 456,570 494,578 562,554 626,576 630,510 576,516 560,504 482,524 366,528 286,520 234,534 198,516 156,526"/>
+                <Baseline points="164,561 185,558 229,558 274,555 319,555 364,552 408,549 453,549 498,543 543,543 587,543 632,543"/>
+                <TextEquiv>
+                    <Unicode> permette.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

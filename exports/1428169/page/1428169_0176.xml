@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:25</Creator>
+        <Created>2023-05-10T11:40:35.315+02:00</Created>
+        <LastChange>2023-07-28T17:25:26.164+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55390700" pageNr="176" tsid="131366980" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JWIDRGCGYJYNDIDLPPVNDFAL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WSKUMVCDHWSBANWDNOZPLYUE" imageId="44665586"/>
+    </Metadata>
+    <Page imageFilename="1428169_0176.jpg" imageWidth="3464" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803514014" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="787,728 2989,728 2989,1155 787,1155"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="782,867 1613,886 2597,795 2852,845 2855,730 1931,686 784,765"/>
+                <Baseline points="796,838 802,838 847,838 892,838 936,838 981,841 1026,841 1071,835 1115,832 1160,832 1205,832 1250,832 1295,832 1339,829 1384,826 1429,826 1474,823 1518,823 1563,820 1608,820 1653,820 1697,814 1742,814 1787,811 1832,811 1876,808 1921,808 1966,805 2011,805 2055,805 2100,805 2145,802 2190,802 2234,799 2279,796 2324,796 2369,796 2414,796 2458,793 2503,793 2548,790 2593,793 2637,790 2682,787 2727,784 2772,784 2816,781 2861,778"/>
+                <TextEquiv>
+                    <Unicode>Sala: zu Julia: Haben Sie nicht ein neues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="771,1004 2789,976 2959,957 2962,872 773,905"/>
+                <Baseline points="787,993 817,993 862,993 907,993 951,993 996,993 1041,990 1086,987 1130,984 1175,984 1220,981 1265,978 1309,978 1354,978 1399,975 1444,975 1488,975 1533,972 1578,972 1623,972 1668,969 1712,969 1757,966 1802,963 1847,963 1891,960 1936,963 1981,963 2026,960 2070,957 2115,957 2160,954 2205,954 2249,951 2294,948 2339,948 2384,948 2428,945 2473,945 2518,945 2563,945 2607,942 2652,939 2697,939 2742,939 2787,936 2831,939 2876,933 2921,933 2966,930"/>
+                <TextEquiv>
+                    <Unicode>Bild gemacht? Ein anderes Mädchen auf einer an-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="782,1160 954,1209 2309,1108 2633,1171 2978,1133 2981,1050 2540,943 2430,1006 1632,979 784,1081"/>
+                <Baseline points="796,1145 841,1145 886,1145 930,1142 975,1142 1020,1142 1065,1142 1110,1139 1154,1136 1199,1136 1244,1133 1289,1136 1333,1133 1378,1133 1423,1130 1468,1127 1512,1127 1557,1130 1602,1124 1647,1124 1691,1121 1736,1121 1781,1121 1826,1118 1870,1118 1915,1118 1960,1118 2005,1115 2049,1118 2094,1113 2139,1110 2184,1113 2229,1107 2273,1104 2318,1107 2363,1104 2408,1104 2452,1101 2497,1101 2542,1101 2587,1098 2631,1098 2676,1095 2721,1095 2766,1092 2810,1092 2855,1095 2900,1095 2945,1092 2989,1092"/>
+                <TextEquiv>
+                    <Unicode>deren Wiese? Das Leben ist ja so vielgestaltig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

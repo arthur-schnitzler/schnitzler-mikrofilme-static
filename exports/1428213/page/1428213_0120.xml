@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_12:48</Creator>
+        <Created>2023-05-10T12:32:37.664+02:00</Created>
+        <LastChange>2023-07-29T12:48:56.286+02:00</LastChange>
+        <TranskribusMetadata docId="1428213" pageId="55404455" pageNr="120" tsid="131419633" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YLJRNVZVOMLAJICYJQNFFJYE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BIVBJMXUJQUWQTCVAUGHHQAQ" imageId="44679183"/>
+    </Metadata>
+    <Page imageFilename="1428213_0120.jpg" imageWidth="4488" imageHeight="3641">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795610226" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1614,863 2903,863 2903,1543 1614,1543"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1604,943 1737,1016 1841,937 1974,990 2253,916 2322,947 2506,916 2640,980 2901,934 2902,800 2869,793 2507,842 2024,768 1606,787"/>
+                <Baseline points="1614,931 1650,934 1695,934 1739,934 1784,934 1829,931 1874,928 1918,928 1963,928 2008,925 2053,925 2098,922 2142,922 2187,922 2232,922 2277,919 2321,919 2366,913 2411,913 2456,913 2500,913 2545,913 2590,913 2635,913 2680,913 2724,913 2769,916 2814,916 2859,919 2903,919"/>
+                <TextEquiv>
+                    <Unicode>Aufbaldzes Miedersche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1635,1111 1975,1119 2112,1077 2285,1138 2398,1098 2583,1108 2735,1076 2736,980 2611,982 2551,937 2243,979 2178,932 1941,1022 1812,968 1740,1016 1637,1014"/>
+                <Baseline points="1644,1086 1665,1083 1710,1080 1754,1080 1799,1083 1844,1080 1889,1080 1933,1077 1978,1077 2023,1077 2068,1074 2112,1074 2157,1077 2202,1077 2247,1074 2292,1074 2336,1077 2381,1074 2426,1071 2471,1071 2515,1065 2560,1065 2605,1062 2650,1062 2694,1059 2739,1062"/>
+                <TextEquiv>
+                    <Unicode>alt mit herliche Geist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1658,1409 1788,1400 2016,1259 2222,1325 2314,1282 2504,1382 2657,1290 2759,1279 2759,1111 2603,1132 2475,1096 2238,1253 2082,1196 1927,1192 1838,1243 1779,1198 1656,1205"/>
+                <Baseline points="1665,1259 1689,1256 1733,1256 1778,1256 1823,1256 1868,1256 1913,1256 1957,1259 2002,1256 2047,1256 2092,1259 2136,1262 2181,1262 2226,1265 2271,1262 2315,1262 2360,1265 2405,1265 2450,1265 2494,1259 2539,1259 2584,1256 2629,1262 2674,1259 2718,1259 2763,1256"/>
+                <TextEquiv>
+                    <Unicode>an ihrem Orte Je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1733,1604 2269,1527 2744,1580 2783,1566 2791,1375 2707,1408 2648,1372 2536,1400 2472,1372 2108,1424 1956,1411 1904,1371 1742,1400"/>
+                <Baseline points="1745,1519 1760,1528 1805,1528 1850,1533 1895,1531 1939,1531 1984,1528 2029,1525 2074,1528 2118,1525 2163,1522 2208,1522 2253,1522 2298,1519 2342,1516 2387,1507 2432,1507 2477,1501 2521,1495 2566,1498 2611,1501 2656,1501 2700,1498 2745,1498 2790,1498"/>
+                <TextEquiv>
+                    <Unicode>Jochl Coßgt</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

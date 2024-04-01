@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_18:11</Creator>
+        <Created>2023-05-10T11:47:36.868+02:00</Created>
+        <LastChange>2023-07-28T18:11:13.986+02:00</LastChange>
+        <TranskribusMetadata docId="1428172" pageId="55391898" pageNr="79" tsid="131369731" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZCAPPPRIQZWPWUPQNBZCPWGD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LEGATOCIUZMGKFHEPMXIKXEA" imageId="44666783"/>
+    </Metadata>
+    <Page imageFilename="1428172_0079.jpg" imageWidth="3512" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802355587" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2110,218 2931,218 2931,302 2110,302"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2850,302 2869,296 2891,313 2901,304 2908,309 2917,300 2929,300 2925,250 2912,254 2906,248 2899,248 2880,237 2876,239 2865,229 2854,235 2847,235"/>
+                <Baseline points="2859,268 2904,271 2931,271"/>
+                <TextEquiv>
+                    <Unicode>ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2099,302 2144,328 2215,298 2490,328 2615,278 2733,304 2735,229 2408,242 2375,259 2317,240 2256,268 2170,250 2099,270"/>
+                <Baseline points="2110,292 2155,289 2200,289 2244,289 2289,286 2334,286 2379,286 2423,280 2468,280 2513,283 2558,280 2602,280 2647,280 2692,277 2737,277"/>
+                <TextEquiv>
+                    <Unicode>̃  ̃ «    =   »</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_11:42</Creator>
+        <Created>2023-05-10T12:32:57.213+02:00</Created>
+        <LastChange>2023-07-29T11:42:38.468+02:00</LastChange>
+        <TranskribusMetadata docId="1428214" pageId="55403842" pageNr="13" tsid="131409740" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZQCUCZLUMFKTPWBNLBXBTODA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QDJKPDCPURHONMFRDUIXKQXX" imageId="44678636"/>
+    </Metadata>
+    <Page imageFilename="1428214_0013.jpg" imageWidth="4155" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795489743" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1378,1424 2628,1424 2628,1931 1378,1931"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1364,1578 1484,1572 1546,1529 1647,1564 1860,1516 1916,1535 2011,1484 2075,1482 2078,1379 1949,1389 1865,1355 1656,1404 1538,1391 1465,1353 1374,1363"/>
+                <Baseline points="1378,1503 1408,1500 1453,1497 1497,1500 1542,1497 1587,1500 1632,1500 1676,1497 1721,1494 1766,1494 1811,1491 1855,1488 1900,1488 1945,1479 1990,1476 2034,1474 2079,1474"/>
+                <TextEquiv>
+                    <Unicode>nehm. Herzlich zusend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1421,1850 1514,1800 1663,1792 1791,1824 1966,1768 2136,1787 2168,1776 2172,1667 1944,1624 1824,1635 1792,1665 1598,1652 1578,1632 1536,1660 1426,1660"/>
+                <Baseline points="1435,1748 1459,1754 1503,1751 1548,1748 1593,1745 1638,1745 1682,1745 1727,1745 1772,1745 1817,1742 1861,1739 1906,1736 1951,1736 1996,1736 2040,1733 2085,1736 2130,1733 2175,1730"/>
+                <TextEquiv>
+                    <Unicode>Gustav Schwarzkopf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2563,2054 2587,2039 2596,2043 2615,2026 2630,2024 2650,2009 2600,1832 2587,1839 2568,1839 2553,1856 2527,1847 2520,1858 2506,1862"/>
+                <Baseline points="2524,1891 2569,1900 2613,1915 2628,1921"/>
+                <TextEquiv>
+                    <Unicode>G.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_14:52</Creator>
+        <Created>2023-05-10T12:16:19.957+02:00</Created>
+        <LastChange>2023-07-25T14:52:31.093+02:00</LastChange>
+        <TranskribusMetadata docId="1428191" pageId="55400786" pageNr="195" tsid="130687413" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TJXRVDJWVCNJHOZPNJUVAZCJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTPQRFUEZNNLJARLZCGGYFIW" imageId="44675609"/>
+    </Metadata>
+    <Page imageFilename="1428191_0195.jpg" imageWidth="6824" imageHeight="4424">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797558584" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4029,517 6525,517 6525,1383 4029,1383"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="6249,676 6271,676 6284,666 6302,682 6324,669 6358,679 6377,660 6408,663 6433,654 6427,498 6408,498 6374,517 6343,501 6324,511 6280,480 6259,498 6243,498"/>
+                <Baseline points="6262,567 6352,573 6435,573"/>
+                <TextEquiv>
+                    <Unicode>125</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4412,757 4518,810 4571,785 4705,828 4836,772 5004,819 5069,766 5150,810 5203,778 5405,800 5405,682 5188,666 5122,626 5001,617 4808,685 4412,629"/>
+                <Baseline points="4429,734 4519,734 4609,734 4698,740 4788,740 4877,740 4967,740 5056,740 5146,734 5235,734 5325,740 5409,740"/>
+                <TextEquiv>
+                    <Unicode>über die Grenze muss.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4011,956 4182,1003 4409,912 4689,965 4848,934 4976,956 4976,813 4752,788 4702,825 4611,800 4534,844 4322,863 4185,791 4079,841 4011,825"/>
+                <Baseline points="4029,901 4089,907 4179,901 4268,901 4358,901 4447,895 4537,901 4626,895 4716,895 4806,895 4895,895 4985,895"/>
+                <TextEquiv>
+                    <Unicode>Julia. In unsern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4023,1077 4481,1065 4671,1137 4876,1124 4876,987 4814,965 4711,953 4580,996 4474,959 4347,1006 4266,971 4176,1006 4023,987"/>
+                <Baseline points="4041,1044 4131,1056 4221,1056 4310,1056 4400,1062 4489,1056 4579,1056 4668,1056 4758,1056 4847,1056 4883,1050"/>
+                <TextEquiv>
+                    <Unicode>Vicomte. Julie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4017,1230 6312,1249 6520,1221 6523,1084 6206,1012 4365,1193 4017,1124"/>
+                <Baseline points="4035,1211 4107,1217 4197,1217 4286,1217 4376,1217 4465,1211 4555,1211 4644,1211 4734,1211 4824,1211 4913,1211 5003,1211 5092,1211 5182,1211 5271,1211 5361,1211 5450,1211 5540,1206 5630,1206 5719,1206 5809,1206 5898,1206 5988,1200 6077,1206 6167,1200 6256,1200 6346,1200 6435,1200 6525,1194"/>
+                <TextEquiv>
+                    <Unicode>Julia. Töten Sie diesen jungen Burschen und ich bin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="4400,1398 6368,1445 6368,1323 6259,1289 4400,1302"/>
+                <Baseline points="4418,1367 4495,1367 4585,1373 4674,1373 4764,1373 4853,1373 4943,1373 5032,1373 5122,1373 5212,1373 5301,1367 5391,1367 5480,1367 5570,1367 5659,1367 5749,1367 5838,1361 5928,1361 6018,1361 6107,1361 6197,1361 6286,1361 6376,1361"/>
+                <TextEquiv>
+                    <Unicode>die Ihre, noch eh Sie die Stadt verlassen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

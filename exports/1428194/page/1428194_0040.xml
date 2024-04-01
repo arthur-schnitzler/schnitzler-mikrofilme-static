@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_03:55</Creator>
+        <Created>2023-05-10T12:22:16.628+02:00</Created>
+        <LastChange>2023-07-29T03:55:01.121+02:00</LastChange>
+        <TranskribusMetadata docId="1428194" pageId="55401289" pageNr="40" tsid="131394315" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ILKFBXYYQHOPUVICXXLTOIHW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IWRXIKJRONIKEDBRQMDFSXOV" imageId="44676112"/>
+    </Metadata>
+    <Page imageFilename="1428194_0040.jpg" imageWidth="3592" imageHeight="4392">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797012594" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="683,510 2992,510 2992,988 683,988"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2752,601 2789,598 2795,592 2810,592 2818,603 2853,592 2859,601 2873,601 2882,488 2867,488 2862,482 2844,494 2830,494 2807,474 2784,468 2775,456 2760,456"/>
+                <Baseline points="2771,566 2792,566 2837,560 2882,563"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="664,820 1597,785 1917,852 2206,762 2957,754 2989,635 2469,670 2264,586 2137,676 1672,635 670,733"/>
+                <Baseline points="683,820 710,817 754,817 799,817 844,814 889,814 933,811 978,808 1023,808 1068,805 1112,805 1157,802 1202,799 1247,799 1291,796 1336,793 1381,790 1426,787 1470,784 1515,784 1560,781 1605,778 1649,778 1694,775 1739,772 1784,769 1829,766 1873,763 1918,760 1963,760 2008,757 2052,757 2097,754 2142,754 2187,751 2231,751 2276,748 2321,748 2366,745 2410,742 2455,742 2500,742 2545,742 2589,739 2634,739 2679,736 2724,731 2768,728 2813,728 2858,722 2903,719 2947,716 2992,719"/>
+                <TextEquiv>
+                    <Unicode>Julia schickt das Kammerfräulein zu Med., um sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="673,1034 733,1008 783,1040 878,1002 921,1022 1014,973 1135,1014 1276,1011 1340,993 1343,889 1143,863 988,915 863,872 785,924 679,912"/>
+                <Baseline points="692,978 725,975 769,975 814,972 859,969 904,966 948,966 993,963 1038,963 1083,960 1127,960 1172,960 1217,957 1262,954 1306,951 1351,951"/>
+                <TextEquiv>
+                    <Unicode>zu erkundigen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

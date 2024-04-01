@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=24_07_2023_17:46</Creator>
+        <Created>2023-05-10T13:35:20.068+02:00</Created>
+        <LastChange>2023-07-24T17:46:39.113+02:00</LastChange>
+        <TranskribusMetadata docId="1428583" pageId="55412809" pageNr="47" tsid="130554648" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OZVFSMJEHXFWPTOKGOXQWKGO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XFXNVUYMRKTOKEIPDQXXGIRT" imageId="44686950"/>
+    </Metadata>
+    <Page imageFilename="1428583_0047.jpg" imageWidth="3480" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791248214" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="761,576 3056,576 3056,986 761,986"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="742,759 931,674 2995,662 3018,522 745,554"/>
+                <Baseline points="761,665 784,665 829,665 874,662 919,665 964,662 1008,662 1053,662 1098,662 1143,662 1187,662 1232,659 1277,659 1322,659 1367,659 1411,656 1456,653 1501,653 1546,653 1590,653 1635,653 1680,653 1725,650 1769,650 1814,650 1859,650 1904,647 1949,647 1993,641 2038,641 2083,641 2128,641 2172,638 2217,635 2262,635 2307,635 2351,632 2396,632 2441,632 2486,632 2531,632 2575,632 2620,632 2665,629 2710,632 2754,629 2799,629 2844,629 2889,626 2933,626 2978,629 3023,629"/>
+                <TextEquiv>
+                    <Unicode>Bernhardi. Er hat ein grosses Institut gegründet,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="754,839 1205,914 3052,805 3052,711 2729,679 757,751"/>
+                <Baseline points="773,820 817,820 862,820 907,820 952,820 996,820 1041,820 1086,817 1131,817 1175,817 1220,817 1265,814 1310,811 1355,808 1399,808 1444,808 1489,805 1534,805 1578,805 1623,802 1668,802 1713,802 1758,802 1802,802 1847,802 1892,799 1937,799 1981,796 2026,796 2071,793 2116,793 2160,793 2205,790 2250,790 2295,790 2340,787 2384,787 2429,787 2474,787 2519,787 2563,787 2608,790 2653,790 2698,790 2742,787 2787,787 2832,784 2877,784 2922,781 2966,781 3011,779 3056,779"/>
+                <TextEquiv>
+                    <Unicode>wird von streberischen Antisemiten verfolgt. Sein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="748,1053 905,1071 1011,1028 1065,1065 1193,1016 1376,1062 1605,1005 1759,1045 2081,1002 2084,916 1830,868 1619,908 1428,871 1236,922 751,902"/>
+                <Baseline points="764,976 790,976 835,976 880,976 925,976 970,973 1014,973 1059,973 1104,973 1149,973 1193,973 1238,973 1283,973 1328,973 1372,970 1417,970 1462,967 1507,964 1552,964 1596,964 1641,964 1686,964 1731,961 1775,961 1820,961 1865,958 1910,958 1954,958 1999,955 2044,958 2089,955"/>
+                <TextEquiv>
+                    <Unicode>Widerwille gegen die Clique.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_17:24</Creator>
+        <Created>2023-05-10T11:40:12.765+02:00</Created>
+        <LastChange>2023-07-28T17:24:01.350+02:00</LastChange>
+        <TranskribusMetadata docId="1428169" pageId="55389619" pageNr="7" tsid="131366805" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NFKQXMYAMBCWDTMXVDQJLPWS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMITQRYSHSPKZSPRWSGBNYLH" imageId="44664508"/>
+    </Metadata>
+    <Page imageFilename="1428169_0007.jpg" imageWidth="3672" imageHeight="4680">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803371187" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="865,949 3050,949 3050,1362 865,1362"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="850,1057 1412,1123 1733,1036 2354,1076 2801,1006 3014,1079 3017,910 2387,976 853,946"/>
+                <Baseline points="865,1050 871,1050 916,1044 961,1047 1005,1047 1050,1047 1095,1047 1140,1047 1184,1047 1229,1044 1274,1044 1319,1044 1364,1044 1408,1041 1453,1041 1498,1041 1543,1041 1587,1041 1632,1038 1677,1038 1722,1035 1766,1032 1811,1029 1856,1029 1901,1029 1946,1026 1990,1026 2035,1026 2080,1026 2125,1026 2169,1026 2214,1023 2259,1020 2304,1020 2348,1020 2393,1017 2438,1017 2483,1017 2528,1017 2572,1014 2617,1014 2662,1008 2707,1008 2751,1008 2796,1008 2841,1005 2886,1005 2930,1002 2975,999 3020,1002"/>
+                <TextEquiv>
+                    <Unicode>wird grenzelos. Er möchte die Prau aus der Erde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="907,1259 1000,1243 1071,1207 1125,1232 1161,1210 1245,1199 1335,1221 1335,1104 1245,1117 1158,1087 1136,1109 1065,1109 1038,1134 981,1131 932,1166 907,1164"/>
+                <Baseline points="922,1208 940,1199 984,1202 1029,1202 1074,1202 1119,1199 1164,1199 1208,1196 1253,1196 1298,1199 1343,1202"/>
+                <TextEquiv>
+                    <Unicode>stampfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="856,1360 1828,1343 2270,1442 3044,1335 3047,1210 858,1297"/>
+                <Baseline points="871,1352 901,1349 946,1349 990,1349 1035,1349 1080,1349 1125,1349 1170,1349 1214,1349 1259,1352 1304,1352 1349,1352 1393,1346 1438,1346 1483,1343 1528,1343 1572,1340 1617,1340 1662,1334 1707,1334 1752,1334 1796,1334 1841,1331 1886,1328 1931,1331 1975,1328 2020,1328 2065,1328 2110,1328 2154,1328 2199,1325 2244,1325 2289,1322 2334,1322 2378,1319 2423,1319 2468,1319 2513,1316 2557,1319 2602,1313 2647,1313 2692,1313 2736,1310 2781,1310 2826,1310 2871,1307 2916,1307 2960,1307 3005,1304 3050,1307"/>
+                <TextEquiv>
+                    <Unicode>Der Junge jetzt der Geliebte dieser Maitresseü?</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

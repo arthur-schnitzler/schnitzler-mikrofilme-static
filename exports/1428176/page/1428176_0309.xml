@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=28_07_2023_21:09</Creator>
+        <Created>2023-05-10T11:55:08.133+02:00</Created>
+        <LastChange>2023-07-28T21:09:32.407+02:00</LastChange>
+        <TranskribusMetadata docId="1428176" pageId="55395772" pageNr="309" tsid="131377941" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=JMCJYGLRGMGMPVEVYKHKIWHT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMASGQQFXGUAQYVCBNGGAPEO" imageId="44670650"/>
+    </Metadata>
+    <Page imageFilename="1428176_0309.jpg" imageWidth="3384" imageHeight="4552">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711801693820" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="241,224 1071,224 1071,349 241,349"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="774,300 824,294 864,304 910,292 934,300 962,292 972,300 1010,288 1052,306 1066,302 1068,228 1016,226 986,238 978,228 938,234 900,224 878,238 774,258"/>
+                <Baseline points="785,286 802,286 847,286 892,286 937,283 982,283 1026,280 1071,274"/>
+                <TextEquiv>
+                    <Unicode>entreten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="232,442 334,430 456,362 558,376 598,362 630,378 706,362 740,392 782,388 780,244 740,252 712,230 676,246 644,228 618,248 492,264 464,250 230,264"/>
+                <Baseline points="241,331 286,328 331,331 376,331 420,334 465,334 510,334 555,334 599,337 644,334 689,337 734,334 779,334 786,339"/>
+                <TextEquiv>
+                    <Unicode>de ces états du</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

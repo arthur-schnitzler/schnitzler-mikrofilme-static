@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:14</Creator>
+        <Created>2023-05-10T12:06:12.237+02:00</Created>
+        <LastChange>2023-07-29T01:14:24.793+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55398939" pageNr="271" tsid="131389246" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZGGBRPLPMKUSWYPXTOGLQPEH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXUYXWKIPGAGNGSKZTLUGSVN" imageId="44673763"/>
+    </Metadata>
+    <Page imageFilename="1428185_0271.jpg" imageWidth="3480" imageHeight="4344">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800060249" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1194,230 2731,230 2731,365 1194,365"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2612,341 2619,343 2626,336 2634,341 2649,334 2657,338 2663,334 2672,336 2682,327 2693,326 2706,314 2710,317 2729,314 2730,263 2699,258 2691,261 2679,249 2672,256 2657,253 2650,259 2642,253 2628,256 2613,249"/>
+                <Baseline points="2618,283 2663,280 2707,280 2731,283"/>
+                <TextEquiv>
+                    <Unicode>„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1187,341 1804,351 2078,398 2076,324 2047,315 1689,333 1579,297 1187,298"/>
+                <Baseline points="1194,337 1239,337 1283,337 1328,334 1373,334 1418,337 1439,337 1465,340 1510,340 1555,340 1600,340 1645,343 1689,343 1734,343 1779,343 1824,346 1868,355 1913,355 1958,352 2003,349 2048,352 2080,355"/>
+                <TextEquiv>
+                    <Unicode>cœur avec les moutonsieurs sontenueux</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

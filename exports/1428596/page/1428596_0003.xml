@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_09:35</Creator>
+        <Created>2023-05-10T13:48:11.851+02:00</Created>
+        <LastChange>2023-07-30T09:35:31.914+02:00</LastChange>
+        <TranskribusMetadata docId="1428596" pageId="55414552" pageNr="3" tsid="131490814" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SEQQIXWFDSUWENXZYWBSSIYW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DVVBILGQAKZWUHSQCWWOERTX" imageId="44688686"/>
+    </Metadata>
+    <Page imageFilename="1428596_0003.jpg" imageWidth="3400" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789900060" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1409,1239 2191,1239 2191,1332 1409,1332"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1405,1305 1466,1294 1525,1330 1764,1330 1915,1296 1954,1326 1990,1303 2065,1310 2190,1281 2195,1148 2108,1211 2030,1212 1971,1150 1882,1227 1652,1247 1572,1245 1541,1219 1408,1225"/>
+                <Baseline points="1409,1322 1430,1322 1474,1316 1519,1316 1564,1319 1609,1319 1653,1322 1698,1319 1743,1316 1788,1316 1833,1313 1877,1313 1922,1310 1967,1307 2012,1301 2057,1301 2101,1301 2146,1292 2191,1289"/>
+                <TextEquiv>
+                    <Unicode>Wirchst</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

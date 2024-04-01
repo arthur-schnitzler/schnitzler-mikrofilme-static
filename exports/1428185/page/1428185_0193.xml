@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:13</Creator>
+        <Created>2023-05-10T12:05:59.990+02:00</Created>
+        <LastChange>2023-07-29T01:13:55.807+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55398368" pageNr="193" tsid="131389165" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IGVQZDAOOSDVPWJVALCECJJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDIQXWHOCYBIXXPEBYHFEKGG" imageId="44673246"/>
+    </Metadata>
+    <Page imageFilename="1428185_0193.jpg" imageWidth="3560" imageHeight="4216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799979169" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2227,147 2767,147 2767,263 2227,263"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2500,204 2514,208 2520,204 2540,206 2554,202 2580,206 2580,162 2562,156 2544,172 2500,172"/>
+                <Baseline points="2511,200 2540,197 2585,197"/>
+                <TextEquiv>
+                    <Unicode>3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2212,316 2538,314 2626,332 2670,308 2760,324 2766,216 2696,222 2662,198 2216,216"/>
+                <Baseline points="2227,250 2230,250 2275,253 2319,250 2364,250 2409,250 2454,247 2499,244 2543,244 2588,241 2633,238 2678,235 2723,232 2767,232"/>
+                <TextEquiv>
+                    <Unicode>ʼœuvre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

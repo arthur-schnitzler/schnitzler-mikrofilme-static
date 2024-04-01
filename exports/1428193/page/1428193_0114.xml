@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=25_07_2023_09:32</Creator>
+        <Created>2023-05-10T12:21:03.998+02:00</Created>
+        <LastChange>2023-07-25T09:32:01.450+02:00</LastChange>
+        <TranskribusMetadata docId="1428193" pageId="55401461" pageNr="114" tsid="130592920" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VYZTHEDXWHATXTUEUOCWVLMI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GXKWFJYZPVWPFRPAHUOVZGWN" imageId="44676284"/>
+    </Metadata>
+    <Page imageFilename="1428193_0114.jpg" imageWidth="3283" imageHeight="4184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797154793" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="355,487 3041,487 3041,1681 355,1681"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="335,609 386,612 395,624 416,615 437,630 483,612 507,615 519,377 443,371 413,347 389,362 347,362"/>
+                <Baseline points="355,549 381,543 426,543 471,540 516,537"/>
+                <TextEquiv>
+                    <Unicode>V.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2310,667 2326,670 2377,648 2437,664 2488,639 2522,655 2534,455 2507,452 2467,428 2428,443 2407,425 2326,425"/>
+                <Baseline points="2333,564 2378,561 2423,558 2468,555 2512,552 2536,552"/>
+                <TextEquiv>
+                    <Unicode>1236</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="603,938 848,917 953,968 1044,902 1146,890 1403,899 1478,935 1529,926 1529,805 1101,781 935,832 603,829"/>
+                <Baseline points="620,901 641,901 686,901 731,901 775,901 820,898 865,898 910,898 954,901 999,898 1044,895 1089,892 1134,889 1178,889 1223,889 1268,886 1313,886 1357,886 1402,889 1447,889 1492,892 1536,898"/>
+                <TextEquiv>
+                    <Unicode>Strasse der Stadt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="612,1077 2920,1086 3034,1065 3037,899 2443,992 2132,929 615,992"/>
+                <Baseline points="629,1053 668,1053 713,1053 758,1053 802,1053 847,1053 892,1050 937,1050 981,1047 1026,1047 1071,1044 1116,1041 1160,1041 1205,1044 1250,1041 1295,1038 1339,1038 1384,1035 1429,1035 1474,1035 1519,1032 1563,1032 1608,1032 1653,1029 1698,1029 1742,1026 1787,1026 1832,1026 1877,1023 1921,1023 1966,1020 2011,1020 2056,1023 2100,1020 2145,1020 2190,1020 2235,1017 2280,1017 2324,1014 2369,1014 2414,1014 2459,1011 2503,1008 2548,999 2593,999 2638,993 2682,987 2727,981 2772,981 2817,981 2861,984 2906,984 2951,987 2996,987 3041,987"/>
+                <TextEquiv>
+                    <Unicode>Gespräch über die Schlacht von Aspern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1813,1179 1985,1179 2033,1216 2160,1188 2648,1222 2648,1089 2519,1107 2419,1065 2326,1104 2247,1068 2102,1128 2006,1059 1970,1089 1876,1047 1813,1062"/>
+                <Baseline points="1829,1169 1850,1166 1895,1163 1939,1166 1984,1172 2029,1172 2074,1169 2118,1169 2163,1166 2208,1163 2253,1160 2297,1160 2342,1160 2387,1160 2432,1163 2476,1163 2521,1163 2566,1163 2611,1163 2656,1163"/>
+                <TextEquiv>
+                    <Unicode>Wapan mit mich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="609,1234 1731,1213 1783,1200 1789,1047 1339,1143 1213,1092 1065,1092 908,1158 612,1116"/>
+                <Baseline points="626,1214 668,1214 713,1208 758,1208 802,1208 847,1208 892,1208 937,1205 981,1202 1026,1202 1071,1202 1116,1199 1160,1199 1205,1196 1250,1196 1295,1193 1339,1190 1384,1190 1429,1187 1474,1190 1519,1190 1563,1187 1608,1184 1653,1184 1698,1184 1742,1178 1787,1169"/>
+                <TextEquiv>
+                    <Unicode>Es hat nichts geholfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="606,1372 2856,1360 2859,1216 609,1288"/>
+                <Baseline points="623,1363 626,1363 671,1363 716,1360 760,1363 805,1360 850,1357 895,1357 940,1357 984,1354 1029,1354 1074,1351 1119,1351 1163,1348 1208,1348 1253,1345 1298,1345 1342,1345 1387,1345 1432,1342 1477,1339 1521,1339 1566,1339 1611,1336 1656,1336 1701,1333 1745,1333 1790,1333 1835,1331 1880,1331 1924,1331 1969,1331 2014,1328 2059,1322 2103,1313 2148,1307 2193,1304 2238,1304 2282,1301 2327,1301 2372,1301 2417,1304 2462,1304 2506,1304 2551,1301 2596,1304 2641,1304 2685,1301 2730,1301 2775,1301 2820,1298 2864,1295"/>
+                <TextEquiv>
+                    <Unicode>Wir sind und bleiben verloren. Benen Chevre!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="603,1532 881,1517 1068,1581 1315,1514 1725,1529 1933,1493 1936,1403 1755,1387 1475,1448 1381,1412 1231,1457 1029,1403 863,1451 745,1403 606,1430"/>
+                <Baseline points="620,1516 644,1519 689,1516 734,1513 778,1513 823,1513 868,1513 913,1513 957,1513 1002,1510 1047,1507 1092,1507 1137,1504 1181,1501 1226,1501 1271,1498 1316,1498 1360,1498 1405,1498 1450,1495 1495,1495 1539,1492 1584,1492 1629,1492 1674,1489 1718,1489 1763,1486 1808,1486 1853,1483 1898,1486 1942,1486"/>
+                <TextEquiv>
+                    <Unicode>Den Tell hat man erschossen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="618,1722 826,1671 926,1704 1816,1674 1816,1584 1743,1571 1478,1605 1194,1553 1032,1559 953,1611 621,1599"/>
+                <Baseline points="635,1671 659,1671 704,1668 749,1668 793,1668 838,1668 883,1665 928,1668 972,1665 1017,1665 1062,1662 1107,1662 1151,1656 1196,1656 1241,1653 1286,1653 1331,1650 1375,1653 1420,1650 1465,1650 1510,1650 1554,1647 1599,1644 1644,1644 1689,1644 1733,1644 1778,1644 1823,1644"/>
+                <TextEquiv>
+                    <Unicode>Man wagt nichts zu reden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_02:20</Creator>
+        <Created>2023-05-10T13:38:34.378+02:00</Created>
+        <LastChange>2023-07-30T02:20:52.629+02:00</LastChange>
+        <TranskribusMetadata docId="1428584" pageId="55413082" pageNr="1" tsid="131476792" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TQGQLRTFSHLJDPPKGMEUEZKZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNTLSKMSOSTFNKKOHCAMZTVD" imageId="44687223"/>
+    </Metadata>
+    <Page imageFilename="1428584_0001.jpg" imageWidth="3416" imageHeight="4040">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791191814" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="489,469 2995,469 2995,1051 489,1051"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="476,582 2445,582 2933,545 2986,429 479,466"/>
+                <Baseline points="492,575 534,569 578,572 623,569 668,569 713,569 757,569 802,566 847,566 892,566 936,566 981,563 1026,563 1071,563 1115,563 1160,563 1205,560 1250,560 1294,560 1339,560 1384,557 1429,554 1473,551 1518,551 1563,549 1608,551 1652,549 1697,549 1742,549 1787,546 1832,546 1876,543 1921,543 1966,540 2011,540 2055,540 2100,540 2145,540 2190,537 2234,534 2279,534 2324,534 2369,534 2413,534 2458,534 2503,528 2548,528 2592,531 2637,531 2682,525 2727,519 2771,522 2816,522 2861,522 2906,519 2950,519 2995,519"/>
+                <TextEquiv>
+                    <Unicode>Bedenken Sie, wir leben in einem Staate, wo jemand</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="470,773 2592,732 2930,682 2933,545 1831,648 792,607 473,689"/>
+                <Baseline points="489,722 519,725 563,725 608,728 653,725 698,728 742,725 787,725 832,722 877,722 921,719 966,719 1011,716 1056,716 1101,716 1145,713 1190,713 1235,713 1280,713 1324,710 1369,710 1414,713 1459,707 1503,710 1548,704 1593,701 1638,704 1682,704 1727,701 1772,698 1817,701 1861,698 1906,698 1951,698 1996,695 2040,692 2085,692 2130,689 2175,692 2219,689 2264,689 2309,689 2354,686 2398,686 2443,686 2488,683 2533,683 2577,680 2622,680 2667,680 2712,677 2756,677 2801,674 2846,674 2891,674 2936,677"/>
+                <TextEquiv>
+                    <Unicode>wegen Ritualmord eingesperrt bleibt, obwohl alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="476,961 2617,833 2886,905 2930,761 2369,704 858,833 479,782"/>
+                <Baseline points="495,874 516,874 560,877 605,877 650,877 695,877 739,877 784,877 829,880 874,874 918,874 963,874 1008,871 1053,871 1098,868 1142,865 1187,868 1232,865 1277,865 1321,865 1366,862 1411,862 1456,859 1500,859 1545,859 1590,856 1635,856 1679,856 1724,853 1769,853 1814,853 1858,850 1903,850 1948,853 1993,847 2037,844 2082,844 2127,844 2172,841 2216,841 2261,838 2306,841 2351,841 2395,838 2440,835 2485,835 2530,838 2574,832 2619,832 2664,829 2709,829 2754,829 2798,829 2843,829 2888,832 2933,832"/>
+                <TextEquiv>
+                    <Unicode>wissen, auch der Staatsanwalt, dass er unschuldig</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="488,1061 520,1055 538,1070 560,1070 579,1058 588,1067 639,1058 667,1080 714,1077 707,926 673,926 601,948 545,936 535,948 485,958"/>
+                <Baseline points="507,1032 551,1032 596,1035 641,1035 686,1038 722,1041"/>
+                <TextEquiv>
+                    <Unicode>ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

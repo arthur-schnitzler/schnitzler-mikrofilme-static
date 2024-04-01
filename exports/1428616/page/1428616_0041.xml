@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_14:24</Creator>
+        <Created>2023-05-10T14:21:27.926+02:00</Created>
+        <LastChange>2023-08-14T14:24:21.538+02:00</LastChange>
+        <TranskribusMetadata docId="1428616" pageId="55418916" pageNr="41" tsid="132807658" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NFOKEVDRTOKNNPASVDDLMMZJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XDXGNWCGRLINAWKFEOOVQHAZ" imageId="44693020"/>
+    </Metadata>
+    <Page imageFilename="1428616_0041.jpg" imageWidth="3656" imageHeight="4232">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786862719" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="552,385 3223,385 3223,678 552,678"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3117,544 3134,547 3157,528 3166,537 3189,524 3212,524 3228,287 3212,283 3189,296 3170,293 3153,280 3134,280"/>
+                <Baseline points="3142,441 3187,435 3223,435"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="537,599 1586,775 1857,713 2042,818 2544,645 3150,691 3143,472 3036,420 2740,492 2437,423 2244,590 1922,391 1492,466 1202,358 531,508"/>
+                <Baseline points="552,546 596,552 641,552 686,552 731,552 775,555 820,561 865,570 910,573 955,578 999,581 1044,584 1089,584 1134,584 1178,587 1223,590 1268,590 1313,596 1357,599 1402,602 1447,605 1492,614 1537,617 1581,614 1626,620 1671,623 1716,629 1760,632 1805,632 1850,629 1895,638 1939,641 1984,641 2029,641 2074,641 2118,644 2163,647 2208,647 2253,650 2298,650 2342,650 2387,650 2432,647 2477,647 2521,641 2566,638 2611,638 2656,635 2700,635 2745,635 2790,632 2835,635 2880,638 2924,641 2969,647 3014,650 3059,659 3103,665 3148,668 3157,668"/>
+                <TextEquiv>
+                    <Unicode>in verließen schweigendler Loca¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_02:39</Creator>
+        <Created>2023-05-10T12:09:44.405+02:00</Created>
+        <LastChange>2023-07-29T02:39:32.445+02:00</LastChange>
+        <TranskribusMetadata docId="1428189" pageId="55399266" pageNr="186" tsid="131391301" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KFHMXAGDAJLTEOZZKKPHHHIS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AORSCKJOKJQAFZSDLIBYKLZC" imageId="44674090"/>
+    </Metadata>
+    <Page imageFilename="1428189_0186.jpg" imageWidth="3459" imageHeight="4376">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799000796" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="2737,155 3142,155 3142,686 2737,686"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2726,252 2762,258 2790,242 2812,256 2846,236 2914,250 2916,154 2844,150 2822,156 2786,148 2758,176 2728,178"/>
+                <Baseline points="2737,211 2740,211 2784,208 2829,205 2874,205 2919,205"/>
+                <TextEquiv>
+                    <Unicode>aieux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3054,698 3076,696 3104,710 3110,704 3142,706 3136,596 3122,596 3114,604 3090,608 3068,624 3050,624"/>
+                <Baseline points="3062,671 3107,674 3142,676"/>
+                <TextEquiv>
+                    <Unicode>C</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

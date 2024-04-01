@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_06:29</Creator>
+        <Created>2023-05-10T13:47:32.733+02:00</Created>
+        <LastChange>2023-07-30T06:29:08.940+02:00</LastChange>
+        <TranskribusMetadata docId="1428594" pageId="55414296" pageNr="1" tsid="131485338" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=MVMXWGBNVYMUEOSWLMFZJZTU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMMVYKMTFVRJBQHADRLPTITO" imageId="44688430"/>
+    </Metadata>
+    <Page imageFilename="1428594_0001.jpg" imageWidth="2808" imageHeight="2264">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790267281" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="319,538 2610,538 2610,1900 319,1900"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="304,586 335,605 375,592 441,610 486,597 565,610 618,592 658,615 705,605 766,563 763,515 724,499 700,497 681,518 594,518 557,486 528,515 507,494 460,507 372,489 325,539 304,541"/>
+                <Baseline points="319,591 364,591 409,588 453,591 498,591 543,591 588,591 633,591 678,591 722,597 767,603 772,604"/>
+                <TextEquiv>
+                    <Unicode>Author</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="808,631 2031,639 2079,610 2081,518 1976,468 1862,515 1680,478 1548,520 1445,465 1088,534 998,470 811,534"/>
+                <Baseline points="824,611 830,612 875,609 919,612 964,612 1009,618 1054,618 1099,621 1143,618 1188,615 1233,615 1278,615 1323,612 1367,612 1412,612 1457,612 1502,612 1547,609 1591,606 1636,603 1681,603 1726,603 1771,606 1815,609 1860,606 1905,606 1950,603 1995,603 2039,603 2084,600"/>
+                <TextEquiv>
+                    <Unicode>ARTHUR SCHNITZLER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="335,806 388,819 412,800 433,821 465,811 481,821 721,811 718,790 658,787 600,734 571,737 539,708 465,721 444,703 423,713 333,705"/>
+                <Baseline points="349,803 394,800 439,803 483,809 528,806 573,806 618,806 663,806 707,812 728,809"/>
+                <TextEquiv>
+                    <Unicode>Title</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="816,845 1160,845 1228,895 1326,843 1714,835 2079,895 2311,843 2314,718 1907,721 1796,660 1202,724 1012,676 819,811"/>
+                <Baseline points="830,833 836,833 881,830 925,824 970,833 1015,827 1060,824 1105,824 1149,827 1194,827 1239,830 1284,830 1329,830 1373,830 1418,827 1463,824 1508,821 1553,821 1597,821 1642,818 1687,815 1732,815 1777,818 1821,815 1866,815 1911,815 1956,818 2001,824 2045,824 2090,827 2136,814 2159,811 2207,803 2252,806 2296,803 2320,806"/>
+                <TextEquiv>
+                    <Unicode>POSTHUMUS PAPERS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2240,1228 2266,1220 2343,1249 2430,1226 2504,1244 2554,1228 2602,1249 2615,1086 2559,1072 2496,1091 2459,1064 2335,1099 2250,1099"/>
+                <Baseline points="2255,1236 2296,1221 2341,1218 2386,1212 2431,1212 2476,1209 2520,1206 2565,1203 2610,1197"/>
+                <TextEquiv>
+                    <Unicode>124</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1014,1247 1181,1297 1355,1255 1500,1307 2187,1297 2163,1130 2124,1160 2047,1117 1973,1154 1841,1125 1735,1178 1532,1115 1424,1167 1012,1162"/>
+                <Baseline points="1030,1248 1075,1248 1120,1251 1164,1251 1209,1251 1254,1251 1299,1251 1344,1251 1388,1248 1433,1248 1478,1245 1523,1245 1568,1245 1612,1245 1657,1248 1702,1248 1747,1248 1792,1251 1836,1263 1881,1263 1926,1263 1971,1263 2016,1269 2060,1272 2105,1275 2150,1269 2192,1266"/>
+                <TextEquiv>
+                    <Unicode>Class mark FiLE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="328,1260 394,1270 420,1257 436,1273 629,1263 626,1186 576,1186 526,1157 481,1191 420,1175 399,1154 325,1160"/>
+                <Baseline points="343,1260 388,1257 433,1257 477,1257 522,1260 567,1260 612,1260 636,1263"/>
+                <TextEquiv>
+                    <Unicode>Bate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="328,1508 436,1524 515,1513 539,1529 573,1500 597,1516 687,1506 713,1532 766,1524 763,1429 737,1439 692,1421 679,1437 668,1426 642,1437 597,1421 507,1437 475,1408 428,1405 399,1437 362,1405 325,1424"/>
+                <Baseline points="343,1505 388,1502 433,1502 477,1502 522,1502 567,1499 612,1499 657,1502 701,1505 746,1508 773,1514"/>
+                <TextEquiv>
+                    <Unicode> v. of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="320,1891 2443,1912 2443,1775 1994,1799 1910,1735 1704,1815 708,1778 610,1854 320,1796"/>
+                <Baseline points="334,1881 379,1881 424,1881 468,1881 513,1884 558,1884 603,1887 648,1887 692,1887 737,1887 782,1890 827,1887 872,1890 916,1887 961,1887 1006,1887 1051,1884 1096,1887 1140,1887 1185,1884 1230,1884 1275,1884 1320,1884 1364,1881 1409,1881 1454,1881 1499,1881 1544,1878 1588,1878 1633,1878 1678,1878 1723,1878 1768,1878 1812,1878 1857,1878 1902,1878 1947,1875 1992,1875 2037,1878 2081,1878 2126,1878 2171,1875 2216,1872 2261,1872 2305,1875 2350,1875 2395,1881 2440,1881 2446,1884"/>
+                <TextEquiv>
+                    <Unicode>From¬Cambridge Univ. Libruary, Eng</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

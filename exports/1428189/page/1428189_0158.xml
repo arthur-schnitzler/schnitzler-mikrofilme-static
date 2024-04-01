@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_02:39</Creator>
+        <Created>2023-05-10T12:09:39.652+02:00</Created>
+        <LastChange>2023-07-29T02:39:25.454+02:00</LastChange>
+        <TranskribusMetadata docId="1428189" pageId="55399139" pageNr="158" tsid="131391272" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QTSTCYLFEKJWWHUEUWPSHMGJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EKMRGEEMBZONJHYQHYASGIEH" imageId="44673963"/>
+    </Metadata>
+    <Page imageFilename="1428189_0158.jpg" imageWidth="3416" imageHeight="4200">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711798969983" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="665,836 2770,836 2770,1678 665,1678"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1459,960 1485,975 1549,946 1618,954 1677,918 1732,925 1802,890 1818,907 1913,866 1939,674 1692,658 1576,730 1490,733"/>
+                <Baseline points="1471,943 1510,940 1555,934 1600,928 1644,922 1689,922 1734,913 1779,904 1823,901 1868,892 1913,886"/>
+                <TextEquiv>
+                    <Unicode>ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1456,1428 1744,1381 1836,1321 2135,1298 2408,1425 2758,1419 2774,1110 2684,1129 2564,1071 1982,1233 1825,1209 1684,1079 1474,1120"/>
+                <Baseline points="1471,1328 1516,1325 1561,1322 1605,1322 1650,1319 1695,1313 1740,1304 1785,1301 1829,1298 1874,1298 1919,1295 1964,1295 2008,1295 2053,1295 2098,1295 2143,1286 2188,1283 2232,1280 2277,1277 2322,1274 2367,1277 2411,1274 2456,1271 2501,1268 2546,1262 2591,1256 2635,1256 2680,1256 2725,1256 2770,1265"/>
+                <TextEquiv>
+                    <Unicode>Ich anervirt, geh</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1632,1589 1661,1597 1687,1588 1713,1606 1731,1596 1750,1607 1765,1596 1805,1604 1830,1591 1838,1476 1814,1476 1773,1508 1752,1513 1710,1495 1684,1503 1638,1493"/>
+                <Baseline points="1641,1588 1656,1585 1701,1582 1746,1576 1791,1573 1835,1576"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1139,1646 1157,1654 1176,1641 1199,1651 1240,1633 1246,1638 1258,1633 1264,1640 1276,1635 1289,1649 1324,1649 1329,1576 1279,1575 1250,1558 1238,1562 1225,1550 1160,1583 1144,1580"/>
+                <Baseline points="1149,1635 1194,1635 1238,1632 1283,1626 1328,1626"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="656,1680 741,1693 850,1658 985,1666 1038,1630 1102,1630 1107,1532 962,1568 905,1542 821,1571 754,1555 687,1586 661,1575"/>
+                <Baseline points="665,1668 701,1662 746,1659 791,1653 835,1650 880,1650 925,1647 970,1647 1014,1647 1059,1641 1104,1644"/>
+                <TextEquiv>
+                    <Unicode>Wm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

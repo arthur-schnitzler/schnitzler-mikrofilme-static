@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_01:14</Creator>
+        <Created>2023-05-10T12:06:24.395+02:00</Created>
+        <LastChange>2023-07-29T01:14:52.937+02:00</LastChange>
+        <TranskribusMetadata docId="1428185" pageId="55399329" pageNr="353" tsid="131389330" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=YMAWAJTNVZDDTFEEPBRWQFUN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYZSRSGUDDXCAYTKVVONPGFP" imageId="44674153"/>
+    </Metadata>
+    <Page imageFilename="1428185_0353.jpg" imageWidth="3304" imageHeight="4504">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800139841" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="128,296 1561,296 1561,374 128,374"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="118,437 762,360 1054,416 1475,412 1556,378 1558,255 1217,253 907,326 735,265 566,335 118,333"/>
+                <Baseline points="128,364 173,361 217,361 262,361 307,358 352,355 396,352 441,355 486,355 531,352 576,355 620,355 665,355 710,355 755,355 799,349 844,349 889,349 934,349 979,352 1023,349 1068,349 1113,349 1158,349 1202,346 1247,346 1292,349 1337,349 1381,349 1426,352 1471,349 1516,352 1561,352"/>
+                <TextEquiv>
+                    <Unicode>DATES DES ACTES</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

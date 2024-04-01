@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_00:03</Creator>
+        <Created>2023-05-10T13:22:04.252+02:00</Created>
+        <LastChange>2023-07-30T00:03:25.184+02:00</LastChange>
+        <TranskribusMetadata docId="1428574" pageId="55411650" pageNr="133" tsid="131470977" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PYWPWIPLQLJJGQOLDWDRIXHX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PPCHLOLWNOMDEPXOCJMRNIBI" imageId="44685793"/>
+    </Metadata>
+    <Page imageFilename="1428574_0133.jpg" imageWidth="3416" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792251061" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="772,666 2996,666 2996,920 772,920"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="757,793 2940,779 2968,652 760,655"/>
+                <Baseline points="772,757 781,757 826,757 871,757 916,757 960,754 1005,752 1050,752 1095,752 1139,752 1184,749 1229,749 1274,749 1318,749 1363,749 1408,749 1453,746 1498,746 1542,746 1587,746 1632,746 1677,746 1721,746 1766,743 1811,743 1856,743 1900,740 1945,743 1990,740 2035,740 2079,737 2124,737 2169,737 2214,737 2258,734 2303,734 2348,734 2393,731 2438,731 2482,728 2527,728 2572,728 2617,725 2661,722 2706,722 2751,719 2796,722 2840,719 2885,719 2930,716 2975,722"/>
+                <TextEquiv>
+                    <Unicode>Der Dichter weiss nichts davon, dass dieses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="763,968 2807,957 2987,929 2990,774 766,832"/>
+                <Baseline points="778,910 802,907 847,907 892,910 937,910 981,907 1026,907 1071,907 1116,904 1160,904 1205,904 1250,904 1295,904 1339,901 1384,901 1429,901 1474,901 1518,901 1563,901 1608,901 1653,901 1697,898 1742,898 1787,895 1832,895 1877,895 1921,892 1966,892 2011,892 2056,892 2100,892 2145,889 2190,886 2235,886 2279,886 2324,886 2369,883 2414,883 2458,883 2503,880 2548,880 2593,877 2637,877 2682,874 2727,877 2772,874 2817,874 2861,874 2906,874 2951,874 2996,874"/>
+                <TextEquiv>
+                    <Unicode>Wasser einmal sein schicksal bedeuten wird.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

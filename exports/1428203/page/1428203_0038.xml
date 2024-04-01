@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_10:57</Creator>
+        <Created>2023-05-10T12:30:03.474+02:00</Created>
+        <LastChange>2023-07-29T10:57:54.576+02:00</LastChange>
+        <TranskribusMetadata docId="1428203" pageId="55403297" pageNr="38" tsid="131408211" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GWCMQQMFWQLGPZEVLTOGCWAX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IGHZTPMTVTFVCUVWPDNHHNVC" imageId="44678118"/>
+    </Metadata>
+    <Page imageFilename="1428203_0038.jpg" imageWidth="3480" imageHeight="3976">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795971943" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="358,448 2973,448 2973,1141 358,1141"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2619,510 2634,510 2657,533 2695,520 2746,564 2810,571 2818,421 2802,423 2787,413 2762,421 2754,413 2744,421 2718,398 2690,418 2672,400 2624,398"/>
+                <Baseline points="2632,504 2641,504 2686,504 2731,501 2776,498 2820,501"/>
+                <TextEquiv>
+                    <Unicode>149</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="344,490 357,490 393,523 408,520 421,533 446,525 456,536 482,536 484,411 472,411 400,337 375,342 349,334"/>
+                <Baseline points="358,513 402,516 447,510 486,513"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="956,862 1005,849 1051,872 1122,821 1188,816 1280,852 1303,834 1313,847 1410,808 1436,821 1482,808 1484,752 1438,755 1413,734 1318,752 1216,727 1148,745 1043,714 1025,732 961,719"/>
+                <Baseline points="970,820 996,820 1041,814 1086,811 1131,808 1176,808 1220,805 1265,802 1310,802 1355,802 1399,799 1444,796 1489,799"/>
+                <TextEquiv>
+                    <Unicode>tiir endet.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="921,994 2963,928 2968,821 926,880"/>
+                <Baseline points="934,979 958,979 1002,976 1047,973 1092,970 1137,964 1182,964 1226,964 1271,961 1316,958 1361,958 1405,955 1450,949 1495,949 1540,946 1585,943 1629,943 1674,937 1719,937 1764,934 1808,931 1853,931 1898,928 1943,925 1988,922 2032,919 2077,916 2122,916 2167,913 2211,910 2256,910 2301,907 2346,904 2390,901 2435,898 2480,898 2525,895 2570,895 2614,892 2659,892 2704,889 2749,886 2793,883 2838,880 2883,880 2928,880 2973,880"/>
+                <TextEquiv>
+                    <Unicode>Augustmorgen. Stiller blauer Himmel. Sonne.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="921,1150 1160,1137 1221,1173 1719,1099 1961,1125 2175,1099 2178,1025 1719,982 1303,1058 1255,1012 1099,1074 926,1035"/>
+                <Baseline points="937,1131 973,1128 1017,1125 1062,1125 1107,1122 1152,1119 1196,1116 1241,1116 1286,1113 1331,1110 1376,1110 1420,1107 1465,1104 1510,1104 1555,1101 1599,1095 1644,1095 1689,1092 1734,1089 1779,1089 1823,1086 1868,1083 1913,1080 1958,1080 2002,1077 2047,1077 2092,1071 2137,1071 2182,1071"/>
+                <TextEquiv>
+                    <Unicode>Die Kirchenglocken läuten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

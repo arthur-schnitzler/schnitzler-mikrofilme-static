@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=29_07_2023_00:32</Creator>
+        <Created>2023-05-10T12:07:58.516+02:00</Created>
+        <LastChange>2023-07-29T00:32:25.426+02:00</LastChange>
+        <TranskribusMetadata docId="1428187" pageId="55397661" pageNr="48" tsid="131387693" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZSFAVLFXMVUZIOSABMNNBWVS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OPEEWKJKYURNBXYPKJQLHSVG" imageId="44672539"/>
+    </Metadata>
+    <Page imageFilename="1428187_0048.jpg" imageWidth="3384" imageHeight="4088">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799476344" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="507,624 2742,624 2742,1048 507,1048"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1840,696 1897,716 1941,691 2092,784 2165,733 2275,789 2494,678 2734,713 2741,528 2529,488 2416,559 2346,561 1849,455"/>
+                <Baseline points="1851,697 1888,698 1933,695 1978,698 2023,695 2067,692 2112,692 2157,692 2202,692 2246,692 2293,683 2293,683 2339,677 2384,683 2428,680 2473,677 2518,674 2563,674 2607,674 2652,674 2697,674 2742,674"/>
+                <TextEquiv>
+                    <Unicode>Magen halber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="581,731 1003,707 1250,828 1378,786 1535,833 1844,718 1847,482 1734,541 1506,515 1255,579 817,391 583,477"/>
+                <Baseline points="593,713 596,710 641,701 686,707 731,710 775,713 820,707 865,707 910,704 954,704 999,707 1044,707 1089,710 1133,713 1178,713 1223,710 1268,710 1312,710 1357,713 1402,713 1447,713 1491,713 1536,713 1581,710 1626,710 1671,704 1715,704 1760,698 1805,701 1851,697"/>
+                <TextEquiv>
+                    <Unicode>Severin sal for</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="727,1080 970,1012 1369,1018 1630,1093 2213,967 2496,996 2507,842 1853,760 1716,839 1590,806 1007,972 736,970"/>
+                <Baseline points="743,1038 760,1038 805,1032 850,1023 895,1020 939,1011 984,1011 1029,1008 1074,1008 1118,1011 1163,1011 1208,1011 1253,1008 1298,1008 1342,1005 1387,1005 1432,1002 1477,993 1521,993 1566,981 1611,975 1656,966 1700,963 1745,954 1790,948 1835,939 1879,930 1891,933 1927,936 1972,930 2017,930 2061,925 2106,928 2151,925 2196,919 2240,916 2285,916 2330,916 2375,913 2419,913 2464,916 2509,916"/>
+                <TextEquiv>
+                    <Unicode>bei der ch. Bastilla.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="495,1043 535,1045 568,1060 588,1056 581,939 565,937 508,998 493,998"/>
+                <Baseline points="507,1035 552,1038 590,1038"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

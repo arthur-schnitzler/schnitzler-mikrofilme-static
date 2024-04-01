@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=30_07_2023_11:47</Creator>
+        <Created>2023-05-10T13:40:22.323+02:00</Created>
+        <LastChange>2023-07-30T11:47:04.010+02:00</LastChange>
+        <TranskribusMetadata docId="1428586" pageId="55416270" pageNr="486" tsid="131502079" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FATCBGPGMXKHVALCRDHGOUOS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BXUUXOOPLDETNNMYQDQQBYUH" imageId="44690376"/>
+    </Metadata>
+    <Page imageFilename="1428586_0486.jpg" imageWidth="3784" imageHeight="4936">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791154928" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1098,1710 2847,1710 2847,2355 1098,2355"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1085,1833 1275,1807 1525,1901 2299,1759 2839,1813 2844,1647 1982,1461 1312,1691 1087,1702"/>
+                <Baseline points="1098,1790 1145,1796 1235,1784 1325,1790 1414,1796 1504,1802 1593,1802 1683,1790 1772,1784 1862,1778 1951,1778 2041,1766 2130,1760 2220,1760 2309,1760 2399,1760 2488,1760 2578,1760 2667,1766 2757,1772 2847,1778"/>
+                <TextEquiv>
+                    <Unicode>Prof. Beabour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1260,2406 1358,2389 1568,2459 1881,2408 2041,2457 2317,2367 2691,2341 2693,2067 2424,2050 2089,2268 1695,2124 1496,1991 1262,2067"/>
+                <Baseline points="1271,2309 1360,2321 1450,2333 1539,2339 1629,2339 1718,2345 1808,2339 1898,2333 1987,2333 2077,2333 2166,2333 2256,2327 2345,2327 2435,2315 2524,2321 2614,2321 2697,2327"/>
+                <TextEquiv>
+                    <Unicode>for from Aht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>
