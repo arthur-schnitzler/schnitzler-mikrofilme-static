@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_17:07</Creator>
+        <Created>2023-09-27T14:34:51.703+02:00</Created>
+        <LastChange>2024-01-22T17:07:25.285+01:00</LastChange>
+        <TranskribusMetadata docId="1589034" pageId="60122908" pageNr="16" tsid="145627718" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JYYIFJRUFMVHRWGYRKQVJDXZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWGPMLBREPUPLSKBJPRXAATX" imageId="48547986"/>
+    </Metadata>
+    <Page imageFilename="1589034_0016.jpg" imageWidth="2888" imageHeight="3448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793045217" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="656,348 656,881 2525,881 2525,348"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2371,448 2410,448 2419,457 2455,446 2466,457 2484,441 2517,457 2524,330 2501,326 2490,315 2464,333 2441,333 2428,344 2419,333 2377,326"/>
+                <Baseline points="2385,423 2413,418 2441,417 2469,417 2497,415 2525,411"/>
+                <TextEquiv>
+                    <Unicode>281</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="648,608 2051,572 2113,612 2331,605 2333,459 2153,499 2022,455 1867,510 1736,450 1641,508 1441,479 1184,519 1040,479 856,519 650,483"/>
+                <Baseline points="659,585 742,585 826,585 910,585 994,588 1078,582 1162,581 1246,579 1330,580 1414,578 1498,576 1581,576 1665,576 1749,573 1833,570 1917,570 2001,570 2085,567 2169,564 2253,564 2337,558"/>
+                <TextEquiv>
+                    <Unicode>Franzl:sübertrieben lattiel Sohon auf die I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="716,754 1022,732 1257,774 1623,705 2038,747 2501,725 2501,634 2371,601 718,670"/>
+                <Baseline points="731,719 819,716 908,713 996,713 1085,712 1174,713 1262,710 1351,709 1440,709 1528,706 1617,701 1706,701 1794,701 1883,698 1972,698 2060,698 2149,692 2238,695 2326,692 2415,689 2504,686"/>
+                <TextEquiv>
+                    <Unicode>wird gehen.. Se. Halb sieben schon. Ich mur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="641,929 1719,885 1927,931 1903,756 1291,794 1011,727 803,807 643,796"/>
+                <Baseline points="656,850 719,847 783,847 847,845 911,844 975,847 1039,844 1103,842 1167,844 1231,843 1295,839 1358,838 1422,838 1486,838 1550,835 1614,835 1678,835 1742,835 1806,835 1870,835 1934,838"/>
+                <TextEquiv>
+                    <Unicode>ine Meattr. srecht sich fertte.h</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:48.723+02:00</Created>
+        <LastChange>2023-08-15T04:28:11.984+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431604" pageNr="74" tsid="132838805" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KMYPLJOSQHDYZQCYPLZGAQKH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HVZAIYEOCRMTVVJZYFDKBQUE" imageId="44705641"/>
+    </Metadata>
+    <Page imageFilename="1428821_0074.jpg" imageWidth="4002" imageHeight="5640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803759578" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="513,702 3453,702 3453,1270 513,1270"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="795,798 3073,808 3207,792 3210,690 2958,635 1361,730 798,651"/>
+                <Baseline points="812,800 884,794 973,794 1063,794 1153,794 1242,788 1332,788 1421,788 1511,782 1601,782 1690,782 1780,776 1870,776 1959,776 2049,770 2138,770 2228,770 2318,770 2407,764 2497,764 2586,764 2676,758 2766,758 2855,752 2945,752 3035,752 3124,752 3214,758"/>
+                <TextEquiv>
+                    <Unicode>SLEÖNA ElSA. Novela. Autorisovany Preklad V. Brecka.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="782,916 2209,890 2304,874 2307,798 782,795"/>
+                <Baseline points="800,878 878,878 967,878 1057,878 1147,872 1236,872 1326,872 1415,872 1505,866 1595,866 1684,866 1774,860 1864,854 1953,854 2043,854 2132,848 2222,848 2312,854"/>
+                <TextEquiv>
+                    <Unicode>Nakladatel s.Kodym. Praha, 1928.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="818,1191 3446,1158 3446,1067 3250,995 821,1109"/>
+                <Baseline points="836,1176 854,1182 943,1176 1033,1182 1123,1176 1212,1176 1302,1176 1392,1171 1481,1171 1571,1165 1660,1165 1750,1165 1840,1159 1929,1159 2019,1153 2109,1153 2198,1153 2288,1153 2377,1147 2467,1141 2557,1141 2646,1141 2736,1141 2825,1141 2915,1135 3005,1135 3094,1135 3184,1135 3274,1129 3363,1129 3453,1135"/>
+                <TextEquiv>
+                    <Unicode>TEREZA. Kronika senina Zivota. Prelokila Rußena Thonova.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="494,1217 632,1214 651,1201 677,1201 674,1100 635,1096 619,1109 605,1100 586,1109 569,1103 556,1113 550,1109 530,1129 514,1119 491,1119"/>
+                <Baseline points="513,1188 603,1188 687,1194"/>
+                <TextEquiv>
+                    <Unicode>10.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="795,1299 1136,1263 1574,1306 1790,1296 1842,1253 2009,1293 2045,1181 798,1191"/>
+                <Baseline points="812,1260 884,1260 973,1260 1063,1254 1153,1254 1242,1254 1332,1248 1421,1248 1511,1242 1601,1242 1690,1242 1780,1242 1870,1230 1959,1230 2049,1236"/>
+                <TextEquiv>
+                    <Unicode>Alois Srdoe. V. Prase, 1930.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

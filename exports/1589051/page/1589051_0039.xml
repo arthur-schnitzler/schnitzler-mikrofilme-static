@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:39:00.044+02:00</Created>
+        <LastChange>2024-01-22T19:19:38.701+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125223" pageNr="39" tsid="145635147" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WABKBVTERSRPAWAZWAQLSWKD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BMFGOMZSWVRPUNDYHHNPUVZZ" imageId="48550300"/>
+    </Metadata>
+    <Page imageFilename="1589051_0039.jpg" imageWidth="2840" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790806215" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="462,514 462,1023 1689,1023 1689,514"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="454,613 832,599 968,641 1588,599 1615,499 1296,558 1030,510 882,561 455,531"/>
+                <Baseline points="462,599 519,602 577,602 635,602 693,605 750,601 808,599 866,606 924,603 981,599 1039,598 1097,593 1155,591 1212,587 1270,586 1328,586 1386,584 1443,581 1501,581 1559,579 1617,575"/>
+                <TextEquiv>
+                    <Unicode>Wc. uer T. in Grau zerrann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="470,755 1683,718 1686,597 1215,679 1165,644 1050,687 473,681"/>
+                <Baseline points="480,737 540,736 600,732 661,731 721,734 782,732 842,728 903,727 963,723 1024,725 1084,722 1144,716 1205,719 1265,717 1326,716 1386,713 1447,713 1507,713 1568,704 1628,704 1689,701"/>
+                <TextEquiv>
+                    <Unicode>Sinken Dämner tief zur Erden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="481,879 1298,879 1561,859 1623,842 1624,796 482,809"/>
+                <Baseline points="489,862 545,859 602,862 659,862 716,862 773,862 830,861 886,858 943,854 1000,853 1057,853 1114,853 1171,848 1228,850 1284,848 1341,846 1398,841 1455,843 1512,840 1569,838 1626,838"/>
+                <TextEquiv>
+                    <Unicode>Ferne schattet grofs heran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="475,1013 1611,992 1664,985 1665,918 1057,954 886,914 476,927"/>
+                <Baseline points="483,984 542,990 601,993 660,992 720,988 779,990 838,987 897,987 957,987 1016,984 1075,982 1134,978 1194,980 1253,976 1312,972 1371,970 1431,972 1490,969 1549,966 1608,968 1668,969"/>
+                <TextEquiv>
+                    <Unicode>Abend, will es,Abend werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2363,168 2363,327 2635,327 2635,168"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2352,334 2411,328 2429,342 2470,340 2503,322 2520,330 2559,304 2605,324 2632,319 2635,221 2615,213 2550,218 2480,194 2449,215 2428,195 2390,216 2356,213"/>
+                <Baseline points="2363,277 2390,274 2417,274 2444,272 2471,270 2499,268 2526,270 2553,270 2580,269 2607,268 2635,268"/>
+                <TextEquiv>
+                    <Unicode>182</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

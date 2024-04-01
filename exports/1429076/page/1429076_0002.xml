@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_09:13</Creator>
+        <Created>2023-05-10T15:32:15.139+02:00</Created>
+        <LastChange>2023-08-15T09:13:50.186+02:00</LastChange>
+        <TranskribusMetadata docId="1429076" pageId="55436797" pageNr="2" tsid="132844112" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HKRQLNNVOFMUGUUEYUBYTBLL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PUWWZLASOTSMFZGRZQSXVKER" imageId="44710786"/>
+    </Metadata>
+    <Page imageFilename="1429076_0002.jpg" imageWidth="4903" imageHeight="6168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796844180" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1761,2165 3214,2165 3214,3025 1761,3025"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1991,2229 2206,2256 2360,2217 2406,2249 2503,2245 2570,2294 2716,2238 2808,2286 2986,2222 2985,2097 2738,2162 2515,2109 2422,2137 2275,2030 2215,2054 2047,2014 1987,2035"/>
+                <Baseline points="2000,2215 2089,2221 2179,2227 2268,2227 2358,2227 2448,2239 2537,2239 2627,2239 2716,2239 2806,2239 2895,2233 2985,2227 2991,2227"/>
+                <TextEquiv>
+                    <Unicode>Les morts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1793,2462 1915,2459 2047,2573 2328,2526 2381,2475 2635,2471 2780,2575 2850,2533 2902,2582 2992,2542 3131,2605 3209,2586 3209,2349 2778,2272 2639,2356 2552,2321 2452,2407 2296,2321 2093,2429 1947,2330 1793,2390"/>
+                <Baseline points="1803,2454 1892,2454 1982,2454 2071,2460 2161,2460 2251,2471 2340,2471 2430,2471 2519,2471 2609,2471 2698,2466 2788,2460 2878,2460 2967,2466 3057,2460 3146,2454 3214,2460"/>
+                <TextEquiv>
+                    <Unicode>ne parlent pas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2097,3020 2245,2995 2369,3038 2510,3013 2602,3043 2637,3015 2753,3011 2745,2798 2697,2790 2610,2840 2512,2787 2404,2856 2353,2813 2300,2808 2264,2838 2203,2803 2090,2845"/>
+                <Baseline points="2101,2883 2191,2872 2280,2878 2370,2889 2460,2889 2549,2883 2639,2901 2728,2907 2752,2901"/>
+                <TextEquiv>
+                    <Unicode>DATES DES ACTES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1754,3015 1786,3000 1806,3015 1850,3009 1880,3022 1908,3002 1947,3000 1940,2782 1911,2768 1896,2773 1887,2764 1844,2760 1816,2736 1746,2713"/>
+                <Baseline points="1761,2878 1850,2883 1940,2883 1946,2883"/>
+                <TextEquiv>
+                    <Unicode>L</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2114,3016 2153,3013 2176,3036 2219,3029 2226,3036 2250,3022 2270,3029 2279,3022 2312,3029 2312,2999 2227,2995 2166,3000 2155,2993 2127,3004 2114,3000"/>
+                <Baseline points="2125,3015 2215,3009 2304,3015 2316,3015"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

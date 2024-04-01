@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:59.408+02:00</Created>
+        <LastChange>2024-01-22T19:19:37.232+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125183" pageNr="32" tsid="145635140" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YKBGFIVUHFJXTQAINVJXZLJQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ECWJPYZVKEGGSQHPYPOUWPVW" imageId="48550260"/>
+    </Metadata>
+    <Page imageFilename="1589051_0032.jpg" imageWidth="2888" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790797470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="817,489 817,969 2044,969 2044,489"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="809,559 1771,566 1771,493 1704,479 1441,513 809,497"/>
+                <Baseline points="817,549 864,549 912,549 960,549 1008,550 1056,552 1104,552 1152,552 1200,552 1248,548 1296,550 1343,552 1391,552 1439,555 1487,552 1535,552 1583,552 1631,552 1679,552 1727,551 1775,552"/>
+                <TextEquiv>
+                    <Unicode>Wundervolle Wiesenstunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="815,726 1117,692 1337,735 1646,692 2031,712 2005,623 815,626"/>
+                <Baseline points="823,677 883,680 944,680 1004,683 1065,681 1126,681 1186,683 1247,683 1307,681 1368,680 1429,682 1489,680 1550,678 1610,680 1671,680 1732,680 1792,682 1853,680 1913,680 1974,682 2035,689"/>
+                <TextEquiv>
+                    <Unicode>Und ich schaue und ich schwebe,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="809,834 2040,815 2008,751 809,764"/>
+                <Baseline points="817,814 878,811 939,814 1001,812 1062,811 1123,809 1185,813 1246,810 1307,810 1369,808 1430,811 1491,811 1553,811 1614,808 1675,810 1737,811 1798,809 1859,808 1921,810 1982,808 2044,802"/>
+                <TextEquiv>
+                    <Unicode>Stiller Wald steht in der Runde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="844,993 1084,946 1514,985 1876,956 1876,881 844,875"/>
+                <Baseline points="853,934 904,937 955,940 1007,939 1058,939 1109,940 1161,937 1212,937 1263,940 1315,936 1366,935 1417,939 1469,938 1520,937 1571,937 1623,938 1674,938 1725,935 1777,935 1828,936 1880,934"/>
+                <TextEquiv>
+                    <Unicode>Und ich atme und ich lebe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

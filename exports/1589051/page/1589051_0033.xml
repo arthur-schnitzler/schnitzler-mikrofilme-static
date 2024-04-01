@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:59.504+02:00</Created>
+        <LastChange>2024-01-22T19:19:37.404+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125188" pageNr="33" tsid="145635141" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EDGEQKRJIMRMCHMSRRNRYARG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVTMHBECMWIEHJHMSPBCLKGT" imageId="48550265"/>
+    </Metadata>
+    <Page imageFilename="1589051_0033.jpg" imageWidth="2872" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790798870" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="653,506 653,967 1982,967 1982,506"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="668,575 764,545 1980,584 1980,478 1895,513 1832,475 1268,513 668,473"/>
+                <Baseline points="677,558 742,552 807,549 872,549 938,551 1003,552 1068,552 1133,552 1199,552 1264,552 1329,552 1394,555 1460,555 1525,552 1590,552 1655,552 1721,553 1786,553 1851,550 1916,552 1982,558"/>
+                <TextEquiv>
+                    <Unicode>3 Stiller Wald steht in der Runde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="645,699 1863,715 1902,633 970,614 646,658"/>
+                <Baseline points="653,689 715,691 778,684 840,683 903,683 966,683 1028,681 1091,680 1153,681 1216,681 1279,683 1341,683 1404,685 1466,685 1529,682 1592,680 1654,681 1717,681 1779,680 1842,680 1905,686"/>
+                <TextEquiv>
+                    <Unicode>Flüster-Bach in griinem Grunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1051,771 1866,746 1866,712 1778,699 1719,731 1634,689 1445,725 1378,689 1192,717 1117,684 1051,715"/>
+                <Baseline points="1060,752 1100,752 1140,752 1181,750 1221,749 1262,748 1302,746 1343,746 1383,746 1424,746 1464,749 1504,749 1545,747 1585,746 1626,746 1666,746 1707,745 1747,743 1788,743 1828,744 1869,749"/>
+                <TextEquiv>
+                    <Unicode>ermanen sipen her</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="656,815 1304,868 1471,813 1881,818 1881,749 656,764"/>
+                <Baseline points="665,809 729,807 793,809 857,809 921,809 985,809 1049,811 1114,812 1178,812 1242,812 1306,812 1370,812 1434,812 1499,811 1563,812 1627,808 1691,806 1755,809 1819,807 1884,809"/>
+                <TextEquiv>
+                    <Unicode>Rauscht in milden Piefen hin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="656,960 1797,957 1797,898 1631,870 1071,900 996,865 900,900 656,851"/>
+                <Baseline points="665,946 721,944 778,936 835,934 892,934 948,934 1005,932 1062,936 1119,935 1175,934 1232,934 1289,932 1346,934 1402,934 1459,932 1516,932 1573,934 1629,931 1686,932 1743,934 1800,934"/>
+                <TextEquiv>
+                    <Unicode>7 Und ich atme und ich bin.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

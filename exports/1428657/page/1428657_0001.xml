@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_19:21</Creator>
+        <Created>2023-05-10T14:44:28.497+02:00</Created>
+        <LastChange>2023-08-14T19:21:49.185+02:00</LastChange>
+        <TranskribusMetadata docId="1428657" pageId="55424345" pageNr="1" tsid="132822670" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DFMMZMIVHKVXNFAPQBBIDGMZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ORQJYVLJAMIGFQLVDXNIYGKA" imageId="44698422"/>
+    </Metadata>
+    <Page imageFilename="1428657_0001.jpg" imageWidth="3432" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814398359" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="444,230 2740,230 2740,3449 444,3449"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1979,329 2023,311 2110,364 2223,334 2308,384 2377,336 2449,357 2619,281 2734,283 2736,226 2658,207 2587,244 2522,216 2430,221 2379,258 2294,209 2115,251 1984,223"/>
+                <Baseline points="1991,307 2024,307 2069,307 2113,307 2158,307 2203,307 2248,304 2292,301 2337,298 2382,298 2427,295 2472,292 2516,289 2561,286 2606,286 2651,283 2696,280 2740,280"/>
+                <TextEquiv>
+                    <Unicode>Abschrift 4.XII.31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1135,1346 1369,1360 1429,1309 1533,1342 1664,1332 1678,930 1636,939 1588,902 1533,897 1452,939 1365,920 1275,944 1206,902 1151,911"/>
+                <Baseline points="1149,1307 1179,1304 1224,1307 1268,1307 1313,1301 1358,1304 1403,1301 1448,1298 1492,1298 1537,1295 1582,1292 1627,1292 1671,1289"/>
+                <TextEquiv>
+                    <Unicode>The</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="605,2076 642,2078 658,2092 697,2073 720,2094 782,2087 824,2115 895,2122 904,1885 872,1873 842,1889 819,1885 750,1850 702,1800 619,1793"/>
+                <Baseline points="618,2081 635,2081 680,2078 725,2078 770,2075 815,2072 859,2066 904,2078"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1408,2651 1572,2697 1889,2617 2090,2679 2310,2619 2552,2683 2697,2649 2699,2501 2308,2531 2067,2460 1848,2538 1747,2506 1408,2594"/>
+                <Baseline points="1421,2630 1448,2633 1492,2636 1537,2633 1582,2633 1627,2633 1671,2630 1716,2627 1761,2624 1806,2621 1851,2615 1895,2612 1940,2609 1985,2606 2030,2603 2075,2606 2119,2606 2164,2612 2209,2609 2254,2609 2298,2612 2343,2612 2388,2615 2433,2615 2478,2612 2522,2612 2567,2612 2612,2615 2657,2612 2702,2600"/>
+                <TextEquiv>
+                    <Unicode>Consident -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="428,3466 1450,3367 1827,3420 1961,3348 2278,3337 2287,3201 437,3307"/>
+                <Baseline points="444,3436 447,3439 492,3439 537,3436 582,3433 626,3427 671,3418 716,3415 761,3412 806,3406 850,3403 895,3397 940,3397 985,3394 1030,3388 1074,3385 1119,3382 1164,3373 1209,3373 1253,3373 1298,3367 1343,3367 1388,3364 1433,3361 1477,3361 1522,3361 1567,3358 1612,3352 1657,3349 1701,3346 1746,3340 1791,3337 1836,3334 1880,3334 1925,3329 1970,3329 2015,3329 2060,3326 2104,3323 2149,3323 2194,3323 2239,3323 2284,3326"/>
+                <TextEquiv>
+                    <Unicode>In „Die kleine Komödie“ aufgenommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

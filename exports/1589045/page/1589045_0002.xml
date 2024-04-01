@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:26</Creator>
+        <Created>2023-09-27T14:37:48.809+02:00</Created>
+        <LastChange>2024-01-22T19:26:12.265+01:00</LastChange>
+        <TranskribusMetadata docId="1589045" pageId="60124547" pageNr="2" tsid="145635542" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VIOPJBSUKNAYUQOLPEODHLJU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SMMBIQRPXVWPUVTRQZYCUVIY" imageId="48549624"/>
+    </Metadata>
+    <Page imageFilename="1589045_0002.jpg" imageWidth="3080" imageHeight="3880">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791314139" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1005,276 1005,1360 2763,1360 2763,276"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1519,419 1551,415 1590,390 1725,409 1785,431 1781,275 1731,279 1701,301 1613,301 1573,269 1516,264"/>
+                <Baseline points="1525,376 1551,378 1577,380 1603,381 1629,383 1656,385 1682,383 1708,382 1734,382 1760,381 1787,379"/>
+                <TextEquiv>
+                    <Unicode>Nr. 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1540,679 2067,649 2225,686 2345,641 2761,674 2761,576 2618,545 2413,521 2113,595 2018,548 1876,583 1540,507"/>
+                <Baseline points="1549,635 1609,638 1670,638 1731,638 1791,638 1852,640 1913,638 1973,637 2034,635 2095,635 2156,635 2216,632 2277,633 2338,635 2398,635 2459,638 2520,632 2580,635 2641,637 2702,640 2763,647"/>
+                <TextEquiv>
+                    <Unicode>Abnhuft becudet 13. II. 1932.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="996,1356 1133,1333 1233,1382 1692,1302 2035,1350 2076,1340 2078,1213 1838,1242 1570,1210 1426,1268 1215,1207 998,1210"/>
+                <Baseline points="1005,1304 1058,1308 1112,1310 1166,1310 1220,1310 1273,1310 1327,1308 1381,1309 1435,1309 1488,1310 1542,1310 1596,1307 1650,1307 1703,1305 1757,1304 1811,1301 1865,1303 1918,1301 1972,1301 2026,1301 2080,1304"/>
+                <TextEquiv>
+                    <Unicode>Abenteuternovelle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

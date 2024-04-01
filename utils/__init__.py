@@ -7,6 +7,6 @@ def get_id_and_title(metadata_title: str) -> tuple:
     Returns:
         tuple: e.g. ("B_20", "Zwischenspiel" )
     """
-    title = metadata_title.split("_")[-1].replace("-", " ")
-    doc_id = "_".join(metadata_title.split("_")[:-1])
+    title = " ".join(metadata_title.split()[1:])
+    doc_id = metadata_title.split()[0]
     return doc_id, title

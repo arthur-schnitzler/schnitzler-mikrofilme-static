@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:12.562+02:00</Created>
+        <LastChange>2024-01-22T21:46:47.768+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127115" pageNr="77" tsid="145643742" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VOWEFNFTCVSRAQTJVFKGCIHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KROKPSHYBLNUSFERQLJNPJIM" imageId="48552192"/>
+    </Metadata>
+    <Page imageFilename="1589069_0077.jpg" imageWidth="2904" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787343961" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="585,665 585,1142 2528,1142 2528,665"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="599,788 726,803 1071,728 1383,762 1824,728 1919,762 2521,719 2521,599 2413,589 2039,635 1759,594 1524,683 599,664"/>
+                <Baseline points="612,722 707,724 803,725 899,723 995,723 1091,725 1186,725 1282,727 1378,729 1474,728 1570,726 1665,722 1761,719 1857,719 1953,719 2049,719 2144,718 2240,716 2336,715 2432,716 2528,707"/>
+                <TextEquiv>
+                    <Unicode>Jede Erkenntnis (Erfahrung) wird in unserer See-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="604,911 812,918 911,865 1090,894 1148,853 2279,889 2518,855 2518,798 2459,781 2334,805 2173,764 1895,817 606,786"/>
+                <Baseline points="618,856 713,858 808,854 904,853 999,856 1094,853 1190,853 1285,850 1380,849 1476,850 1571,850 1666,850 1762,850 1857,850 1952,850 2048,847 2143,849 2238,847 2334,849 2429,847 2525,850"/>
+                <TextEquiv>
+                    <Unicode>le vom hellen licht des Zweifels umleuchtet; der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1150,915 1224,908 1299,939 1349,920 1450,930 1562,911 1668,932 1668,858 1512,851 1469,877 1150,865"/>
+                <Baseline points="1164,898 1189,898 1215,898 1240,900 1266,901 1291,901 1317,901 1342,901 1368,899 1393,898 1419,898 1444,897 1470,895 1495,897 1521,901 1546,899 1572,898 1597,900 1623,900 1648,899 1674,901"/>
+                <TextEquiv>
+                    <Unicode>in deeren dibl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="609,1057 1222,1059 1447,992 2092,1004 2092,947 1931,891 1282,951 1071,877 827,942 609,911"/>
+                <Baseline points="621,979 694,983 768,985 842,985 915,985 989,984 1063,985 1136,985 1210,982 1284,987 1358,985 1431,985 1505,984 1579,982 1652,982 1726,977 1800,978 1873,976 1947,979 2021,979 2095,985"/>
+                <TextEquiv>
+                    <Unicode>Schatten, den sie wirft,heisst Glaube.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="573,1174 669,1196 733,1162 870,1215 1026,1177 1026,1100 573,1095"/>
+                <Baseline points="585,1119 611,1121 637,1121 663,1120 689,1119 715,1119 742,1119 768,1119 794,1119 820,1119 846,1119 872,1119 899,1119 925,1119 951,1119 977,1119 1003,1118 1030,1116"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

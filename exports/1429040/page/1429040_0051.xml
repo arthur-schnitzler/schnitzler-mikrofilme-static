@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:09</Creator>
+        <Created>2023-05-10T13:31:07.049+02:00</Created>
+        <LastChange>2023-08-15T08:09:50.448+02:00</LastChange>
+        <TranskribusMetadata docId="1429040" pageId="55435155" pageNr="51" tsid="132842185" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KLNBPSOYODEMSCRHFCJNQJCX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KWJSPXDUMYUZWBAISVLXCKPL" imageId="44709145"/>
+    </Metadata>
+    <Page imageFilename="1429040_0051.jpg" imageWidth="3592" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799335908" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="665,532 3188,532 3188,893 665,893"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="674,599 3184,662 3184,556 2815,493 671,521"/>
+                <Baseline points="692,582 737,582 782,585 826,585 871,588 916,588 961,588 1006,588 1050,588 1095,588 1140,588 1185,588 1230,591 1274,591 1319,591 1364,591 1409,591 1453,591 1498,591 1543,591 1588,594 1633,597 1677,597 1722,597 1767,597 1812,597 1856,600 1901,600 1946,600 1991,603 2036,606 2080,606 2125,603 2170,603 2215,603 2260,603 2304,603 2349,606 2394,606 2439,612 2483,609 2528,612 2573,612 2618,612 2663,609 2707,609 2752,615 2797,615 2842,615 2886,615 2931,618 2976,620 3021,618 3066,615 3110,612 3155,612 3188,612"/>
+                <TextEquiv>
+                    <Unicode>Durch kleine Gefälligkeiten glaubt er, sich von gros-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="690,755 1723,824 1979,755 2413,836 3012,783 3012,655 690,665"/>
+                <Baseline points="707,737 752,734 797,737 841,740 886,740 931,740 976,737 1021,740 1065,743 1110,740 1155,740 1200,740 1244,740 1289,740 1334,743 1379,746 1424,746 1468,746 1513,746 1558,746 1603,746 1648,749 1692,749 1737,749 1782,749 1827,749 1871,749 1916,752 1961,752 2006,752 2051,755 2095,758 2140,758 2185,758 2230,758 2274,758 2319,758 2364,758 2409,758 2454,758 2498,761 2543,761 2588,764 2633,764 2678,761 2722,761 2767,758 2812,758 2857,758 2901,761 2946,758 2991,758 3018,761"/>
+                <TextEquiv>
+                    <Unicode>sen Verpflichtungen loskaufen zu können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="649,899 880,918 977,883 1052,905 1180,896 1180,821 1127,812 1074,833 968,777 893,793 805,755 649,799"/>
+                <Baseline points="665,880 695,883 740,883 785,880 829,883 874,883 919,883 964,883 1009,880 1053,880 1098,880 1143,883 1188,877"/>
+                <TextEquiv>
+                    <Unicode>Silberstein</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:09</Creator>
+        <Created>2023-05-10T13:31:07.292+02:00</Created>
+        <LastChange>2023-08-15T08:09:50.958+02:00</LastChange>
+        <TranskribusMetadata docId="1429040" pageId="55435161" pageNr="53" tsid="132842187" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AHAGAILVREZGCGIMONFWALRY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WPEOEOQTOBDFRKZQYDFOGMDI" imageId="44709151"/>
+    </Metadata>
+    <Page imageFilename="1429040_0053.jpg" imageWidth="3576" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799339670" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="719,194 3133,194 3133,914 719,914"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2725,412 2782,394 2887,412 2962,385 3044,394 3047,177 3014,168 2920,208 2884,189 2809,214 2761,186 2725,202"/>
+                <Baseline points="2742,247 2781,247 2826,244 2871,244 2916,244 2960,244 3005,244 3050,244"/>
+                <TextEquiv>
+                    <Unicode>..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="713,791 1696,848 1943,755 2950,857 3125,836 3125,598 2087,686 713,650"/>
+                <Baseline points="728,749 761,752 805,752 850,752 895,752 940,752 984,749 1029,749 1074,746 1119,749 1164,746 1208,746 1253,746 1298,746 1343,743 1387,743 1432,743 1477,743 1522,740 1566,740 1611,743 1656,743 1701,743 1746,743 1790,743 1835,743 1880,743 1925,743 1969,740 2014,740 2059,740 2104,737 2149,737 2193,737 2238,737 2283,737 2328,737 2372,737 2417,737 2462,737 2507,734 2551,734 2596,734 2641,734 2686,734 2731,734 2775,737 2820,737 2865,734 2910,734 2954,734 2999,734 3044,731 3089,728 3133,731"/>
+                <TextEquiv>
+                    <Unicode>Im I.Akt liest Voll den Artikel vor Richard und den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="704,932 905,989 1001,971 1026,992 1080,980 1176,1001 1263,980 1266,803 1197,809 1143,845 1101,830 1071,854 917,851 836,803 758,809 707,779"/>
+                <Baseline points="719,904 737,898 781,898 826,901 871,901 916,901 961,898 1005,898 1050,898 1095,898 1140,895 1184,898 1229,898 1274,901"/>
+                <TextEquiv>
+                    <Unicode>Andern vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

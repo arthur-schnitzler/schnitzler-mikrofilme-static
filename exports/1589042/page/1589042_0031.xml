@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:30</Creator>
+        <Created>2023-09-27T14:37:03.727+02:00</Created>
+        <LastChange>2024-01-22T18:30:29.945+01:00</LastChange>
+        <TranskribusMetadata docId="1589042" pageId="60124194" pageNr="31" tsid="145632695" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=AAIYCAGFYHDHOUFKUODNXGVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OTBGWIXZABSYAYEQAWKIOSJU" imageId="48549272"/>
+    </Metadata>
+    <Page imageFilename="1589042_0031.jpg" imageWidth="5704" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791898089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3084,292 3084,951 5119,951 5119,292"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3073,443 3194,460 3255,416 3482,505 3544,443 3842,424 3952,485 4233,433 4295,488 4381,436 4834,480 4982,458 4979,369 4721,392 4578,310 3883,347 3561,291 3415,320 3241,227 3068,315"/>
+                <Baseline points="3084,369 3179,376 3274,387 3369,388 3464,397 3559,411 3654,411 3750,411 3845,411 3940,411 4035,418 4130,423 4225,419 4320,422 4416,423 4511,429 4606,435 4701,435 4796,442 4891,448 4987,459"/>
+                <TextEquiv>
+                    <Unicode>dalenn Ich hab noch set. Jn ken erb</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3312,601 3433,593 3482,628 3775,566 3938,623 4346,584 4344,549 4159,517 4043,544 3817,456 3654,488 3551,448 3484,507 3310,490"/>
+                <Baseline points="3323,554 3374,554 3425,555 3476,558 3528,562 3579,565 3630,566 3682,566 3733,566 3784,566 3836,566 3887,566 3938,566 3989,566 4041,566 4092,570 4143,573 4195,576 4246,578 4297,578 4349,578"/>
+                <TextEquiv>
+                    <Unicode>eit im Kan. en.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3140,827 3364,724 3536,722 3617,778 4511,734 4654,837 4863,778 4974,850 5112,786 5110,655 4873,593 4612,687 4462,628 4137,682 4048,621 3849,606 3709,687 3411,648 3270,554 3137,549"/>
+                <Baseline points="3150,704 3248,716 3346,721 3445,721 3543,721 3642,724 3740,727 3839,727 3937,722 4036,716 4134,721 4232,720 4331,716 4429,721 4528,723 4626,730 4725,733 4823,733 4922,743 5020,745 5119,745"/>
+                <TextEquiv>
+                    <Unicode>Sylan . H. hezor wird beglicklich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="3383,936 3460,919 3526,943 3622,919 3681,938 3723,909 3765,906 3802,923 3802,852 3696,857 3677,874 3637,842 3578,857 3482,827 3430,845 3388,827"/>
+                <Baseline points="3400,906 3425,909 3450,912 3476,910 3501,908 3526,907 3552,906 3577,906 3603,906 3628,906 3653,906 3679,906 3704,906 3729,904 3755,901 3780,898 3806,894"/>
+                <TextEquiv>
+                    <Unicode>tem.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

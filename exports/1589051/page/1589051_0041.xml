@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:39:00.226+02:00</Created>
+        <LastChange>2024-01-22T19:19:39.168+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125233" pageNr="41" tsid="145635149" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZKLMFXWQLFBYHGGUUPNQVLRP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GPRFZCEDTJCMHFUYMVNIIMDY" imageId="48550310"/>
+    </Metadata>
+    <Page imageFilename="1589051_0041.jpg" imageWidth="2872" imageHeight="3432">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790808468" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="638,416 638,878 2572,878 2572,416"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="653,608 1358,612 1632,538 1768,574 1815,538 2156,560 2247,512 2564,510 2568,426 2506,405 2366,460 2078,434 1873,496 1773,460 1553,505 1108,472 905,538 660,467"/>
+                <Baseline points="667,587 762,587 857,582 952,576 1048,575 1143,570 1238,564 1333,560 1429,555 1524,551 1619,545 1714,540 1810,534 1905,531 2000,527 2095,519 2191,519 2286,510 2381,503 2476,484 2572,480"/>
+                <TextEquiv>
+                    <Unicode>Stumme Felsen wie lieb ich euch, Aber die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="624,743 1039,762 1134,722 1653,724 1777,667 2070,693 2409,648 2413,569 2220,608 1711,593 1601,639 1508,598 1382,643 1172,608 965,662 843,622 629,646"/>
+                <Baseline points="638,707 731,714 825,712 918,707 1012,704 1106,701 1199,696 1293,692 1387,686 1480,680 1574,679 1667,673 1761,670 1855,662 1948,659 2042,651 2136,650 2229,642 2323,641 2417,635"/>
+                <TextEquiv>
+                    <Unicode>mit dem falschen Echo,wie möcht ich euch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="653,851 884,843 922,874 1020,846 1077,858 1108,831 1146,839 1151,767 901,758 655,793"/>
+                <Baseline points="665,844 690,846 716,846 741,845 767,844 792,844 818,842 844,841 869,841 895,840 920,839 946,836 971,832 997,832 1023,832 1048,832 1074,831 1099,830 1125,828 1151,826"/>
+                <TextEquiv>
+                    <Unicode>entfliehen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

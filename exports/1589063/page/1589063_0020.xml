@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:46</Creator>
+        <Created>2023-09-27T14:40:27.251+02:00</Created>
+        <LastChange>2024-01-22T20:46:14.013+01:00</LastChange>
+        <TranskribusMetadata docId="1589063" pageId="60125933" pageNr="20" tsid="145640893" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ESHWAPHCZMXBLPLAQSMVHQTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PMBZJGVZGVRDAENTKBQWPECW" imageId="48551010"/>
+    </Metadata>
+    <Page imageFilename="1589063_0020.jpg" imageWidth="5784" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788785918" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3212,1049 3212,1284 5272,1284 5272,1049"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3197,1208 3555,1126 3663,1164 3862,1131 4137,1211 4542,1177 4756,1239 5029,1203 5268,1239 5268,1023 5230,1012 4802,1090 4246,1018 4078,1074 3903,1020 3638,1072 3197,989"/>
+                <Baseline points="3212,1128 3315,1127 3418,1120 3521,1116 3624,1112 3727,1115 3830,1116 3933,1122 4036,1116 4139,1116 4242,1119 4345,1122 4448,1127 4551,1122 4654,1122 4757,1124 4860,1128 4963,1128 5066,1124 5169,1127 5272,1134"/>
+                <TextEquiv>
+                    <Unicode>ENicht trauer, nur anhänglicher sind. die Frauen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3380,1358 3506,1355 3550,1329 3607,1319 3630,1334 3733,1324 3730,1213 3679,1195 3653,1206 3571,1185 3501,1203 3460,1180 3377,1201"/>
+                <Baseline points="3391,1247 3417,1247 3444,1247 3470,1247 3497,1247 3524,1247 3550,1247 3577,1247 3603,1247 3630,1247 3657,1247 3683,1249 3710,1251 3737,1253"/>
+                <TextEquiv>
+                    <Unicode>ats nir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:53.411+02:00</Created>
+        <LastChange>2024-01-22T21:36:59.517+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127479" pageNr="119" tsid="145643116" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PDKJJHKMLVGFPRBTOIMCXDGU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XMVJFIAJNIMKZYFZODUVIIZK" imageId="48552556"/>
+    </Metadata>
+    <Page imageFilename="1589070_0119.jpg" imageWidth="2888" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787202643" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="477,451 477,1235 2556,1235 2556,451"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="468,546 621,512 884,575 949,530 1394,585 1791,556 2330,619 2405,601 2402,517 1966,502 1862,447 1438,478 1204,434 1050,476 767,416 689,452 463,434"/>
+                <Baseline points="480,510 576,510 673,514 769,517 866,521 963,524 1059,528 1156,531 1252,534 1349,539 1446,543 1542,548 1639,549 1735,552 1832,555 1929,559 2025,562 2122,567 2218,572 2315,573 2412,576"/>
+                <TextEquiv>
+                    <Unicode>Oft klammert sich der Erschreckte an den, vor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="463,666 2179,699 2306,754 2551,715 2551,668 2361,603 2051,650 1854,601 1752,637 1643,590 1534,629 1053,569 460,575"/>
+                <Baseline points="477,639 586,639 695,645 805,646 914,650 1024,656 1133,661 1242,662 1352,669 1461,671 1571,674 1680,677 1790,683 1899,686 2008,687 2118,694 2227,701 2337,704 2446,704 2556,713"/>
+                <TextEquiv>
+                    <Unicode>dem er erschrocken. So machen Nationen die Füh-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="463,796 1152,798 1310,853 1472,803 1638,848 1815,811 2142,842 2140,793 1888,718 1654,757 460,697"/>
+                <Baseline points="477,770 560,767 644,770 727,773 811,776 895,780 978,784 1062,788 1146,791 1229,790 1313,796 1397,799 1480,801 1564,803 1648,806 1731,809 1815,812 1899,814 1982,817 2066,821 2150,833"/>
+                <TextEquiv>
+                    <Unicode>ror der Revolutionen zu ihren Fürsten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2015,1108 2109,1092 2166,1123 2189,1105 2439,1123 2460,1115 2457,978 2413,975 2348,1009 2262,980 2192,1017 2098,985 2012,1001"/>
+                <Baseline points="2030,1098 2055,1096 2081,1095 2106,1097 2132,1098 2158,1098 2183,1098 2209,1098 2235,1100 2260,1101 2286,1101 2312,1101 2337,1101 2363,1100 2389,1098 2414,1100 2440,1102 2466,1104"/>
+                <TextEquiv>
+                    <Unicode>dlia trort.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="2228,1222 2293,1217 2332,1238 2358,1230 2389,1251 2402,1243 2428,1261 2462,1243 2483,1258 2512,1240 2538,1243 2538,1121 2496,1131 2447,1115 2369,1128 2345,1115 2228,1149"/>
+                <Baseline points="2242,1209 2267,1207 2292,1206 2317,1208 2342,1209 2367,1209 2393,1209 2418,1209 2443,1209 2468,1209 2493,1209 2518,1209 2544,1209"/>
+                <TextEquiv>
+                    <Unicode>171 86</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

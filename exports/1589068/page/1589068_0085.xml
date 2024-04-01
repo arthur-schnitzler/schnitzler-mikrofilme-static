@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:56.206+02:00</Created>
+        <LastChange>2024-01-22T21:15:20.656+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126915" pageNr="85" tsid="145642251" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BZCXZAAXXEILKMXWDGPHDQKM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=THXRFOKDOJXZQDEMKQIULOTV" imageId="48551992"/>
+    </Metadata>
+    <Page imageFilename="1589068_0085.jpg" imageWidth="2872" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787600966" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="564,500 564,863 2415,863 2415,500"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="551,569 816,599 993,562 1373,613 1520,574 1668,608 1774,569 2016,610 2329,581 2329,477 2278,458 1762,458 1601,507 1442,456 1262,514 551,491"/>
+                <Baseline points="564,570 652,564 741,561 829,564 918,567 1006,567 1095,564 1183,566 1272,564 1360,567 1449,565 1538,564 1626,565 1715,564 1803,567 1892,564 1980,562 2069,561 2157,561 2246,563 2335,570"/>
+                <TextEquiv>
+                    <Unicode>Krankheit entwürdigend und vereinsamend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="560,719 1186,765 1700,726 1820,788 2023,710 2412,749 2384,613 2324,645 2228,606 2085,640 1732,606 1610,645 1131,601 915,652 560,627"/>
+                <Baseline points="573,692 665,692 757,695 849,695 941,694 1033,692 1125,695 1217,694 1309,694 1401,695 1494,695 1586,692 1678,692 1770,692 1862,692 1954,692 2046,698 2138,692 2230,695 2322,692 2415,692"/>
+                <TextEquiv>
+                    <Unicode>Anfangs ein Frendes, dann besitzergreifend-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="560,845 728,859 781,827 820,845 924,829 988,859 1085,827 1145,871 1191,869 1191,776 1138,758 1021,779 949,753 894,779 839,740 560,769"/>
+                <Baseline points="573,821 604,823 635,823 666,821 697,821 728,822 759,824 790,821 821,823 852,824 883,824 914,824 945,824 976,824 1007,824 1038,824 1069,824 1100,822 1131,822 1162,826 1194,833"/>
+                <TextEquiv>
+                    <Unicode>umschliessend.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2469,201 2469,357 2675,357 2675,201"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2456,341 2497,336 2506,346 2530,329 2543,336 2578,306 2601,325 2638,302 2672,302 2675,187 2601,191 2564,214 2536,205 2516,212 2500,198 2483,210 2456,200"/>
+                <Baseline points="2469,307 2494,304 2520,302 2546,302 2572,305 2597,306 2623,304 2649,303 2675,301"/>
+                <TextEquiv>
+                    <Unicode>1811</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

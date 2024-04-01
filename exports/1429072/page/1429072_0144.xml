@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_20:00</Creator>
+        <Created>2023-05-10T15:30:11.664+02:00</Created>
+        <LastChange>2023-08-14T20:00:13.326+02:00</LastChange>
+        <TranskribusMetadata docId="1429072" pageId="55436905" pageNr="144" tsid="132824095" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IUQWHSWETGJLZADYPLXFAKTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LOVAQAQAOWGVWAWVKQXIPTJZ" imageId="44710894"/>
+    </Metadata>
+    <Page imageFilename="1429072_0144.jpg" imageWidth="3576" imageHeight="5240">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711797782071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="566,480 3046,480 3046,1858 566,1858"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2837,587 2884,599 2909,590 2914,596 2939,580 2963,596 3000,592 3013,608 3038,605 3045,449 3013,447 2997,436 2968,454 2916,465 2896,465 2869,449 2842,463"/>
+                <Baseline points="2849,536 2938,542 3028,530 3046,536"/>
+                <TextEquiv>
+                    <Unicode>—27—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="551,1172 1123,1195 1470,1129 1667,1186 1873,1118 2146,1166 2369,1116 2372,1014 2042,1053 1294,978 1068,1071 556,1046"/>
+                <Baseline points="566,1144 584,1144 673,1144 763,1144 852,1138 941,1138 1031,1144 1120,1138 1210,1138 1299,1132 1388,1126 1478,1126 1567,1120 1657,1120 1746,1120 1836,1120 1925,1120 2014,1114 2104,1114 2193,1108 2283,1102 2372,1102"/>
+                <TextEquiv>
+                    <Unicode>of lamp-light streams into the garden)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="788,1906 888,1866 1001,1868 1048,1902 1202,1866 1405,1897 1547,1836 1624,1879 1692,1870 1674,1719 1337,1728 1123,1669 793,1687"/>
+                <Baseline points="804,1848 894,1836 983,1830 1073,1830 1162,1830 1251,1824 1341,1830 1430,1824 1520,1824 1609,1824 1698,1824"/>
+                <TextEquiv>
+                    <Unicode>THE CURTAIN FALLS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

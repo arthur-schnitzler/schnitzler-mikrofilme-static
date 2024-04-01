@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:24</Creator>
+        <Created>2023-09-27T14:40:52.713+02:00</Created>
+        <LastChange>2024-01-22T21:24:59.085+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126645" pageNr="110" tsid="145642613" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TNCRZSENVRQOFEGAWOAVCPIG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BCOBDZDECMXTZAAUQFCLYYWX" imageId="48551722"/>
+    </Metadata>
+    <Page imageFilename="1589064_0110.jpg" imageWidth="2872" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788582460" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="572,548 572,2581 2449,2581 2449,548"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="573,629 1399,620 1612,662 1701,627 1750,660 1769,529 1109,559 1039,519 882,569 718,491 571,526"/>
+                <Baseline points="587,608 646,608 706,608 765,608 825,608 884,610 944,611 1003,611 1063,611 1122,614 1182,613 1242,613 1301,617 1361,614 1420,614 1480,614 1539,616 1599,616 1658,614 1718,618 1778,629"/>
+                <TextEquiv>
+                    <Unicode>Zu den Methoden der Kritik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="566,749 1041,807 1711,775 1818,821 2129,760 2284,840 2420,812 2417,667 2380,662 2314,702 2073,655 1837,702 1397,618 1341,658 976,615 826,672 566,646"/>
+                <Baseline points="578,734 670,739 762,739 854,739 946,739 1039,741 1131,742 1223,740 1315,744 1407,742 1500,747 1592,750 1684,749 1776,749 1868,747 1961,748 2053,748 2145,748 2237,751 2329,748 2422,751"/>
+                <TextEquiv>
+                    <Unicode>Ein Lobidas wan oinral Eespendet, in irgend</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="559,878 721,913 856,868 1090,936 1357,880 1594,915 1682,901 1680,828 1257,798 1107,833 934,770 852,821 672,789 557,831"/>
+                <Baseline points="572,865 627,865 683,865 739,865 795,868 851,868 906,868 962,868 1018,868 1074,869 1130,871 1185,871 1241,871 1297,871 1353,871 1409,871 1464,874 1520,874 1576,874 1632,878 1688,892"/>
+                <TextEquiv>
+                    <Unicode>einer Weise zurücknehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="566,1037 1055,1009 1596,1081 1872,1006 2167,1062 2443,1048 2443,889 2307,840 2136,950 566,929"/>
+                <Baseline points="578,999 671,993 765,997 858,999 952,1002 1045,1001 1139,998 1232,999 1326,999 1419,999 1513,1002 1607,1002 1700,1002 1794,1005 1887,1008 1981,1005 2074,1006 2168,1008 2261,1008 2355,1008 2449,1008"/>
+                <TextEquiv>
+                    <Unicode>so tun,als wenn das frühere Lob eigentlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="569,1163 779,1200 854,1161 1788,1182 1825,1104 1654,1060 566,1051"/>
+                <Baseline points="581,1121 643,1122 706,1124 768,1127 831,1127 893,1127 956,1127 1018,1127 1081,1127 1143,1130 1206,1130 1269,1132 1331,1130 1394,1130 1456,1130 1519,1130 1581,1131 1644,1133 1706,1130 1769,1138 1832,1142"/>
+                <TextEquiv>
+                    <Unicode>ein Anderer gespendet hätte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1811,2551 1914,2576 1928,2560 1984,2567 1982,2441 1928,2457 1881,2417 1849,2417 1809,2398"/>
+                <Baseline points="1823,2548 1850,2550 1878,2551 1906,2551 1934,2551 1962,2551 1990,2551"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

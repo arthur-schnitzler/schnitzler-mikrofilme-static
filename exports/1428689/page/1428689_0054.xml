@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:59</Creator>
+        <Created>2023-05-10T14:52:09.330+02:00</Created>
+        <LastChange>2023-08-14T22:59:12.884+02:00</LastChange>
+        <TranskribusMetadata docId="1428689" pageId="55427097" pageNr="54" tsid="132829350" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=QCWFPOUACFTLXVCNBRXHETAS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LUFMKAIQBRUMVWSGBPUISFXJ" imageId="44701172"/>
+    </Metadata>
+    <Page imageFilename="1428689_0054.jpg" imageWidth="3576" imageHeight="4248">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711809835607" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="770,693 2483,693 2483,1293 770,1293"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="757,810 810,808 820,799 899,820 924,814 962,776 996,789 1022,784 1026,661 1003,657 994,666 931,628 895,647 867,655 846,649 808,666 761,659"/>
+                <Baseline points="770,755 806,749 850,746 895,746 940,743 985,743 1029,743"/>
+                <TextEquiv>
+                    <Unicode>1886.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="774,975 1177,1009 1401,956 1747,937 1849,969 1967,943 1972,844 1857,793 1603,871 1321,878 1213,842 1117,888 1024,863 776,909"/>
+                <Baseline points="785,973 809,973 853,970 898,970 943,967 988,967 1032,964 1077,961 1122,961 1167,958 1212,955 1256,955 1301,952 1346,949 1391,946 1435,946 1480,940 1525,940 1570,937 1615,937 1659,934 1704,931 1749,928 1794,928 1838,928 1883,925 1928,925 1973,928"/>
+                <TextEquiv>
+                    <Unicode>19.12. Hochzeit und Tanz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="776,1151 2389,1105 2476,1081 2480,984 2003,948 1637,1024 1081,996 780,1060"/>
+                <Baseline points="788,1128 826,1125 871,1125 916,1125 961,1122 1006,1119 1050,1116 1095,1113 1140,1113 1185,1107 1229,1107 1274,1104 1319,1104 1364,1101 1409,1098 1453,1098 1498,1095 1543,1095 1588,1092 1632,1092 1677,1086 1722,1086 1767,1086 1812,1083 1856,1080 1901,1077 1946,1074 1991,1071 2035,1068 2080,1065 2125,1065 2170,1065 2215,1062 2259,1062 2304,1059 2349,1056 2394,1056 2438,1056 2483,1056"/>
+                <TextEquiv>
+                    <Unicode>22.12. Th.a.d.Wien, Müller: Hofnarr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="774,1297 1003,1310 1094,1272 1261,1306 1615,1251 1874,1285 2114,1244 2118,1153 1779,1194 1692,1153 1486,1196 1211,1166 778,1234"/>
+                <Baseline points="788,1283 820,1283 865,1280 910,1280 955,1280 1000,1277 1044,1274 1089,1271 1134,1268 1179,1268 1223,1265 1268,1262 1313,1262 1358,1259 1403,1259 1447,1256 1492,1253 1537,1253 1582,1250 1626,1250 1671,1247 1716,1247 1761,1247 1806,1241 1850,1241 1895,1238 1940,1235 1985,1229 2029,1226 2074,1223 2119,1229"/>
+                <TextEquiv>
+                    <Unicode>25.12. Carlth. X? Josephine.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

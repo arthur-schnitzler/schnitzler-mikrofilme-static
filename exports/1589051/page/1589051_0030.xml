@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:59.243+02:00</Created>
+        <LastChange>2024-01-22T19:19:36.860+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125173" pageNr="30" tsid="145635138" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CRDWZYEMFEMCWZPUSURASLTR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHEAGZURQRZJRPDVMIYBKHGS" imageId="48550250"/>
+    </Metadata>
+    <Page imageFilename="1589051_0030.jpg" imageWidth="2872" imageHeight="3512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790794874" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="409,567 409,936 1206,936 1206,567"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="448,648 911,626 1000,657 1204,646 1204,593 1135,576 880,597 668,565 573,597 448,576"/>
+                <Baseline points="453,633 490,633 528,631 565,631 603,633 641,633 678,633 716,633 754,633 791,633 829,634 867,635 904,633 942,636 980,636 1017,634 1055,634 1093,636 1130,637 1168,645 1206,648"/>
+                <TextEquiv>
+                    <Unicode>Verschäumt- Freud",</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="404,765 760,807 913,766 1004,794 1108,777 1108,727 1045,711 957,727 884,705 766,734 678,708 404,717"/>
+                <Baseline points="409,764 444,762 479,763 514,764 549,764 584,764 619,764 654,764 689,764 724,764 759,766 794,765 829,764 864,764 899,764 934,764 969,766 1004,768 1039,770 1074,773 1110,770"/>
+                <TextEquiv>
+                    <Unicode>Varträuntes Leid,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="404,904 679,921 851,904 1004,942 1012,861 903,843 788,865 623,829 541,859 442,838 403,856"/>
+                <Baseline points="409,895 439,895 469,896 499,898 530,898 560,897 590,895 621,897 651,898 681,898 712,896 742,896 772,898 802,900 833,902 863,904 893,904 924,901 954,899 984,903 1015,904"/>
+                <TextEquiv>
+                    <Unicode>Versäumt- Zeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

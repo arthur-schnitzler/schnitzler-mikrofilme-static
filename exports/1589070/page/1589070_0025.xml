@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:43.026+02:00</Created>
+        <LastChange>2024-01-22T21:36:41.971+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127146" pageNr="25" tsid="145643017" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EAUULWVBPICFGFNYMEHUVLGR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZABECQPONISGOXZXWTDHGITQ" imageId="48552223"/>
+    </Metadata>
+    <Page imageFilename="1589070_0025.jpg" imageWidth="2968" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787062634" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="713,751 713,1236 2498,1236 2498,751"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="717,857 884,877 953,842 1114,884 1179,848 1357,895 1587,864 1663,906 2058,851 2192,906 2340,891 2340,772 1933,786 1536,714 1415,775 1284,741 985,766 913,726 717,750"/>
+                <Baseline points="728,814 808,815 889,814 970,814 1051,818 1132,820 1213,820 1294,822 1375,822 1456,821 1537,823 1617,823 1698,821 1779,823 1860,826 1941,826 2022,826 2103,828 2184,832 2265,832 2346,829"/>
+                <TextEquiv>
+                    <Unicode>In der betrachtung triumt der menschliche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="701,991 996,1027 1125,985 1770,998 1822,1034 2237,982 2436,1022 2491,1007 2491,909 699,875"/>
+                <Baseline points="713,943 802,946 891,946 980,946 1070,949 1159,952 1248,949 1337,952 1427,952 1516,952 1605,952 1694,955 1784,955 1873,952 1962,955 2051,957 2141,958 2230,961 2319,961 2408,961 2498,955"/>
+                <TextEquiv>
+                    <Unicode>Geist, in der Erkenntnis oder dem, was er defür</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="708,1170 866,1114 1255,1161 1871,1089 2404,1118 2404,1043 2217,1011 2123,1047 1909,1007 1790,1043 1665,1009 1317,1029 1246,982 1000,1029 886,985 708,1014"/>
+                <Baseline points="719,1071 803,1074 888,1074 972,1079 1057,1080 1142,1078 1226,1079 1311,1080 1395,1083 1480,1086 1565,1083 1649,1084 1734,1083 1818,1083 1903,1083 1988,1086 2072,1087 2157,1086 2241,1086 2326,1086 2411,1086"/>
+                <TextEquiv>
+                    <Unicode>hait, schme er und erst im Willen wird er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="717,1259 748,1250 804,1273 822,1268 857,1290 893,1268 920,1275 918,1152 886,1152 851,1123 842,1132 815,1130 770,1161 717,1161"/>
+                <Baseline points="728,1202 756,1202 784,1203 812,1205 840,1205 868,1205 896,1205 925,1202"/>
+                <TextEquiv>
+                    <Unicode>mecke</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

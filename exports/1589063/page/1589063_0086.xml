@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:46</Creator>
+        <Created>2023-09-27T14:40:36.133+02:00</Created>
+        <LastChange>2024-01-22T20:46:26.147+01:00</LastChange>
+        <TranskribusMetadata docId="1589063" pageId="60126309" pageNr="86" tsid="145640963" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FGDQTMUUFTVTEJTUBEMDMHBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LATDZNSGQQPUDIABZSNVFDNP" imageId="48551386"/>
+    </Metadata>
+    <Page imageFilename="1589063_0086.jpg" imageWidth="5688" imageHeight="3720">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788980887" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="3439,504 3439,878 5272,878 5272,504"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="3427,596 5234,603 5268,486 4684,518 4585,486 4427,527 4051,454 3851,507 3762,477 3684,527 3427,511"/>
+                <Baseline points="3439,585 3530,579 3622,579 3713,579 3805,579 3897,579 3988,583 4080,581 4172,579 4263,579 4355,574 4447,578 4538,574 4630,573 4722,573 4813,573 4905,573 4997,573 5088,573 5180,567 5272,567"/>
+                <TextEquiv>
+                    <Unicode>Den Staat aus seiner vertrakten Anonymität</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="3439,761 4209,711 4360,754 4530,715 4656,750 4833,708 5218,727 5218,651 4883,621 4697,651 4502,617 4200,683 3439,626"/>
+                <Baseline points="3451,710 3539,715 3628,710 3716,710 3805,710 3894,710 3982,710 4071,710 4160,710 4248,709 4337,704 4426,705 4514,710 4603,710 4692,710 4780,704 4869,704 4958,704 5046,704 5135,698 5224,704"/>
+                <TextEquiv>
+                    <Unicode>heraustreiben,was nur durch Revolutionen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="3427,889 3748,894 3925,848 4131,889 4223,853 4484,867 4484,757 4390,740 4149,793 3964,747 3833,789 3675,736 3427,766"/>
+                <Baseline points="3439,847 3491,843 3544,841 3596,841 3649,841 3701,841 3754,841 3806,841 3859,841 3911,841 3964,841 4017,841 4069,841 4122,841 4174,841 4227,841 4279,841 4332,841 4384,841 4437,842 4490,847"/>
+                <TextEquiv>
+                    <Unicode>und dergleichen gelingt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

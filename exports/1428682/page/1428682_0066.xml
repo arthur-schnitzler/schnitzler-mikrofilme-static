@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:16</Creator>
+        <Created>2023-05-10T14:49:52.944+02:00</Created>
+        <LastChange>2023-08-14T22:16:21.955+02:00</LastChange>
+        <TranskribusMetadata docId="1428682" pageId="55426668" pageNr="66" tsid="132827880" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WZOHULBTXYGIICJOVHFBFTAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QSSXSXCHDHWYZWBWKEQJJJGL" imageId="44700744"/>
+    </Metadata>
+    <Page imageFilename="1428682_0066.jpg" imageWidth="6632" imageHeight="4328">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810584652" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="4065,696 6381,696 6381,1603 4065,1603"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="4063,830 5961,769 6175,836 6373,795 6376,663 4065,752"/>
+                <Baseline points="4077,805 4142,805 4232,811 4322,805 4411,805 4501,799 4590,793 4680,793 4769,793 4859,787 4948,787 5038,782 5127,782 5217,782 5307,776 5396,770 5486,770 5575,770 5665,764 5754,764 5844,758 5933,758 6023,752 6112,752 6202,746 6292,746 6381,752"/>
+                <TextEquiv>
+                    <Unicode>6.9. Cellerjna, Chiavenna, 7. 9.Mailand.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="4054,994 5760,980 5967,959 5970,879 5515,836 5385,899 5232,844 4555,925 4057,830"/>
+                <Baseline points="4071,973 4095,973 4184,973 4274,961 4363,967 4453,961 4542,961 4632,961 4721,961 4811,955 4901,949 4990,943 5080,943 5169,943 5259,937 5348,937 5438,931 5527,931 5617,931 5706,925 5796,925 5886,925 5975,925"/>
+                <TextEquiv>
+                    <Unicode>8.9. Genua, Forte de Marmi, dort bis 14.9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="4063,1164 5990,1132 6143,1098 6146,1026 5258,991 5054,1063 4613,974 4063,1072"/>
+                <Baseline points="4077,1128 4095,1122 4184,1128 4274,1122 4363,1122 4453,1116 4542,1116 4632,1116 4721,1110 4811,1110 4901,1104 4990,1104 5080,1098 5169,1098 5259,1098 5348,1092 5438,1092 5527,1086 5617,1086 5706,1086 5796,1080 5886,1080 5975,1074 6065,1074 6154,1074"/>
+                <TextEquiv>
+                    <Unicode>14.-16.9. Florenz.17.-20.9,Venedig. 21.9 9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="4048,1334 4212,1311 4382,1337 4650,1297 4858,1322 4861,1144 4544,1230 4449,1204 4385,1248 4184,1181 4048,1242"/>
+                <Baseline points="4065,1277 4148,1283 4238,1277 4328,1277 4417,1277 4507,1271 4596,1271 4686,1271 4775,1265 4865,1265"/>
+                <TextEquiv>
+                    <Unicode>wieder in Wien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="4063,1634 4198,1665 4503,1585 4604,1585 4694,1634 4898,1614 4959,1593 4962,1458 4869,1481 4774,1438 4717,1478 4558,1498 4509,1467 4287,1464 4065,1516"/>
+                <Baseline points="4077,1587 4160,1593 4250,1587 4339,1587 4429,1587 4519,1581 4608,1575 4698,1575 4787,1575 4877,1575 4966,1570"/>
+                <TextEquiv>
+                    <Unicode>12.-20.10. Berlin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

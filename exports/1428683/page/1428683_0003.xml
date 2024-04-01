@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:21</Creator>
+        <Created>2023-05-10T14:50:35.584+02:00</Created>
+        <LastChange>2023-08-14T22:21:45.335+02:00</LastChange>
+        <TranskribusMetadata docId="1428683" pageId="55426259" pageNr="3" tsid="132828219" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=CHIYSGRCFHBKCGORKOVSEFCX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWZCNRXOIWUYDSBBXYCYZSMY" imageId="44700336"/>
+    </Metadata>
+    <Page imageFilename="1428683_0003.jpg" imageWidth="3784" imageHeight="4616">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810295973" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1525,630 2149,630 2149,792 1525,792"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1519,713 1544,717 1588,684 1600,698 1667,710 1719,673 1783,704 1849,656 1881,651 1893,460 1863,448 1826,464 1664,607 1628,607 1574,655 1522,662"/>
+                <Baseline points="1525,704 1567,698 1612,698 1657,695 1701,689 1746,689 1791,686 1836,683 1881,680"/>
+                <TextEquiv>
+                    <Unicode>N.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1929,689 1938,687 1954,698 1961,694 1973,698 1978,693 1998,694 2013,680 2029,696 2038,694 2037,540 2021,541 2007,527 1942,591 1928,591"/>
+                <Baseline points="1934,686 1979,692 2024,689 2039,686"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2041,781 2049,780 2053,784 2073,781 2077,785 2105,785 2108,781 2120,789 2147,783 2144,742 2038,736"/>
+                <Baseline points="2045,776 2090,779 2134,782 2149,782"/>
+                <TextEquiv>
+                    <Unicode>ouvoir</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1695,4371 2481,4371 2481,4488 1695,4488"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1690,4425 2097,4469 2480,4476 2477,4445 2130,4427 2093,4401 2056,4421 1689,4401"/>
+                <Baseline points="1695,4421 1740,4427 1785,4436 1830,4436 1875,4439 1919,4439 1964,4442 2009,4448 2054,4454 2087,4454 2098,4457 2143,4460 2188,4460 2233,4463 2278,4463 2322,4466 2367,4472 2412,4472 2457,4478 2481,4478"/>
+                <TextEquiv>
+                    <Unicode>cœur. — Il fait était</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

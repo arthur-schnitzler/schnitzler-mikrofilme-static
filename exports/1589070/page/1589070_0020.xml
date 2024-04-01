@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:42.206+02:00</Created>
+        <LastChange>2024-01-22T21:36:41.062+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127131" pageNr="20" tsid="145643012" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OFWNQSXIWEJYWNEQFZPCGRNX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PIRWVRHBPYZWNIKBGUYTGCWR" imageId="48552208"/>
+    </Metadata>
+    <Page imageFilename="1589070_0020.jpg" imageWidth="2984" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787054282" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="698,634 698,1036 2465,1036 2465,634"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="692,796 1421,807 1777,778 1892,716 1965,749 2062,703 2298,729 2301,628 2259,614 1894,652 1532,555 1220,661 1081,636 807,703 696,665"/>
+                <Baseline points="707,746 786,749 866,746 946,744 1026,739 1106,736 1186,734 1265,731 1345,728 1425,722 1505,722 1585,722 1665,717 1745,716 1824,710 1904,704 1984,704 2064,702 2144,697 2224,695 2304,695"/>
+                <TextEquiv>
+                    <Unicode>in jeden befühl istfeuelste, was unser Ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="683,915 908,944 1304,908 1445,972 1757,895 2042,948 2197,897 2455,930 2462,762 2168,798 1702,765 1392,813 1216,778 888,827 687,796"/>
+                <Baseline points="698,871 786,874 874,871 963,868 1051,863 1139,865 1228,864 1316,855 1404,854 1493,847 1581,846 1669,844 1758,841 1846,840 1934,835 2023,837 2111,828 2199,826 2288,823 2376,817 2465,814"/>
+                <TextEquiv>
+                    <Unicode>in jeden Urtell des Verrtändigete was unser G</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="696,1054 796,1078 913,1059 1067,1081 1151,1050 1182,1078 1231,1052 1269,1072 1271,959 1220,964 1165,915 1123,941 855,930 698,957"/>
+                <Baseline points="710,1005 738,1005 766,1003 795,1002 823,1000 851,1000 880,1000 908,998 936,997 965,997 993,999 1021,998 1050,994 1078,994 1106,993 1135,992 1163,991 1191,991 1220,993 1248,993 1277,991"/>
+                <TextEquiv>
+                    <Unicode>fühl dazu tur.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

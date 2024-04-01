@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_16:23</Creator>
+        <Created>2023-09-27T14:32:13.754+02:00</Created>
+        <LastChange>2024-01-22T16:23:57.879+01:00</LastChange>
+        <TranskribusMetadata docId="1589028" pageId="60121645" pageNr="12" tsid="145623471" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YMSYRMCKEVGUQYNKACSLLFVA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WXZPNFSJGJMJRZDHKCLQFSWW" imageId="48546724"/>
+    </Metadata>
+    <Page imageFilename="1589028_0012.jpg" imageWidth="2851" imageHeight="3880">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795507578" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="388,590 388,867 2247,867 2247,590"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="465,717 826,677 1009,735 1220,695 1317,742 1532,669 1707,715 1981,660 2245,722 2245,591 2052,549 1791,547 1570,626 1271,569 1071,633 846,604 733,646 611,589 465,649"/>
+                <Baseline points="477,680 565,672 654,674 742,674 831,672 919,677 1008,680 1096,674 1185,674 1273,674 1362,673 1450,668 1539,667 1627,668 1716,665 1804,659 1893,660 1981,662 2070,668 2158,671 2247,677"/>
+                <TextEquiv>
+                    <Unicode>de ertert mart de mh meinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="945,916 1054,923 1386,841 1698,897 1696,759 1645,773 1570,742 1523,766 1459,731 1344,746 1277,722 1129,768 1036,724 943,739"/>
+                <Baseline points="958,814 995,811 1032,813 1069,815 1107,817 1144,817 1181,817 1219,817 1256,815 1293,814 1331,814 1368,814 1405,814 1442,816 1480,819 1517,819 1554,817 1592,818 1629,823 1666,830 1704,832"/>
+                <TextEquiv>
+                    <Unicode>selt 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="374,921 467,956 522,939 576,961 657,956 702,934 731,959 826,959 828,753 781,739 755,759 726,750 688,775 576,788 505,757 467,784 376,784"/>
+                <Baseline points="388,823 414,821 440,819 466,818 492,818 518,820 544,820 570,820 596,818 623,816 649,814 675,814 701,814 727,816 753,817 779,817 805,816 832,814"/>
+                <TextEquiv>
+                    <Unicode>muit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

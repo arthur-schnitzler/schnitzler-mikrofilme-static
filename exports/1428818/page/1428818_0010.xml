@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_03:29</Creator>
+        <Created>2023-05-10T15:10:24.115+02:00</Created>
+        <LastChange>2023-08-15T03:29:53.286+02:00</LastChange>
+        <TranskribusMetadata docId="1428818" pageId="55431002" pageNr="10" tsid="132838288" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=OHAWAGRYGCJKYIKTRRDPHUNL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FHIEGEBDEIMEYOMNLOVCJROM" imageId="44705074"/>
+    </Metadata>
+    <Page imageFilename="1428818_0010.jpg" imageWidth="3800" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711804140289" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="659,326 2749,326 2749,908 659,908"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="647,428 672,433 715,397 742,399 803,440 834,442 877,413 985,417 985,320 927,313 911,327 868,320 837,334 801,316 778,329 755,313 746,320 695,277 674,289 645,284"/>
+                <Baseline points="659,382 704,382 749,376 794,376 838,376 883,376 928,379 973,385 991,385"/>
+                <TextEquiv>
+                    <Unicode>Nr. et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="934,737 2747,755 2747,645 1863,681 1669,607 1245,656 934,618"/>
+                <Baseline points="946,704 991,701 1036,701 1080,707 1125,707 1170,707 1215,707 1259,710 1304,710 1349,710 1394,710 1439,710 1483,710 1528,713 1573,716 1618,716 1663,716 1707,719 1752,716 1797,716 1842,716 1886,716 1931,716 1976,716 2021,719 2066,722 2110,719 2155,719 2200,725 2245,719 2290,719 2334,719 2379,719 2424,719 2469,722 2513,728 2558,725 2603,725 2648,728 2693,728 2737,731 2749,731"/>
+                <TextEquiv>
+                    <Unicode>Er wartet auf den vazierenden Gott.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="936,870 1421,877 1524,920 1666,879 2363,911 2361,834 2088,767 1996,821 936,801"/>
+                <Baseline points="949,868 994,871 1039,871 1083,871 1128,874 1173,874 1218,874 1262,874 1307,874 1352,874 1397,877 1442,877 1486,877 1531,877 1576,880 1621,880 1666,880 1710,883 1755,883 1800,883 1845,883 1889,883 1934,883 1979,886 2024,886 2069,886 2113,892 2158,889 2203,892 2248,895 2292,898 2337,898 2370,898"/>
+                <TextEquiv>
+                    <Unicode>Deutsche Wochenschrift 1887</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

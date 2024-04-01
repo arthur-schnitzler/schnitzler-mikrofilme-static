@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_23:03</Creator>
+        <Created>2023-05-10T14:57:52.569+02:00</Created>
+        <LastChange>2023-08-14T23:03:07.848+02:00</LastChange>
+        <TranskribusMetadata docId="1428694" pageId="55427540" pageNr="3" tsid="132829468" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WGTSQASPJLYLKXTXWTOCLZAO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VARRTLGQITBFUGYJEIXDGRWF" imageId="44701613"/>
+    </Metadata>
+    <Page imageFilename="1428694_0003.jpg" imageWidth="1624" imageHeight="2056">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711808688018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="494,578 1314,578 1314,1464 494,1464"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1136,637 1155,637 1166,624 1175,627 1181,624 1195,636 1218,634 1216,601 1205,602 1178,578 1170,587 1165,585 1158,593 1133,590"/>
+                <Baseline points="1140,628 1170,632 1200,634 1220,632"/>
+                <TextEquiv>
+                    <Unicode>and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1259,634 1276,634 1283,637 1288,636 1294,639 1312,638 1310,621 1292,622 1275,617 1258,617"/>
+                <Baseline points="1264,632 1294,638 1314,636"/>
+                <TextEquiv>
+                    <Unicode>(V.3.) og Kosten aus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="851,654 881,652 892,664 926,640 944,661 963,665 987,645 1029,636 1062,642 1071,561 993,619 964,601 949,603 920,569 867,612 855,612"/>
+                <Baseline points="856,658 884,656 914,654 944,650 974,646 1004,644 1034,640 1064,638"/>
+                <TextEquiv>
+                    <Unicode>R</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="489,1029 522,1006 549,1018 578,989 599,1003 617,992 643,1018 652,1009 672,1020 691,1003 732,1026 753,1016 776,1026 803,1001 836,1015 835,945 804,924 728,928 704,951 678,933 635,976 562,982 507,939 488,946"/>
+                <Baseline points="494,1014 516,1012 546,1010 576,1008 606,1006 636,1008 666,1010 696,1012 726,1014 756,1012 786,1012 790,1012 820,1012 838,1012"/>
+                <TextEquiv>
+                    <Unicode>R.M.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="514,1413 529,1412 556,1440 560,1437 564,1442 571,1443 575,1370 568,1370 565,1373 563,1371 560,1374 556,1370 546,1379 540,1377 534,1381 529,1380 521,1388 515,1388"/>
+                <Baseline points="518,1436 544,1436 574,1434"/>
+                <TextEquiv>
+                    <Unicode>E</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="597,1456 621,1464 636,1447 671,1478 696,1455 705,1461 730,1461 724,1369 715,1371 697,1390 672,1370 658,1379 639,1369 631,1377 625,1372 604,1396 594,1398"/>
+                <Baseline points="602,1446 632,1448 662,1450 692,1452 722,1454 731,1453"/>
+                <TextEquiv>
+                    <Unicode>4</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

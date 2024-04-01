@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:47</Creator>
+        <Created>2023-09-27T14:42:20.347+02:00</Created>
+        <LastChange>2024-01-22T21:47:01.180+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127392" pageNr="156" tsid="145643823" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PCXUIXRBXUIJBQGKDODSGRMG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SELXMOIHKKQUQEUIPGAXUTDZ" imageId="48552469"/>
+    </Metadata>
+    <Page imageFilename="1589069_0156.jpg" imageWidth="2808" imageHeight="3384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787457829" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="593,508 593,863 2542,863 2542,508"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="592,611 1224,573 1550,609 1593,573 1650,618 2416,642 2439,468 2349,506 1655,466 1343,521 1034,478 875,518 754,459 592,483"/>
+                <Baseline points="605,566 697,569 789,569 881,569 973,569 1065,569 1157,570 1249,569 1341,568 1433,566 1525,565 1617,564 1709,562 1801,563 1893,564 1985,562 2077,558 2169,562 2261,561 2353,566 2446,558"/>
+                <TextEquiv>
+                    <Unicode>Ee ist ziemlich geschmacklos von der Treunosig-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="580,711 1966,737 2411,711 2449,654 1560,647 1291,604 1079,654 758,609 582,651"/>
+                <Baseline points="593,707 690,704 788,704 886,704 984,704 1082,699 1180,701 1277,704 1375,704 1473,704 1571,703 1669,700 1767,701 1864,701 1962,701 2060,698 2158,698 2256,697 2354,695 2452,689"/>
+                <TextEquiv>
+                    <Unicode>keit seiner Geliebten zu sprechen. Aber takt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2254,766 2335,785 2375,773 2387,785 2408,775 2480,780 2501,794 2537,787 2537,716 2468,723 2454,735 2380,706 2339,706 2330,718 2251,708"/>
+                <Baseline points="2267,763 2292,763 2317,763 2342,765 2367,765 2392,764 2417,764 2442,766 2467,767 2492,769 2517,769 2542,766"/>
+                <TextEquiv>
+                    <Unicode>ritut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="590,889 1355,842 1407,882 1533,854 1966,925 2049,882 2496,877 2496,777 2078,754 1980,792 1717,758 1465,796 889,713 590,780"/>
+                <Baseline points="602,841 697,839 792,838 887,846 982,844 1077,841 1172,838 1267,835 1362,837 1457,836 1552,837 1647,835 1742,838 1837,835 1932,835 2027,835 2122,835 2217,835 2312,835 2407,835 2503,838"/>
+                <TextEquiv>
+                    <Unicode>loser ss ist es ven ihref Treue zu reden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

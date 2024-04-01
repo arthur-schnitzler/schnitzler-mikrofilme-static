@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:57.873+02:00</Created>
+        <LastChange>2024-01-22T19:19:34.843+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125103" pageNr="17" tsid="145635125" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=AEAGNKKBQETOPLOOTYFYNFVZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FBSCUIMXZPZYVXXSUGGZVBZA" imageId="48550180"/>
+    </Metadata>
+    <Page imageFilename="1589051_0017.jpg" imageWidth="2856" imageHeight="3448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790780045" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="674,503 674,731 2546,731 2546,503"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="660,578 1367,623 1733,564 2056,604 2543,574 2522,496 2259,508 2175,466 1840,520 1641,508 1573,459 1421,513 1274,442 983,473 873,440 660,515"/>
+                <Baseline points="674,567 767,570 861,570 954,572 1048,570 1142,570 1235,568 1329,570 1422,569 1516,570 1610,567 1703,567 1797,564 1890,567 1984,567 2078,567 2171,566 2265,566 2358,567 2452,564 2546,567"/>
+                <TextEquiv>
+                    <Unicode>Euch Freunde grüss ich, die Ihr noch nicht seid.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="658,733 876,707 1168,754 1672,707 1747,752 1847,705 2067,702 2135,754 2456,702 2456,627 2419,623 2257,660 1253,632 1014,674 660,618"/>
+                <Baseline points="674,698 763,701 852,701 942,701 1031,701 1121,698 1210,698 1299,701 1389,701 1478,698 1568,698 1657,695 1746,698 1836,698 1925,698 2015,698 2104,698 2193,695 2283,692 2372,692 2462,686"/>
+                <TextEquiv>
+                    <Unicode>Wenn Ihr zur Welt kommt, ach, wie bin ich weit!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:56.839+02:00</Created>
+        <LastChange>2023-08-15T04:28:27.868+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55432021" pageNr="129" tsid="132838860" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=XOBFDSPCVXDGPOAILRMYKWQV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CNXEMOYOBUILBHCVSQHDSISM" imageId="44706058"/>
+    </Metadata>
+    <Page imageFilename="1428821_0129.jpg" imageWidth="4008" imageHeight="5096">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803933481" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_2"/>
+                <RegionRefIndexed index="1" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_2" custom="readingOrder {index:0;}">
+            <Coords points="716,493 2303,493 2303,1275 716,1275"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1266,598 1310,582 1403,627 1456,594 1529,611 1569,639 1626,635 1618,384 1597,388 1508,336 1440,404 1407,384 1318,453 1262,469"/>
+                <Baseline points="1282,548 1372,543 1461,548 1551,554 1629,548"/>
+                <TextEquiv>
+                    <Unicode>LEBENDIG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="696,1165 865,1096 1302,1100 1436,995 1808,1076 2135,995 2293,1019 2289,635 2196,611 2083,704 1694,732 1593,797 696,720"/>
+                <Baseline points="716,942 805,942 895,942 984,942 1074,948 1163,948 1253,948 1342,942 1432,948 1521,954 1611,960 1700,960 1790,954 1879,960 1969,954 2058,948 2148,948 2237,954 2303,954"/>
+                <TextEquiv>
+                    <Unicode>Zeitung, January 5, 1902 (A.E.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="748,1407 1051,1338 1399,1407 1666,1290 1856,1286 2058,1355 2058,1104 1662,1043 1456,1124 1225,1072 1189,1108 882,1084 817,1148 748,1136"/>
+                <Baseline points="769,1265 811,1259 901,1259 990,1253 1080,1259 1169,1259 1259,1265 1348,1265 1438,1265 1527,1265 1617,1265 1706,1259 1796,1253 1885,1253 1975,1253 2064,1253"/>
+                <TextEquiv>
+                    <Unicode>Kelt (Wien), No. 9, 1902.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_1" custom="readingOrder {index:1;}">
+            <Coords points="316,1513 3556,1513 3556,4079 316,4079"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="324,1682 898,1638 1209,1743 1630,1634 2155,1706 2608,1613 2608,1448 1500,1484 1023,1407 324,1480"/>
+                <Baseline points="346,1575 381,1563 471,1569 560,1569 650,1569 739,1563 829,1563 918,1563 1008,1569 1097,1575 1187,1581 1276,1581 1366,1575 1456,1581 1545,1575 1635,1575 1724,1569 1814,1575 1903,1569 1993,1569 2082,1569 2172,1575 2261,1575 2351,1575 2440,1575 2530,1569 2619,1569"/>
+                <TextEquiv>
+                    <Unicode>Neue Freie Presse, May 7, 1902; March 15, 1903</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="324,1965 1286,2078 1553,1985 1763,2026 2050,1953 2046,1787 1876,1743 319,1747"/>
+                <Baseline points="340,1873 429,1867 519,1867 608,1867 698,1873 787,1867 877,1867 966,1867 1056,1873 1145,1873 1235,1873 1324,1873 1414,1879 1503,1873 1593,1879 1682,1879 1772,1879 1861,1873 1951,1885 2040,1903 2058,1903"/>
+                <TextEquiv>
+                    <Unicode>Arbeiter Zeitung, May 7, 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="319,2305 1055,2317 1250,2269 1431,2329 1917,2313 1917,2034 1868,2018 1755,2078 1512,2018 1258,2078 1132,2042 817,2127 319,1961"/>
+                <Baseline points="340,2189 405,2184 495,2189 584,2195 674,2195 763,2189 853,2189 942,2189 1032,2189 1121,2195 1211,2189 1300,2189 1390,2189 1479,2189 1569,2189 1658,2184 1748,2184 1837,2184 1927,2184"/>
+                <TextEquiv>
+                    <Unicode>Neues Wiener Journal, May 7, 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="319,2624 586,2665 691,2588 975,2649 1136,2576 1383,2628 1751,2568 2216,2620 2442,2584 2442,2358 2220,2273 1609,2297 1334,2402 1233,2349 319,2398"/>
+                <Baseline points="340,2500 393,2494 483,2494 572,2494 662,2494 751,2494 841,2494 930,2500 1020,2494 1109,2500 1199,2494 1288,2500 1378,2500 1467,2494 1557,2494 1646,2494 1736,2494 1825,2494 1915,2500 2004,2500 2094,2494 2184,2494 2273,2488 2363,2488 2452,2488"/>
+                <TextEquiv>
+                    <Unicode>Illustriertes Wiener Extrablatt, May 7, 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="319,2972 797,2928 987,3009 1464,2883 2337,2924 2337,2709 2070,2750 1852,2637 1290,2693 845,2620 704,2721 319,2673"/>
+                <Baseline points="340,2804 375,2804 465,2798 554,2798 644,2798 733,2798 823,2798 912,2798 1002,2798 1092,2798 1181,2804 1271,2804 1360,2798 1450,2804 1539,2804 1629,2804 1718,2804 1808,2804 1897,2804 1987,2804 2076,2804 2166,2798 2255,2792 2345,2780"/>
+                <TextEquiv>
+                    <Unicode>Oesterreichische Volkszeitung, May 7, 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="319,3191 700,3296 1165,3186 1440,3182 1444,2972 1144,2944 991,3005 631,3009 566,2976 324,3021"/>
+                <Baseline points="340,3108 429,3108 519,3108 608,3120 698,3114 787,3120 877,3120 966,3108 1056,3108 1145,3108 1235,3102 1324,3108 1414,3108 1450,3114"/>
+                <TextEquiv>
+                    <Unicode>Reichswehr, May 7, 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="299,3595 1347,3563 1524,3461 2018,3530 2204,3433 3417,3575 3550,3546 3550,3263 299,3267"/>
+                <Baseline points="322,3425 334,3419 423,3407 513,3413 602,3413 692,3419 781,3419 871,3419 960,3425 1050,3425 1139,3425 1229,3419 1318,3419 1408,3419 1497,3419 1587,3419 1676,3425 1766,3425 1855,3425 1945,3425 2034,3425 2124,3425 2213,3419 2303,3413 2392,3419 2482,3413 2571,3413 2661,3413 2750,3419 2840,3419 2929,3419 3019,3413 3108,3407 3198,3407 3287,3413 3377,3413 3466,3407 3556,3413"/>
+                <TextEquiv>
+                    <Unicode>Neues Wiener Tagblatt (?) May 7, 1902 (7): (Feuilleton) : Hermann Mahr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="319,3922 615,3829 886,3886 1076,3801 1266,3838 1431,3773 1747,3878 1820,3842 1820,3583 1613,3550 1116,3603 1015,3554 877,3611 510,3554 319,3631"/>
+                <Baseline points="340,3729 399,3723 489,3729 578,3729 668,3735 757,3735 847,3729 936,3729 1026,3729 1115,3729 1205,3729 1294,3729 1384,3735 1473,3735 1563,3729 1652,3723 1742,3723 1831,3723"/>
+                <TextEquiv>
+                    <Unicode>Deutsche Zeitung. 2May 7, 1902</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="295,4214 789,4112 1144,4181 1658,4108 2208,4169 2305,4121 2305,3894 1836,3926 1698,3846 1250,3939 1059,3854 789,3874 687,3959 295,3914"/>
+                <Baseline points="316,4057 405,4045 495,4039 584,4033 674,4039 763,4039 853,4033 942,4033 1032,4039 1121,4039 1211,4039 1300,4045 1390,4051 1479,4051 1569,4051 1658,4051 1748,4051 1837,4051 1927,4051 2016,4051 2106,4051 2195,4051 2285,4063 2315,4069"/>
+                <TextEquiv>
+                    <Unicode>Deutsches Volksblatt, May- March 15, 1903</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

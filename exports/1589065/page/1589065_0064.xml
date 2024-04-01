@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:57.296+02:00</Created>
+        <LastChange>2024-01-22T21:10:32.296+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126322" pageNr="64" tsid="145642019" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=AVOTHFLGPSQTXTGGPYGKYBMU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FOKTMMPJGXDCMLZQXNOXVIHE" imageId="48551399"/>
+    </Metadata>
+    <Page imageFilename="1589065_0064.jpg" imageWidth="2968" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788314867" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="516,890 516,1306 919,1306 919,890"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="511,1019 536,1028 585,999 653,1025 750,1007 917,1027 918,923 843,946 663,919 511,940"/>
+                <Baseline points="516,993 541,993 566,993 591,993 616,994 641,995 667,995 692,993 717,993 742,993 767,993 793,992 818,991 843,990 868,990 893,991 919,993"/>
+                <TextEquiv>
+                    <Unicode>Dilettant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="517,1257 591,1258 626,1279 670,1261 857,1278 857,1180 804,1181 774,1203 707,1188 666,1208 606,1178 579,1200 517,1181"/>
+                <Baseline points="522,1256 547,1250 573,1252 599,1252 625,1251 651,1250 677,1250 703,1252 729,1253 755,1251 781,1250 807,1250 833,1251 859,1253"/>
+                <TextEquiv>
+                    <Unicode>Literat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1292,628 1292,1294 1955,1294 1955,628"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1299,760 1626,728 1685,748 1759,727 1760,673 1626,652 1595,666 1551,651 1477,670 1300,666"/>
+                <Baseline points="1304,731 1329,731 1354,731 1380,731 1405,730 1430,729 1456,728 1481,728 1507,730 1532,731 1557,729 1583,728 1608,728 1634,728 1659,728 1684,728 1710,728 1735,730 1761,731"/>
+                <TextEquiv>
+                    <Unicode>Joirnalist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1298,1016 1365,1000 1411,1015 1538,991 1623,1014 1675,1005 1677,931 1666,927 1558,927 1529,907 1464,940 1446,929 1416,939 1374,913 1301,924"/>
+                <Baseline points="1304,993 1330,990 1357,990 1383,987 1410,984 1437,982 1463,982 1490,986 1517,986 1543,984 1570,982 1597,981 1623,981 1650,981 1677,981"/>
+                <TextEquiv>
+                    <Unicode>Reporter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1286,1256 1357,1272 1657,1245 1757,1274 1953,1254 1954,1162 1922,1154 1830,1183 1748,1155 1651,1188 1288,1177"/>
+                <Baseline points="1292,1244 1325,1244 1358,1244 1391,1244 1424,1244 1457,1244 1490,1244 1524,1244 1557,1244 1590,1244 1623,1242 1656,1241 1689,1241 1722,1241 1756,1241 1789,1240 1822,1238 1855,1238 1888,1238 1921,1237 1955,1232"/>
+                <TextEquiv>
+                    <Unicode>Feuilletonist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="1987,619 1987,1291 2516,1291 2516,619"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1982,715 2035,733 2063,714 2134,743 2307,731 2331,750 2393,722 2448,725 2449,631 2371,613 2275,640 2154,608 2079,630 2031,608 1983,619"/>
+                <Baseline points="1987,725 2012,722 2038,722 2064,722 2089,722 2115,722 2141,722 2167,722 2192,721 2218,720 2244,720 2269,722 2295,722 2321,722 2347,722 2372,721 2398,719 2424,719 2450,719"/>
+                <TextEquiv>
+                    <Unicode>Staatsmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2006,992 2087,1002 2214,981 2294,1029 2374,994 2451,1027 2513,1025 2514,918 2323,932 2290,911 2255,927 2148,906 2083,932 2043,909 2007,917"/>
+                <Baseline points="2011,979 2036,977 2061,979 2086,979 2112,979 2137,979 2162,979 2187,979 2213,978 2238,977 2263,976 2288,976 2314,976 2339,976 2364,976 2389,976 2415,976 2440,976 2465,976 2490,973 2516,970"/>
+                <TextEquiv>
+                    <Unicode>Kannegiesser</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="2012,1278 2194,1281 2448,1242 2449,1149 2141,1178 2013,1145"/>
+                <Baseline points="2017,1241 2042,1236 2067,1235 2093,1235 2118,1235 2144,1235 2169,1235 2195,1235 2220,1235 2246,1235 2271,1235 2297,1233 2322,1232 2348,1232 2373,1232 2399,1232 2424,1232 2450,1232"/>
+                <TextEquiv>
+                    <Unicode>Pölitiker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

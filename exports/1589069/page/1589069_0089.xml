@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:13.742+02:00</Created>
+        <LastChange>2024-01-22T21:46:49.742+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127150" pageNr="89" tsid="145643755" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NZAJMTNFHJGFGCYVHEHYNLIT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BKXXSIRHLGXKBCUCMNIEGROA" imageId="48552227"/>
+    </Metadata>
+    <Page imageFilename="1589069_0089.jpg" imageWidth="2872" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787361590" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="668,572 668,1091 2471,1091 2471,572"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="701,695 1085,686 1152,647 2009,699 2266,652 2458,704 2458,582 2406,571 2113,602 2030,566 1603,600 1272,573 1080,609 701,555"/>
+                <Baseline points="713,647 800,650 887,648 975,650 1062,650 1150,648 1237,650 1325,650 1412,647 1500,647 1587,647 1674,647 1762,646 1849,645 1937,647 2024,644 2112,642 2199,644 2287,647 2374,644 2462,638"/>
+                <TextEquiv>
+                    <Unicode>Liebe kommt nicht i-mmer aus dem Gefühl, son-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="679,792 983,830 1407,807 1630,864 1811,805 2068,850 2379,837 2365,722 679,715"/>
+                <Baseline points="692,779 776,787 861,787 945,787 1030,789 1115,788 1199,787 1284,789 1368,787 1453,784 1538,784 1622,787 1707,787 1791,783 1876,783 1961,782 2045,780 2130,782 2214,782 2299,782 2384,782"/>
+                <TextEquiv>
+                    <Unicode>dern öfter als der Liebende selbst ahnt, aus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="656,965 2395,965 2462,947 2465,848 2230,864 2117,823 1813,893 1461,841 1166,879 658,846"/>
+                <Baseline points="668,928 758,922 848,920 938,925 1028,925 1118,925 1208,927 1299,925 1389,922 1479,922 1569,922 1659,922 1749,925 1839,922 1930,922 2020,922 2110,922 2200,922 2290,919 2380,916 2471,910"/>
+                <TextEquiv>
+                    <Unicode>dem Willen, aus der Güte oder aus dem Bewuest-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="683,1118 812,1130 888,1098 949,1128 1202,1082 1308,1130 1436,1109 1436,1001 1407,994 1233,1017 1161,990 1109,1015 1015,974 830,1019 794,994 683,1008"/>
+                <Baseline points="695,1056 732,1056 769,1056 806,1057 844,1058 881,1056 918,1056 956,1058 993,1059 1030,1059 1068,1058 1105,1056 1142,1056 1179,1058 1217,1059 1254,1058 1291,1057 1329,1059 1366,1056 1403,1056 1441,1056"/>
+                <TextEquiv>
+                    <Unicode>sein einer Mission.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

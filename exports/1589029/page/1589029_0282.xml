@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_17:00</Creator>
+        <Created>2023-09-27T14:32:51.529+02:00</Created>
+        <LastChange>2024-01-22T17:00:14.374+01:00</LastChange>
+        <TranskribusMetadata docId="1589029" pageId="60123321" pageNr="282" tsid="145626938" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KKECCGWPLQORBMNOXAEUUHUZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IHIYKDPBEZSWOGMFPNBGEFQV" imageId="48548399"/>
+    </Metadata>
+    <Page imageFilename="1589029_0282.jpg" imageWidth="2936" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795306001" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="773,576 773,826 1405,826 1405,576"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="944,644 981,640 1044,669 1159,654 1288,687 1335,672 1330,613 1282,622 1205,597 1133,608 1017,575 939,591"/>
+                <Baseline points="949,638 974,640 1000,641 1026,643 1052,645 1078,647 1104,647 1130,647 1155,651 1181,655 1207,660 1233,663 1259,665 1285,667 1311,668 1337,671"/>
+                <TextEquiv>
+                    <Unicode>die Trepp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="771,798 1395,844 1399,716 1101,743 766,713"/>
+                <Baseline points="773,755 804,759 836,764 867,767 899,767 931,769 962,771 994,776 1025,778 1057,779 1089,779 1120,779 1152,780 1183,783 1215,786 1247,789 1278,791 1310,793 1341,795 1373,794 1405,787"/>
+                <TextEquiv>
+                    <Unicode>den roten Dinenl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="1444,834 1444,1005 1719,1005 1719,834"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1441,951 1480,941 1522,959 1712,966 1713,905 1575,904 1499,872 1435,877"/>
+                <Baseline points="1444,934 1469,936 1494,937 1519,939 1544,941 1569,942 1594,945 1619,948 1644,949 1669,949 1694,952 1719,955"/>
+                <TextEquiv>
+                    <Unicode>Vorhang.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

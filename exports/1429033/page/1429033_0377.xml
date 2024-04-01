@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:01</Creator>
+        <Created>2023-05-10T15:11:33.379+02:00</Created>
+        <LastChange>2023-08-15T10:01:32.451+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436924" pageNr="377" tsid="132846563" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=NFYYRMDOACWVLTQRXXXUTPDT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZMLBRXVQFZZYWGAAYAOAZYYZ" imageId="44710913"/>
+    </Metadata>
+    <Page imageFilename="1429033_0377.jpg" imageWidth="3715" imageHeight="5528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800795705" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1050,1239 3187,1239 3187,1985 1050,1985"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2129,1308 2290,1331 2423,1326 2468,1303 2496,1321 2567,1303 2599,1324 2652,1316 2695,1298 2700,1185 2629,1185 2536,1223 2494,1205 2406,1258 2292,1253 2229,1225 2134,1248"/>
+                <Baseline points="2143,1313 2161,1313 2250,1313 2340,1307 2429,1301 2519,1295 2608,1289 2698,1295"/>
+                <TextEquiv>
+                    <Unicode>lechsenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1522,1580 1885,1560 2048,1485 2466,1480 2720,1391 3082,1404 3135,1341 2733,1256 2484,1374 2239,1341 1724,1439 1540,1422"/>
+                <Baseline points="1540,1546 1617,1540 1707,1522 1796,1504 1886,1492 1975,1480 2065,1462 2155,1456 2244,1444 2334,1438 2423,1426 2513,1420 2602,1408 2692,1384 2781,1384 2871,1379 2961,1384 3050,1379 3140,1373"/>
+                <TextEquiv>
+                    <Unicode>X Auf die durchliegen Lippen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1032,1792 1598,1698 1847,1749 2720,1530 3007,1550 3065,1414 1464,1578 1044,1688"/>
+                <Baseline points="1050,1749 1092,1743 1182,1725 1271,1713 1361,1701 1450,1689 1540,1677 1629,1671 1719,1659 1808,1647 1898,1635 1987,1629 2077,1617 2167,1605 2256,1593 2346,1581 2435,1570 2525,1558 2614,1552 2704,1534 2793,1522 2883,1522 2972,1516 3062,1510"/>
+                <TextEquiv>
+                    <Unicode>eines Verlorenen den milden Trans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1235,1885 2013,1807 2551,1857 3186,1636 2813,1588 2559,1691 2350,1623 2182,1729 1253,1729"/>
+                <Baseline points="1253,1868 1307,1862 1396,1856 1486,1838 1576,1832 1665,1820 1755,1808 1844,1802 1934,1796 2023,1784 2113,1778 2202,1773 2292,1767 2381,1755 2471,1743 2561,1731 2650,1713 2740,1701 2829,1683 2919,1671 3008,1671 3098,1665 3187,1659"/>
+                <TextEquiv>
+                    <Unicode>des Versessers und der Frauwe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1480,2008 1517,2016 1578,1968 1663,1958 1782,1995 1814,1975 2179,1988 2192,1877 2091,1812 2013,1807 1782,1872 1704,1839 1590,1890 1495,1872"/>
+                <Baseline points="1498,1975 1570,1964 1659,1958 1749,1946 1838,1940 1928,1928 2017,1916 2107,1904 2196,1904"/>
+                <TextEquiv>
+                    <Unicode>zu Unfel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

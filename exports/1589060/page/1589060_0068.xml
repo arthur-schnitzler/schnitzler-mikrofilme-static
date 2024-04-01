@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:04</Creator>
+        <Created>2023-09-27T14:39:44.509+02:00</Created>
+        <LastChange>2024-01-22T20:04:13.839+01:00</LastChange>
+        <TranskribusMetadata docId="1589060" pageId="60125673" pageNr="68" tsid="145638220" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZNGYUGLRMWTMCYUKNIOCZYJW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KEMXAFTETVZDAXFMDNDMEYFA" imageId="48550750"/>
+    </Metadata>
+    <Page imageFilename="1589060_0068.jpg" imageWidth="3336" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789490467" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1077,393 1077,1068 3032,1068 3032,393"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2891,512 2924,505 2943,524 2952,519 2962,531 2976,526 2995,543 3023,540 3025,383 3009,380 2988,395 2981,385 2966,395 2936,390 2927,399 2908,383 2891,385"/>
+                <Baseline points="2904,453 2929,455 2955,456 2980,454 3006,453 3032,453"/>
+                <TextEquiv>
+                    <Unicode>16.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1064,801 2055,820 2222,780 2351,829 2952,822 2952,721 2631,691 2433,730 1841,667 1679,700 1501,665 1329,726 1184,681 1064,705"/>
+                <Baseline points="1077,767 1170,770 1264,771 1358,776 1452,773 1546,772 1640,770 1734,773 1828,773 1922,770 2016,770 2109,770 2203,770 2297,773 2391,773 2485,773 2579,773 2673,773 2767,776 2861,773 2955,779"/>
+                <TextEquiv>
+                    <Unicode>Mullen.- man mag sich mit ihnen abfinden, es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1073,940 1616,914 1966,965 2079,925 2173,958 2492,923 2633,994 2753,925 2858,965 2950,940 2950,841 2823,848 2755,801 2532,867 2419,813 1928,846 1400,780 1073,813"/>
+                <Baseline points="1087,896 1180,895 1273,898 1367,897 1460,898 1554,898 1647,899 1740,899 1834,898 1927,898 2021,899 2114,901 2207,901 2301,901 2394,904 2488,901 2581,901 2674,901 2768,901 2861,901 2955,898"/>
+                <TextEquiv>
+                    <Unicode>gibt so viele. Aber eine Null sein-und frech</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1064,1083 1184,1052 1362,1097 1527,1040 1837,1090 2250,1076 2250,965 2081,925 1717,977 1064,944"/>
+                <Baseline points="1077,1023 1139,1026 1201,1028 1263,1026 1325,1029 1387,1029 1449,1026 1511,1026 1573,1026 1635,1027 1697,1029 1759,1031 1821,1028 1883,1029 1945,1029 2007,1029 2069,1032 2131,1029 2193,1032 2256,1038"/>
+                <TextEquiv>
+                    <Unicode>dazu, das ist der Recensent.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

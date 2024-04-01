@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_20:30</Creator>
+        <Created>2023-05-10T14:52:51.197+02:00</Created>
+        <LastChange>2023-08-14T20:30:11.774+02:00</LastChange>
+        <TranskribusMetadata docId="1428690" pageId="55427341" pageNr="86" tsid="132824877" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=RIOQECUDLTDXPRWSSTSPYXDZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MQCAHSXNFGAANGMXWAZVNATB" imageId="44701416"/>
+    </Metadata>
+    <Page imageFilename="1428690_0086.jpg" imageWidth="3432" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711809635860" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="629,597 2847,597 2847,1203 629,1203"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="630,710 721,704 845,751 1108,685 1163,721 1193,715 1199,569 1086,575 1066,555 1030,586 909,575 837,594 718,528 635,539"/>
+                <Baseline points="644,671 662,668 707,668 752,662 796,662 841,659 886,656 931,656 976,656 1020,653 1065,653 1110,653 1155,650 1199,647"/>
+                <TextEquiv>
+                    <Unicode>Theater 1924</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="616,939 1246,884 1740,942 2450,912 2489,782 622,815"/>
+                <Baseline points="635,892 659,889 704,889 749,889 793,889 838,889 883,889 928,883 973,883 1017,880 1062,877 1107,877 1152,874 1196,874 1241,874 1286,871 1331,874 1376,871 1420,871 1465,871 1510,871 1555,868 1599,865 1644,862 1689,862 1734,862 1779,859 1823,859 1868,856 1913,856 1958,856 2002,853 2047,853 2092,850 2137,850 2181,847 2226,847 2271,844 2316,841 2361,841 2405,841 2450,841 2495,841"/>
+                <TextEquiv>
+                    <Unicode>23.12.Moderne Bühne. Operette,Ta bouche.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="613,1058 2586,1077 2633,931 616,981"/>
+                <Baseline points="629,1041 665,1041 710,1041 755,1041 799,1041 844,1041 889,1038 934,1038 979,1038 1023,1035 1068,1035 1113,1032 1158,1029 1202,1026 1247,1026 1292,1023 1337,1020 1382,1020 1426,1020 1471,1020 1516,1017 1561,1017 1605,1014 1650,1014 1695,1014 1740,1011 1784,1011 1829,1008 1874,1005 1919,1005 1964,1002 2008,1002 2053,999 2098,999 2143,996 2187,996 2232,996 2277,993 2322,993 2367,990 2411,990 2456,988 2501,988 2546,988 2590,988 2635,985"/>
+                <TextEquiv>
+                    <Unicode>29.12. M.K.S. Gedangskonzert Frau Lewisohn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="619,1246 1257,1185 2804,1240 2843,1003 2329,1094 624,1102"/>
+                <Baseline points="638,1193 653,1190 698,1193 743,1193 788,1193 832,1193 877,1190 922,1190 967,1187 1011,1187 1056,1187 1101,1187 1146,1185 1190,1182 1235,1179 1280,1176 1325,1176 1370,1176 1414,1173 1459,1176 1504,1176 1549,1173 1593,1170 1638,1170 1683,1167 1728,1167 1773,1164 1817,1164 1862,1161 1907,1161 1952,1158 1996,1158 2041,1158 2086,1155 2131,1152 2175,1152 2220,1152 2265,1152 2310,1149 2355,1146 2399,1146 2444,1146 2489,1143 2534,1140 2578,1140 2623,1140 2668,1137 2713,1137 2758,1134 2802,1137 2847,1137"/>
+                <TextEquiv>
+                    <Unicode>30.12. Raimundth. Wedekind: Franziska (Durieux)</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

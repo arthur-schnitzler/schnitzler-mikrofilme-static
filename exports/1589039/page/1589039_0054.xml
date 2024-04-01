@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:15</Creator>
+        <Created>2023-09-27T14:36:34.075+02:00</Created>
+        <LastChange>2024-01-22T18:15:36.883+01:00</LastChange>
+        <TranskribusMetadata docId="1589039" pageId="60124110" pageNr="54" tsid="145632068" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=QHXYCGISFWQFNMEYGIPKGYZZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KRULTSMGHRYNPOHTXRSRZGMS" imageId="48549188"/>
+    </Metadata>
+    <Page imageFilename="1589039_0054.jpg" imageWidth="3345" imageHeight="5464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711792411222" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1105,3724 1105,4387 2561,4387 2561,3724"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1989,3789 2126,3794 2174,3824 2299,3789 2331,3805 2412,3792 2412,3728 2326,3738 2272,3712 2228,3736 2194,3716 2115,3720 2070,3696 1989,3731"/>
+                <Baseline points="1998,3789 2024,3791 2050,3793 2076,3795 2102,3794 2128,3792 2154,3790 2180,3789 2207,3789 2233,3789 2259,3789 2285,3789 2311,3789 2337,3789 2363,3789 2389,3789 2416,3789"/>
+                <TextEquiv>
+                    <Unicode>mite-Bill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1281,3937 2557,3935 2546,3854 2263,3892 2199,3852 1281,3860"/>
+                <Baseline points="1289,3929 1352,3932 1416,3932 1479,3929 1543,3933 1607,3927 1670,3923 1734,3923 1797,3923 1861,3923 1925,3923 1988,3923 2052,3923 2115,3923 2179,3923 2243,3923 2306,3923 2370,3923 2433,3923 2497,3922 2561,3918"/>
+                <TextEquiv>
+                    <Unicode>damals war da eir Meriscl., der ih</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1391,4249 1952,4191 2471,4212 2524,4191 2525,4112 1391,4147"/>
+                <Baseline points="1400,4202 1456,4197 1512,4197 1569,4194 1625,4191 1682,4191 1738,4191 1794,4191 1851,4191 1907,4191 1964,4191 2020,4191 2076,4191 2133,4191 2189,4191 2246,4191 2302,4189 2358,4185 2415,4189 2471,4189 2528,4185"/>
+                <TextEquiv>
+                    <Unicode>Es wird in schon ganz dunkel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1096,4196 1128,4193 1173,4210 1193,4199 1220,4220 1294,4204 1343,4214 1364,4207 1361,4142 1305,4145 1248,4112 1213,4118 1178,4144 1136,4147 1117,4132 1095,4142"/>
+                <Baseline points="1105,4191 1131,4193 1157,4195 1183,4197 1209,4197 1236,4197 1262,4197 1288,4199 1314,4202 1340,4206 1367,4208"/>
+                <TextEquiv>
+                    <Unicode>Fritr:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1095,4368 1812,4352 1836,4347 1838,4258 1434,4263 1372,4230 1287,4268 1096,4276"/>
+                <Baseline points="1105,4347 1141,4347 1178,4347 1215,4349 1252,4352 1289,4353 1325,4353 1362,4348 1399,4344 1436,4342 1473,4342 1509,4342 1546,4342 1583,4342 1620,4342 1657,4342 1693,4341 1730,4338 1767,4337 1804,4339 1841,4342"/>
+                <TextEquiv>
+                    <Unicode>Eon: Urso bester.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

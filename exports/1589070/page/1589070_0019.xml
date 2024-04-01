@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:42.036+02:00</Created>
+        <LastChange>2024-01-22T21:36:40.915+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127128" pageNr="19" tsid="145643011" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZWDQIDKSEASMJQVMBQPONEAC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MZZDGRLIEBPGWSWWUOXWNHIE" imageId="48552205"/>
+    </Metadata>
+    <Page imageFilename="1589070_0019.jpg" imageWidth="2968" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787052568" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="585,609 585,980 2617,980 2617,609"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="574,731 832,774 1009,721 1146,767 1386,721 1771,746 1928,693 1981,724 2563,703 2565,595 2383,562 2237,617 2110,579 1746,612 1622,554 1288,638 1156,577 845,638 577,607"/>
+                <Baseline points="588,680 687,692 786,691 885,691 984,689 1083,689 1182,684 1281,683 1380,683 1479,683 1579,683 1678,680 1777,680 1876,677 1975,677 2074,677 2173,677 2272,671 2371,673 2470,674 2570,680"/>
+                <TextEquiv>
+                    <Unicode>Menschenliebe ale politische Idee ist eine Phrese,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="579,848 736,898 1161,903 1467,840 1660,885 2044,822 2133,858 2613,815 2613,749 2338,696 1928,764 1849,724 1779,767 1204,734 1146,769 1009,721 931,777 579,759"/>
+                <Baseline points="594,817 695,817 796,818 897,820 998,820 1099,814 1200,817 1302,814 1403,814 1504,814 1605,811 1706,809 1807,808 1908,808 2010,805 2111,803 2212,805 2313,804 2414,803 2515,803 2617,800"/>
+                <TextEquiv>
+                    <Unicode>als religidse Idee ein Kis verständnis, ale ethische</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="572,997 605,984 713,1032 880,1007 972,1020 1030,994 1164,1017 1166,896 1141,888 1083,898 1052,873 1017,898 880,880 744,903 638,868 574,893"/>
+                <Baseline points="585,943 614,947 643,949 672,949 701,949 730,949 759,949 788,947 817,947 846,949 876,949 905,949 934,947 963,946 992,946 1021,944 1050,944 1079,946 1108,946 1137,945 1167,943"/>
+                <TextEquiv>
+                    <Unicode>Iaee ein Nahm.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

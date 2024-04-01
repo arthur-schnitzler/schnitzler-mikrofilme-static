@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:53.638+02:00</Created>
+        <LastChange>2024-01-22T21:15:15.934+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126781" pageNr="60" tsid="145642225" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FNMEAIXEYYQGCFEOTRLPSFJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IKVTMTHXIDWBCVDADNVEXHLC" imageId="48551858"/>
+    </Metadata>
+    <Page imageFilename="1589068_0060.jpg" imageWidth="2872" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787565989" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="671,599 671,1065 2518,1065 2518,599"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="667,685 839,719 1031,681 1496,703 1588,664 2385,687 2385,513 2289,497 2028,554 1471,538 1407,577 1123,573 923,495 862,529 667,502"/>
+                <Baseline points="680,647 765,647 851,646 936,647 1022,649 1107,650 1193,650 1278,651 1364,653 1449,656 1535,653 1620,656 1706,656 1791,656 1877,656 1962,657 2048,657 2133,658 2219,657 2304,659 2390,659"/>
+                <TextEquiv>
+                    <Unicode>das Grosse zu verkennen, das ist nicht inner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="676,795 1040,825 1285,786 1366,823 1505,788 1620,823 2461,784 2426,731 2284,756 1991,697 1849,742 1670,703 1127,745 676,697"/>
+                <Baseline points="689,778 777,778 866,773 955,778 1044,778 1133,778 1221,775 1310,778 1399,781 1488,783 1577,781 1665,784 1754,781 1843,783 1932,784 2021,784 2109,786 2198,789 2287,790 2376,787 2465,778"/>
+                <TextEquiv>
+                    <Unicode>eine Sache des mangelnden Verständnisses, son-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1831,871 1886,878 1920,848 1993,845 2009,864 2028,850 2062,871 2094,855 2149,880 2190,850 2289,864 2289,809 2234,793 2158,813 2028,795 1989,827 1874,784 1831,793"/>
+                <Baseline points="1844,841 1869,845 1894,847 1919,847 1944,846 1969,845 1994,844 2019,844 2044,844 2069,844 2094,844 2119,844 2144,842 2169,841 2194,841 2219,841 2244,841 2269,840 2295,838"/>
+                <TextEquiv>
+                    <Unicode>zur der, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="674,923 1288,921 1574,953 1627,997 1682,962 1982,978 2096,923 2511,933 2461,848 2321,891 2220,850 1393,875 1235,800 674,818"/>
+                <Baseline points="686,901 777,907 869,910 960,907 1052,907 1144,910 1235,908 1327,910 1418,912 1510,913 1602,913 1693,913 1785,913 1876,916 1968,914 2060,916 2151,914 2243,918 2334,916 2426,919 2518,922"/>
+                <TextEquiv>
+                    <Unicode>der auch des Mutes, insbesondere) wenn man sich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="660,1075 758,1109 889,1070 971,1116 1171,1049 1443,1109 1560,1047 1666,1063 1666,992 1441,951 1217,997 658,978"/>
+                <Baseline points="671,1029 721,1035 771,1038 821,1038 871,1038 921,1036 971,1037 1021,1038 1071,1035 1121,1038 1171,1039 1221,1041 1271,1040 1321,1040 1371,1041 1421,1041 1471,1041 1521,1041 1571,1041 1621,1042 1671,1041"/>
+                <TextEquiv>
+                    <Unicode>nicht für unfehlbar hält.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

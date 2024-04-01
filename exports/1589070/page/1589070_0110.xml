@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:52.554+02:00</Created>
+        <LastChange>2024-01-22T21:36:58.146+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127455" pageNr="110" tsid="145643107" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FHNYEOOEXPLTSRQTTBVBKQUQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=POXVAUKKYDULETTVNRBAZBGD" imageId="48552532"/>
+    </Metadata>
+    <Page imageFilename="1589070_0110.jpg" imageWidth="2904" imageHeight="3656">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787190952" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="638,427 638,1053 2256,1053 2256,427"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="634,519 1673,506 1741,545 1881,513 1881,418 1616,391 1352,436 634,416"/>
+                <Baseline points="644,492 706,498 768,495 830,493 892,497 954,497 1016,492 1078,492 1140,492 1202,494 1265,495 1327,494 1389,492 1451,495 1513,497 1575,495 1637,492 1699,495 1761,495 1823,495 1886,489"/>
+                <TextEquiv>
+                    <Unicode>Klagen?- Neinl- Tätig seinl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="628,673 961,626 2188,655 2188,568 2031,545 1538,550 1498,584 628,568"/>
+                <Baseline points="638,620 715,623 793,624 871,625 949,626 1026,626 1104,624 1182,623 1260,623 1337,626 1415,621 1493,620 1571,623 1648,625 1726,623 1804,623 1882,625 1959,623 2037,624 2115,626 2193,620"/>
+                <TextEquiv>
+                    <Unicode>Beklagen?- Neinf - Hilfreich seinl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="628,805 879,811 1076,759 1688,807 1887,778 1887,690 1821,667 1622,687 1424,632 1328,671 1218,650 1103,737 1015,692 628,690"/>
+                <Baseline points="638,755 700,758 763,758 826,758 888,756 951,755 1014,758 1076,756 1139,755 1202,757 1265,755 1327,756 1390,756 1453,754 1515,749 1578,755 1641,755 1703,755 1766,755 1829,755 1892,752"/>
+                <TextEquiv>
+                    <Unicode>Anklagen? - Neinl - Bessernl.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2019,1056 2064,1052 2087,1060 2128,1031 2180,1035 2200,1021 2250,1031 2252,994 2202,984 2175,965 2138,994 2118,994 2108,984 2095,992 2071,971 2056,982 2021,976"/>
+                <Baseline points="2029,1014 2054,1017 2079,1020 2104,1022 2129,1022 2155,1021 2180,1018 2205,1014 2230,1017 2256,1017"/>
+                <TextEquiv>
+                    <Unicode>reco.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

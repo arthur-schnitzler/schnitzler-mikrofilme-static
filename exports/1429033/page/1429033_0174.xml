@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:10:56.333+02:00</Created>
+        <LastChange>2023-08-15T10:00:38.529+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55435782" pageNr="174" tsid="132846351" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SQVLOWBHUGXWYBEREJEEWWRT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PGLUTJHGKCLWNYKBZQZJPOYL" imageId="44709772"/>
+    </Metadata>
+    <Page imageFilename="1429033_0174.jpg" imageWidth="3747" imageHeight="5592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800274393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="926,3707 2383,3707 2383,4162 926,4162"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1097,3829 1180,3858 1303,3781 1704,3802 2019,3744 2379,3792 2385,3652 2246,3680 1938,3624 1807,3663 1683,3628 1490,3669 1105,3658"/>
+                <Baseline points="1105,3829 1129,3829 1218,3817 1308,3793 1398,3781 1487,3775 1577,3781 1666,3775 1756,3763 1846,3757 1935,3757 2025,3757 2114,3757 2204,3757 2294,3757 2383,3769"/>
+                <TextEquiv>
+                    <Unicode># bed. Sal. wohl hütter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1300,3965 2245,3944 2344,3917 2347,3816 2206,3850 2061,3795 1869,3787 1610,3880 1469,3839 1303,3851"/>
+                <Baseline points="1308,3961 1362,3949 1451,3943 1541,3949 1631,3937 1720,3931 1810,3931 1899,3931 1989,3925 2079,3931 2168,3919 2258,3919 2347,3907"/>
+                <TextEquiv>
+                    <Unicode>Blancen Wart noch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="918,4182 961,4163 1033,4200 1154,4157 1621,4138 1626,3998 1444,4053 1385,4034 1322,4054 1269,4026 1178,4059 1084,4024 1009,4064 921,4058"/>
+                <Baseline points="926,4152 997,4152 1087,4146 1176,4140 1266,4140 1356,4134 1445,4134 1535,4128 1625,4134"/>
+                <TextEquiv>
+                    <Unicode>The daerly</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:09</Creator>
+        <Created>2023-05-10T13:31:11.218+02:00</Created>
+        <LastChange>2023-08-15T08:09:59.593+02:00</LastChange>
+        <TranskribusMetadata docId="1429040" pageId="55435300" pageNr="84" tsid="132842218" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=ZCNMWDYUFPMSNGQLTPGEUKFL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQTGPODTZWHKAEWFPTAGZTBP" imageId="44709290"/>
+    </Metadata>
+    <Page imageFilename="1429040_0084.jpg" imageWidth="3448" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799400678" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="898,633 2384,633 2384,875 898,875"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1305,702 1589,745 1808,704 1924,738 2011,698 2322,737 2380,721 2384,578 2086,631 1849,591 1558,611 1443,666 1306,674"/>
+                <Baseline points="1313,701 1355,704 1399,707 1444,704 1489,704 1534,704 1579,701 1623,701 1668,698 1713,698 1758,698 1802,695 1847,695 1892,692 1937,692 1981,692 2026,689 2071,689 2116,689 2161,689 2205,686 2250,686 2295,683 2340,683 2384,683"/>
+                <TextEquiv>
+                    <Unicode>... Unerhörte Zustände!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="891,938 1081,914 1628,951 1628,738 1465,789 1210,758 1119,801 891,740"/>
+                <Baseline points="898,856 943,856 988,859 1032,862 1077,865 1122,865 1167,865 1211,865 1256,865 1301,865 1346,865 1390,862 1435,862 1480,859 1525,859 1570,859 1614,859 1632,862"/>
+                <TextEquiv>
+                    <Unicode>Kohle: Lueger.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

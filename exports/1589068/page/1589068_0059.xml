@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:53.565+02:00</Created>
+        <LastChange>2024-01-22T21:15:15.790+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126776" pageNr="59" tsid="145642224" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GZHFKAPDTGZXJZUIYBJIOSPP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CQBBTGHKOLDEVAIEMCYRMMIG" imageId="48551853"/>
+    </Metadata>
+    <Page imageFilename="1589068_0059.jpg" imageWidth="2888" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787564581" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="686,538 686,1013 2465,1013 2465,538"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="674,641 979,601 2459,596 2459,532 2367,518 674,525"/>
+                <Baseline points="686,590 779,598 873,599 966,599 1060,597 1154,596 1247,599 1341,596 1435,596 1528,596 1622,596 1715,593 1809,593 1903,592 1996,591 2090,590 2184,590 2277,589 2371,587 2465,581"/>
+                <TextEquiv>
+                    <Unicode>Wer den Prinzipien nicht getreu zu leben ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="674,743 821,772 961,732 1560,759 2169,723 2229,768 2396,728 2396,643 2352,630 2040,685 1940,650 1068,703 906,654 674,672"/>
+                <Baseline points="686,731 771,728 857,731 942,731 1028,728 1114,728 1199,728 1285,725 1371,725 1456,725 1542,725 1628,727 1713,725 1799,724 1885,723 1970,722 2056,719 2142,719 2227,722 2313,719 2399,719"/>
+                <TextEquiv>
+                    <Unicode>steht,die er verkündigt, ist ein Hochstapper</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1942,803 2014,803 2040,825 2100,794 2134,812 2145,801 2189,794 2187,725 2156,723 2145,732 2094,721 2029,750 2000,732 1940,739"/>
+                <Baseline points="1954,784 1980,784 2007,784 2034,784 2061,785 2088,787 2115,789 2142,790 2169,790 2196,790"/>
+                <TextEquiv>
+                    <Unicode>tister</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="676,930 886,910 966,955 1359,859 2436,850 2407,781 2045,825 1669,781 837,821 676,785"/>
+                <Baseline points="689,853 776,856 864,859 951,854 1039,856 1127,856 1214,853 1302,854 1389,853 1477,853 1565,854 1652,856 1740,857 1827,857 1915,853 2003,850 2090,847 2178,847 2265,847 2353,847 2441,850"/>
+                <TextEquiv>
+                    <Unicode>una einuunso schlimmerer, jeeigster er selbst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="674,1057 1239,1084 1359,1055 1453,1088 1493,1059 1595,1097 1742,1059 1742,928 1669,914 1455,950 1072,906 968,955 674,919"/>
+                <Baseline points="686,990 739,988 792,990 845,992 898,990 951,990 1004,989 1057,987 1110,985 1163,984 1217,984 1270,983 1323,982 1376,984 1429,984 1482,984 1535,981 1588,982 1641,982 1694,983 1748,984"/>
+                <TextEquiv>
+                    <Unicode>an diese Prinzipien glaubt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

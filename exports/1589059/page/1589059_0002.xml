@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:45</Creator>
+        <Created>2023-09-27T14:39:34.023+02:00</Created>
+        <LastChange>2024-01-22T19:45:18.972+01:00</LastChange>
+        <TranskribusMetadata docId="1589059" pageId="60125357" pageNr="2" tsid="145636483" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=VNPBEETVTZZXLRAMWMPCDMEF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KGXQVAGJLOJRKBEPUXROIBLI" imageId="48550434"/>
+    </Metadata>
+    <Page imageFilename="1589059_0002.jpg" imageWidth="3048" imageHeight="3752">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789497973" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="405,200 405,1910 1414,1910 1414,200"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="402,378 457,382 490,402 518,388 536,401 616,390 652,402 716,374 712,173 592,204 454,154 398,173"/>
+                <Baseline points="405,265 430,267 456,268 482,266 508,265 534,265 560,266 586,268 612,270 638,270 664,269 690,270 716,274"/>
+                <TextEquiv>
+                    <Unicode>Nr. 19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="932,1232 1008,1247 1055,1227 1095,1244 1205,1217 1354,1246 1412,1234 1406,1077 1340,1109 1233,1121 1094,1053 935,1062"/>
+                <Baseline points="937,1205 962,1210 987,1214 1012,1214 1037,1214 1062,1214 1087,1213 1112,1211 1137,1211 1162,1211 1188,1209 1213,1208 1238,1208 1263,1207 1288,1205 1313,1205 1338,1205 1363,1207 1388,1208 1414,1208"/>
+                <TextEquiv>
+                    <Unicode>Beit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1057,1408 1073,1408 1101,1430 1139,1394 1162,1387 1173,1391 1181,1382 1216,1393 1260,1384 1252,1294 1227,1291 1162,1307 1109,1301 1049,1317"/>
+                <Baseline points="1056,1343 1081,1348 1106,1353 1132,1356 1157,1359 1182,1360 1208,1361 1233,1361 1259,1364"/>
+                <TextEquiv>
+                    <Unicode>Ier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="531,1650 948,1635 1124,1541 1325,1551 1329,1404 1109,1436 997,1397 829,1448 769,1417 654,1450 538,1419"/>
+                <Baseline points="540,1513 579,1512 618,1519 658,1516 697,1511 737,1510 776,1510 815,1512 855,1508 894,1501 934,1500 973,1498 1012,1498 1052,1495 1091,1493 1131,1494 1170,1496 1209,1498 1249,1498 1288,1499 1328,1504"/>
+                <TextEquiv>
+                    <Unicode>Zu der streiken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="443,1899 597,1896 767,1959 828,1935 1091,1957 1088,1773 620,1788 513,1745 441,1761"/>
+                <Baseline points="447,1871 479,1871 511,1871 543,1871 576,1868 608,1866 640,1866 672,1868 705,1868 737,1869 769,1871 801,1871 834,1875 866,1877 898,1877 930,1877 963,1877 995,1876 1027,1874 1059,1878 1092,1877"/>
+                <TextEquiv>
+                    <Unicode>Meidtgellit:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:50.387+02:00</Created>
+        <LastChange>2024-01-22T21:15:08.338+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126644" pageNr="30" tsid="145642193" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZGFIQKSATPPECDRLURLVXIMV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VDJYQTUMFWTNBTADAFHSRKWY" imageId="48551721"/>
+    </Metadata>
+    <Page imageFilename="1589068_0030.jpg" imageWidth="2856" imageHeight="3512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787522535" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="492,540 492,783 2577,783 2577,540"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="477,673 894,615 1403,654 1614,618 1666,657 1737,613 2070,641 2360,605 2464,652 2574,615 2576,522 2089,540 1953,488 1669,566 1533,524 1429,561 1168,524 884,566 480,540"/>
+                <Baseline points="492,618 596,616 700,621 804,618 909,618 1013,618 1117,615 1221,615 1326,615 1430,617 1534,612 1638,612 1743,612 1847,612 1951,609 2055,611 2160,609 2264,609 2368,606 2472,605 2577,603"/>
+                <TextEquiv>
+                    <Unicode>Eine Weit ohne Schuld und Verantwortung. ist vorstell-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="477,751 592,787 673,769 759,829 947,837 1053,827 1134,764 1285,777 1265,675 1025,704 787,665 477,712"/>
+                <Baseline points="492,749 532,749 572,751 612,752 652,750 692,749 732,749 772,749 812,749 852,749 892,746 932,748 972,749 1012,747 1052,746 1092,746 1132,746 1172,747 1212,749 1252,749 1293,749"/>
+                <TextEquiv>
+                    <Unicode>ver, ein Brame nicht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

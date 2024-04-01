@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:02</Creator>
+        <Created>2023-09-27T14:42:40.667+02:00</Created>
+        <LastChange>2024-01-22T19:02:08.365+01:00</LastChange>
+        <TranskribusMetadata docId="1589071" pageId="60126972" pageNr="4" tsid="145634617" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=AMVVDYLKYVOKXOLPEYNHBCJQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MUAPKIFPZLXZYVKYQEKHPKPH" imageId="48552049"/>
+    </Metadata>
+    <Page imageFilename="1589071_0004.jpg" imageWidth="2824" imageHeight="3448">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786991520" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="537,539 537,1031 1868,1031 1868,539"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="581,613 1508,634 1562,607 1562,554 906,561 681,465 581,470"/>
+                <Baseline points="591,611 639,607 688,608 736,608 785,608 834,608 882,608 931,608 980,606 1028,606 1077,606 1126,606 1174,606 1223,606 1272,606 1320,604 1369,605 1418,604 1466,603 1515,606 1564,600"/>
+                <TextEquiv>
+                    <Unicode>Der Sge ist stalle ringsr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="580,741 1668,754 1639,677 580,685"/>
+                <Baseline points="588,734 642,737 696,737 750,737 804,737 858,737 912,737 967,737 1021,737 1075,737 1129,737 1183,734 1237,734 1291,736 1346,734 1400,734 1454,731 1508,731 1562,733 1616,731 1671,734"/>
+                <TextEquiv>
+                    <Unicode>kein Windhauch rührt ihn an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="581,931 712,957 847,880 1137,869 1866,883 1800,815 1211,831 1021,744 581,740"/>
+                <Baseline points="591,862 654,864 718,865 782,868 846,866 910,865 974,865 1037,862 1101,865 1165,865 1229,868 1293,868 1357,868 1421,868 1484,868 1548,868 1612,868 1676,865 1740,867 1804,865 1868,865"/>
+                <TextEquiv>
+                    <Unicode>f keine Neil ist abends mehr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="529,1002 1545,1034 1545,952 1415,931 529,957"/>
+                <Baseline points="537,994 587,994 638,995 688,997 739,997 790,999 840,1000 891,997 941,997 992,997 1043,997 1093,997 1144,997 1194,997 1245,995 1296,994 1346,997 1397,996 1447,994 1498,994 1549,997"/>
+                <TextEquiv>
+                    <Unicode>“ Wo sie des Morgens ränn.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

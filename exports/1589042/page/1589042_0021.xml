@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:30</Creator>
+        <Created>2023-09-27T14:37:02.170+02:00</Created>
+        <LastChange>2024-01-22T18:30:27.771+01:00</LastChange>
+        <TranskribusMetadata docId="1589042" pageId="60124148" pageNr="21" tsid="145632682" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XZUJZQJSOETHVPOKMEMSKETL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EHMKUDNTCYIDYZSMMGJVAGKX" imageId="48549226"/>
+    </Metadata>
+    <Page imageFilename="1589042_0021.jpg" imageWidth="2904" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791880772" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="680,2011 680,2565 1684,2565 1684,2011"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="998,2133 1154,2099 1271,2137 1361,2090 1382,2105 1491,2080 1492,2043 1191,2038 1090,1976 1001,1979"/>
+                <Baseline points="1006,2099 1031,2097 1057,2095 1082,2094 1108,2092 1134,2090 1159,2092 1185,2093 1211,2091 1236,2090 1262,2090 1287,2090 1313,2090 1339,2088 1364,2087 1390,2085 1416,2084 1441,2084 1467,2084 1493,2084"/>
+                <TextEquiv>
+                    <Unicode>dängerin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="673,2399 998,2380 1156,2428 1571,2371 1572,2306 1392,2249 1244,2318 958,2286 808,2331 674,2305"/>
+                <Baseline points="680,2374 724,2377 769,2380 813,2377 858,2380 903,2380 947,2380 992,2380 1037,2377 1081,2374 1126,2374 1171,2374 1215,2374 1260,2377 1305,2374 1349,2368 1394,2368 1439,2368 1483,2365 1528,2365 1573,2368"/>
+                <TextEquiv>
+                    <Unicode>Neue Hirze (1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="679,2556 754,2536 900,2581 1076,2531 1287,2574 1389,2525 1681,2530 1681,2470 1528,2406 1317,2458 1225,2420 681,2455"/>
+                <Baseline points="686,2529 735,2527 785,2526 835,2526 885,2529 935,2529 985,2528 1035,2528 1085,2525 1135,2523 1185,2520 1234,2523 1284,2523 1334,2522 1384,2520 1434,2520 1484,2518 1534,2515 1584,2516 1634,2517 1684,2517"/>
+                <TextEquiv>
+                    <Unicode>Einzelne Heizenblätter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

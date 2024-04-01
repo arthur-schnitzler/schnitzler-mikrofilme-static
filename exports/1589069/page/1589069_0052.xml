@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:10.286+02:00</Created>
+        <LastChange>2024-01-22T21:46:42.945+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127007" pageNr="52" tsid="145643716" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TJCTWCIQPDGGBQHYIVBPTEDQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DNVCNPQGQRHFORPQFOFBVMCS" imageId="48552084"/>
+    </Metadata>
+    <Page imageFilename="1589069_0052.jpg" imageWidth="2936" imageHeight="3576">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787307788" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="608,574 608,855 2405,855 2405,574"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="635,715 2397,673 2401,550 2357,536 2029,596 1876,563 1099,620 904,563 640,589"/>
+                <Baseline points="647,692 734,692 822,691 910,690 998,684 1086,681 1174,677 1262,675 1350,676 1438,674 1526,671 1613,664 1701,664 1789,661 1877,658 1965,653 2053,653 2141,650 2229,647 2317,644 2405,638"/>
+                <TextEquiv>
+                    <Unicode>Ein geliebter Mensch,das bedeutet sieben Mal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="596,825 778,877 899,838 1135,842 1192,880 1649,833 1651,719 1594,699 1447,732 1227,699 1093,726 1044,690 954,728 745,719 598,776"/>
+                <Baseline points="608,823 660,820 712,820 764,823 817,822 869,820 921,820 973,818 1026,817 1078,814 1130,811 1182,810 1235,808 1287,806 1339,808 1391,805 1444,804 1496,802 1548,802 1600,802 1653,802"/>
+                <TextEquiv>
+                    <Unicode>Schmerz und einmal Freude.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

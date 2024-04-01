@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_15:29</Creator>
+        <Created>2023-09-27T14:32:37.350+02:00</Created>
+        <LastChange>2024-01-22T15:29:23.173+01:00</LastChange>
+        <TranskribusMetadata docId="1589026" pageId="60122571" pageNr="184" tsid="145619905" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DDVMYPTTNKSWGQEQWIQIWRKG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JUJPBMHWNLLXYKFQFRZTMQQZ" imageId="48547649"/>
+    </Metadata>
+    <Page imageFilename="1589026_0184.jpg" imageWidth="3032" imageHeight="3928">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711796471089" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="355,1146 355,1523 2665,1523 2665,1146"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="336,1292 399,1257 430,1280 548,1251 588,1274 651,1234 752,1240 878,1292 884,1157 752,1154 695,1116 654,1131 588,1105 425,1162 339,1165"/>
+                <Baseline points="355,1229 381,1227 408,1225 434,1223 461,1221 487,1220 514,1218 540,1217 567,1217 593,1216 620,1214 647,1214 673,1213 700,1211 726,1211 753,1211 779,1211 806,1210 832,1209 859,1208 886,1208"/>
+                <TextEquiv>
+                    <Unicode>Bei Willnere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="350,1386 732,1415 844,1360 1013,1360 1099,1398 1185,1343 1346,1363 1636,1309 1762,1352 1848,1297 2089,1340 2095,1231 2009,1191 1682,1254 1277,1217 1059,1283 356,1274"/>
+                <Baseline points="367,1355 453,1352 540,1351 626,1346 713,1343 799,1340 886,1334 972,1331 1059,1326 1145,1321 1232,1320 1319,1316 1405,1313 1492,1307 1578,1301 1665,1298 1751,1294 1838,1289 1924,1289 2011,1286 2098,1286"/>
+                <TextEquiv>
+                    <Unicode>a. Astritt. - Baron Gulde Liebert tritt ein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="353,1498 1048,1544 1475,1472 1860,1538 2652,1472 2643,1294 2454,1343 2147,1309 1811,1372 1705,1337 1527,1392 1280,1343 881,1418 821,1380 738,1412 359,1383"/>
+                <Baseline points="370,1492 484,1483 599,1480 714,1473 829,1468 943,1465 1058,1456 1173,1454 1288,1449 1402,1441 1517,1437 1632,1432 1747,1424 1861,1420 1976,1417 2091,1410 2206,1403 2320,1399 2435,1396 2550,1392 2665,1381"/>
+                <TextEquiv>
+                    <Unicode>Bn. Noch niemand das Ha. Und sie besilen sich auch nicht..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

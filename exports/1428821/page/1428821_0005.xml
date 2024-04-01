@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:27</Creator>
+        <Created>2023-05-10T15:10:38.673+02:00</Created>
+        <LastChange>2023-08-15T04:27:47.235+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431110" pageNr="5" tsid="132838735" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SENXMQPKZNPXIRUTRHAOKDLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLVODHSJMLMPMRZLUFVBWXZD" imageId="44705182"/>
+    </Metadata>
+    <Page imageFilename="1428821_0005.jpg" imageWidth="4040" imageHeight="5576">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803571969" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="471,451 3038,451 3038,1066 471,1066"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1399,617 1419,610 1444,620 1463,607 1495,613 1521,591 1543,597 1562,578 1594,597 1629,585 1623,415 1534,377 1502,377 1447,355 1390,380"/>
+                <Baseline points="1414,501 1504,501 1593,507 1635,507"/>
+                <TextEquiv>
+                    <Unicode>-4-1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="454,802 1019,828 1272,741 1511,786 1700,735 1856,815 2355,748 2355,681 2221,636 872,674 454,604"/>
+                <Baseline points="471,740 483,734 573,740 662,734 752,734 841,734 931,728 1020,734 1110,734 1199,734 1289,734 1379,734 1468,734 1558,734 1647,734 1737,734 1826,734 1916,728 2005,728 2095,728 2185,728 2274,728 2364,722"/>
+                <TextEquiv>
+                    <Unicode>Komödie der Verführung in 3 Akten, 1924.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="466,917 2767,946 3029,891 3029,783 466,850"/>
+                <Baseline points="483,901 531,895 620,895 710,895 799,895 889,895 979,895 1068,895 1158,895 1247,895 1337,895 1426,895 1516,889 1605,889 1695,889 1785,889 1874,889 1964,889 2053,889 2143,889 2232,895 2322,889 2411,889 2501,889 2590,889 2680,883 2770,883 2859,877 2949,877 3038,877"/>
+                <TextEquiv>
+                    <Unicode>Gang zum Weiher, dramatische Dichtung in 5 Akten,I926.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="495,1102 2633,1086 2527,971 1891,933 495,1003"/>
+                <Baseline points="513,1056 579,1056 668,1056 758,1056 847,1056 937,1056 1026,1050 1116,1056 1205,1056 1295,1050 1385,1056 1474,1050 1564,1050 1653,1056 1743,1050 1832,1050 1922,1050 2011,1050 2101,1050 2190,1050 2280,1050 2370,1044 2459,1044 2549,1044 2638,1044"/>
+                <TextEquiv>
+                    <Unicode>Im Spiel der Sommerlüfte, Drei Aufzüge, 1931.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

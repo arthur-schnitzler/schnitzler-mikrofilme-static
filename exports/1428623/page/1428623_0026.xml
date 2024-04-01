@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_16:10</Creator>
+        <Created>2023-05-10T14:25:59.917+02:00</Created>
+        <LastChange>2023-08-14T16:10:32.105+02:00</LastChange>
+        <TranskribusMetadata docId="1428623" pageId="55419802" pageNr="26" tsid="132813483" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VMTVYVBEFZIPHQZWRTFELJOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AZTFCKJTMHSDHDBKPATYZMCX" imageId="44693905"/>
+    </Metadata>
+    <Page imageFilename="1428623_0026.jpg" imageWidth="3880" imageHeight="4952">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711820678452" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="900,970 2595,970 2595,1095 900,1095"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="892,1098 963,1120 1098,1090 1332,1146 1438,1112 1512,1152 1671,1117 1881,1034 1896,850 1682,801 1219,1009 1064,1030 1025,1004 896,1049"/>
+                <Baseline points="900,1085 990,1085 1079,1085 1169,1085 1258,1079 1348,1067 1437,1061 1527,1044 1616,1044 1706,1026 1795,1026 1885,1020"/>
+                <TextEquiv>
+                    <Unicode>auf sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1951,1065 2023,1081 2132,1149 2247,1087 2315,1082 2433,1175 2592,1067 2589,907 2546,918 2424,868 2389,879 2274,816 2111,923 1949,944"/>
+                <Baseline points="1956,1020 2046,1032 2135,1038 2225,1038 2314,1038 2404,1038 2493,1032 2583,1044 2595,1044"/>
+                <TextEquiv>
+                    <Unicode>Hanspruch</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

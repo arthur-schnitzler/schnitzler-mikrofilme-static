@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_18:55</Creator>
+        <Created>2023-05-10T14:44:25.616+02:00</Created>
+        <LastChange>2023-08-14T18:55:05.232+02:00</LastChange>
+        <TranskribusMetadata docId="1428656" pageId="55424346" pageNr="7" tsid="132821868" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HHFIZHOGXQXFAANBUZRTZQOQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBIYIIKZDARYEWATKIEJWQMG" imageId="44698423"/>
+    </Metadata>
+    <Page imageFilename="1428656_0007.jpg" imageWidth="3400" imageHeight="4040">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814510800" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1151,1349 2715,1349 2715,1651 1151,1651"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1131,1616 1403,1587 1570,1506 2165,1454 2224,1502 2338,1430 2521,1421 2527,1362 2240,1285 1743,1436 1151,1423"/>
+                <Baseline points="1151,1527 1184,1527 1229,1530 1274,1524 1318,1515 1363,1509 1408,1503 1453,1497 1497,1494 1542,1491 1587,1485 1632,1482 1676,1473 1721,1473 1766,1468 1811,1465 1855,1462 1900,1453 1945,1447 1990,1441 2034,1438 2079,1435 2124,1432 2169,1426 2213,1423 2258,1417 2303,1414 2348,1414 2392,1408 2437,1405 2482,1399 2527,1399"/>
+                <TextEquiv>
+                    <Unicode>I dass ne nasshen duiften</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1238,1656 1407,1695 1605,1631 2180,1576 2371,1658 2503,1566 2710,1555 2716,1467 1851,1478 1495,1528 1239,1625"/>
+                <Baseline points="1247,1641 1283,1641 1327,1638 1372,1635 1417,1632 1462,1626 1506,1620 1551,1617 1596,1614 1641,1611 1685,1608 1730,1605 1775,1602 1820,1599 1864,1593 1909,1590 1954,1587 1999,1584 2043,1581 2088,1575 2133,1575 2178,1572 2222,1569 2267,1566 2312,1566 2357,1563 2401,1560 2446,1560 2491,1560 2536,1557 2580,1551 2625,1551 2670,1548 2715,1551"/>
+                <TextEquiv>
+                    <Unicode>während andere hungerten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:57</Creator>
+        <Created>2023-09-27T14:39:35.907+02:00</Created>
+        <LastChange>2024-01-22T19:57:58.329+01:00</LastChange>
+        <TranskribusMetadata docId="1589057" pageId="60125675" pageNr="76" tsid="145637647" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OWXSVWCDTUPXDRXHCKTNIKIH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IFVYVPCUEHGKKEKDHATUHLJK" imageId="48550752"/>
+    </Metadata>
+    <Page imageFilename="1589057_0076.jpg" imageWidth="3352" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790039062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="979,574 979,1118 2487,1118 2487,574"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1002,721 1535,683 1779,712 2015,651 2482,644 2487,513 1367,601 1007,559"/>
+                <Baseline points="1012,698 1085,692 1159,691 1233,689 1307,688 1380,688 1454,680 1528,675 1602,673 1675,671 1749,669 1823,665 1897,661 1970,660 2044,657 2118,654 2192,650 2265,648 2339,644 2413,641 2487,636"/>
+                <TextEquiv>
+                    <Unicode>Tod und Regen sind in der Sowalt der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1039,841 1928,814 2030,797 2033,742 1041,779"/>
+                <Baseline points="1048,830 1097,824 1146,824 1196,821 1245,820 1295,818 1344,815 1393,812 1443,810 1492,809 1542,806 1591,803 1640,803 1690,803 1739,802 1789,797 1838,796 1887,793 1937,791 1986,788 2036,788"/>
+                <TextEquiv>
+                    <Unicode>steht in der Zunge Gewalt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="969,969 1493,963 1629,1044 1762,1022 1766,880 970,897"/>
+                <Baseline points="979,952 1018,950 1058,952 1097,949 1137,949 1177,947 1216,946 1256,944 1295,943 1335,943 1375,943 1414,943 1454,943 1493,941 1533,938 1573,935 1612,933 1652,931 1691,931 1731,931 1771,928"/>
+                <TextEquiv>
+                    <Unicode>Salom Kap. 18 -21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="969,1124 1079,1113 1098,1127 1131,1118 1155,1127 1201,1103 1229,1105 1231,976 1144,996 1116,976 1074,991 1048,969 970,967"/>
+                <Baseline points="979,1087 1004,1087 1029,1086 1055,1084 1080,1084 1106,1084 1131,1084 1156,1084 1182,1084 1207,1084 1233,1084"/>
+                <TextEquiv>
+                    <Unicode>notto:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

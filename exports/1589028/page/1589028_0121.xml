@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_16:24</Creator>
+        <Created>2023-09-27T14:32:28.502+02:00</Created>
+        <LastChange>2024-01-22T16:24:15.642+01:00</LastChange>
+        <TranskribusMetadata docId="1589028" pageId="60122236" pageNr="121" tsid="145623589" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OUGQFFKBHZKRNYDZSAZTCWDU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VSBRSFJXCAPPGPADZQXODOLZ" imageId="48547315"/>
+    </Metadata>
+    <Page imageFilename="1589028_0121.jpg" imageWidth="2867" imageHeight="3752">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795659796" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1247,1767 1671,1767 1671,1836 1247,1836"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1236,1852 1340,1842 1374,1858 1444,1824 1564,1872 1666,1864 1664,1752 1542,1766 1416,1716 1346,1756 1234,1752"/>
+                <Baseline points="1247,1817 1292,1823 1337,1826 1382,1820 1411,1817 1438,1823 1483,1823 1528,1823 1573,1823 1617,1826 1662,1823 1671,1823"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

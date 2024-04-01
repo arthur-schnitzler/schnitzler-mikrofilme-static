@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:57.517+02:00</Created>
+        <LastChange>2024-01-22T21:10:32.590+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126333" pageNr="66" tsid="145642021" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CFGGCDFFPTSOXXWPTIAVNRSF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QUFCJDWLXMDWFOKQXGVFYBEC" imageId="48551410"/>
+    </Metadata>
+    <Page imageFilename="1589065_0066.jpg" imageWidth="2968" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788318043" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="531,457 531,1117 2513,1117 2513,457"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="516,622 853,563 1418,587 1572,553 1752,590 2097,533 2506,550 2494,411 1666,488 521,454"/>
+                <Baseline points="531,570 630,567 729,564 828,563 927,561 1026,559 1125,555 1224,552 1323,551 1422,547 1522,546 1621,543 1720,541 1819,538 1918,539 2017,534 2116,534 2215,530 2314,527 2413,525 2513,519"/>
+                <TextEquiv>
+                    <Unicode>,In den Reflexen des Daseins spielen und daran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="558,706 974,704 1029,739 1279,687 1683,719 1849,682 2013,729 2263,667 2461,679 2486,607 2263,563 2055,622 1703,575 1532,627 1363,592 930,637 560,610"/>
+                <Baseline points="573,695 668,693 764,695 860,693 956,690 1052,689 1147,686 1243,682 1339,681 1435,679 1531,678 1626,674 1722,674 1818,668 1914,665 2010,668 2105,662 2201,660 2297,656 2393,656 2489,653"/>
+                <TextEquiv>
+                    <Unicode>sich genügen lassen,dasp macht den Literaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="550,850 798,877 1009,818 1866,840 2412,796 2402,734 1819,736 1760,701 1497,741 1413,711 1306,758 840,709 553,776"/>
+                <Baseline points="567,826 659,826 752,823 844,820 937,820 1029,817 1122,817 1214,811 1307,808 1399,805 1492,805 1584,802 1677,802 1769,799 1862,798 1954,794 2047,791 2139,790 2232,784 2324,784 2417,778"/>
+                <TextEquiv>
+                    <Unicode>aus.Der aber ist ein Dichter,dem in diesen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="568,989 1130,947 1272,994 1445,944 1591,987 1948,925 2288,972 2454,944 2456,855 1896,843 1752,882 1695,838 1472,877 1167,835 1053,902 570,855"/>
+                <Baseline points="584,949 677,951 771,948 865,949 959,946 1052,946 1146,945 1240,941 1334,940 1427,937 1521,937 1615,936 1709,931 1802,928 1896,928 1990,924 2084,923 2177,919 2271,916 2365,913 2459,910"/>
+                <TextEquiv>
+                    <Unicode>pefleken das Dasein selbst sich zum zweiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="553,1158 952,1130 1016,1170 1165,1170 1185,987 1093,996 1004,957 783,1046 706,1001 607,1036 555,1016"/>
+                <Baseline points="570,1080 601,1080 632,1081 663,1083 694,1083 725,1082 756,1080 787,1083 818,1081 849,1079 880,1077 911,1079 942,1080 973,1080 1004,1076 1035,1074 1066,1074 1097,1074 1128,1075 1159,1079 1190,1086"/>
+                <TextEquiv>
+                    <Unicode>male spiegelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

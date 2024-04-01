@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:53.163+02:00</Created>
+        <LastChange>2023-08-15T04:28:19.315+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431788" pageNr="102" tsid="132838833" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=DKNNYAAPMDJJYAPZYKIAISGC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMQJPDKZZTGSMPOTGAJQMTTQ" imageId="44705825"/>
+    </Metadata>
+    <Page imageFilename="1428821_0102.jpg" imageWidth="4040" imageHeight="5384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803846318" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="429,594 3050,594 3050,1979 429,1979"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="960,740 1183,659 1384,718 2001,682 2279,740 2583,672 2583,465 960,553"/>
+                <Baseline points="978,650 1068,644 1157,644 1247,644 1337,644 1426,644 1516,650 1605,650 1695,650 1784,650 1874,650 1963,644 2053,644 2142,644 2232,644 2321,644 2411,644 2500,650 2590,650"/>
+                <TextEquiv>
+                    <Unicode>DAS BUCH DER SPRICHE UND BEDENKEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="411,1112 1545,1245 2285,1070 2790,1118 2790,870 1742,957 876,760 411,824"/>
+                <Baseline points="429,1050 519,1038 608,1032 698,1032 787,1032 877,1032 966,1032 1056,1032 1146,1032 1235,1038 1325,1038 1414,1038 1504,1038 1593,1038 1683,1038 1772,1038 1862,1038 1951,1038 2041,1044 2130,1038 2220,1038 2309,1038 2399,1038 2489,1038 2578,1038 2668,1038 2757,1044 2799,1050"/>
+                <TextEquiv>
+                    <Unicode>Die Neue Velt (Wien), May 18, 1928 (OttoK Abeles)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="446,1513 3045,1487 3045,1245 2900,1222 446,1222"/>
+                <Baseline points="465,1348 555,1348 644,1343 734,1343 823,1343 913,1348 1002,1348 1092,1343 1181,1348 1271,1348 1360,1354 1450,1348 1539,1348 1629,1348 1719,1348 1808,1348 1898,1348 1987,1348 2077,1348 2166,1348 2256,1343 2345,1343 2435,1343 2524,1343 2614,1348 2703,1348 2793,1343 2883,1348 2972,1348 3050,1354"/>
+                <TextEquiv>
+                    <Unicode>Neues Wiener xxx, January 1, 1928 (Richard Specht)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="430,1707 944,1817 1506,1733 2411,1878 2796,1813 2796,1532 2159,1484 1726,1597 430,1513"/>
+                <Baseline points="447,1653 537,1653 626,1653 716,1653 805,1653 895,1653 984,1653 1074,1653 1163,1647 1253,1653 1343,1653 1432,1653 1522,1647 1611,1653 1701,1653 1790,1653 1880,1653 1969,1653 2059,1653 2148,1653 2238,1653 2327,1647 2417,1653 2506,1647 2596,1653 2686,1653 2775,1659 2805,1659"/>
+                <TextEquiv>
+                    <Unicode>Neun Freie Pränes. January 4, 1928 (Ernet Lethar)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="430,2004 931,2098 1752,2062 2382,2130 2382,1849 2253,1813 1817,1885 947,1810 430,1846"/>
+                <Baseline points="447,1963 507,1963 596,1963 686,1963 775,1963 865,1963 955,1963 1044,1963 1134,1963 1223,1963 1313,1963 1402,1963 1492,1957 1581,1957 1671,1957 1760,1957 1850,1963 1939,1963 2029,1969 2118,1963 2208,1957 2298,1951 2387,1939"/>
+                <TextEquiv>
+                    <Unicode>Die Literartscha Welt, February 17, 1928</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

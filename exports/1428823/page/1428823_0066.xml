@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:46</Creator>
+        <Created>2023-05-10T15:12:10.927+02:00</Created>
+        <LastChange>2023-08-15T04:46:23.148+02:00</LastChange>
+        <TranskribusMetadata docId="1428823" pageId="55432032" pageNr="66" tsid="132838985" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=VJEIBBOWNJFOIDCMFXKYLFMK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YUAHMGUYVPNLEHUIHGDPRXNB" imageId="44706069"/>
+    </Metadata>
+    <Page imageFilename="1428823_0066.jpg" imageWidth="4200" imageHeight="5544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711802923824" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="531,374 3512,374 3512,1139 531,1139"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1664,430 1689,426 1786,474 1808,463 1823,471 1849,452 1871,471 1901,471 1901,278 1871,289 1819,282 1764,304 1730,293 1693,319 1664,322"/>
+                <Baseline points="1684,424 1774,424 1863,424 1905,424"/>
+                <TextEquiv>
+                    <Unicode>-31-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="841,626 3475,537 3505,419 2242,404 1893,552 848,426"/>
+                <Baseline points="860,615 937,609 1027,609 1117,603 1206,597 1218,597 1272,597 1362,591 1451,591 1541,585 1630,579 1720,579 1810,573 1899,579 1989,567 2079,567 2168,561 2258,555 2347,555 2437,555 2527,555 2616,549 2706,543 2795,537 2885,537 2975,531 3064,525 3154,525 3243,519 3333,519 3423,513 3512,513"/>
+                <TextEquiv>
+                    <Unicode>Count: Is that so?... And who do you think has the com¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="511,719 2475,708 3483,634 3486,534 515,608"/>
+                <Baseline points="531,710 537,704 627,698 716,693 806,693 896,693 985,687 1075,681 1164,681 1254,675 1344,675 1433,669 1523,669 1613,663 1702,663 1792,657 1881,651 1971,651 2061,657 2150,645 2240,645 2329,639 2419,633 2509,633 2598,627 2688,627 2777,621 2867,615 2957,615 3046,609 3136,603 3226,603 3315,597 3405,597 3494,603"/>
+                <TextEquiv>
+                    <Unicode>partment between mine and yours? Egon and his son. That will</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="511,785 708,837 826,797 1023,837 1171,760 1267,763 1564,837 1567,708 1504,678 515,719"/>
+                <Baseline points="531,776 585,782 675,776 764,776 854,770 943,770 1033,764 1123,758 1212,752 1302,746 1391,746 1481,746 1571,740"/>
+                <TextEquiv>
+                    <Unicode>a surprise to them.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="852,971 3435,904 3442,711 856,852"/>
+                <Baseline points="878,925 937,920 1027,920 1117,914 1206,914 1296,902 1386,902 1475,902 1565,902 1654,896 1744,896 1834,890 1923,884 2013,884 2102,878 2192,878 2282,872 2371,872 2461,866 2550,866 2640,854 2730,854 2819,854 2909,842 2999,842 3088,842 3178,836 3267,830 3357,830 3447,824"/>
+                <TextEquiv>
+                    <Unicode>Countess: Yes...A great surprise. (Enters the house.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1645,1152 1723,1130 1760,1156 1819,1141 1867,1163 1908,1149 1945,1160 1986,1130 2034,1134 2038,1037 2004,1045 1953,1030 1927,1052 1890,1019 1867,1023 1823,997 1801,1004 1760,978 1734,997 1649,1004"/>
+                <Baseline points="1666,1129 1684,1129 1774,1123 1863,1117 1953,1117 2043,1111"/>
+                <TextEquiv>
+                    <Unicode>CURTAIN</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

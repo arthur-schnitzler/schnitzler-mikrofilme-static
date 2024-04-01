@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:09.134+02:00</Created>
+        <LastChange>2024-01-22T21:46:39.868+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60126957" pageNr="40" tsid="145643704" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GJZJZIRRLVXYMJXXOJRHUSKB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FFJKAUHNAPBWHIKORKTUNDIQ" imageId="48552034"/>
+    </Metadata>
+    <Page imageFilename="1589069_0040.jpg" imageWidth="2936" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787290396" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="645,491 645,1138 2694,1138 2694,491"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="629,622 1081,580 1181,622 1799,573 2400,592 2505,562 2507,494 2029,475 1955,517 1640,534 1237,482 631,529"/>
+                <Baseline points="645,588 738,587 831,588 924,587 1017,585 1110,593 1203,588 1297,579 1390,579 1483,579 1576,578 1669,575 1762,569 1855,567 1949,565 2042,564 2135,564 2228,560 2321,558 2414,555 2508,552"/>
+                <TextEquiv>
+                    <Unicode>Duldsankeit gegenüber der Unduldsamkeit, das ist</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="636,736 1703,743 2104,694 2346,757 2481,725 2484,634 638,671"/>
+                <Baseline points="648,725 740,719 832,719 924,716 1016,717 1108,716 1200,714 1292,713 1384,712 1476,709 1569,707 1661,707 1753,704 1845,701 1937,698 2029,698 2121,693 2213,687 2305,686 2397,683 2490,686"/>
+                <TextEquiv>
+                    <Unicode>von allen Verbrechen das schlimmste. Unduldsam-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="629,953 1051,958 1242,904 1568,888 1568,778 1146,811 631,792"/>
+                <Baseline points="645,857 691,854 737,853 784,851 830,852 877,853 923,851 970,853 1016,851 1063,848 1109,850 1155,851 1202,849 1248,846 1295,845 1341,845 1388,845 1434,842 1481,842 1527,842 1574,845"/>
+                <TextEquiv>
+                    <Unicode>keit ist das geringere.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2130,904 2188,927 2265,902 2297,930 2323,916 2360,934 2405,906 2498,925 2521,913 2544,932 2586,918 2591,834 2542,841 2519,813 2493,825 2384,806 2360,820 2316,802 2227,834 2137,804"/>
+                <Baseline points="2144,896 2169,893 2194,890 2219,892 2244,893 2269,891 2294,889 2319,887 2344,887 2369,887 2394,885 2419,884 2444,884 2469,883 2494,880 2519,876 2544,873 2569,873 2595,875"/>
+                <TextEquiv>
+                    <Unicode>nen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1689,1107 1857,1135 2155,1100 2507,1142 2561,1181 2689,1163 2689,1035 2642,1023 2381,1072 1689,1039"/>
+                <Baseline points="1702,1102 1751,1103 1801,1102 1850,1102 1900,1102 1950,1101 1999,1099 2049,1098 2098,1098 2148,1097 2198,1096 2247,1096 2297,1096 2346,1096 2396,1097 2446,1099 2495,1098 2545,1098 2594,1086 2644,1084 2694,1078"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:30.733+02:00</Created>
+        <LastChange>2024-01-22T19:42:34.609+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125478" pageNr="59" tsid="145636230" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ZCZCFKQTYGXWVGNWXGRSVSPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YFNDLIDYFHAQPAPDHCTJWKSL" imageId="48550555"/>
+    </Metadata>
+    <Page imageFilename="1589055_0059.jpg" imageWidth="2904" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790649433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="650,639 650,1096 2221,1096 2221,639"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="648,680 1458,674 1656,725 1790,678 1965,721 1987,615 646,617"/>
+                <Baseline points="659,665 725,663 792,662 859,662 926,665 992,668 1059,668 1126,668 1193,668 1259,671 1326,671 1393,674 1460,674 1526,679 1593,674 1660,680 1727,676 1793,677 1860,677 1927,677 1994,680"/>
+                <TextEquiv>
+                    <Unicode>Mein Äuter lass Dein iues Schelter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="646,731 656,733 676,719 717,729 725,721 733,723 753,713 770,713 772,680 743,682 733,688 715,682 705,692 686,688 670,676 660,684 650,682"/>
+                <Baseline points="659,713 688,710 717,710 746,708 776,704"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="684,853 1594,859 1763,815 1900,861 2160,821 2160,778 1961,719 1590,788 1405,715 1028,758 884,713 684,723"/>
+                <Baseline points="695,797 768,800 842,800 915,800 989,800 1062,800 1136,803 1209,800 1283,800 1356,803 1430,803 1503,806 1577,811 1650,805 1724,812 1797,808 1871,809 1944,809 2018,809 2091,810 2165,821"/>
+                <TextEquiv>
+                    <Unicode>Und schimpfst Du färt, so gen allein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="639,937 2218,961 2218,890 1977,902 1855,839 1515,896 639,849"/>
+                <Baseline points="650,931 728,931 807,934 885,933 964,934 1042,934 1121,934 1199,937 1278,934 1356,936 1435,939 1514,940 1592,937 1671,939 1749,938 1828,938 1906,943 1985,943 2063,943 2142,944 2221,952"/>
+                <TextEquiv>
+                    <Unicode>Wer nur der schönsten Baum lässt gelten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="678,1067 998,1114 1173,1067 1489,1116 1745,1071 2063,1093 2063,1024 1998,1004 678,1018"/>
+                <Baseline points="689,1063 758,1065 827,1066 896,1063 965,1066 1034,1068 1103,1066 1172,1066 1241,1066 1310,1066 1379,1065 1448,1066 1517,1066 1586,1066 1655,1066 1724,1069 1793,1067 1862,1063 1931,1067 2000,1069 2069,1075"/>
+                <TextEquiv>
+                    <Unicode>Dem kanti im Walde vori nichtsein.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

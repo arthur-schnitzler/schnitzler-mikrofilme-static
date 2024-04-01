@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_18:02</Creator>
+        <Created>2023-05-10T14:43:29.300+02:00</Created>
+        <LastChange>2023-08-14T18:02:34.547+02:00</LastChange>
+        <TranskribusMetadata docId="1428648" pageId="55423976" pageNr="1" tsid="132819890" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FBSWCBFUWIXREKHMOGUWDKXG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BBHOYMWJESICPBEVNQHZCLPN" imageId="44698054"/>
+    </Metadata>
+    <Page imageFilename="1428648_0001.jpg" imageWidth="3416" imageHeight="4120">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814945612" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="453,296 2382,296 2382,3488 453,3488"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1563,458 1669,485 1696,463 1720,470 1778,432 1846,429 1853,193 1800,191 1785,203 1754,188 1735,198 1718,183 1672,198 1638,166 1597,191 1571,191"/>
+                <Baseline points="1579,352 1585,352 1630,355 1674,355 1719,352 1764,352 1809,349 1854,346"/>
+                <TextEquiv>
+                    <Unicode>165</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1696,1549 1805,1546 1891,1628 1923,1616 1990,1679 2106,1674 2145,1257 1903,1300 1848,1262 1718,1324"/>
+                <Baseline points="1713,1489 1728,1495 1773,1489 1818,1486 1862,1486 1907,1480 1952,1474 1997,1468 2042,1468 2086,1462 2128,1450"/>
+                <TextEquiv>
+                    <Unicode>heft</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1016,2292 1045,2287 1062,2299 1095,2280 1158,2289 1158,1983 1100,1981 1062,1966 1016,1978"/>
+                <Baseline points="1030,2242 1068,2245 1113,2245 1161,2242"/>
+                <TextEquiv>
+                    <Unicode>P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="437,3508 753,3551 1373,3433 2289,3457 2374,3433 2379,3351 2207,3288 2058,3356 1549,3283 1286,3351 446,3283"/>
+                <Baseline points="453,3478 456,3478 501,3472 546,3475 591,3472 635,3469 680,3460 725,3457 770,3457 815,3457 859,3454 904,3451 949,3448 994,3445 1038,3445 1083,3442 1128,3439 1173,3439 1218,3436 1262,3436 1307,3436 1352,3433 1397,3433 1442,3433 1486,3430 1531,3430 1576,3430 1621,3424 1665,3424 1710,3421 1755,3418 1800,3418 1845,3418 1889,3415 1934,3412 1979,3409 2024,3406 2068,3406 2113,3403 2158,3400 2203,3400 2248,3397 2292,3397 2337,3397 2382,3403"/>
+                <TextEquiv>
+                    <Unicode>In „Die kleine Komödie“ aufgenommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

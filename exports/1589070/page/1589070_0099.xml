@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:51.539+02:00</Created>
+        <LastChange>2024-01-22T21:36:56.286+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127424" pageNr="99" tsid="145643096" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DYLBTNLEHYIAHQQPTXUTPFHR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AKRUFTFRMBADBKWKHBDQMENG" imageId="48552501"/>
+    </Metadata>
+    <Page imageFilename="1589070_0099.jpg" imageWidth="2984" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787175934" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="477,491 477,1259 2543,1259 2543,491"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2142,620 2155,620 2176,599 2183,605 2204,599 2212,607 2240,584 2253,594 2287,579 2297,587 2333,581 2336,506 2312,506 2258,468 2209,496 2183,483 2145,499"/>
+                <Baseline points="2155,555 2181,555 2207,555 2233,555 2259,555 2285,555 2311,554 2337,552"/>
+                <TextEquiv>
+                    <Unicode>902.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="462,997 628,1013 853,943 1072,971 1294,904 1522,925 1964,850 2323,871 2537,827 2545,736 2385,765 2121,726 2031,762 1884,729 1713,806 1119,822 938,889 475,835"/>
+                <Baseline points="477,979 580,972 683,964 786,953 890,943 993,930 1096,923 1200,913 1303,901 1406,893 1510,883 1613,873 1716,863 1819,856 1923,846 2026,837 2129,830 2233,817 2336,810 2439,804 2543,800"/>
+                <TextEquiv>
+                    <Unicode>Her deine bittereten Feinde sinde Unbekannte, die als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="462,1137 835,1137 995,1093 1369,1121 1741,995 2478,971 2486,871 2434,850 2183,907 1989,858 1765,938 1610,897 1284,992 1178,933 816,1026 705,977 473,1039"/>
+                <Baseline points="483,1101 583,1096 683,1090 783,1080 883,1070 983,1059 1083,1049 1184,1044 1284,1029 1384,1024 1484,1013 1584,1006 1684,997 1784,989 1885,980 1985,974 2085,964 2185,954 2285,947 2385,938 2486,934"/>
+                <TextEquiv>
+                    <Unicode>nen; nie sehr du ste verachten würdest, womn du sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2116,1243 2178,1214 2248,1238 2284,1220 2460,1240 2473,1065 2457,1059 2431,1054 2374,1090 2343,1072 2240,1124 2124,1142"/>
+                <Baseline points="2134,1197 2159,1197 2185,1193 2211,1190 2237,1186 2263,1185 2289,1185 2315,1183 2341,1182 2367,1180 2393,1178 2419,1174 2445,1172 2471,1170"/>
+                <TextEquiv>
+                    <Unicode>zen Comen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="481,1248 522,1266 605,1245 674,1269 747,1235 858,1245 863,1163 806,1160 785,1142 705,1168 636,1163 612,1145 525,1168 486,1158"/>
+                <Baseline points="498,1229 524,1225 550,1223 577,1222 603,1220 630,1220 656,1219 683,1217 709,1216 735,1214 762,1212 788,1210 815,1209 841,1208 868,1208"/>
+                <TextEquiv>
+                    <Unicode>kenntest.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_01:51</Creator>
+        <Created>2023-05-10T15:06:57.064+02:00</Created>
+        <LastChange>2023-08-15T01:51:08.923+02:00</LastChange>
+        <TranskribusMetadata docId="1428800" pageId="55430296" pageNr="22" tsid="132836466" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=BKNDBJRKOSMPMWWGIFAICZEV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=AJVGOBVDWXPWBALXXYDVVGDZ" imageId="44704368"/>
+    </Metadata>
+    <Page imageFilename="1428800_0022.jpg" imageWidth="3224" imageHeight="3928">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711805126153" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="773,1254 1623,1254 1623,1941 773,1941"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="806,1317 961,1326 998,1342 1037,1337 1074,1355 1128,1355 1123,1267 1063,1256 1044,1263 947,1232 885,1251 847,1230 802,1232"/>
+                <Baseline points="811,1304 856,1307 901,1310 946,1313 990,1316 1035,1316 1080,1316 1125,1316 1128,1316"/>
+                <TextEquiv>
+                    <Unicode>Wildgan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1206,1325 1221,1330 1246,1321 1328,1370 1411,1365 1428,1375 1454,1372 1451,1272 1403,1261 1381,1269 1334,1250 1311,1261 1262,1245 1203,1246"/>
+                <Baseline points="1211,1313 1256,1316 1301,1319 1346,1319 1390,1319 1435,1322 1456,1322"/>
+                <TextEquiv>
+                    <Unicode>Anton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="768,1804 1045,1773 1149,1808 1334,1770 1621,1831 1607,1697 1320,1724 1107,1683 972,1726 766,1696"/>
+                <Baseline points="773,1764 817,1767 862,1767 907,1767 952,1767 996,1769 1041,1769 1086,1772 1131,1769 1176,1772 1220,1772 1265,1772 1310,1772 1355,1772 1399,1775 1444,1778 1489,1778 1534,1781 1578,1778 1623,1781"/>
+                <TextEquiv>
+                    <Unicode>Zuckerkandl Viktor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="772,1939 788,1942 851,1923 900,1947 935,1942 956,1951 971,1943 964,1849 925,1855 872,1831 852,1841 832,1830 798,1850 765,1849"/>
+                <Baseline points="776,1913 820,1916 865,1919 910,1922 955,1925 973,1931"/>
+                <TextEquiv>
+                    <Unicode>Zwek,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1039,1943 1051,1945 1068,1931 1108,1936 1121,1946 1140,1942 1186,1964 1224,1951 1222,1872 1202,1872 1179,1856 1159,1863 1118,1840 1100,1842 1083,1829 1036,1835"/>
+                <Baseline points="1044,1925 1089,1925 1134,1928 1178,1928 1223,1931 1226,1931"/>
+                <TextEquiv>
+                    <Unicode>Arno</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

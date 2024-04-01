@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:55.565+02:00</Created>
+        <LastChange>2024-01-22T21:15:19.818+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126886" pageNr="80" tsid="145642246" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=XLGLKLYTNDHOIMKKMDAKVRDM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BKKUGYKVGYAPRMJTHXZHDLHD" imageId="48551963"/>
+    </Metadata>
+    <Page imageFilename="1589068_0080.jpg" imageWidth="2904" imageHeight="3512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787594487" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="528,288 528,1041 2571,1041 2571,288"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2356,371 2378,366 2394,376 2419,371 2432,379 2501,361 2488,224 2462,224 2437,211 2411,229 2396,219 2378,219 2358,204 2343,206"/>
+                <Baseline points="2368,355 2396,355 2424,356 2452,358 2480,361 2508,367"/>
+                <TextEquiv>
+                    <Unicode>R</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="555,674 1369,603 1508,644 1633,598 2139,600 2203,562 2366,593 2457,575 2465,473 2022,460 1834,527 1745,496 1333,560 1124,552 1053,506 562,524"/>
+                <Baseline points="570,639 664,636 759,630 854,624 949,621 1044,617 1138,613 1233,606 1328,601 1423,597 1518,592 1612,585 1707,582 1802,576 1897,571 1992,564 2086,559 2181,556 2276,550 2371,543 2466,543"/>
+                <TextEquiv>
+                    <Unicode>Der Gläubige, wenn er sich den Zweifler über-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="524,771 1018,783 1231,735 2564,694 2567,608 2432,580 1949,646 1887,608 1608,654 1300,613 1193,669 1089,641 672,717 529,689"/>
+                <Baseline points="537,773 638,767 740,758 842,751 943,749 1045,743 1147,739 1248,734 1350,726 1452,719 1554,716 1655,713 1757,704 1859,701 1960,693 2062,687 2164,680 2265,676 2367,673 2469,668 2571,665"/>
+                <TextEquiv>
+                    <Unicode>legen fühlt, der Zweifler, wenn er über den Gläu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="514,900 870,913 1168,860 1402,900 1880,829 2539,847 2546,720 2134,763 1661,738 1486,789 1318,771 1208,827 1030,773 921,832 516,832"/>
+                <Baseline points="528,892 628,889 729,885 830,883 931,878 1032,871 1132,862 1233,858 1334,851 1435,850 1536,845 1636,839 1737,833 1838,826 1939,821 2040,816 2140,812 2241,808 2342,802 2443,795 2544,794"/>
+                <TextEquiv>
+                    <Unicode>bigen spottet -setzen Eiehxxix sie sich nicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="534,1018 982,1023 1076,987 1262,1018 1391,972 1468,1012 1590,964 1753,1012 1870,969 2203,987 2211,852 2109,845 1837,903 1600,870 1305,923 1221,890 539,949"/>
+                <Baseline points="549,1012 632,1007 715,1004 798,1002 881,996 964,991 1047,988 1130,982 1213,980 1296,977 1379,970 1462,964 1545,961 1628,955 1711,952 1794,947 1877,944 1960,939 2043,933 2126,931 2209,928"/>
+                <TextEquiv>
+                    <Unicode>beide in Widerspruch mit sich selbst?.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:04.723+02:00</Created>
+        <LastChange>2024-01-22T21:46:13.531+01:00</LastChange>
+        <TranskribusMetadata docId="1589067" pageId="60127554" pageNr="223" tsid="145643543" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BXBNXSAJOUXQTIOJXWJRALTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IQHFFYQNGVPXVNITIBDESKBG" imageId="48552631"/>
+    </Metadata>
+    <Page imageFilename="1589067_0223.jpg" imageWidth="2872" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787982117" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="474,383 474,780 2321,780 2321,383"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1365,453 1423,434 1559,453 1610,427 1654,430 1684,455 1712,432 1772,446 1774,342 1756,335 1682,328 1582,360 1444,337 1368,358"/>
+                <Baseline points="1378,441 1403,437 1428,435 1453,435 1478,436 1503,438 1528,438 1553,438 1578,436 1603,435 1628,435 1653,434 1678,433 1703,431 1728,429 1753,429 1778,429"/>
+                <TextEquiv>
+                    <Unicode>kl. der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1386,564 1485,598 1534,554 1668,578 1728,547 1818,578 1883,536 2077,557 2079,437 1848,457 1786,501 1592,462 1511,517 1388,494"/>
+                <Baseline points="1399,545 1433,546 1467,545 1501,545 1535,545 1569,545 1603,545 1638,544 1672,540 1706,538 1740,538 1774,539 1808,537 1842,537 1877,536 1911,534 1945,534 1979,534 2013,535 2047,536 2082,534"/>
+                <TextEquiv>
+                    <Unicode>sichsti fühlst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="462,665 1409,633 1481,677 1966,631 2315,679 2315,545 1920,584 1536,554 1485,596 1063,531 894,575 462,557"/>
+                <Baseline points="474,626 566,626 658,632 751,628 843,623 935,620 1028,621 1120,624 1212,626 1305,625 1397,624 1489,626 1582,628 1674,626 1766,626 1859,629 1951,632 2043,626 2136,629 2228,630 2321,638"/>
+                <TextEquiv>
+                    <Unicode>Allgegenwart Goties; dushörst, ihn überall,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="467,776 1321,758 1460,808 1689,765 1686,684 1599,663 464,670"/>
+                <Baseline points="480,736 540,742 601,742 661,745 722,745 782,745 843,745 903,748 964,746 1024,745 1085,748 1146,748 1206,751 1267,751 1327,757 1388,755 1448,755 1509,751 1569,751 1630,751 1691,751"/>
+                <TextEquiv>
+                    <Unicode>er aberkort sich nirgends.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2216,2987 2216,3142 2398,3142 2398,2987"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2204,3160 2248,3172 2264,3172 2280,3155 2298,3172 2342,3167 2356,3174 2375,3162 2393,3169 2395,2996 2368,2996 2317,2973 2275,2978 2206,2959"/>
+                <Baseline points="2216,3087 2242,3089 2268,3090 2294,3092 2320,3091 2346,3088 2372,3087 2398,3087"/>
+                <TextEquiv>
+                    <Unicode>480</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

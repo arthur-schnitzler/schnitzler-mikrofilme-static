@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:14.589+02:00</Created>
+        <LastChange>2024-01-22T21:46:50.886+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127174" pageNr="96" tsid="145643762" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NZCZEITAIPXSXJIZUWTMVZCN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GMYEWRQTYEICPFHEZLWEUYMO" imageId="48552251"/>
+    </Metadata>
+    <Page imageFilename="1589069_0096.jpg" imageWidth="2904" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787371704" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="659,499 659,1013 2581,1013 2581,499"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="651,565 1017,613 1300,599 1353,560 2031,620 2435,606 2435,469 2373,450 2209,529 1990,526 1868,425 1603,445 1522,493 1211,452 651,498"/>
+                <Baseline points="665,561 753,561 842,561 931,564 1020,567 1109,570 1197,570 1286,573 1375,567 1464,570 1553,573 1641,573 1730,573 1819,570 1908,572 1997,576 2085,576 2174,576 2263,576 2352,578 2441,576"/>
+                <TextEquiv>
+                    <Unicode>Aue der Logik, der Verantwortlichkeit und der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="647,724 993,709 1082,760 1252,707 1522,712 1603,760 1723,707 2428,736 2574,714 2574,639 2411,591 1969,637 1887,591 1579,642 1175,582 1031,632 644,613"/>
+                <Baseline points="659,686 755,689 851,692 947,695 1043,695 1139,698 1235,692 1331,698 1427,701 1523,702 1620,701 1716,699 1812,703 1908,704 2004,707 2100,706 2196,704 2292,706 2388,707 2484,705 2581,707"/>
+                <TextEquiv>
+                    <Unicode>Präzision ins Geschwätz, ins Leere, ins bespensti-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="654,849 1322,880 1892,841 2553,899 2550,743 2274,712 1911,786 1257,707 1050,767 654,755"/>
+                <Baseline points="668,820 762,823 856,826 950,826 1045,823 1139,828 1233,829 1328,829 1422,832 1516,835 1611,835 1705,835 1799,835 1893,835 1988,835 2082,835 2176,838 2271,838 2365,838 2459,838 2554,838"/>
+                <TextEquiv>
+                    <Unicode>sche, in Unverantwortliche zd flüchten, das nennen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="649,1014 2497,998 2497,928 2255,868 2079,935 1404,861 1168,911 769,880 649,911"/>
+                <Baseline points="662,958 754,964 846,964 938,964 1030,965 1122,970 1214,970 1306,971 1398,970 1490,971 1583,973 1675,973 1767,973 1859,976 1951,973 2043,973 2135,973 2227,976 2319,976 2411,976 2504,981"/>
+                <TextEquiv>
+                    <Unicode>wir irrtümlicherweise metaphysisches Bedürfnis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

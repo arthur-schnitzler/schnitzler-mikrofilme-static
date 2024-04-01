@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:40:54.935+02:00</Created>
+        <LastChange>2024-01-22T21:25:01.629+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126722" pageNr="125" tsid="145642629" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IKITORZKSQRPIOUPMCNRTHVN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FPVQBHVRQGCRPYFSUZIFVXLQ" imageId="48551799"/>
+    </Metadata>
+    <Page imageFilename="1589064_0125.jpg" imageWidth="2888" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788607477" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="546,647 546,1263 2404,1263 2404,647"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="532,741 632,709 662,718 683,709 730,727 816,704 837,725 860,716 860,630 844,625 755,646 730,667 532,630"/>
+                <Baseline points="546,713 572,713 599,712 625,711 652,709 678,707 705,709 732,710 758,710 785,711 811,713 838,713 865,713"/>
+                <TextEquiv>
+                    <Unicode>Kr. u.F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="532,853 586,860 641,834 711,878 813,841 853,867 883,841 941,850 941,760 885,776 864,760 823,769 783,734 730,732 683,706 665,718 637,706 583,737 532,730"/>
+                <Baseline points="546,835 571,835 596,835 621,835 646,836 671,837 696,837 721,835 747,836 772,838 797,840 822,840 847,837 872,835 897,835 922,839 948,844"/>
+                <TextEquiv>
+                    <Unicode>Mothoden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="532,969 644,971 771,1043 895,1009 2261,1039 2398,1029 2400,916 990,906 909,841 532,892"/>
+                <Baseline points="546,963 638,963 731,966 824,965 917,966 1010,966 1103,963 1196,963 1289,963 1382,963 1475,962 1567,959 1660,957 1753,958 1846,960 1939,960 2032,958 2125,959 2218,957 2311,957 2404,948"/>
+                <TextEquiv>
+                    <Unicode>Man reis at Stellen willkürlich aus den Zu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="537,1183 699,1136 969,1164 1127,1101 1236,1171 1350,1176 1808,1097 2022,1153 2377,1106 2377,1027 2305,1018 1659,1053 1322,1015 1029,1057 537,1029"/>
+                <Baseline points="549,1098 640,1098 732,1095 824,1095 916,1098 1007,1098 1099,1095 1191,1094 1283,1094 1374,1092 1466,1092 1558,1092 1650,1097 1741,1094 1833,1094 1925,1092 2017,1092 2108,1089 2200,1089 2292,1089 2384,1095"/>
+                <TextEquiv>
+                    <Unicode>sämmenhang und wendet sie gegen das Stück,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="537,1308 774,1278 1160,1318 1506,1266 1631,1318 1819,1306 1819,1155 1771,1141 1153,1183 1011,1132 537,1183"/>
+                <Baseline points="549,1226 612,1226 676,1226 740,1226 804,1226 868,1226 932,1228 995,1232 1059,1232 1123,1227 1187,1223 1251,1223 1315,1223 1379,1223 1442,1226 1506,1223 1570,1223 1634,1220 1698,1220 1762,1223 1826,1226"/>
+                <TextEquiv>
+                    <Unicode>ovent nell gegen den Autok an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

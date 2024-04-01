@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:01</Creator>
+        <Created>2023-05-10T15:11:27.067+02:00</Created>
+        <LastChange>2023-08-15T10:01:23.377+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436785" pageNr="343" tsid="132846525" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SQMQVNBOPFKVAZZQBBJSNTVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HYLQIYIJNPDUJEYKJBTOVMII" imageId="44710774"/>
+    </Metadata>
+    <Page imageFilename="1429033_0343.jpg" imageWidth="3400" imageHeight="5192">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800701793" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="912,2262 3032,2262 3032,2651 912,2651"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="896,2460 1039,2405 1281,2511 1620,2373 2431,2301 2882,2357 3025,2333 3036,2190 2410,2169 1803,2317 1723,2243 1591,2352 1254,2256 901,2368"/>
+                <Baseline points="912,2437 991,2431 1076,2431 1161,2425 1246,2420 1332,2414 1417,2408 1502,2397 1587,2391 1672,2380 1757,2374 1842,2363 1927,2357 2012,2352 2097,2346 2182,2346 2267,2340 2352,2340 2437,2335 2522,2329 2607,2329 2692,2329 2777,2323 2862,2323 2947,2312 3032,2318"/>
+                <TextEquiv>
+                    <Unicode>+ Berger See hadstile at thelf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1021,2771 1222,2789 1453,2601 2317,2527 2566,2784 2776,2802 2821,2500 2362,2402 2219,2492 2118,2436 1543,2553 1421,2487 1225,2572 1045,2466"/>
+                <Baseline points="1042,2641 1127,2630 1212,2624 1298,2613 1383,2607 1468,2601 1553,2584 1638,2573 1723,2567 1808,2550 1893,2544 1978,2539 2063,2533 2148,2527 2233,2527 2318,2522 2403,2516 2488,2516 2573,2510 2658,2516 2743,2516 2828,2522"/>
+                <TextEquiv>
+                    <Unicode>des colturs nicht auskommen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

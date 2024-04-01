@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_22:37</Creator>
+        <Created>2023-05-10T14:51:56.859+02:00</Created>
+        <LastChange>2023-08-14T22:37:07.283+02:00</LastChange>
+        <TranskribusMetadata docId="1428688" pageId="55426906" pageNr="39" tsid="132828496" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IHLWZZLCYMAALNDDSSHGDXZD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZENABISZBNQROKYDKOETBBAG" imageId="44700981"/>
+    </Metadata>
+    <Page imageFilename="1428688_0039.jpg" imageWidth="3656" imageHeight="4488">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711810122018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="543,743 2318,743 2318,1137 543,1137"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="528,924 1250,906 1452,826 2000,866 2311,819 2315,699 1483,748 1126,699 966,761 535,728"/>
+                <Baseline points="543,844 572,841 617,841 662,841 707,841 751,841 796,841 841,838 886,841 931,841 975,838 1020,838 1065,835 1110,832 1154,832 1199,835 1244,829 1289,826 1333,823 1378,823 1423,820 1468,820 1512,820 1557,817 1602,814 1647,814 1691,811 1736,814 1781,811 1826,805 1870,805 1915,805 1960,802 2005,805 2050,802 2094,799 2139,799 2184,799 2229,796 2273,796 2318,793"/>
+                <TextEquiv>
+                    <Unicode>Sutther.. Highlife / Schriftstellerei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="566,1137 639,1157 695,1143 844,1194 1048,1134 1092,1130 1152,1166 1221,1157 1221,1054 1010,1052 966,1032 795,1068 704,1066 679,1043 622,1070 566,1059"/>
+                <Baseline points="578,1124 623,1124 668,1124 713,1124 757,1124 802,1124 847,1124 892,1124 936,1124 981,1124 1026,1127 1071,1127 1116,1127 1160,1124 1205,1127 1226,1124"/>
+                <TextEquiv>
+                    <Unicode>Sudermann...</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

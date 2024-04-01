@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:39:00.395+02:00</Created>
+        <LastChange>2024-01-22T19:19:39.455+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125244" pageNr="43" tsid="145635151" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LAYYFVIJPKYGVPVJCHQMAGPK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRBCITKOWEWGYKHHWZGDEFVZ" imageId="48550321"/>
+    </Metadata>
+    <Page imageFilename="1589051_0043.jpg" imageWidth="2872" imageHeight="3400">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790810715" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="444,538 444,1053 2555,1053 2555,538"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="450,669 1524,630 1709,672 1877,617 2101,656 2399,606 2548,640 2551,476 2245,536 1926,494 1811,544 1655,541 1584,489 1304,491 842,591 452,557"/>
+                <Baseline points="465,638 569,636 674,635 778,629 883,631 987,629 1092,626 1196,626 1301,626 1405,623 1510,618 1614,617 1719,614 1823,612 1928,611 2032,605 2137,605 2241,605 2346,604 2450,600 2555,602"/>
+                <TextEquiv>
+                    <Unicode>Er liebt dienicht die, die ihn in Tempeln suchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="460,800 635,763 991,768 1043,808 1187,755 1435,787 2054,758 2054,690 1942,664 1200,719 1085,677 1019,716 463,695"/>
+                <Baseline points="477,767 556,766 635,761 714,761 794,759 873,762 952,758 1031,758 1111,758 1190,753 1269,752 1348,749 1428,749 1507,749 1586,748 1665,743 1745,743 1824,740 1903,737 1982,740 2062,746"/>
+                <TextEquiv>
+                    <Unicode>Die liebt er,die auf ungebahntem Weg-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="455,912 1482,881 1853,928 1966,865 2177,902 2177,831 2062,776 1911,834 1181,797 978,860 457,797"/>
+                <Baseline points="468,892 553,892 639,892 725,891 811,889 897,888 983,886 1068,883 1154,880 1240,883 1326,878 1412,877 1498,877 1584,873 1669,870 1755,871 1841,870 1927,868 2013,865 2099,865 2185,874"/>
+                <TextEquiv>
+                    <Unicode>Nach fernem ziele, wo kein tag steht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="429,1046 609,1030 771,1077 998,1017 1197,1053 1312,1012 1584,1051 1783,1001 2015,1069 2167,1053 2169,941 2096,920 1950,967 1733,915 1610,964 431,964"/>
+                <Baseline points="444,1020 530,1022 617,1019 703,1017 790,1017 877,1017 963,1014 1050,1014 1136,1011 1223,1011 1310,1009 1396,1006 1483,1003 1569,1002 1656,1001 1743,1000 1829,997 1916,998 2002,994 2089,994 2176,1000"/>
+                <TextEquiv>
+                    <Unicode>Der dunklen Stimme folgen,die sie ruft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

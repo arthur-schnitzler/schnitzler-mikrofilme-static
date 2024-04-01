@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:06.289+02:00</Created>
+        <LastChange>2024-01-22T21:46:34.355+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60126791" pageNr="8" tsid="145643671" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=JFNSIAGNSRUFVHIGDFIPBUME&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHOPIGYXABXJLAIKICZBEPAH" imageId="48551868"/>
+    </Metadata>
+    <Page imageFilename="1589069_0008.jpg" imageWidth="3032" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787243738" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="689,569 689,1134 2291,1134 2291,569"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="679,693 2244,644 2244,566 2080,542 1828,599 1737,544 1545,583 1061,509 872,595 679,558"/>
+                <Baseline points="689,653 767,656 845,654 923,655 1001,656 1079,653 1157,655 1235,653 1313,653 1391,650 1469,647 1547,648 1625,650 1703,651 1781,648 1859,648 1937,644 2015,641 2093,639 2171,635 2249,632"/>
+                <TextEquiv>
+                    <Unicode>kein Hensch ist wahrhaft gross, der in ur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="683,802 2101,796 2103,706 1986,728 1861,681 1744,726 1608,687 1198,732 1073,689 685,740"/>
+                <Baseline points="695,796 765,796 836,789 906,787 977,785 1047,786 1118,781 1188,782 1259,781 1329,778 1400,780 1471,776 1541,775 1612,781 1682,772 1753,772 1823,770 1894,766 1964,766 2035,763 2106,766"/>
+                <TextEquiv>
+                    <Unicode>den Dräng auslöst ihn symbolisch oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="697,937 773,942 864,919 913,939 981,919 1042,935 1065,923 1065,835 1052,831 1021,857 962,837 886,874 802,876 779,857 697,872"/>
+                <Baseline points="707,915 733,915 759,916 785,917 811,918 837,918 863,917 889,915 915,915 941,915 967,915 993,915 1019,915 1045,917 1071,915"/>
+                <TextEquiv>
+                    <Unicode>zu sehen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="777,1159 1073,1155 1182,1204 1495,1151 2287,1145 2289,1052 2219,1034 779,1073"/>
+                <Baseline points="787,1100 862,1100 937,1098 1012,1097 1087,1100 1163,1097 1238,1094 1313,1091 1388,1092 1463,1092 1539,1091 1614,1088 1689,1091 1764,1083 1839,1085 1915,1083 1990,1081 2065,1079 2140,1079 2215,1076 2291,1074"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2526,639 2526,798 2747,798 2747,639"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2515,759 2535,765 2550,751 2601,751 2630,765 2673,751 2691,765 2742,755 2743,683 2728,679 2712,691 2685,683 2675,693 2640,681 2621,691 2537,646 2517,652"/>
+                <Baseline points="2526,748 2553,746 2581,745 2608,745 2636,745 2664,745 2691,743 2719,741 2747,739"/>
+                <TextEquiv>
+                    <Unicode>thisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

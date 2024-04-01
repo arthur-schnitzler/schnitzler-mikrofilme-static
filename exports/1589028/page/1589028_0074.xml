@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_16:24</Creator>
+        <Created>2023-09-27T14:32:22.346+02:00</Created>
+        <LastChange>2024-01-22T16:24:08.437+01:00</LastChange>
+        <TranskribusMetadata docId="1589028" pageId="60121987" pageNr="74" tsid="145623537" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CASFAJFFIHCHMZPCWRSSPOCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NXSSKNAGOECXPTGUAYPCTLXE" imageId="48547066"/>
+    </Metadata>
+    <Page imageFilename="1589028_0074.jpg" imageWidth="3112" imageHeight="3672">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795593128" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="262,563 262,1164 2233,1164 2233,563"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="249,621 282,628 323,618 365,648 420,632 452,644 489,637 489,542 455,558 411,540 358,568 307,528 284,545 249,551"/>
+                <Baseline points="262,609 287,609 313,609 338,609 364,609 389,609 415,609 440,609 466,611 492,612"/>
+                <TextEquiv>
+                    <Unicode>Mer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="372,771 641,720 941,771 1059,704 1255,750 1468,658 1592,688 1703,653 1768,695 2061,621 2227,635 2229,556 1890,501 1156,635 598,607 383,639"/>
+                <Baseline points="388,728 480,722 572,722 664,719 757,716 849,716 941,713 1033,704 1126,698 1218,687 1310,681 1402,662 1495,653 1587,648 1679,637 1771,632 1864,610 1956,604 2048,600 2140,600 2233,612"/>
+                <TextEquiv>
+                    <Unicode>bn ch willst mach allen leren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="833,909 886,916 941,881 1064,921 1574,849 1574,805 1502,808 1461,766 1355,764 1228,824 1193,798 1038,824 840,798"/>
+                <Baseline points="847,874 883,880 920,879 956,877 993,880 1030,878 1066,874 1103,871 1139,870 1176,868 1213,866 1249,863 1286,858 1322,852 1359,850 1396,847 1432,845 1469,846 1505,846 1542,843 1579,838"/>
+                <TextEquiv>
+                    <Unicode>Hamait lit-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="372,944 434,916 528,911 623,937 658,921 715,951 847,941 847,789 741,796 685,835 611,808 542,828 434,798 372,812"/>
+                <Baseline points="385,910 411,912 437,912 463,911 489,910 515,910 541,910 567,910 593,910 619,911 645,912 671,912 697,910 723,908 749,907 775,909 801,909 827,907 853,910"/>
+                <TextEquiv>
+                    <Unicode>Reline J.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="667,1237 1246,1147 1627,1161 1691,1142 1703,1013 1546,995 1384,1059 1158,1008 1036,1075 948,1018 718,1087 681,1064"/>
+                <Baseline points="686,1146 737,1144 788,1145 839,1143 890,1138 941,1134 992,1131 1043,1124 1094,1118 1145,1112 1196,1104 1247,1099 1298,1095 1349,1095 1400,1091 1451,1082 1502,1077 1553,1072 1604,1069 1655,1065 1707,1059"/>
+                <TextEquiv>
+                    <Unicode>Barn. E kmmel itr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

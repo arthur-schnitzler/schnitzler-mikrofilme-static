@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:48.408+02:00</Created>
+        <LastChange>2024-01-22T21:15:05.306+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126564" pageNr="11" tsid="145642174" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FYYBVSYDHMLOZXOJESJJMRLV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DMTSGGCOLCKUHVWVEACVVBNT" imageId="48551641"/>
+    </Metadata>
+    <Page imageFilename="1589068_0011.jpg" imageWidth="2920" imageHeight="3576">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787492013" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1176,758 1176,1416 2435,1416 2435,758"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1167,832 1649,858 1874,817 2007,862 2433,827 2414,737 1167,770"/>
+                <Baseline points="1176,814 1242,814 1308,814 1374,814 1441,814 1507,817 1573,814 1639,812 1706,811 1772,811 1838,811 1904,811 1971,810 2037,805 2103,808 2169,811 2236,811 2302,808 2368,808 2435,799"/>
+                <TextEquiv>
+                    <Unicode>de in Genie doch aromatiech genug</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="2191,947 2208,943 2218,951 2224,945 2251,948 2260,942 2282,951 2342,948 2340,885 2314,902 2265,891 2243,896 2221,885 2208,896 2189,891"/>
+                <Baseline points="2199,910 2228,910 2257,911 2287,913 2316,913 2346,913"/>
+                <TextEquiv>
+                    <Unicode>übe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1928,986 2032,1000 2087,980 2117,1000 2156,976 2175,994 2230,973 2403,984 2403,915 2367,904 2221,920 2106,890 2041,915 1928,914"/>
+                <Baseline points="1937,964 1963,955 1989,957 2015,958 2041,958 2067,957 2094,955 2120,957 2146,958 2172,958 2198,957 2224,955 2251,955 2277,955 2303,953 2329,953 2355,954 2381,952 2408,946"/>
+                <TextEquiv>
+                    <Unicode>ger zu über-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1334,978 1616,1003 1698,983 1836,991 1838,910 1336,906"/>
+                <Baseline points="1343,967 1369,967 1395,967 1421,967 1447,966 1474,965 1500,963 1526,961 1552,963 1578,964 1605,964 1631,964 1657,964 1683,964 1709,964 1736,962 1762,960 1788,959 1814,958 1841,958"/>
+                <TextEquiv>
+                    <Unicode>Duft deiner 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1599,1436 1621,1449 1646,1430 1684,1443 1706,1429 1728,1435 1726,1354 1706,1362 1677,1356 1666,1364 1651,1356 1624,1372 1599,1370"/>
+                <Baseline points="1608,1393 1638,1395 1669,1396 1700,1396 1731,1393"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

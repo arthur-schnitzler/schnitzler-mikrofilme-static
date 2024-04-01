@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:22</Creator>
+        <Created>2023-09-27T14:36:45.691+02:00</Created>
+        <LastChange>2024-01-22T18:22:01.020+01:00</LastChange>
+        <TranskribusMetadata docId="1589041" pageId="60123971" pageNr="2" tsid="145632342" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LQSHQPTXYRVKUSGMSHMLUAMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LNTOCXKUXLYTBQSKWFQYBIMJ" imageId="48549049"/>
+    </Metadata>
+    <Page imageFilename="1589041_0002.jpg" imageWidth="3352" imageHeight="4392">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791978054" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1891,525 1891,778 2363,778 2363,525"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1880,616 1930,606 1958,626 2032,590 2066,602 2132,584 2170,608 2360,600 2356,516 2012,514 1986,534 1960,510 1934,536 1884,520"/>
+                <Baseline points="1891,605 1917,607 1943,608 1969,606 1995,605 2022,605 2048,605 2074,600 2100,596 2127,596 2153,596 2179,596 2205,595 2231,593 2258,593 2284,593 2310,593 2336,593 2363,593"/>
+                <TextEquiv>
+                    <Unicode>rbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1986,744 2056,754 2090,740 2134,738 2150,746 2160,736 2178,744 2220,738 2224,648 2214,646 2166,692 2028,698 2006,676 1988,674"/>
+                <Baseline points="1996,742 2021,744 2046,742 2072,740 2097,739 2123,737 2148,736 2174,736 2199,736 2225,736"/>
+                <TextEquiv>
+                    <Unicode>lt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

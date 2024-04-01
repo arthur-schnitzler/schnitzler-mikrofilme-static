@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:11:08.411+02:00</Created>
+        <LastChange>2023-08-15T10:00:56.730+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436268" pageNr="244" tsid="132846423" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=FXIBHMTCDTFTOEDZWHWAMPTR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DQYDMFIDAUKPFRYTRLEXQWGL" imageId="44710257"/>
+    </Metadata>
+    <Page imageFilename="1429033_0244.jpg" imageWidth="3715" imageHeight="5576">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800447391" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="710,1991 3176,1991 3176,3024 710,3024"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1239,2339 2397,2095 2977,2104 3003,1951 2627,1923 2379,2058 2069,2106 1856,1900 1279,2098"/>
+                <Baseline points="1253,2334 1295,2310 1385,2292 1474,2274 1564,2256 1653,2238 1743,2214 1832,2196 1922,2179 2011,2161 2101,2149 2190,2137 2280,2119 2370,2107 2459,2095 2549,2083 2638,2071 2728,2059 2817,2053 2907,2047 2996,2041"/>
+                <TextEquiv>
+                    <Unicode>F. Ehelt. Dageare schlimm¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="833,2581 2552,2247 2848,2310 2882,2127 2721,2078 2351,2253 2262,2201 2072,2296 2020,2233 1877,2333 1615,2296 1417,2431 1336,2371 1193,2471 1006,2385 856,2457"/>
+                <Baseline points="853,2561 901,2555 991,2549 1080,2537 1170,2519 1259,2501 1349,2489 1438,2465 1528,2447 1617,2429 1707,2411 1796,2393 1886,2376 1976,2358 2065,2340 2155,2322 2244,2310 2334,2298 2423,2274 2513,2256 2602,2244 2692,2232 2782,2220 2871,2220"/>
+                <TextEquiv>
+                    <Unicode>Meister Erdeilung des Ex¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="681,2851 2566,2443 2994,2425 3023,2273 2641,2293 1989,2523 1931,2460 1540,2515 1026,2707 931,2621 713,2681"/>
+                <Baseline points="710,2782 770,2770 859,2764 949,2758 1038,2746 1128,2734 1217,2716 1307,2698 1396,2680 1486,2656 1576,2644 1665,2620 1755,2608 1844,2590 1934,2573 2023,2555 2113,2537 2202,2519 2292,2501 2382,2483 2471,2465 2561,2447 2650,2441 2740,2423 2829,2405 2919,2393 3008,2382"/>
+                <TextEquiv>
+                    <Unicode>gât es bald Kurchi in de Stadt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="928,2969 1207,2980 1342,2894 1549,2923 2336,2739 3161,2710 3175,2615 2862,2552 2543,2678 2089,2629 1598,2773 1420,2733 1141,2857 951,2813"/>
+                <Baseline points="943,2967 1026,2961 1116,2955 1205,2931 1295,2901 1385,2889 1474,2883 1564,2871 1653,2859 1743,2847 1832,2829 1922,2811 2011,2788 2101,2776 2190,2764 2280,2746 2370,2740 2459,2728 2549,2716 2638,2710 2728,2698 2817,2692 2907,2680 2996,2674 3086,2662 3176,2668"/>
+                <TextEquiv>
+                    <Unicode>Esqr Wm. alle Kater né cet, so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1262,3015 1279,3017 1316,3052 1348,3023 1402,3029 1423,3012 1454,3012 1483,3038 1497,3035 1494,2954 1471,2957 1451,2937 1425,2954 1391,2923 1379,2923 1354,2948 1331,2948 1302,2923 1259,2934"/>
+                <Baseline points="1277,3008 1367,3008 1456,3014 1504,3014"/>
+                <TextEquiv>
+                    <Unicode>and</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

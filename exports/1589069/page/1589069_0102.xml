@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:15.186+02:00</Created>
+        <LastChange>2024-01-22T21:46:51.822+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127196" pageNr="102" tsid="145643768" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NJXYDFHPONVSWXKYGWHMTZTL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UGHVVABFDPNNAJGYLSRPZYBY" imageId="48552273"/>
+    </Metadata>
+    <Page imageFilename="1589069_0102.jpg" imageWidth="2888" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787380568" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="668,552 668,947 2471,947 2471,552"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1956,659 2339,617 2466,644 2468,536 2389,568 2360,556 2281,577 2245,557 2092,586 1957,539"/>
+                <Baseline points="1966,623 1991,623 2016,623 2041,623 2067,623 2092,623 2117,623 2142,623 2168,623 2193,623 2218,622 2243,620 2269,619 2294,617 2319,617 2344,617 2370,617 2395,618 2420,620 2445,620 2471,620"/>
+                <TextEquiv>
+                    <Unicode>dass er sterb.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="684,647 919,678 1018,642 1885,645 1887,583 1831,569 686,589"/>
+                <Baseline points="692,635 751,637 811,638 871,639 931,637 991,638 1051,638 1110,636 1170,638 1230,638 1290,638 1350,632 1410,633 1470,635 1529,632 1589,632 1649,632 1709,632 1769,628 1829,626 1889,629"/>
+                <TextEquiv>
+                    <Unicode>Wer einmal völlig begriften hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1303,789 2321,789 2321,713 2248,702 1304,723"/>
+                <Baseline points="1313,767 1363,772 1414,769 1464,767 1515,772 1566,767 1616,770 1667,770 1717,770 1768,768 1819,765 1869,764 1920,764 1970,761 2021,761 2072,761 2122,760 2173,760 2223,759 2274,758 2325,755"/>
+                <TextEquiv>
+                    <Unicode>hat eigentlich die Agonie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="897,813 957,812 991,783 1009,800 1030,786 1123,812 1126,737 1093,737 1057,720 1012,728 972,714 900,738"/>
+                <Baseline points="907,782 934,778 962,776 989,776 1017,776 1045,776 1072,774 1100,772 1128,770"/>
+                <TextEquiv>
+                    <Unicode>st, für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="660,810 689,819 720,806 741,816 764,806 788,818 824,798 846,806 846,729 797,726 780,716 720,728 705,719 660,734"/>
+                <Baseline points="668,779 694,777 720,776 746,778 772,778 798,776 824,777 850,779"/>
+                <TextEquiv>
+                    <Unicode>lich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="665,924 690,922 740,949 878,913 919,931 1008,936 1009,873 958,866 937,878 919,861 843,879 761,843 692,863 666,855"/>
+                <Baseline points="674,910 699,916 725,916 751,915 777,914 803,913 829,913 855,911 881,910 907,910 933,910 959,910 985,909 1011,907"/>
+                <TextEquiv>
+                    <Unicode>schon beg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

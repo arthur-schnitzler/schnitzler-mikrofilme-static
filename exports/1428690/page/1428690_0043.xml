@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_20:30</Creator>
+        <Created>2023-05-10T14:52:45.471+02:00</Created>
+        <LastChange>2023-08-14T20:30:00.688+02:00</LastChange>
+        <TranskribusMetadata docId="1428690" pageId="55427002" pageNr="43" tsid="132824834" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HWSWHSPLOQCUYQMQLOKTFWOR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TBLHPTAPAVEDDLMSWYHTPZBQ" imageId="44701077"/>
+    </Metadata>
+    <Page imageFilename="1428690_0043.jpg" imageWidth="3432" imageHeight="4216">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711809548253" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="719,645 3000,645 3000,1410 719,1410"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="715,730 804,722 825,740 902,717 932,743 1178,704 1268,709 1340,743 1342,569 1242,604 1135,589 1055,615 909,617 881,597 807,630 715,633"/>
+                <Baseline points="728,707 764,704 809,704 853,704 898,701 943,701 988,698 1033,698 1077,698 1122,698 1167,695 1212,695 1257,695 1301,698 1346,701"/>
+                <TextEquiv>
+                    <Unicode>Theater 1913.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="704,902 2277,838 2280,730 1547,748 1416,809 1258,758 881,807 707,758"/>
+                <Baseline points="719,865 758,865 803,865 847,865 892,862 937,862 982,865 1027,859 1071,856 1116,856 1161,856 1206,856 1251,853 1295,853 1340,853 1385,853 1430,853 1475,847 1519,847 1564,844 1609,847 1654,844 1698,842 1743,842 1788,839 1833,839 1878,839 1922,842 1967,839 2012,836 2057,836 2102,833 2146,830 2191,830 2236,830 2281,830"/>
+                <TextEquiv>
+                    <Unicode>2.12. Volksth. A.S. Komtesse Mizi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1370,978 1509,963 1539,940 1667,996 1793,955 1908,963 1949,948 1949,845 1685,845 1598,873 1493,858 1470,881 1421,853 1370,871"/>
+                <Baseline points="1385,928 1418,925 1463,925 1507,922 1552,925 1597,922 1642,919 1686,919 1731,919 1776,919 1821,916 1866,919 1910,919 1955,922"/>
+                <TextEquiv>
+                    <Unicode>A.S. Kakadu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="715,1099 1065,1132 1547,1081 1657,1132 1747,1081 1854,1083 1854,996 1583,966 1350,963 1219,1014 1076,981 978,1048 927,1007 717,1014"/>
+                <Baseline points="728,1092 737,1092 782,1092 827,1092 871,1092 916,1089 961,1089 1006,1089 1051,1086 1095,1089 1140,1089 1185,1089 1230,1089 1274,1089 1319,1086 1364,1083 1409,1080 1454,1080 1498,1080 1543,1077 1588,1077 1633,1074 1678,1074 1722,1074 1767,1074 1812,1071 1857,1074"/>
+                <TextEquiv>
+                    <Unicode>7.12. Populäres Konzert.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="717,1268 2771,1237 2774,1145 2128,1094 1460,1135 1378,1196 1196,1145 720,1194"/>
+                <Baseline points="731,1251 764,1251 809,1248 853,1248 898,1248 943,1248 988,1245 1033,1245 1077,1242 1122,1242 1167,1242 1212,1242 1257,1242 1301,1239 1346,1236 1391,1236 1436,1233 1480,1233 1525,1230 1570,1230 1615,1227 1660,1227 1704,1224 1749,1224 1794,1224 1839,1224 1884,1221 1928,1221 1973,1221 2018,1218 2063,1218 2108,1218 2152,1215 2197,1212 2242,1212 2287,1212 2331,1212 2376,1209 2421,1209 2466,1209 2511,1209 2555,1209 2600,1206 2645,1206 2690,1206 2735,1203 2779,1203"/>
+                <TextEquiv>
+                    <Unicode>18.12. Burgth. Hofmannsthal: Jedermann (G.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2595,1327 2648,1347 2694,1332 2715,1347 2797,1345 2861,1324 2994,1360 2994,1227 2974,1219 2938,1232 2861,1201 2764,1240 2723,1224 2689,1242 2643,1217 2595,1235"/>
+                <Baseline points="2609,1283 2654,1283 2699,1283 2743,1283 2788,1283 2833,1283 2878,1283 2923,1283 2967,1283 3000,1286"/>
+                <TextEquiv>
+                    <Unicode>von Olga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1040,1340 2525,1316 2546,1214 1042,1247"/>
+                <Baseline points="1054,1322 1071,1319 1116,1319 1161,1322 1206,1322 1251,1319 1295,1316 1340,1316 1385,1313 1430,1310 1475,1310 1519,1310 1564,1310 1609,1307 1654,1307 1698,1307 1743,1304 1788,1304 1833,1304 1878,1301 1922,1298 1967,1301 2012,1298 2057,1301 2102,1298 2146,1295 2191,1292 2236,1292 2281,1292 2325,1292 2370,1289 2415,1289 2460,1289 2505,1289 2549,1298"/>
+                <TextEquiv>
+                    <Unicode>Konzert Neufeld unter Mitwirkung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1009,1445 1442,1396 2011,1432 2505,1393 2507,1337 2192,1301 1012,1345"/>
+                <Baseline points="1024,1400 1033,1400 1077,1397 1122,1397 1167,1397 1212,1397 1257,1394 1301,1394 1346,1391 1391,1391 1436,1391 1480,1391 1525,1388 1570,1391 1615,1388 1660,1388 1704,1385 1749,1382 1794,1382 1839,1382 1884,1382 1928,1379 1973,1379 2018,1379 2063,1379 2108,1376 2152,1376 2197,1373 2242,1373 2287,1370 2331,1370 2376,1367 2421,1370 2466,1370 2511,1370"/>
+                <TextEquiv>
+                    <Unicode>und Marx (Kleiner Konzerthauss</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

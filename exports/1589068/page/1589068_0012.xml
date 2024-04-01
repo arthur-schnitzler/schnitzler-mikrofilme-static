@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:48.529+02:00</Created>
+        <LastChange>2024-01-22T21:15:05.453+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126568" pageNr="12" tsid="145642175" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EPFQFEAUBQLRDPSNOAWSFJFP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBPKIXVTPAOYYLHXHFPSZPDU" imageId="48551645"/>
+    </Metadata>
+    <Page imageFilename="1589068_0012.jpg" imageWidth="2936" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787493390" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="563,554 563,948 2410,948 2410,554"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="550,670 772,656 929,728 1250,725 1642,707 1947,628 2405,621 2405,545 1970,497 1686,564 1585,520 1435,587 1204,547 1023,612 552,580"/>
+                <Baseline points="563,656 655,656 747,656 840,656 932,653 1024,650 1117,650 1209,644 1301,643 1394,641 1486,639 1578,635 1671,632 1763,629 1855,627 1948,628 2040,626 2132,623 2225,620 2317,614 2410,614"/>
+                <TextEquiv>
+                    <Unicode>Wie man von der Hand in den Mund lebt, so kann m</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="554,827 885,857 1171,825 1250,776 2292,748 2292,693 2118,688 924,732 559,705"/>
+                <Baseline points="569,787 655,786 741,784 828,783 914,781 1001,778 1087,775 1173,775 1260,775 1346,770 1433,769 1519,766 1605,763 1692,763 1778,756 1865,753 1951,753 2037,748 2124,748 2210,742 2297,742"/>
+                <TextEquiv>
+                    <Unicode>auch vom Geist in die Seele denken und von d</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="559,936 732,993 1120,954 1349,998 1631,952 1633,848 1130,818 559,866"/>
+                <Baseline points="572,918 625,916 678,916 731,915 784,915 837,912 890,912 943,910 996,907 1049,906 1103,902 1156,899 1209,902 1262,900 1315,900 1368,900 1421,897 1474,897 1527,896 1580,895 1634,900"/>
+                <TextEquiv>
+                    <Unicode>Seele in den Geist fühlen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

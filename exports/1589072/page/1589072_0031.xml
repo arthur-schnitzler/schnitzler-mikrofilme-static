@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:57.335+02:00</Created>
+        <LastChange>2024-01-22T21:46:18.229+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127286" pageNr="31" tsid="145643590" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OTGAQTCZTVUONMLUWKDQWYUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VYWFATMHDLFKEUQKHRPTYLLA" imageId="48552363"/>
+    </Metadata>
+    <Page imageFilename="1589072_0031.jpg" imageWidth="2920" imageHeight="3608">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786869848" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+                <RegionRefIndexed index="2" regionRef="tr_3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="292,321 292,489 433,489 433,321"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="282,450 297,446 315,462 344,450 373,469 384,464 423,469 438,361 425,357 407,369 363,351 309,355 295,348"/>
+                <Baseline points="292,439 320,435 348,432 376,426 404,423 433,421"/>
+                <TextEquiv>
+                    <Unicode>siener</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="507,616 507,851 2108,851 2108,616"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="556,680 703,720 1275,705 1425,751 2082,744 2101,630 1964,595 1466,645 1369,604 554,606"/>
+                <Baseline points="564,677 641,677 718,677 795,677 872,680 950,682 1027,683 1104,686 1181,685 1258,687 1336,690 1413,695 1490,692 1567,692 1644,695 1722,698 1799,698 1876,701 1953,701 2030,699 2108,701"/>
+                <TextEquiv>
+                    <Unicode>Wie könnte man als iensch leben,wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="496,825 1116,817 1545,900 1624,846 1783,850 1761,761 496,724"/>
+                <Baseline points="507,803 574,801 641,806 708,807 776,809 843,812 910,812 978,812 1045,812 1112,815 1180,815 1247,815 1314,818 1382,818 1449,818 1516,821 1584,818 1651,821 1718,821 1786,821"/>
+                <TextEquiv>
+                    <Unicode>nicht zuwellen ein Gott wäre?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_3" custom="readingOrder {index:2;}">
+            <Coords points="2467,267 2467,423 2589,423 2589,267"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2458,413 2484,404 2513,419 2540,421 2555,407 2570,421 2586,423 2580,274 2551,286 2518,268 2472,301 2453,305"/>
+                <Baseline points="2467,367 2497,367 2528,368 2558,370 2589,373"/>
+                <TextEquiv>
+                    <Unicode>26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

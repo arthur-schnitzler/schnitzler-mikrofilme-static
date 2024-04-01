@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:42</Creator>
+        <Created>2023-09-27T14:39:45.210+02:00</Created>
+        <LastChange>2024-01-22T20:42:01.122+01:00</LastChange>
+        <TranskribusMetadata docId="1589061" pageId="60125630" pageNr="51" tsid="145640738" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GYUTAEHYELKHKJUUVIIMCCQQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LFGLCEMYIWYDOGNYEBYJAIYI" imageId="48550707"/>
+    </Metadata>
+    <Page imageFilename="1589061_0051.jpg" imageWidth="2984" imageHeight="3720">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789265868" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="450,393 450,1198 2579,1198 2579,393"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2247,471 2289,481 2340,465 2401,503 2462,495 2563,521 2566,356 2470,359 2427,375 2356,362 2321,380 2249,364"/>
+                <Baseline points="2260,462 2285,460 2311,459 2336,459 2362,459 2387,459 2413,459 2439,459 2464,457 2490,457 2515,459 2541,458 2567,456"/>
+                <TextEquiv>
+                    <Unicode>einse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="439,800 1630,744 1893,784 2241,713 2534,744 2571,734 2576,627 2499,635 2430,582 2183,638 2135,606 1704,651 1601,612 1297,627 1210,683 1151,638 444,657"/>
+                <Baseline points="453,773 559,764 665,764 771,762 878,761 984,754 1090,752 1197,747 1303,747 1409,743 1516,739 1622,734 1728,728 1834,730 1941,727 2047,722 2153,719 2260,713 2366,707 2472,702 2579,695"/>
+                <TextEquiv>
+                    <Unicode>hab ieh erfunden und trotrden ieh es nur erfunde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="433,954 590,933 721,981 867,907 1199,877 2507,859 2483,766 1994,800 1787,744 1715,784 1367,758 1180,838 912,814 588,853 439,800"/>
+                <Baseline points="450,898 553,898 656,892 759,890 863,886 966,885 1069,884 1173,880 1276,876 1379,873 1483,871 1586,865 1689,862 1792,859 1896,856 1999,850 2102,847 2206,847 2309,840 2412,838 2516,838"/>
+                <TextEquiv>
+                    <Unicode>habe ist es mahr und hundertmal wahrer als das,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="484,1069 572,1034 1002,1069 1106,1016 1157,1050 1367,1005 1489,1045 1723,989 1909,1021 2558,978 2560,917 2502,891 2076,869 1696,928 1566,891 1228,931 1018,901 790,976 489,933"/>
+                <Baseline points="498,1030 601,1024 704,1024 808,1019 911,1015 1015,1014 1118,1010 1222,1006 1325,1003 1429,1000 1532,997 1635,996 1739,991 1842,991 1946,985 2049,982 2153,976 2256,973 2360,964 2463,964 2567,958"/>
+                <TextEquiv>
+                    <Unicode>nar neuzierige oder lüsterne leute jenale durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="444,1196 893,1157 1276,1199 1537,1135 1850,1149 1853,1077 1640,1077 1526,1021 1127,1095 904,1050 447,1093"/>
+                <Baseline points="459,1167 529,1160 599,1155 669,1155 739,1152 809,1150 879,1146 949,1146 1019,1143 1089,1143 1159,1139 1229,1137 1299,1134 1369,1134 1439,1130 1509,1128 1579,1128 1649,1124 1719,1122 1789,1123 1860,1125"/>
+                <TextEquiv>
+                    <Unicode>schlüssellöcher erspähen können.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

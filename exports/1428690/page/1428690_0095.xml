@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_20:30</Creator>
+        <Created>2023-05-10T14:52:52.345+02:00</Created>
+        <LastChange>2023-08-14T20:30:14.132+02:00</LastChange>
+        <TranskribusMetadata docId="1428690" pageId="55427414" pageNr="95" tsid="132824886" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EYRNDVNBJHQXQUYINFEKCFLQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WZFWEOJEVUSOHTPTMLMQAAMQ" imageId="44701487"/>
+    </Metadata>
+    <Page imageFilename="1428690_0095.jpg" imageWidth="3320" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711809653065" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="417,472 2808,472 2808,869 417,869"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2607,556 2694,556 2694,437 2676,440 2661,431 2646,434 2637,425 2628,434 2607,431"/>
+                <Baseline points="2623,522 2668,522 2701,522"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="437,712 487,709 550,661 622,685 682,652 1008,670 1017,487 948,502 897,481 762,529 709,502 625,505 532,550 446,541"/>
+                <Baseline points="459,623 480,626 525,626 570,623 614,620 659,617 704,614 749,614 793,611 838,611 883,611 928,608 973,602 1017,599"/>
+                <TextEquiv>
+                    <Unicode>Theater 1927</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="395,981 634,1061 1055,978 2084,1038 2796,852 2808,646 673,789 407,733"/>
+                <Baseline points="417,859 435,856 480,856 525,853 570,853 614,853 659,850 704,850 749,850 793,847 838,844 883,841 928,838 973,832 1017,829 1062,829 1107,826 1152,826 1196,823 1241,823 1286,823 1331,820 1376,817 1420,817 1465,814 1510,811 1555,808 1599,805 1644,805 1689,802 1734,802 1779,796 1823,793 1868,793 1913,793 1958,790 2002,788 2047,788 2092,785 2137,782 2181,779 2226,776 2271,776 2316,773 2361,770 2405,767 2450,761 2495,758 2540,758 2584,758 2629,752 2674,752 2719,749 2764,746 2808,746"/>
+                <TextEquiv>
+                    <Unicode>9.5 Burg (Akademieth.) Weiberfeinde. (englisches Stück</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

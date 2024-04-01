@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_16:13</Creator>
+        <Created>2023-05-10T14:26:15.440+02:00</Created>
+        <LastChange>2023-08-14T16:13:51.025+02:00</LastChange>
+        <TranskribusMetadata docId="1428625" pageId="55419770" pageNr="1" tsid="132813916" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=PGNQBTJTKDMOWFURNMEYKMRA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UKBLUKCRJKWRXVCVRZPINCDE" imageId="44693873"/>
+    </Metadata>
+    <Page imageFilename="1428625_0001.jpg" imageWidth="3512" imageHeight="4184">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711820514017" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1044,1224 2136,1224 2136,1364 1044,1364"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1034,1396 1411,1340 1640,1455 1951,1306 2131,1298 2142,1152 1955,1174 1883,1120 1626,1081 1466,1161 1294,1079 1056,1078"/>
+                <Baseline points="1044,1354 1062,1345 1107,1348 1151,1348 1196,1351 1241,1345 1286,1345 1331,1342 1375,1339 1420,1333 1465,1328 1510,1325 1554,1319 1599,1319 1644,1310 1689,1304 1733,1307 1778,1304 1823,1301 1868,1298 1912,1295 1957,1292 2002,1289 2047,1286 2092,1286 2136,1274"/>
+                <TextEquiv>
+                    <Unicode>Les todte Galnes</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

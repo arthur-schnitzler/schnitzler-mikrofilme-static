@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:40:55.215+02:00</Created>
+        <LastChange>2024-01-22T21:25:01.948+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126732" pageNr="127" tsid="145642631" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=YXBVASCSDKNFMEINTTMIUMYA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XQHKXGUIRMBPEJCRMDHXCAZU" imageId="48551809"/>
+    </Metadata>
+    <Page imageFilename="1589064_0127.jpg" imageWidth="2920" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788610977" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="566,581 566,1197 2548,1197 2548,581"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="564,688 589,691 656,648 787,661 824,686 879,666 879,562 851,557 827,577 762,592 656,564 564,567"/>
+                <Baseline points="578,644 603,646 629,647 655,647 680,647 706,647 732,647 757,647 783,647 809,647 834,649 860,651 886,653"/>
+                <TextEquiv>
+                    <Unicode>Kr. u. F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="554,844 592,829 648,849 780,829 861,859 933,824 963,832 963,715 903,713 846,671 827,686 785,678 708,718 631,698 554,710"/>
+                <Baseline points="569,775 594,775 619,775 644,775 669,776 694,777 719,777 744,775 769,775 794,775 819,775 844,775 869,775 894,775 919,775 944,779 969,784"/>
+                <TextEquiv>
+                    <Unicode>Methoden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="562,948 663,906 822,948 864,911 1218,906 1898,945 2007,891 2299,916 2331,822 2079,846 1658,794 1275,854 1037,790 846,859 564,839"/>
+                <Baseline points="575,904 663,904 751,907 839,904 927,904 1015,904 1103,904 1191,903 1279,904 1367,903 1455,902 1543,901 1631,898 1719,897 1807,895 1895,895 1983,892 2071,889 2159,892 2247,892 2336,892"/>
+                <TextEquiv>
+                    <Unicode>Man verhöhnt Figuren, die der Autor schon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="552,1054 733,1077 1037,1030 1327,1079 1874,1027 2411,1037 2411,933 2052,978 1713,926 1327,983 552,970"/>
+                <Baseline points="566,1038 658,1035 751,1035 843,1032 936,1035 1028,1032 1121,1032 1213,1029 1306,1032 1398,1032 1491,1026 1583,1028 1676,1026 1768,1026 1861,1024 1953,1023 2046,1023 2138,1023 2231,1020 2323,1017 2416,1011"/>
+                <TextEquiv>
+                    <Unicode>selbst dem Hohne ausgeliefert hat, und ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="554,1171 1542,1223 1921,1161 2116,1238 2232,1200 2507,1242 2544,1238 2547,1057 2302,1104 2198,1047 1978,1104 1629,1037 1567,1079 1440,1052 1238,1094 1059,1059 931,1114 554,1096"/>
+                <Baseline points="569,1166 673,1163 777,1163 881,1164 985,1163 1089,1160 1193,1160 1298,1157 1402,1156 1506,1154 1610,1157 1714,1155 1818,1155 1923,1154 2027,1153 2131,1153 2235,1148 2339,1147 2443,1135 2548,1130"/>
+                <TextEquiv>
+                    <Unicode>sucht so doh Autor dem Hohn preiszugeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

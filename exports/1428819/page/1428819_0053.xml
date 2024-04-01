@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_03:35</Creator>
+        <Created>2023-05-10T15:10:33.235+02:00</Created>
+        <LastChange>2023-08-15T03:35:48.240+02:00</LastChange>
+        <TranskribusMetadata docId="1428819" pageId="55431285" pageNr="53" tsid="132838524" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=EGQXRSUAFJTSJTQQMJJHNVIP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TMDCLQOYOMAWKZRMUXCMSKFS" imageId="44705333"/>
+    </Metadata>
+    <Page imageFilename="1428819_0053.jpg" imageWidth="3800" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711804079910" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="576,320 3123,320 3123,1126 576,1126"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="561,410 615,430 665,430 682,412 721,423 751,404 764,408 801,382 818,395 857,397 861,270 831,266 766,294 745,276 710,291 667,266 633,281 568,257"/>
+                <Baseline points="576,382 594,379 638,379 683,382 728,382 773,376 818,373 862,370"/>
+                <TextEquiv>
+                    <Unicode>B. E.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1477,559 1552,596 1671,544 1757,591 1857,598 1919,568 1986,594 2031,572 2198,583 2200,499 2157,488 1969,494 1828,451 1777,501 1667,475 1479,494"/>
+                <Baseline points="1489,561 1528,561 1573,564 1618,564 1663,564 1707,564 1752,564 1797,561 1842,558 1886,555 1931,552 1976,555 2021,555 2066,558 2110,555 2155,558 2200,555"/>
+                <TextEquiv>
+                    <Unicode>Italien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1552,635 1831,656 1982,628 2167,650 2252,615 2353,624 2355,568 2310,589 2029,574 1988,596 1917,570 1857,602 1554,598"/>
+                <Baseline points="1564,618 1585,621 1630,624 1674,621 1719,624 1764,621 1809,621 1854,621 1898,621 1943,621 1988,615 2033,615 2078,615 2122,612 2167,612 2212,612 2257,609 2275,609 2319,609 2358,609"/>
+                <TextEquiv>
+                    <Unicode>x x==============</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="697,814 2170,818 2267,777 2420,820 2435,725 1954,684 1097,749 699,715"/>
+                <Baseline points="710,806 734,809 779,809 824,809 868,809 913,809 958,809 1003,806 1047,809 1092,809 1137,803 1182,806 1227,803 1271,800 1316,800 1361,800 1406,800 1451,803 1495,797 1540,794 1585,791 1630,791 1674,791 1719,791 1764,788 1809,788 1854,785 1898,785 1943,785 1988,785 2033,782 2078,782 2122,782 2167,782 2212,782 2257,782 2301,779 2346,776 2391,776 2436,779"/>
+                <TextEquiv>
+                    <Unicode>Zwischenspiel. 1907. übersetzt von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="702,930 1656,872 1887,928 2029,861 2390,853 2392,810 706,812"/>
+                <Baseline points="716,883 740,883 785,883 830,883 874,886 919,883 964,886 1009,880 1053,883 1098,880 1143,880 1188,880 1233,880 1277,877 1322,877 1367,874 1412,874 1457,874 1501,874 1546,874 1591,871 1636,868 1680,868 1725,868 1770,865 1815,865 1860,868 1904,865 1949,862 1994,859 2039,859 2084,856 2128,847 2173,844 2218,844 2263,841 2307,841 2352,841 2397,835"/>
+                <TextEquiv>
+                    <Unicode>Graf Nani. Nuova Antologia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2955,864 2979,864 2988,857 2999,868 3033,844 3046,842 3050,848 3076,844 3081,730 3065,727 3046,734 3037,730 3003,747 2990,740 2970,756 2960,756"/>
+                <Baseline points="2970,841 2991,838 3036,838 3081,835"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="708,1041 2364,1030 2366,950 1606,902 978,974 710,930"/>
+                <Baseline points="719,1036 758,1036 803,1036 847,1039 892,1039 937,1036 982,1033 1027,1030 1071,1033 1116,1033 1161,1030 1206,1027 1250,1030 1295,1027 1340,1027 1385,1027 1430,1027 1474,1030 1519,1030 1564,1024 1609,1024 1654,1021 1698,1021 1743,1021 1788,1021 1833,1015 1877,1015 1922,1015 1967,1018 2012,1015 2057,1012 2101,1015 2146,1009 2191,1009 2236,1009 2281,1009 2325,1012 2370,1015"/>
+                <TextEquiv>
+                    <Unicode>Ruf des gebens. 1910.Willi Dias.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="2966,1079 2992,1077 2996,1082 3005,1073 3059,1077 3070,1071 3089,1077 3117,1075 3119,1008 3106,1008 3081,991 3065,997 3055,991 3037,1000 3027,997 3007,1015 2999,1010 2986,1023 2979,1015 2968,1015"/>
+                <Baseline points="2979,1068 3024,1065 3069,1062 3114,1065 3123,1068"/>
+                <TextEquiv>
+                    <Unicode>40.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="697,1138 1000,1114 1094,1170 1235,1161 1287,1120 1356,1155 1502,1170 1505,1032 697,1049"/>
+                <Baseline points="710,1113 746,1116 791,1116 835,1116 880,1116 925,1116 970,1113 1015,1116 1059,1113 1104,1110 1149,1110 1194,1110 1239,1107 1283,1107 1328,1107 1373,1110 1418,1107 1462,1101 1507,1101"/>
+                <TextEquiv>
+                    <Unicode>Nuova Antologia</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

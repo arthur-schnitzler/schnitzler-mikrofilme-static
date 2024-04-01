@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:55.346+02:00</Created>
+        <LastChange>2024-01-22T21:46:16.102+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127229" pageNr="18" tsid="145643571" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KHGIETHTPXNAZUWVFYUHCCTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SDWDIKKGMWZFWHCFBGMUOBFZ" imageId="48552306"/>
+    </Metadata>
+    <Page imageFilename="1589072_0018.jpg" imageWidth="2920" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786849027" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="235,410 235,560 375,560 375,410"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="222,547 243,556 262,538 285,538 304,549 316,538 335,545 351,528 372,530 372,363 354,358 311,387 281,382 264,370 222,375"/>
+                <Baseline points="235,510 263,510 291,510 319,510 347,510 375,510"/>
+                <TextEquiv>
+                    <Unicode>der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="396,337 396,994 2514,994 2514,337"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2240,450 2275,443 2299,455 2350,441 2398,467 2508,424 2506,278 2482,283 2466,271 2438,290 2407,278 2381,285 2277,243 2237,245"/>
+                <Baseline points="2252,402 2278,400 2304,399 2330,399 2356,399 2383,399 2409,402 2435,405 2461,403 2487,402 2514,402"/>
+                <TextEquiv>
+                    <Unicode>1921</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="497,783 559,745 1282,707 1987,780 2183,721 2386,728 2386,662 2221,672 2018,596 1728,662 1556,660 1379,578 1238,618 1160,580 981,613 495,589"/>
+                <Baseline points="507,701 601,698 695,698 789,698 884,702 978,701 1072,701 1166,701 1261,704 1355,701 1449,704 1543,704 1638,707 1732,707 1826,707 1920,710 2015,713 2109,710 2203,710 2297,713 2392,707"/>
+                <TextEquiv>
+                    <Unicode>In Geistigen kann es niemals Hase geben, son-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="398,849 540,891 1061,832 1509,870 1730,842 1728,731 396,754"/>
+                <Baseline points="408,823 474,823 540,823 606,824 673,826 739,827 805,829 872,832 938,832 1004,829 1071,829 1137,832 1203,834 1269,837 1336,833 1402,835 1468,835 1535,835 1601,835 1667,832 1734,832"/>
+                <TextEquiv>
+                    <Unicode>dern nur Gegensätze, und auch d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1886,896 1999,901 2023,884 2096,915 2155,886 2240,903 2237,754 2176,778 2112,757 2082,773 2042,757 1990,780 1940,776 1921,759 1884,771"/>
+                <Baseline points="1897,832 1923,834 1950,835 1977,835 2004,835 2031,835 2058,835 2084,836 2111,840 2138,841 2165,841 2192,841 2219,841 2246,841"/>
+                <TextEquiv>
+                    <Unicode>ind nobt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="382,1054 441,1040 521,1056 559,1030 632,1035 662,1059 773,1040 844,1051 842,905 813,908 785,882 707,896 667,870 629,901 380,877"/>
+                <Baseline points="396,957 421,955 446,954 471,954 496,954 522,954 547,954 572,954 597,954 623,954 648,954 673,955 698,956 723,957 749,957 774,958 799,960 824,962 850,963"/>
+                <TextEquiv>
+                    <Unicode>Fruchtbar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:43:00.683+02:00</Created>
+        <LastChange>2024-01-22T21:46:21.724+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127381" pageNr="52" tsid="145643612" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RDUDDUJEATDCTMOREJIARMBJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HUYUKGOTICXKYJQTJBGUFOYI" imageId="48552458"/>
+    </Metadata>
+    <Page imageFilename="1589072_0052.jpg" imageWidth="2920" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786904285" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="286,239 286,924 2392,924 2392,239"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="290,345 342,353 410,324 444,342 480,329 501,339 525,334 533,196 465,196 441,209 397,188 384,196 373,183 353,193 303,185"/>
+                <Baseline points="307,319 335,323 363,324 391,320 419,314 447,310 475,310 503,309 531,307"/>
+                <TextEquiv>
+                    <Unicode>tandt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="290,533 462,588 755,533 841,572 958,522 1204,541 1293,494 2371,499 2392,381 1971,381 1682,433 1556,379 1454,420 1266,379 1084,444 1031,410 290,413"/>
+                <Baseline points="304,507 408,504 512,501 617,498 721,498 826,501 930,495 1034,492 1139,489 1243,491 1348,488 1452,486 1556,486 1661,483 1765,480 1870,480 1974,477 2078,474 2183,477 2287,474 2392,474"/>
+                <TextEquiv>
+                    <Unicode>keine einzige Dunmkeit willst du in deinem Leben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="272,648 851,668 1092,621 1564,671 1679,624 2269,621 2269,564 2186,527 1682,580 1400,527 1337,556 1253,509 465,588 274,527"/>
+                <Baseline points="286,620 385,628 484,629 584,626 683,626 782,626 882,621 981,620 1080,619 1180,617 1279,617 1378,614 1478,614 1577,614 1676,611 1776,605 1875,601 1974,602 2074,605 2173,602 2273,605"/>
+                <TextEquiv>
+                    <Unicode>begangen haben? - Dies eben war sie - und sie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="295,776 480,770 543,809 841,765 969,799 1105,747 1206,781 2342,760 2342,661 2201,650 1888,684 1773,637 1588,687 1358,650 1170,697 1000,629 742,695 577,653 295,689"/>
+                <Baseline points="310,760 411,755 513,754 615,754 717,751 819,751 921,748 1022,750 1124,749 1226,748 1328,748 1430,748 1532,743 1634,739 1735,737 1837,736 1939,733 2041,730 2143,730 2245,729 2347,727"/>
+                <TextEquiv>
+                    <Unicode>ist viellicht die einzige, die nicht wieder gut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="290,966 569,990 702,945 726,969 914,969 917,783 765,765 569,815 444,781 373,825 292,817"/>
+                <Baseline points="307,892 337,890 368,889 399,889 430,889 461,889 492,888 522,886 553,884 584,883 615,883 646,883 677,884 708,886 738,886 769,883 800,881 831,883 862,883 893,884 924,886"/>
+                <TextEquiv>
+                    <Unicode>zu wach n 1st.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

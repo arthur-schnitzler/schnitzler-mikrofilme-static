@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:57.718+02:00</Created>
+        <LastChange>2024-01-22T19:19:34.661+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125097" pageNr="16" tsid="145635123" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MXTBSTLWMFBYNGCNOZPYBVXS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CEHMAAFHZXHVGOIQWGGPGXCO" imageId="48550174"/>
+    </Metadata>
+    <Page imageFilename="1589051_0016.jpg" imageWidth="2824" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790778800" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="534,537 534,1034 1890,1034 1890,537"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="525,619 1850,632 1872,512 525,554"/>
+                <Baseline points="534,618 601,619 668,618 735,621 802,618 869,615 936,615 1003,615 1070,615 1137,613 1204,609 1271,609 1338,606 1405,607 1472,606 1539,605 1606,603 1673,600 1740,600 1807,600 1875,600"/>
+                <TextEquiv>
+                    <Unicode>iie gleichen sich doch aie Beiuen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="564,750 1870,735 1870,668 1667,646 1134,705 564,684"/>
+                <Baseline points="573,743 638,743 703,748 768,746 833,744 898,745 963,743 1028,743 1093,741 1158,740 1224,737 1289,737 1354,736 1419,734 1484,734 1549,734 1614,733 1679,731 1744,731 1809,728 1875,734"/>
+                <TextEquiv>
+                    <Unicode>Und können einander nicht leiden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="564,891 1877,869 1889,809 564,802"/>
+                <Baseline points="573,874 638,871 704,874 770,874 836,872 902,871 968,871 1033,868 1099,870 1165,869 1231,866 1297,866 1363,865 1429,865 1494,865 1560,860 1626,860 1692,855 1758,854 1824,855 1890,857"/>
+                <TextEquiv>
+                    <Unicode>Und hätien so gut sich verstanden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="559,1001 1446,991 1563,1027 1748,1003 1750,946 559,951"/>
+                <Baseline points="567,1000 626,1000 685,1003 744,1003 804,1003 863,1003 922,1002 981,998 1041,997 1100,997 1159,995 1218,997 1278,994 1337,994 1396,991 1455,992 1515,992 1574,988 1633,986 1692,986 1752,991"/>
+                <TextEquiv>
+                    <Unicode>Wehn sie zur Zeit sich tanden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

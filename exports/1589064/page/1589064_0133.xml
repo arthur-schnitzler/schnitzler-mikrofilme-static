@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:40:56.070+02:00</Created>
+        <LastChange>2024-01-22T21:25:02.916+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126768" pageNr="133" tsid="145642637" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CVUQRYSNEZYJQNLHXUALVSPE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VLMBSZJGKXJUBTMGGPHVNDTP" imageId="48551845"/>
+    </Metadata>
+    <Page imageFilename="1589064_0133.jpg" imageWidth="2904" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788622094" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="659,538 659,1152 2572,1152 2572,538"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="661,644 716,661 865,604 932,623 1065,611 1065,521 1037,514 927,533 894,506 863,516 835,495 815,509 794,499 751,535 661,535"/>
+                <Baseline points="674,599 700,599 726,599 753,599 779,599 806,599 832,599 859,599 885,599 912,600 938,602 965,602 991,602 1018,602 1044,601 1071,599"/>
+                <TextEquiv>
+                    <Unicode>Kr. u.F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="666,773 706,785 794,775 851,792 922,775 946,785 1029,747 1070,747 1067,663 984,663 925,613 856,635 801,621 716,663 663,644"/>
+                <Baseline points="677,722 703,725 729,727 756,723 782,724 809,728 835,730 862,731 888,729 915,728 941,728 968,730 994,731 1021,731 1047,730 1074,728"/>
+                <TextEquiv>
+                    <Unicode>Wothoden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="659,901 1736,941 2463,889 2463,787 2330,751 2083,815 1997,766 1733,815 1015,773 832,837 659,766"/>
+                <Baseline points="671,850 760,856 850,856 940,856 1030,853 1120,856 1210,859 1299,856 1389,859 1479,859 1569,859 1659,859 1749,859 1839,859 1928,859 2018,859 2108,859 2198,862 2288,859 2378,859 2468,859"/>
+                <TextEquiv>
+                    <Unicode>Men nimmt Unsinniges als bewiesen en, dess</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="659,1037 792,1003 1101,1037 1260,991 1636,999 1854,1063 2123,1003 2299,1058 2404,1006 2565,1034 2565,934 2482,896 2038,949 1923,911 1740,944 659,908"/>
+                <Baseline points="671,981 766,986 861,984 956,984 1051,984 1146,987 1241,987 1336,987 1431,985 1526,987 1621,989 1716,987 1811,984 1906,987 2001,990 2096,987 2191,988 2286,990 2381,990 2476,987 2572,978"/>
+                <TextEquiv>
+                    <Unicode>z-B. ein Jude ko in Niener Volkestück sehrei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="651,1213 789,1194 818,1220 925,1177 1067,1191 1060,1034 1015,1025 980,1046 839,1018 794,1041 766,1025 742,1051 692,1027 644,1041"/>
+                <Baseline points="659,1110 684,1110 710,1110 736,1110 762,1111 787,1113 813,1112 839,1110 865,1114 890,1116 916,1118 942,1119 968,1119 993,1119 1019,1119 1045,1121 1071,1122"/>
+                <TextEquiv>
+                    <Unicode>ben darf.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

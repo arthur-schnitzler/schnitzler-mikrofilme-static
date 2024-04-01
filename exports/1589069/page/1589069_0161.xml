@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:47</Creator>
+        <Created>2023-09-27T14:42:20.847+02:00</Created>
+        <LastChange>2024-01-22T21:47:02.039+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127410" pageNr="161" tsid="145643828" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=LXMQHKZNUIPZJPJJEBPMLEIL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMZRWIHFHRVAWQRZPRQGXIET" imageId="48552487"/>
+    </Metadata>
+    <Page imageFilename="1589069_0161.jpg" imageWidth="2792" imageHeight="3384">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787465055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="552,491 552,737 2163,737 2163,491"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="540,629 2160,611 2160,510 1882,480 1683,524 1535,484 1187,530 1005,482 540,500"/>
+                <Baseline points="552,558 632,563 713,564 793,563 874,564 954,564 1035,561 1115,564 1196,564 1276,566 1357,564 1438,564 1518,564 1599,564 1679,564 1760,564 1840,562 1921,564 2001,564 2082,564 2163,561"/>
+                <TextEquiv>
+                    <Unicode>Man mag die Menechen noch so sehr veracht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="540,774 834,806 1118,740 1231,780 1366,742 1487,784 1693,748 1816,794 1969,770 1938,635 1715,651 1602,611 1431,667 540,629"/>
+                <Baseline points="552,695 623,698 694,696 765,698 836,701 907,704 978,701 1049,701 1120,701 1191,700 1262,695 1333,701 1404,704 1475,698 1546,701 1617,701 1688,700 1759,701 1830,701 1901,704 1972,704"/>
+                <TextEquiv>
+                    <Unicode>laset sich schwer ohne Leute leben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_15:56</Creator>
+        <Created>2023-05-10T14:23:20.049+02:00</Created>
+        <LastChange>2023-08-14T15:56:13.969+02:00</LastChange>
+        <TranskribusMetadata docId="1428619" pageId="55419165" pageNr="2" tsid="132812796" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=UDIVDUQDTMCEAEBGKLSDPFGA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRGZMTORKTOLDDJCCJKXDJPG" imageId="44693268"/>
+    </Metadata>
+    <Page imageFilename="1428619_0002.jpg" imageWidth="3864" imageHeight="5176">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821483380" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="871,964 2949,964 2949,2547 871,2547"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1668,1162 1923,1143 1905,865 1869,863 1775,780 1713,852 1674,819 1645,821"/>
+                <Baseline points="1671,1014 1761,1014 1850,1026 1922,1026"/>
+                <TextEquiv>
+                    <Unicode>9.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="855,2058 2105,1824 2209,1749 2916,1778 2950,1707 2739,1627 2575,1689 2380,1557 2118,1731 2027,1650 1837,1783 1640,1564 1323,1791 1229,1806 1112,1645 904,1744"/>
+                <Baseline points="871,2041 889,2041 979,2017 1068,1999 1158,1993 1247,1976 1337,1958 1426,1946 1516,1928 1605,1910 1695,1886 1785,1868 1874,1850 1964,1826 2053,1814 2143,1796 2232,1785 2322,1773 2411,1761 2501,1755 2590,1743 2680,1743 2770,1749 2859,1755 2949,1767"/>
+                <TextEquiv>
+                    <Unicode>Die Frau des Weizen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1237,2336 1544,2292 1614,2373 1918,2219 2128,2191 2235,2245 2448,2128 2534,2196 2648,2110 2783,2115 2796,2037 2432,2066 2315,2019 2170,2110 2115,2032 1861,2204 1762,2115 1559,2222 1494,2149 1419,2199 1349,2149 1263,2178"/>
+                <Baseline points="1253,2322 1265,2328 1355,2310 1444,2298 1534,2292 1623,2280 1713,2262 1802,2250 1892,2226 1982,2214 2071,2196 2161,2179 2250,2167 2340,2155 2429,2131 2519,2125 2608,2113 2698,2107 2787,2107"/>
+                <TextEquiv>
+                    <Unicode>(Prühen Tassunge)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1775,2627 1827,2625 1952,2523 2024,2555 2066,2518 2264,2503 2323,2542 2404,2484 2799,2448 2801,2404 2651,2422 2560,2313 2500,2344 2456,2295 2204,2419 2128,2422 2071,2354 2027,2388 1939,2388 1907,2354 1796,2401"/>
+                <Baseline points="1796,2537 1820,2531 1910,2525 1999,2525 2089,2513 2179,2507 2268,2501 2358,2489 2447,2483 2537,2477 2626,2465 2716,2447 2805,2441"/>
+                <TextEquiv>
+                    <Unicode>8zu 51.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

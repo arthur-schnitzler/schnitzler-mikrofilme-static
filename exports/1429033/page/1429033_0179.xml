@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:00</Creator>
+        <Created>2023-05-10T15:10:57.178+02:00</Created>
+        <LastChange>2023-08-15T10:00:39.717+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55435795" pageNr="179" tsid="132846356" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=TJCOPLQAIPAVAJEKLFYXQPRN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PHNHSKCGESDJWVTOIILBYWMF" imageId="44709785"/>
+    </Metadata>
+    <Page imageFilename="1429033_0179.jpg" imageWidth="3747" imageHeight="5592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800287236" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_3"/>
+                <RegionRefIndexed index="2" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="370,750 3465,750 3465,1820 370,1820"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1276,925 1453,902 1538,937 1623,894 1704,937 1897,933 2163,817 2163,732 2016,725 1916,678 1827,736 1766,713 1727,744 1608,690 1554,709 1461,675 1276,713"/>
+                <Baseline points="1296,806 1386,800 1475,800 1565,800 1654,800 1744,806 1834,806 1923,806 2013,806 2102,812 2174,818"/>
+                <TextEquiv>
+                    <Unicode>Medardus. Etzelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1962,921 1981,921 1993,933 2008,917 2028,929 2035,925 2059,948 2066,944 2089,960 2116,956 2116,860 2097,860 2082,848 2043,844 1962,848"/>
+                <Baseline points="1983,896 2073,896 2126,896"/>
+                <TextEquiv>
+                    <Unicode>ne sais</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="362,1106 598,1052 894,1110 1812,1052 2247,1099 2332,1076 2332,964 359,914"/>
+                <Baseline points="382,1033 471,1021 561,1021 651,1015 740,1027 830,1021 920,1021 1009,1021 1099,1021 1188,1021 1278,1021 1368,1021 1457,1021 1547,1027 1636,1027 1726,1027 1816,1033 1905,1033 1995,1033 2085,1033 2174,1039 2264,1039 2341,1051"/>
+                <TextEquiv>
+                    <Unicode>Etzelt (Medardus gewahrend): Medardus!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="355,1276 1954,1207 2891,1330 3408,1268 3408,1149 2070,1060 351,1118"/>
+                <Baseline points="376,1176 466,1176 555,1170 645,1170 734,1176 824,1176 914,1176 1003,1176 1093,1176 1182,1176 1272,1176 1362,1176 1451,1176 1541,1176 1631,1182 1720,1182 1810,1182 1899,1188 1989,1188 2079,1188 2168,1188 2258,1188 2347,1188 2437,1194 2527,1194 2616,1194 2706,1200 2796,1200 2885,1206 2975,1206 3064,1206 3154,1206 3244,1212 3333,1224 3417,1242"/>
+                <TextEquiv>
+                    <Unicode>Medardus: Du, Etzelt -? Was machst Du hier auf der Bastei? Es</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="640,1349 1083,1419 1311,1353 1446,1411 2606,1361 2702,1415 2698,1291 2502,1245 640,1237"/>
+                <Baseline points="663,1326 752,1320 842,1326 932,1326 1021,1326 1111,1332 1200,1326 1290,1332 1380,1332 1469,1332 1559,1332 1648,1332 1738,1332 1828,1332 1917,1338 2007,1338 2097,1338 2186,1344 2276,1344 2365,1344 2455,1344 2545,1344 2634,1350 2712,1350"/>
+                <TextEquiv>
+                    <Unicode>wird kein guter Aufenthalt sein, heut Nacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="347,1573 3427,1519 3296,1388 347,1403"/>
+                <Baseline points="370,1499 460,1487 549,1481 639,1481 728,1481 818,1481 908,1481 997,1481 1087,1481 1176,1481 1266,1487 1356,1487 1445,1487 1535,1487 1625,1487 1714,1487 1804,1487 1893,1493 1983,1493 2073,1493 2162,1493 2252,1493 2341,1493 2431,1499 2521,1499 2610,1499 2700,1499 2790,1505 2879,1505 2969,1505 3058,1511 3148,1511 3238,1511 3327,1511 3417,1517 3435,1523"/>
+                <TextEquiv>
+                    <Unicode>Etzelt: Wenn's eben darauf ankäme - so scheint's mir hier sicherer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="625,1646 1746,1654 2240,1758 3454,1712 3419,1546 625,1557"/>
+                <Baseline points="645,1636 734,1636 824,1636 914,1636 1003,1636 1093,1636 1182,1636 1272,1642 1362,1642 1451,1642 1541,1642 1631,1642 1720,1642 1810,1648 1899,1642 1989,1642 2079,1648 2168,1648 2258,1648 2347,1648 2437,1648 2527,1654 2616,1654 2706,1654 2796,1660 2885,1660 2975,1660 3064,1660 3154,1660 3244,1666 3333,1666 3423,1666 3465,1678"/>
+                <TextEquiv>
+                    <Unicode>als irgendwo. Die Kugeln fliegen alle über die Bastei hinweg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1584,1735 1619,1735 1631,1746 1673,1739 1700,1750 1715,1746 1735,1758 1766,1754 1766,1654 1735,1654 1715,1673 1685,1665 1623,1685 1604,1669 1584,1669"/>
+                <Baseline points="1607,1732 1696,1732 1774,1732"/>
+                <TextEquiv>
+                    <Unicode>lecte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="640,1843 2294,1843 2290,1762 2012,1696 1928,1742 1820,1677 1715,1762 1183,1646 867,1746 636,1712"/>
+                <Baseline points="657,1786 746,1786 836,1786 926,1786 1015,1786 1105,1792 1194,1792 1284,1798 1374,1792 1463,1792 1553,1798 1642,1804 1732,1798 1822,1798 1911,1798 2001,1798 2091,1798 2180,1804 2270,1804 2294,1810"/>
+                <TextEquiv>
+                    <Unicode>Lass mich bei Dir sein, Medardus...</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_3" custom="readingOrder {index:1;}">
+            <Coords points="364,1897 3256,1897 3256,3200 364,3200"/>
+            <TextLine id="tr_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="355,2001 1793,1997 1931,1962 1931,1858 1557,1881 1426,1820 1168,1889 355,1870"/>
+                <Baseline points="376,1959 418,1947 507,1947 597,1947 687,1947 776,1947 866,1947 955,1947 1045,1947 1135,1947 1224,1947 1314,1953 1403,1947 1493,1953 1583,1953 1672,1953 1762,1953 1852,1953 1941,1953"/>
+                <TextEquiv>
+                    <Unicode>Medardus: Wie Du willst, Etzelt!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="366,2170 698,2140 879,2190 1210,2140 1449,2190 1835,2128 1831,2032 1658,1978 1399,2047 362,1997"/>
+                <Baseline points="382,2102 471,2102 561,2102 651,2097 740,2102 830,2102 920,2102 1009,2102 1099,2102 1188,2102 1278,2102 1368,2102 1457,2102 1547,2108 1636,2108 1726,2108 1816,2114 1846,2114"/>
+                <TextEquiv>
+                    <Unicode>Etzelt (setzt sich neben ihn).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="648,2332 3192,2344 3192,2170 2938,2147 648,2178"/>
+                <Baseline points="669,2264 758,2258 848,2252 937,2252 1027,2258 1117,2258 1206,2258 1296,2264 1386,2258 1475,2264 1565,2258 1654,2264 1744,2264 1834,2264 1923,2264 2013,2264 2102,2264 2192,2264 2282,2264 2371,2270 2461,2270 2551,2270 2640,2270 2730,2270 2819,2270 2909,2270 2999,2270 3088,2276 3178,2282 3202,2282"/>
+                <TextEquiv>
+                    <Unicode>(Sie schweigen beide eine kurze Weile, indess dauert die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="640,2490 709,2456 975,2479 1022,2452 1156,2483 1388,2448 1388,2328 1153,2344 1010,2313 860,2352 817,2325 705,2348 640,2328"/>
+                <Baseline points="663,2413 752,2407 842,2407 932,2413 1021,2407 1111,2407 1200,2407 1290,2419 1380,2419 1398,2425"/>
+                <TextEquiv>
+                    <Unicode>Kanonade fort.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="362,2641 933,2571 3230,2637 3227,2479 3069,2444 359,2490"/>
+                <Baseline points="382,2568 471,2563 561,2563 651,2563 740,2563 830,2563 920,2563 1009,2563 1099,2563 1188,2563 1278,2563 1368,2563 1457,2563 1547,2568 1636,2568 1726,2568 1816,2568 1905,2568 1995,2568 2085,2568 2174,2568 2264,2568 2353,2568 2443,2568 2533,2568 2622,2568 2712,2568 2801,2568 2891,2574 2981,2568 3070,2574 3160,2574 3238,2586"/>
+                <TextEquiv>
+                    <Unicode>Medardus: Man kann nicht wissen, wie die Nacht endet, Etzelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="636,2737 2706,2814 3150,2787 3246,2629 636,2645"/>
+                <Baseline points="657,2718 746,2718 836,2718 926,2718 1015,2724 1105,2718 1194,2718 1284,2718 1374,2718 1463,2718 1553,2718 1642,2724 1732,2724 1822,2724 1911,2724 2001,2724 2091,2724 2180,2718 2270,2724 2359,2724 2449,2724 2539,2724 2628,2724 2718,2724 2807,2724 2897,2724 2987,2724 3076,2724 3166,2724 3256,2718"/>
+                <TextEquiv>
+                    <Unicode>Und da Du nun einmal da bist - so möcht ich Dir was zu be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="640,2922 1349,2887 1970,2976 2390,2895 2390,2803 1457,2799 1303,2745 1110,2818 987,2764 640,2806"/>
+                <Baseline points="663,2873 752,2873 842,2873 932,2873 1021,2873 1111,2873 1200,2873 1290,2873 1380,2879 1469,2879 1559,2873 1648,2879 1738,2879 1828,2873 1917,2873 2007,2873 2097,2879 2186,2873 2276,2873 2365,2885 2395,2879"/>
+                <TextEquiv>
+                    <Unicode>stellen geben...wenn Du's annimast...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="343,3080 729,3092 894,3053 1372,3092 1519,3057 1519,2968 1484,2957 1095,2961 929,2895 705,2957 540,2953 474,2911 343,2934"/>
+                <Baseline points="364,3040 454,3034 543,3034 633,3034 722,3029 812,3029 902,3029 991,3029 1081,3029 1170,3029 1260,3029 1350,3029 1439,3029 1529,3034"/>
+                <TextEquiv>
+                    <Unicode>Etzelt: Zu bestellen -?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="362,3246 2976,3250 3200,3204 3200,3072 362,3080"/>
+                <Baseline points="382,3184 430,3190 519,3190 609,3184 699,3190 788,3190 878,3190 967,3184 1057,3184 1147,3184 1236,3184 1326,3184 1415,3184 1505,3184 1595,3184 1684,3184 1774,3184 1864,3184 1953,3184 2043,3184 2132,3178 2222,3184 2312,3178 2401,3184 2491,3178 2580,3184 2670,3178 2760,3178 2849,3178 2939,3178 3029,3178 3118,3178 3208,3178"/>
+                <TextEquiv>
+                    <Unicode>Medardus: An meine Mutter. Sie nahm eben von mir Abschied - in</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:2;}">
+            <Coords points="346,3283 3447,3283 3447,4926 346,4926"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="636,3377 3138,3377 3204,3257 1029,3219 636,3288"/>
+                <Baseline points="657,3339 704,3339 794,3345 884,3345 973,3345 1063,3339 1153,3339 1242,3339 1332,3339 1421,3339 1511,3339 1601,3339 1690,3339 1780,3339 1869,3339 1959,3339 2049,3339 2138,3339 2228,3333 2318,3333 2407,3333 2497,3333 2586,3333 2676,3333 2766,3333 2855,3333 2945,3333 3034,3333 3124,3333 3214,3333"/>
+                <TextEquiv>
+                    <Unicode>einer recht sonderbaren Weise - wie von einem Soldaten...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="617,3523 910,3601 1110,3516 3115,3589 3300,3512 3300,3419 2591,3338 617,3416"/>
+                <Baseline points="639,3500 710,3495 800,3500 890,3500 979,3500 1069,3495 1159,3495 1248,3495 1338,3495 1427,3495 1517,3495 1607,3495 1696,3495 1786,3495 1875,3495 1965,3489 2055,3495 2144,3489 2234,3489 2324,3483 2413,3483 2503,3483 2592,3483 2682,3489 2772,3489 2861,3489 2951,3483 3040,3483 3130,3483 3220,3483 3309,3495"/>
+                <TextEquiv>
+                    <Unicode>Nun ja, das bin ich wohl.. aber.. wie von einer..Art Helden-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="625,3670 1037,3662 1137,3724 1230,3658 1989,3682 1989,3577 1931,3547 1712,3581 1345,3512 1103,3516 906,3597 625,3562"/>
+                <Baseline points="645,3650 651,3650 740,3650 830,3650 920,3656 1009,3656 1099,3650 1188,3650 1278,3650 1368,3644 1457,3644 1547,3644 1636,3644 1726,3644 1816,3644 1905,3644 1995,3644"/>
+                <TextEquiv>
+                    <Unicode>sohn... wollt mir scheinen....</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="332,3870 3277,3840 3277,3735 2756,3631 1669,3751 332,3689"/>
+                <Baseline points="352,3817 418,3811 507,3811 597,3811 687,3817 776,3811 866,3811 955,3811 1045,3805 1135,3805 1224,3805 1314,3805 1403,3805 1493,3805 1583,3805 1672,3805 1762,3805 1852,3799 1941,3799 2031,3799 2120,3799 2210,3793 2300,3793 2389,3793 2479,3787 2568,3787 2658,3787 2748,3787 2837,3787 2927,3787 3017,3787 3106,3787 3196,3793 3285,3805"/>
+                <TextEquiv>
+                    <Unicode>Etzelt: Sie weiss.. wie ich, dass Du zu den Freiwilligen zählst,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="625,4017 3146,3963 3107,3878 2328,3816 625,3870"/>
+                <Baseline points="645,3972 734,3966 824,3972 914,3966 1003,3966 1093,3966 1182,3966 1272,3961 1362,3961 1451,3961 1541,3961 1631,3961 1720,3961 1810,3961 1899,3955 1989,3955 2079,3955 2168,3949 2258,3949 2347,3949 2437,3949 2527,3943 2616,3943 2706,3943 2796,3937 2885,3937 2975,3937 3064,3943 3154,3943"/>
+                <TextEquiv>
+                    <Unicode>die für einen möglichen Ausfall sich gemeldet haben...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="343,4160 3377,4179 3439,3986 347,4028"/>
+                <Baseline points="364,4134 400,4128 489,4122 579,4128 669,4128 758,4128 848,4128 937,4128 1027,4122 1117,4122 1206,4122 1296,4116 1386,4116 1475,4116 1565,4116 1654,4116 1744,4116 1834,4116 1923,4110 2013,4110 2102,4110 2192,4110 2282,4104 2371,4104 2461,4098 2551,4098 2640,4098 2730,4092 2819,4092 2909,4092 2999,4098 3088,4098 3178,4092 3267,4092 3357,4092 3447,4104"/>
+                <TextEquiv>
+                    <Unicode>Medardus: Darum also -? Und auch. Du..Etzelt! - Ich bin kein Held..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="601,4291 3065,4306 3200,4252 3200,4156 601,4163"/>
+                <Baseline points="621,4283 699,4283 788,4283 878,4283 967,4283 1057,4277 1147,4277 1236,4271 1326,4271 1415,4271 1505,4271 1595,4265 1684,4265 1774,4265 1864,4265 1953,4259 2043,4259 2132,4259 2222,4259 2312,4253 2401,4253 2491,4247 2580,4247 2670,4247 2760,4247 2849,4247 2939,4247 3029,4247 3118,4241 3208,4247"/>
+                <TextEquiv>
+                    <Unicode>Etzelt... kaum ein Soldat.. bestell es meiner Mutter. Ich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="617,4476 3362,4460 3392,4240 1353,4372 621,4314"/>
+                <Baseline points="639,4438 704,4438 794,4438 884,4438 973,4438 1063,4438 1153,4432 1242,4432 1332,4427 1421,4427 1511,4427 1601,4427 1690,4427 1780,4415 1869,4421 1959,4415 2049,4415 2138,4415 2228,4409 2318,4409 2407,4409 2497,4409 2586,4409 2676,4409 2766,4403 2855,4403 2945,4403 3034,4403 3124,4403 3214,4397 3303,4391 3393,4391"/>
+                <TextEquiv>
+                    <Unicode>will kein erlogenes Andenken hinterlassen... Wenn ich unter-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="601,4611 3092,4603 3227,4672 3269,4449 605,4518"/>
+                <Baseline points="627,4606 681,4606 770,4600 860,4594 949,4594 1039,4594 1129,4588 1218,4588 1308,4588 1398,4588 1487,4582 1577,4576 1666,4576 1756,4576 1846,4576 1935,4570 2025,4570 2114,4570 2204,4570 2294,4570 2383,4564 2473,4564 2563,4558 2652,4558 2742,4558 2831,4558 2921,4558 3011,4552 3100,4552 3190,4552 3279,4558"/>
+                <TextEquiv>
+                    <Unicode>gehn sollte, - fürs Vaterland würd es nicht gewesen sein...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="567,4811 2498,4761 2498,4614 571,4661"/>
+                <Baseline points="591,4749 627,4749 716,4755 806,4755 896,4749 985,4749 1075,4749 1165,4743 1254,4737 1344,4737 1433,4737 1523,4737 1613,4737 1702,4737 1792,4731 1881,4725 1971,4725 2061,4719 2150,4719 2240,4719 2330,4713 2419,4719 2509,4719"/>
+                <TextEquiv>
+                    <Unicode>Sag's der Mutter...Es liegt mir daran...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="324,4973 2564,4873 3096,4969 3346,4919 3354,4680 2884,4792 328,4815"/>
+                <Baseline points="346,4916 400,4910 489,4910 579,4910 669,4910 758,4910 848,4904 937,4904 1027,4904 1117,4904 1206,4898 1296,4898 1386,4893 1475,4893 1565,4893 1654,4893 1744,4887 1834,4887 1923,4887 2013,4881 2102,4881 2192,4881 2282,4875 2371,4875 2461,4875 2551,4875 2640,4869 2730,4869 2819,4869 2909,4869 2999,4863 3088,4863 3178,4857 3267,4857 3357,4857"/>
+                <TextEquiv>
+                    <Unicode>Etzelt: Wenn Du den Tod findest. so ist es eben doch. ein Sol-</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:52.727+02:00</Created>
+        <LastChange>2024-01-22T21:36:58.454+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127460" pageNr="112" tsid="145643109" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MVRPLSPHIEBILHQGAKMLEXMF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZZDYAODCXFEMSNYUCLCSQAC" imageId="48552537"/>
+    </Metadata>
+    <Page imageFilename="1589070_0112.jpg" imageWidth="2920" imageHeight="3544">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787193668" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="161,931 161,2919 2475,2919 2475,931"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="502,990 747,1046 850,1017 1046,1088 1230,1031 2470,1098 2440,982 1933,1009 1593,985 1485,926 1409,956 1196,924 1117,975 850,902 662,963 500,926"/>
+                <Baseline points="516,994 619,994 722,1000 825,1003 928,1009 1031,1014 1134,1015 1237,1021 1340,1022 1443,1029 1547,1033 1650,1034 1753,1042 1856,1047 1959,1048 2062,1053 2165,1061 2268,1062 2371,1069 2475,1074"/>
+                <TextEquiv>
+                    <Unicode>Oft klammertf sich der Erschreckte an den, vor dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="534,1129 992,1205 1497,1166 2276,1230 2298,1117 1730,1132 1563,1078 1254,1107 657,1063 532,1095"/>
+                <Baseline points="546,1128 634,1125 722,1131 810,1134 898,1137 986,1142 1074,1143 1162,1145 1250,1149 1338,1152 1426,1160 1514,1161 1602,1167 1690,1172 1778,1176 1866,1179 1954,1180 2042,1183 2130,1189 2218,1194 2307,1197"/>
+                <TextEquiv>
+                    <Unicode>erschrocken. So machen Nationen die Führer de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="497,1267 554,1306 752,1267 870,1318 1230,1284 1526,1313 1524,1237 1416,1223 495,1191"/>
+                <Baseline points="510,1250 561,1253 612,1254 663,1257 714,1259 765,1261 816,1262 867,1262 918,1265 969,1268 1020,1268 1071,1270 1122,1273 1173,1274 1224,1277 1275,1280 1326,1284 1377,1286 1428,1287 1479,1291 1531,1292"/>
+                <TextEquiv>
+                    <Unicode>lution zu ihren Monarchen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="145,2925 247,2891 328,2913 394,2893 478,2957 556,2925 600,2950 630,2925 833,2942 840,2768 573,2754 507,2791 377,2734 294,2778 152,2766"/>
+                <Baseline points="161,2887 195,2888 229,2884 263,2878 297,2878 331,2876 365,2874 399,2872 433,2872 467,2870 501,2869 535,2869 569,2869 603,2867 637,2866 671,2866 705,2866 739,2866 773,2865 807,2862 841,2860"/>
+                <TextEquiv>
+                    <Unicode>V. Hih Wat. 5/ 86</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

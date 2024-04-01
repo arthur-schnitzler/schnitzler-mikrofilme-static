@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:34</Creator>
+        <Created>2023-09-27T14:35:28.972+02:00</Created>
+        <LastChange>2024-01-22T18:34:48.108+01:00</LastChange>
+        <TranskribusMetadata docId="1589033" pageId="60124665" pageNr="275" tsid="145633056" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BEYVLOYNWZATTOUXHZIYKXWG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XGSRQXDRHDBIBRQAFMXTOSYB" imageId="48549742"/>
+    </Metadata>
+    <Page imageFilename="1589033_0275.jpg" imageWidth="3000" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793703764" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="226,348 226,1026 2411,1026 2411,348"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="210,481 331,514 538,486 694,577 781,514 1085,566 1238,503 1301,536 1768,495 1891,533 2235,459 2407,478 2383,309 1809,385 1683,314 1607,366 1033,358 757,426 552,369 437,415 339,331 213,383"/>
+                <Baseline points="226,474 335,476 444,480 553,490 663,498 772,501 881,500 990,501 1100,493 1209,489 1318,478 1427,471 1537,461 1646,456 1755,459 1864,459 1974,455 2083,454 2192,450 2301,445 2411,441"/>
+                <TextEquiv>
+                    <Unicode>8L. Selbtardinsltlc Simmonnen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="486,724 1077,680 1191,743 1273,680 1533,656 1784,743 2181,683 2186,579 2088,596 1956,519 1853,527 1705,628 1486,574 1350,615 1262,566 1077,648 1030,615 863,667 776,601 705,667 615,612 489,664"/>
+                <Baseline points="501,695 585,704 669,701 754,701 838,699 923,693 1007,689 1092,679 1176,674 1261,670 1345,668 1429,659 1514,656 1598,654 1683,652 1767,650 1852,644 1936,646 2021,642 2105,647 2190,644"/>
+                <TextEquiv>
+                    <Unicode>etemend splannk, - (Aogtel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="497,973 552,951 618,965 721,948 754,965 792,945 1008,937 1011,866 891,869 847,904 836,888 746,915 705,885 664,885 587,825 549,855 503,850"/>
+                <Baseline points="513,943 538,947 563,949 588,948 613,946 638,946 663,946 688,946 713,944 738,941 763,939 788,937 813,935 838,934 863,934 888,933 913,930 938,927 963,925 988,924 1014,922"/>
+                <TextEquiv>
+                    <Unicode>N</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1358,1011 1399,1014 1418,997 1476,1027 1497,1019 1544,1066 1574,1049 1604,1052 1631,1025 1656,1038 1689,1025 1689,872 1593,861 1568,880 1533,869 1445,880 1424,858 1358,863"/>
+                <Baseline points="1372,978 1398,977 1425,975 1452,977 1479,978 1506,978 1533,978 1560,978 1587,980 1614,980 1641,979 1668,976 1695,973"/>
+                <TextEquiv>
+                    <Unicode>V</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

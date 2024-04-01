@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:53.550+02:00</Created>
+        <LastChange>2023-08-15T04:28:21.572+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431819" pageNr="105" tsid="132838836" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=GMZGDFJBLIKDPVHQYHKVJLFR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WLUVRUYJAGFSCZBPXFMUGXLS" imageId="44705856"/>
+    </Metadata>
+    <Page imageFilename="1428821_0105.jpg" imageWidth="4024" imageHeight="5512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803855790" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="596,373 3430,373 3430,2372 596,2372"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1885,454 1953,447 1970,432 1992,432 2002,447 2031,439 2059,450 2080,429 2130,439 2148,461 2165,461 2176,308 2045,305 1995,322 1984,315 1935,344 1896,333"/>
+                <Baseline points="1908,447 1998,435 2087,435 2177,423"/>
+                <TextEquiv>
+                    <Unicode>G.C.F.P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1619,889 1747,897 1779,882 1797,897 1878,882 1942,900 2023,854 2027,574 1992,574 1924,528 1885,542 1751,517 1623,571"/>
+                <Baseline points="1640,739 1676,733 1765,727 1855,727 1944,727 2034,733"/>
+                <TextEquiv>
+                    <Unicode>ANATOX.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="578,1265 1322,1276 1977,1166 2169,1219 2247,1194 2250,985 1591,879 1371,950 581,1003"/>
+                <Baseline points="596,1139 644,1139 733,1139 823,1127 912,1121 1002,1121 1091,1127 1181,1121 1270,1127 1360,1121 1449,1121 1539,1121 1628,1115 1718,1115 1807,1115 1896,1115 1986,1109 2075,1109 2165,1109 2254,1127"/>
+                <TextEquiv>
+                    <Unicode>Frankfurter Zeitung, December 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="578,1637 1389,1499 1797,1588 2690,1456 3303,1520 3416,1499 3420,1301 581,1336"/>
+                <Baseline points="596,1443 656,1443 745,1437 835,1437 924,1437 1014,1431 1103,1431 1193,1431 1282,1431 1372,1437 1461,1437 1550,1437 1640,1437 1729,1431 1819,1431 1908,1431 1998,1425 2087,1419 2177,1425 2266,1419 2356,1419 2445,1419 2535,1419 2624,1425 2714,1419 2803,1413 2893,1413 2982,1413 3072,1413 3161,1413 3251,1413 3340,1407 3430,1413"/>
+                <TextEquiv>
+                    <Unicode>Herliner Zeitung zu Mittag. December 5, 1910 (Norbert Falk)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="585,1928 1410,1825 1651,1914 2342,1747 3101,1793 3243,1768 3246,1609 592,1648"/>
+                <Baseline points="608,1759 656,1753 745,1747 835,1747 924,1747 1014,1747 1103,1747 1193,1747 1282,1741 1372,1741 1461,1735 1550,1735 1640,1735 1729,1735 1819,1735 1908,1729 1998,1729 2087,1729 2177,1729 2266,1723 2356,1723 2445,1723 2535,1718 2624,1712 2714,1712 2803,1718 2893,1712 2982,1712 3072,1718 3161,1718 3251,1723"/>
+                <TextEquiv>
+                    <Unicode>Die Welt am Montag, December 5, 1910 (Arthur Westphal).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="581,2098 843,2190 1588,2165 1825,2098 2264,2162 2268,1871 1910,1967 1581,1892 953,1963 819,1899 581,1924"/>
+                <Baseline points="602,2052 668,2052 757,2046 847,2046 936,2046 1026,2046 1115,2046 1205,2046 1294,2040 1383,2040 1473,2040 1562,2040 1652,2034 1741,2034 1831,2034 1920,2034 2010,2034 2099,2034 2189,2028 2278,2034"/>
+                <TextEquiv>
+                    <Unicode>Breslauer Zeitung, December 5, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="595,2481 1045,2474 1180,2534 1797,2406 2350,2435 2442,2417 2445,2218 1598,2286 1389,2208 836,2272 599,2204"/>
+                <Baseline points="614,2362 662,2356 751,2350 841,2350 930,2344 1020,2344 1109,2344 1199,2350 1288,2350 1378,2350 1467,2350 1556,2350 1646,2344 1735,2344 1825,2344 1914,2344 2004,2344 2093,2344 2183,2344 2272,2338 2362,2338 2451,2350"/>
+                <TextEquiv>
+                    <Unicode>Hanoverscher Courier, December 7, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="590,2592 2928,2592 2928,4847 590,4847"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="592,2757 999,2807 1389,2743 1573,2810 1839,2736 2296,2814 2452,2707 2739,2757 2743,2552 1875,2505 1634,2576 1258,2488 595,2555"/>
+                <Baseline points="614,2672 691,2672 781,2666 870,2660 960,2654 1049,2654 1139,2654 1228,2654 1318,2654 1407,2660 1497,2660 1586,2654 1676,2648 1765,2648 1855,2654 1944,2648 2034,2648 2123,2648 2213,2648 2302,2648 2392,2648 2481,2648 2571,2648 2660,2642 2750,2642"/>
+                <TextEquiv>
+                    <Unicode>Tägliche Rundschau (Berlin), December 4, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="595,3055 748,3104 1180,3033 1432,3108 1662,3041 1846,3129 2091,3002 2612,3005 2615,2817 1747,2899 1630,2835 1074,2885 716,2785 599,2846"/>
+                <Baseline points="614,2976 650,2976 739,2970 829,2958 918,2958 1008,2964 1097,2964 1187,2958 1276,2964 1366,2964 1455,2958 1545,2958 1634,2958 1723,2958 1813,2958 1902,2952 1992,2952 2081,2952 2171,2952 2260,2952 2350,2952 2439,2952 2529,2946 2618,2958"/>
+                <TextEquiv>
+                    <Unicode>Hamburger Correspondent, December 14, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="588,3427 2746,3303 2792,3150 2140,3207 1843,3126 592,3150"/>
+                <Baseline points="608,3292 656,3280 745,3280 835,3274 924,3274 1014,3269 1103,3269 1193,3269 1282,3269 1372,3269 1461,3269 1550,3274 1640,3269 1729,3263 1819,3263 1908,3269 1998,3269 2087,3269 2177,3263 2266,3263 2356,3257 2445,3257 2535,3263 2624,3257 2714,3257 2803,3263"/>
+                <TextEquiv>
+                    <Unicode>Schlesische Zeitung, Breslau, December 9, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="581,3703 1503,3703 1914,3590 2789,3639 2920,3583 2924,3476 1715,3452 1627,3515 1364,3420 585,3423"/>
+                <Baseline points="602,3597 691,3591 781,3585 870,3585 960,3585 1049,3585 1139,3585 1228,3585 1318,3579 1407,3585 1497,3579 1586,3579 1676,3579 1765,3579 1855,3573 1944,3573 2034,3573 2123,3573 2213,3573 2302,3567 2392,3573 2481,3567 2571,3573 2660,3573 2750,3567 2839,3567 2928,3561"/>
+                <TextEquiv>
+                    <Unicode>Freie Deutsche Presse. (Berlin), December 6, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="567,3980 1166,4051 1492,3973 2771,3955 2839,3944 2842,3781 2679,3728 2080,3810 1949,3735 1464,3824 1060,3742 571,3845"/>
+                <Baseline points="590,3913 614,3913 703,3907 793,3901 882,3901 972,3901 1061,3895 1151,3895 1240,3895 1330,3895 1419,3895 1509,3895 1598,3895 1688,3889 1777,3889 1867,3889 1956,3883 2046,3883 2135,3883 2225,3883 2314,3883 2404,3877 2493,3883 2583,3877 2672,3877 2761,3871 2851,3871"/>
+                <TextEquiv>
+                    <Unicode>Die Zeit am Montag, (Berlin), December 5, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="571,4235 815,4341 1173,4284 1286,4338 1651,4238 1829,4309 2204,4228 2449,4284 2537,4274 2541,4097 574,4068"/>
+                <Baseline points="590,4217 668,4211 757,4205 847,4199 936,4193 1026,4193 1115,4193 1205,4193 1294,4187 1383,4193 1473,4187 1562,4187 1652,4187 1741,4187 1831,4187 1920,4187 2010,4187 2099,4187 2189,4187 2278,4181 2368,4187 2457,4187 2547,4193"/>
+                <TextEquiv>
+                    <Unicode>Van. December 16, 1910 (Ludwig Hatvany)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="581,4547 1091,4625 1311,4557 1410,4618 2335,4571 2527,4508 2530,4352 2250,4291 2009,4359 1875,4299 1676,4384 1042,4345 581,4444"/>
+                <Baseline points="602,4521 656,4521 745,4521 835,4509 924,4509 1014,4503 1103,4503 1193,4509 1282,4509 1372,4503 1461,4503 1550,4503 1640,4503 1729,4503 1819,4503 1908,4497 1998,4497 2087,4497 2177,4497 2266,4497 2356,4497 2445,4491 2535,4497"/>
+                <TextEquiv>
+                    <Unicode>Volksfreund. (Brünn) December 23, 1910</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="595,4883 1549,4965 2059,4848 2676,4869 2679,4695 2587,4674 1407,4678 1269,4756 599,4681"/>
+                <Baseline points="614,4837 626,4831 715,4831 805,4825 894,4825 984,4831 1073,4825 1163,4825 1252,4825 1342,4825 1431,4820 1521,4814 1610,4814 1700,4808 1789,4814 1879,4814 1968,4814 2058,4820 2147,4820 2237,4814 2326,4814 2415,4814 2505,4808 2594,4802 2684,4814"/>
+                <TextEquiv>
+                    <Unicode>Rerue de Hengrie (Budapest), April 5, 1911</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

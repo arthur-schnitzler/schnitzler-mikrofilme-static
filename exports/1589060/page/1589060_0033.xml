@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:04</Creator>
+        <Created>2023-09-27T14:39:39.114+02:00</Created>
+        <LastChange>2024-01-22T20:04:07.927+01:00</LastChange>
+        <TranskribusMetadata docId="1589060" pageId="60125511" pageNr="33" tsid="145638170" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BLWAYSZWDAJNHAYMFGKZLBXO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MFVCBRQNGUYUIXXUKRSQKMYR" imageId="48550588"/>
+    </Metadata>
+    <Page imageFilename="1589060_0033.jpg" imageWidth="3368" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789427630" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="975,572 975,1053 2912,1053 2912,572"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="976,683 1245,637 2839,671 2907,664 2907,601 2643,564 2427,603 2306,564 2059,601 1759,567 1686,601 1420,535 1347,584 974,555"/>
+                <Baseline points="990,638 1086,632 1182,637 1278,638 1374,638 1470,640 1566,641 1662,641 1758,641 1854,644 1951,644 2047,644 2143,646 2239,650 2335,650 2431,649 2527,651 2623,653 2719,650 2815,653 2912,653"/>
+                <TextEquiv>
+                    <Unicode>Schwächen deines Werks und deines Hosens so</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="967,785 2139,775 2607,819 2742,785 2868,819 2839,715 2650,749 2103,693 1407,727 967,678"/>
+                <Baseline points="981,760 1075,763 1170,764 1264,764 1359,766 1454,766 1548,769 1643,769 1737,769 1832,772 1927,772 2021,774 2116,775 2210,777 2305,778 2400,778 2494,781 2589,781 2683,781 2778,780 2873,766"/>
+                <TextEquiv>
+                    <Unicode>trefflich nachzuweisen und festzulegen ver-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="962,925 1424,896 1759,1003 1887,957 2573,967 2691,1005 2912,979 2909,853 2863,836 1558,855 1078,836 962,782"/>
+                <Baseline points="975,886 1071,889 1168,894 1265,895 1362,894 1459,894 1556,898 1652,901 1749,898 1846,899 1943,898 2040,903 2137,904 2234,904 2330,905 2427,907 2524,909 2621,909 2718,910 2815,910 2912,912"/>
+                <TextEquiv>
+                    <Unicode>stand, ich bin ja in Gradde noch viel weniger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="964,1122 1129,1095 1233,1093 1301,1117 1509,1110 1507,938 1454,947 1320,899 1252,947 1107,925 1054,950 962,935"/>
+                <Baseline points="975,1014 1001,1014 1028,1014 1055,1014 1082,1015 1109,1017 1136,1015 1162,1014 1189,1014 1216,1015 1243,1017 1270,1017 1297,1017 1324,1017 1350,1018 1377,1020 1404,1020 1431,1020 1458,1020 1485,1021 1512,1023"/>
+                <TextEquiv>
+                    <Unicode>nort als du.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

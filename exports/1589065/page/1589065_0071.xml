@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:58.010+02:00</Created>
+        <LastChange>2024-01-22T21:10:33.382+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126355" pageNr="71" tsid="145642026" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=GBUDUVMJQONODWYHNRZQDRCF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VTESOJZRBGVVPCVEFEIKIAUQ" imageId="48551432"/>
+    </Metadata>
+    <Page imageFilename="1589065_0071.jpg" imageWidth="2920" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788325748" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="453,526 453,1138 2454,1138 2454,526"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="442,612 795,635 1064,602 1134,637 1217,632 1217,535 1157,527 1039,552 915,520 647,535 572,495 500,540 442,535"/>
+                <Baseline points="456,588 494,588 532,588 571,588 609,588 648,588 686,588 724,591 763,588 801,588 840,588 878,589 916,591 955,591 993,591 1032,591 1070,591 1108,591 1147,591 1185,591 1224,591"/>
+                <TextEquiv>
+                    <Unicode>bitterung äussern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="447,750 622,722 800,767 1059,727 1137,780 1314,787 1467,720 1764,780 2449,737 2449,610 2174,665 1867,627 1667,672 1404,602 997,685 582,607 492,657 447,635"/>
+                <Baseline points="462,722 561,717 661,719 760,717 860,716 960,716 1059,713 1159,713 1258,718 1358,716 1458,714 1557,719 1657,716 1756,715 1856,714 1956,713 2055,710 2155,710 2254,710 2354,710 2454,710"/>
+                <TextEquiv>
+                    <Unicode>Die vertreter der ersten Gruppe sind naiv und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="440,905 555,862 735,905 1057,852 1902,912 1969,870 2176,865 2439,920 2439,787 2379,767 2076,755 2006,800 1707,760 1654,802 1544,765 1122,770 937,815 805,760 440,815"/>
+                <Baseline points="453,850 552,848 652,844 751,848 851,847 951,850 1050,844 1150,847 1249,845 1349,850 1449,845 1548,844 1648,844 1747,841 1847,844 1947,844 2046,841 2146,844 2245,841 2345,841 2445,844"/>
+                <TextEquiv>
+                    <Unicode>ohne Tücke, vielfältig, aber nicht kompliziert,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="452,990 710,1037 922,977 1184,1029 1264,992 1577,1004 1577,945 1437,900 1022,892 922,935 452,902"/>
+                <Baseline points="465,979 520,975 576,974 632,976 688,976 744,976 800,975 855,973 911,976 967,973 1023,973 1079,975 1135,973 1191,976 1246,976 1302,976 1358,976 1414,976 1470,977 1526,983 1582,985"/>
+                <TextEquiv>
+                    <Unicode>reich, aber nickt protziz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="440,1122 862,1189 1707,1142 1837,1202 1994,1134 2269,1174 2441,1114 2421,985 2224,1002 2139,1057 1724,1024 1577,1067 1432,1019 1342,1062 1044,1067 872,1019 735,1059 675,1012 442,1044"/>
+                <Baseline points="453,1107 552,1104 652,1104 752,1107 852,1104 952,1104 1052,1104 1152,1104 1252,1104 1352,1102 1452,1104 1551,1101 1651,1101 1751,1107 1851,1101 1951,1104 2051,1098 2151,1099 2251,1099 2351,1097 2451,1104"/>
+                <TextEquiv>
+                    <Unicode>Bei denen der zweiten ist es genau ungesehrt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

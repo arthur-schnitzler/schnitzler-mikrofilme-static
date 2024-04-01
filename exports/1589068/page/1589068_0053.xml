@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:52.605+02:00</Created>
+        <LastChange>2024-01-22T21:15:14.838+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126745" pageNr="53" tsid="145642218" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=RHBTEDASULTDQZFEAWIFKYQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UHCKTZOSSESLEVREXKSQLBWD" imageId="48551822"/>
+    </Metadata>
+    <Page imageFilename="1589068_0053.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787555796" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="668,436 668,935 2155,935 2155,436"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1392,521 1743,518 1821,543 1855,515 1900,515 1900,416 1863,407 1709,462 1534,417 1461,456 1392,445"/>
+                <Baseline points="1400,504 1425,501 1450,501 1475,502 1500,504 1526,504 1551,504 1576,502 1601,502 1626,503 1652,503 1677,501 1702,501 1727,501 1752,499 1778,498 1803,498 1828,498 1853,498 1878,499 1904,501"/>
+                <TextEquiv>
+                    <Unicode>Pflicht-? Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="721,674 1056,666 1218,705 1376,674 1562,704 1563,577 1520,569 722,603"/>
+                <Baseline points="731,644 772,642 814,643 856,641 898,641 940,641 981,641 1023,638 1065,638 1107,638 1149,636 1190,637 1232,636 1274,634 1316,633 1358,634 1399,632 1441,633 1483,635 1525,635 1567,638"/>
+                <TextEquiv>
+                    <Unicode>ages, antwortet Goethe.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="810,818 1000,835 1308,759 2050,755 2021,683 812,702"/>
+                <Baseline points="818,770 879,764 941,767 1003,767 1065,767 1127,766 1188,766 1250,761 1312,758 1374,758 1436,761 1497,759 1559,758 1621,757 1683,755 1745,755 1806,755 1868,758 1930,754 1992,752 2054,752"/>
+                <TextEquiv>
+                    <Unicode>Recht aber?- Die Forderung des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1611,952 1679,959 1876,884 2095,905 2152,892 2154,833 1614,826"/>
+                <Baseline points="1621,886 1647,886 1674,886 1701,886 1727,886 1754,886 1781,886 1807,887 1834,888 1861,886 1888,883 1914,885 1941,885 1968,884 1994,882 2021,880 2048,878 2074,877 2101,877 2128,877 2155,877"/>
+                <TextEquiv>
+                    <Unicode>derung des näe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1056,956 1206,951 1263,976 1290,966 1324,991 1390,993 1395,824 1248,850 1155,813 1124,837 1061,844"/>
+                <Baseline points="1068,898 1093,897 1118,896 1143,896 1169,898 1194,897 1219,895 1245,893 1270,891 1295,890 1321,889 1346,889 1371,890 1397,892"/>
+                <TextEquiv>
+                    <Unicode>Ehre-I D1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="660,943 696,948 764,926 793,948 871,934 891,951 954,949 952,840 894,849 881,838 864,854 827,843 812,852 758,852 741,840 659,846"/>
+                <Baseline points="668,898 694,898 720,898 747,900 773,900 799,898 826,898 852,898 878,900 905,901 931,901 958,904"/>
+                <TextEquiv>
+                    <Unicode>Und deit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

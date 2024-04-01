@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_09:26</Creator>
+        <Created>2023-05-10T14:44:16.409+02:00</Created>
+        <LastChange>2023-08-14T09:26:43.163+02:00</LastChange>
+        <TranskribusMetadata docId="1428654" pageId="55424243" pageNr="3" tsid="132787141" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LKMPEQIJZTIZKEXJSIWICSSI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GGHVRIJWRGCQYQOBFRSBCPDP" imageId="44698321"/>
+    </Metadata>
+    <Page imageFilename="1428654_0003.jpg" imageWidth="3304" imageHeight="3928">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814632513" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="379,415 2349,415 2349,1162 379,1162"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="638,535 722,567 800,523 1158,546 1292,495 1515,614 1794,591 1803,401 1421,439 1231,394 760,446 643,424"/>
+                <Baseline points="650,516 686,516 731,513 776,510 820,510 865,510 910,510 955,510 999,510 1044,507 1089,504 1134,498 1178,498 1223,495 1268,492 1313,489 1358,486 1402,486 1447,483 1492,483 1537,480 1581,477 1626,474 1671,471 1716,468 1761,465 1805,465"/>
+                <TextEquiv>
+                    <Unicode>s monoligische Geschichte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="455,689 518,704 539,689 579,713 607,694 727,729 825,668 964,711 1006,685 1065,692 1069,560 987,586 896,577 868,598 821,584 727,614 457,614"/>
+                <Baseline points="468,680 489,680 534,674 579,674 623,671 668,671 713,668 758,665 802,665 847,662 892,662 937,659 982,656 1026,653 1071,656"/>
+                <TextEquiv>
+                    <Unicode>autnant Gustl:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="462,877 1332,861 1604,788 2319,854 2347,680 467,753"/>
+                <Baseline points="474,832 513,832 558,829 602,829 647,826 692,826 737,823 782,820 826,820 871,814 916,811 961,814 1005,811 1050,808 1095,808 1140,805 1184,802 1229,802 1274,799 1319,799 1364,796 1408,796 1453,796 1498,793 1543,793 1587,790 1632,787 1677,782 1722,782 1767,782 1811,779 1856,779 1901,776 1946,773 1990,770 2035,767 2080,767 2125,764 2169,761 2214,758 2259,755 2304,752 2349,758"/>
+                <TextEquiv>
+                    <Unicode>e wacht am frühen Morgen in irgend einem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="380,1011 492,994 572,1032 668,987 915,978 1025,1025 1248,994 1252,922 1104,863 943,847 828,872 750,929 668,877 523,910 455,865 385,879"/>
+                <Baseline points="393,993 405,990 450,990 495,987 540,987 585,987 629,984 674,982 719,979 764,979 808,976 853,973 898,970 943,970 987,967 1032,964 1077,964 1122,958 1167,958 1211,955 1256,955"/>
+                <TextEquiv>
+                    <Unicode>chen Hotel auf etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="366,1165 1018,1170 1252,1116 1339,1163 1585,1100 1761,1137 1768,999 1090,1074 371,1065"/>
+                <Baseline points="379,1152 423,1149 468,1146 513,1146 558,1146 602,1140 647,1140 692,1137 737,1134 782,1134 826,1131 871,1128 916,1128 961,1125 1005,1122 1050,1122 1095,1119 1140,1119 1184,1119 1229,1119 1274,1116 1319,1113 1364,1110 1408,1107 1453,1104 1498,1101 1543,1101 1587,1098 1632,1092 1677,1092 1722,1089 1767,1089"/>
+                <TextEquiv>
+                    <Unicode>Ev: als Verführungsgeschichte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

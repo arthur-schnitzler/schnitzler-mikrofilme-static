@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:54.364+02:00</Created>
+        <LastChange>2024-01-22T21:46:14.549+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127199" pageNr="11" tsid="145643556" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=CKPRHGAMJQUIICVMAGIBSMLI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRUHNUIAJVESDPACILRDEXYG" imageId="48552276"/>
+    </Metadata>
+    <Page imageFilename="1589072_0011.jpg" imageWidth="2968" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786837490" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="256,946 256,2975 2434,2975 2434,946"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="485,1043 1254,1023 1744,1077 1828,1040 2090,1077 2214,1048 2323,1091 2427,1062 2427,977 1775,963 1710,997 1293,977 1154,919 643,977 483,943"/>
+                <Baseline points="498,1008 594,1008 691,1009 788,1011 885,1014 982,1017 1078,1020 1175,1026 1272,1023 1369,1023 1466,1026 1562,1027 1659,1032 1756,1032 1853,1032 1950,1032 2046,1037 2143,1041 2240,1044 2337,1047 2434,1047"/>
+                <TextEquiv>
+                    <Unicode>Das wahrhaft Tragikomische ist das Lächerliche an-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="478,1164 778,1154 890,1200 1120,1157 1302,1225 1377,1183 1656,1176 2406,1244 2427,1101 1913,1120 1770,1069 1326,1113 475,1067"/>
+                <Baseline points="492,1133 594,1134 696,1139 798,1145 900,1145 1002,1148 1104,1147 1206,1148 1308,1154 1410,1156 1512,1159 1614,1160 1716,1164 1818,1165 1920,1166 2022,1169 2124,1172 2226,1175 2328,1175 2431,1178"/>
+                <TextEquiv>
+                    <Unicode>Leuten, die einem durch Pietät über alles erhaben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="483,1280 567,1273 798,1314 871,1283 929,1307 1006,1297 1002,1198 931,1225 834,1196 757,1203 728,1227 626,1205 483,1225"/>
+                <Baseline points="495,1270 520,1267 546,1264 572,1266 598,1267 624,1267 649,1268 675,1270 701,1268 727,1268 753,1269 778,1271 804,1273 830,1273 856,1273 882,1273 907,1274 933,1275 959,1277 985,1279 1011,1285"/>
+                <TextEquiv>
+                    <Unicode>sein sollten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="238,3012 323,3000 446,2932 664,2942 672,2847 601,2835 570,2852 512,2806 444,2813 405,2789 369,2806 327,2772 255,2752"/>
+                <Baseline points="256,2944 282,2942 308,2943 334,2943 360,2941 386,2936 412,2932 438,2930 465,2929 491,2929 517,2929 543,2928 569,2925 595,2922 621,2921 647,2920 674,2920"/>
+                <TextEquiv>
+                    <Unicode>Zb 212 91</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

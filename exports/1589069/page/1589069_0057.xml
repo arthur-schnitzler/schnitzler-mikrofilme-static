@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:10.757+02:00</Created>
+        <LastChange>2024-01-22T21:46:43.839+01:00</LastChange>
+        <TranskribusMetadata docId="1589069" pageId="60127032" pageNr="57" tsid="145643721" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=PYZYEPYPYWBKWOZPRIEVLUAW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BYORKARNPFHOWIXLNAZMLUJA" imageId="48552109"/>
+    </Metadata>
+    <Page imageFilename="1589069_0057.jpg" imageWidth="2936" imageHeight="3576">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787314793" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="650,381 650,1134 1847,1134 1847,381"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1025,469 1178,445 1243,478 1588,498 1843,434 1842,377 1742,359 1553,408 1358,360 1253,403 1167,360 1024,373"/>
+                <Baseline points="1032,441 1072,441 1113,441 1154,443 1195,446 1235,447 1276,448 1317,451 1358,452 1398,451 1439,456 1480,459 1521,456 1561,458 1602,457 1643,456 1684,454 1724,453 1765,453 1806,453 1847,456"/>
+                <TextEquiv>
+                    <Unicode>Uierle orptics</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="658,625 1698,594 1688,508 1559,553 1430,516 903,570 660,537"/>
+                <Baseline points="665,608 716,608 768,605 820,605 872,605 924,605 975,603 1027,602 1079,599 1131,599 1183,598 1234,598 1286,599 1338,595 1390,594 1442,594 1493,594 1545,592 1597,589 1649,588 1701,588"/>
+                <TextEquiv>
+                    <Unicode>Die Kennworte des Wieners:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="642,757 1501,735 1502,666 1473,660 1204,695 1037,670 980,697 844,674 643,697"/>
+                <Baseline points="650,731 692,734 735,736 778,735 820,734 863,734 906,732 948,731 991,731 1034,731 1077,731 1119,730 1162,728 1205,728 1247,727 1290,725 1333,725 1375,725 1418,722 1461,722 1504,719"/>
+                <TextEquiv>
+                    <Unicode>Wie komm denn i dazu?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="658,870 1099,865 1176,919 1268,858 1619,863 1620,784 1416,815 1163,771 760,839 660,800"/>
+                <Baseline points="665,865 712,863 760,862 808,862 856,862 904,862 952,862 1000,862 1048,859 1096,859 1144,858 1191,857 1239,858 1287,855 1335,851 1383,850 1431,850 1479,848 1527,847 1575,844 1623,838"/>
+                <TextEquiv>
+                    <Unicode>Es zahlt sichja net ausl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="664,1001 1473,996 1473,958 1358,919 1121,950 988,926 664,941"/>
+                <Baseline points="671,993 711,993 751,993 791,992 831,991 871,988 911,986 952,988 992,988 1032,988 1072,988 1112,988 1152,986 1192,985 1233,985 1273,985 1313,984 1353,982 1393,983 1433,985 1474,982"/>
+                <TextEquiv>
+                    <Unicode>Tun St Ihnen nix an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="822,1108 1102,1132 1146,1108 1193,1125 1193,1084 1180,1081 1146,1091 1129,1080 1107,1094 1067,1075 1033,1095 1001,1082 893,1093 822,1081"/>
+                <Baseline points="829,1101 855,1103 881,1104 907,1106 933,1107 960,1107 986,1106 1012,1104 1038,1104 1064,1105 1091,1107 1117,1107 1143,1107 1169,1105 1196,1104"/>
+                <TextEquiv>
+                    <Unicode>e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

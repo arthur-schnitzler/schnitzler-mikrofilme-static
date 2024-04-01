@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:54.062+02:00</Created>
+        <LastChange>2024-01-22T21:46:14.392+01:00</LastChange>
+        <TranskribusMetadata docId="1589072" pageId="60127194" pageNr="10" tsid="145643554" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ERCPWDSXCCINHZLCYIZMZYHD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LZQFNBHOYAVGCERIIBQYXHBR" imageId="48552271"/>
+    </Metadata>
+    <Page imageFilename="1589072_0010.jpg" imageWidth="2920" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711786835833" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="548,528 2028,528 2028,624 548,624"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="537,672 763,616 1403,602 1807,674 2022,657 2025,533 1768,498 1664,548 1522,511 1124,548 935,513 541,557"/>
+                <Baseline points="548,614 551,611 596,611 641,611 686,608 730,608 775,611 820,608 865,605 909,605 954,605 999,602 1044,605 1088,602 1133,605 1178,602 1223,599 1267,596 1312,596 1357,593 1402,596 1446,593 1491,593 1536,590 1581,587 1625,584 1670,581 1715,581 1760,581 1804,578 1849,581 1894,581 1939,581 1983,581 2028,581"/>
+                <TextEquiv>
+                    <Unicode>Intellektuelle Ruytmik (auszuführen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

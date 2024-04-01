@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:24</Creator>
+        <Created>2023-09-27T14:40:48.333+02:00</Created>
+        <LastChange>2024-01-22T21:24:52.711+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126500" pageNr="80" tsid="145642579" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=OBOYBRXHBKQSKNQZWZCGVXBY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NMFDCIMMWYGMMNFGPRLIRDTL" imageId="48551577"/>
+    </Metadata>
+    <Page imageFilename="1589064_0080.jpg" imageWidth="3080" imageHeight="3704">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788530386" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="659,652 659,1286 2644,1286 2644,652"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="655,812 1077,809 1296,762 1405,797 1539,765 1544,626 1430,660 1214,621 926,673 730,638 660,660"/>
+                <Baseline points="671,734 714,736 758,734 802,734 846,735 890,735 934,731 978,731 1022,730 1066,728 1110,727 1153,724 1197,719 1241,716 1285,714 1329,719 1373,716 1417,716 1461,716 1505,716 1549,716"/>
+                <TextEquiv>
+                    <Unicode>vethoden der Kritik.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="645,896 1730,842 2525,866 2636,822 2639,742 2276,717 2202,767 1984,740 1894,780 1688,757 1378,807 1288,772 899,822 648,792"/>
+                <Baseline points="659,862 758,862 857,862 956,862 1056,859 1155,853 1254,850 1353,849 1453,842 1552,842 1651,838 1750,835 1850,830 1949,826 2048,824 2147,820 2247,814 2346,811 2445,808 2544,805 2644,799"/>
+                <TextEquiv>
+                    <Unicode>Das Leben irgend eines Werkes bis zur zehnten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="655,1013 695,1025 745,1070 824,1040 844,1055 866,1038 958,1072 1025,1045 1028,931 946,923 928,936 847,916 799,936 777,923 658,941"/>
+                <Baseline points="668,996 694,996 720,996 746,996 772,995 798,994 824,993 850,993 876,991 902,990 928,988 954,988 980,992 1006,992 1032,990"/>
+                <TextEquiv>
+                    <Unicode>Auflage.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="673,1167 1308,1179 1418,1115 1633,1187 1820,1107 2123,1097 2202,1142 2291,1092 2406,1107 2381,981 2244,1030 1601,1015 1445,1053 1286,1018 1199,1063 678,1070"/>
+                <Baseline points="689,1122 775,1122 861,1118 947,1115 1034,1109 1120,1107 1206,1107 1292,1101 1379,1098 1465,1093 1551,1092 1637,1086 1724,1087 1810,1084 1896,1080 1982,1076 2069,1069 2155,1066 2241,1065 2327,1062 2414,1053"/>
+                <TextEquiv>
+                    <Unicode>(Als wenn. die Höhe der Auflage gegen die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="655,1308 914,1264 1231,1301 1437,1244 2232,1254 2234,1149 2172,1125 1847,1182 1561,1154 1390,1192 1224,1154 1003,1209 901,1157 660,1177"/>
+                <Baseline points="671,1241 749,1254 828,1253 906,1255 985,1250 1063,1247 1142,1246 1220,1240 1299,1235 1377,1233 1456,1229 1534,1223 1613,1223 1691,1225 1770,1223 1848,1219 1927,1211 2005,1212 2084,1208 2162,1205 2241,1205"/>
+                <TextEquiv>
+                    <Unicode>Trefflichkeit eines Buches spräche).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

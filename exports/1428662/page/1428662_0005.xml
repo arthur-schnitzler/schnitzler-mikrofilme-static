@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_09:31</Creator>
+        <Created>2023-05-10T14:45:30.454+02:00</Created>
+        <LastChange>2023-08-14T09:31:46.173+02:00</LastChange>
+        <TranskribusMetadata docId="1428662" pageId="55424587" pageNr="5" tsid="132787335" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=SLFJJSKQWPCJLQGRIWSZTCDF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHTLDYMOWUOBBIFXPEJWDMZQ" imageId="44698664"/>
+    </Metadata>
+    <Page imageFilename="1428662_0005.jpg" imageWidth="3464" imageHeight="4136">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711814252055" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="331,457 2933,457 2933,952 331,952"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="306,810 2089,693 2600,563 2863,713 2932,420 322,670"/>
+                <Baseline points="331,775 337,778 381,775 426,769 471,766 516,760 561,757 605,754 650,752 695,746 740,740 784,737 829,731 874,728 919,722 963,719 1008,713 1053,710 1098,707 1142,698 1187,692 1232,689 1277,683 1321,677 1366,674 1411,668 1456,662 1501,662 1545,653 1590,650 1635,647 1680,641 1724,638 1769,635 1814,629 1859,623 1903,617 1948,614 1993,608 2038,602 2082,599 2127,596 2172,590 2217,587 2261,581 2306,575 2351,569 2396,566 2441,561 2485,555 2530,552 2575,546 2620,540 2664,537 2709,531 2754,525 2799,522 2843,516 2888,510 2933,507"/>
+                <TextEquiv>
+                    <Unicode>seine Worte waren eine Verherrlichung des nimmermüden Ge-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="319,979 1467,830 2427,852 2538,810 2561,602 338,826"/>
+                <Baseline points="343,942 367,940 411,934 456,931 501,928 546,925 590,922 635,919 680,910 725,907 769,904 814,898 859,892 904,886 948,883 993,877 1038,871 1083,865 1128,862 1172,856 1217,853 1262,847 1307,841 1351,835 1396,829 1441,826 1486,817 1530,814 1575,808 1620,802 1665,802 1709,796 1754,790 1799,784 1844,781 1888,775 1933,769 1978,763 2023,757 2068,757 2112,752 2157,746 2202,743 2247,734 2291,731 2336,725 2381,719 2426,716 2470,713 2515,707 2560,707"/>
+                <TextEquiv>
+                    <Unicode>nusses, xxx um die trübe Schlaglichter spielten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

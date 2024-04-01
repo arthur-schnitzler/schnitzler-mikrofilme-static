@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:25.865+02:00</Created>
+        <LastChange>2024-01-22T19:42:24.998+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125356" pageNr="11" tsid="145636170" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IBKGGYICSIZRLQEKFUHYFDFZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JSWXKTFASONYCAGLKRCFOXKN" imageId="48550433"/>
+    </Metadata>
+    <Page imageFilename="1589055_0011.jpg" imageWidth="2888" imageHeight="3464">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790585590" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="522,332 522,894 2532,894 2532,332"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="978,420 1086,385 1309,418 1421,390 1784,400 1814,395 1817,320 1446,365 1326,330 1054,348 981,323"/>
+                <Baseline points="991,394 1032,391 1074,392 1115,393 1157,391 1198,391 1240,394 1281,391 1323,388 1364,388 1406,388 1447,388 1489,388 1530,388 1572,388 1613,387 1655,385 1696,385 1738,385 1779,385 1821,385"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="518,578 673,613 1029,586 1114,638 1196,586 1569,593 1809,666 2027,613 2327,661 2525,616 2523,533 2460,513 1934,541 1507,508 1419,546 978,410 518,506"/>
+                <Baseline points="531,567 631,570 731,574 831,578 931,579 1031,579 1131,580 1231,581 1331,582 1431,585 1531,585 1631,590 1731,588 1831,591 1931,591 2031,592 2131,594 2231,594 2331,595 2431,598 2532,606"/>
+                <TextEquiv>
+                    <Unicode>Weiss ich euch nicht mit Sicherheit zu melden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="508,708 1894,726 2082,793 2360,783 2357,666 2297,638 1056,666 848,656 713,588 508,591"/>
+                <Baseline points="522,704 614,698 706,701 798,704 890,706 982,709 1074,707 1167,708 1259,710 1351,712 1443,714 1535,714 1627,716 1719,716 1812,719 1904,719 1996,722 2088,722 2180,722 2272,728 2365,737"/>
+                <TextEquiv>
+                    <Unicode>Doch wenger noch ward mir bisher bekannt,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="688,771 726,768 748,786 756,781 773,788 781,781 816,801 836,801 836,726 823,726 816,718 798,731 788,728 776,736 743,713 728,721 688,718"/>
+                <Baseline points="701,767 729,767 757,767 785,767 813,767 842,767"/>
+                <TextEquiv>
+                    <Unicode>Propl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="508,866 1074,856 1449,946 1979,913 1977,801 1929,778 816,801 508,758"/>
+                <Baseline points="522,830 595,829 668,831 741,833 814,836 887,836 960,836 1033,840 1106,839 1179,841 1252,842 1325,842 1398,847 1471,845 1544,847 1617,850 1690,848 1763,848 1836,851 1909,848 1982,848"/>
+                <TextEquiv>
+                    <Unicode>Was ex sonstleistet für sein Vato</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="2055,898 2157,933 2177,951 2215,943 2242,951 2312,918 2305,803 2257,796 2207,768 2192,783 2165,768 2082,793 2070,781 2050,786"/>
+                <Baseline points="2066,857 2091,855 2116,854 2141,854 2166,855 2191,859 2216,861 2241,863 2266,863 2291,863 2317,868"/>
+                <TextEquiv>
+                    <Unicode>land.-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

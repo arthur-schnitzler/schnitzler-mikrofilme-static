@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_16:59</Creator>
+        <Created>2023-09-27T14:32:14.827+02:00</Created>
+        <LastChange>2024-01-22T16:59:12.826+01:00</LastChange>
+        <TranskribusMetadata docId="1589029" pageId="60121923" pageNr="20" tsid="145626648" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=EQDHOPBFUCLURRSQGHBZOPGW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MOGORTDENUGLDANWQQMPCWFR" imageId="48547002"/>
+    </Metadata>
+    <Page imageFilename="1589029_0020.jpg" imageWidth="2888" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711794915506" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="662,396 662,1028 2667,1028 2667,396"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2432,509 2457,504 2467,512 2535,484 2550,491 2593,469 2613,474 2613,376 2598,379 2573,359 2548,369 2523,356 2470,359 2450,344 2432,346"/>
+                <Baseline points="2446,462 2474,460 2503,459 2532,459 2561,461 2590,461 2619,459"/>
+                <TextEquiv>
+                    <Unicode>248</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="657,659 933,690 1168,614 1432,647 1622,614 1733,659 2101,602 2224,652 2505,629 2505,514 2472,507 2342,549 2129,504 1948,554 1841,507 1662,552 1572,517 1196,552 802,486 657,544"/>
+                <Baseline points="671,602 763,602 855,605 947,607 1039,605 1131,604 1223,605 1315,607 1407,605 1499,603 1591,600 1683,601 1775,596 1867,596 1959,596 2051,599 2143,596 2235,596 2327,596 2419,599 2512,605"/>
+                <TextEquiv>
+                    <Unicode>Indnig: Der Zug geht erst um neun Uhr zwanzig.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="652,760 863,817 920,772 1113,785 1199,745 1703,780 2550,740 2550,652 2490,649 2397,687 1793,687 1680,644 1502,687 1259,654 918,697 652,659"/>
+                <Baseline points="665,733 759,733 854,736 948,736 1043,736 1137,733 1232,733 1326,733 1421,733 1515,733 1610,733 1705,730 1799,733 1894,730 1988,733 2083,733 2177,728 2272,727 2366,728 2461,727 2556,724"/>
+                <TextEquiv>
+                    <Unicode>Sidon: Josef hat deinen Reiseanzug gebracht. Er</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="652,925 802,940 1016,873 1163,943 1352,885 2207,888 2224,795 1996,762 1866,822 1738,770 1452,810 1281,762 983,820 654,782"/>
+                <Baseline points="665,871 743,868 821,870 899,868 978,868 1056,868 1134,868 1213,865 1291,862 1369,865 1448,862 1526,862 1604,865 1682,865 1761,862 1839,859 1917,859 1996,861 2074,860 2152,859 2231,862"/>
+                <TextEquiv>
+                    <Unicode>liegt in meinem Zimner bereit für dich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="649,1081 923,1036 1311,1088 1419,1031 1993,1073 2164,1006 2380,1076 2660,1086 2660,908 2455,940 2044,885 1512,940 1352,885 1166,945 1091,910 649,928"/>
+                <Baseline points="662,987 762,994 862,1000 962,997 1063,999 1163,996 1263,999 1363,996 1464,996 1564,993 1664,996 1764,994 1865,993 1965,993 2065,993 2165,993 2266,993 2366,990 2466,990 2566,990 2667,990"/>
+                <TextEquiv>
+                    <Unicode>Ludnig: Und sonst - Ist nicht telefoniert worden?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

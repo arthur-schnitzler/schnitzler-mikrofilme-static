@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:51.078+02:00</Created>
+        <LastChange>2023-08-15T04:28:16.091+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431711" pageNr="89" tsid="132838820" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=LXOLUVPNFVNZAWTQMWZJEKVC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=USOJVYSQNAEWCKEZJXUDVPLP" imageId="44705748"/>
+    </Metadata>
+    <Page imageFilename="1428821_0089.jpg" imageWidth="4040" imageHeight="5416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803807180" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="298,678 2054,678 2054,1192 298,1192"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1473,807 1664,788 1773,829 1862,793 1938,791 2044,837 2050,638 1843,647 1811,621 1740,668 1655,626 1480,632"/>
+                <Baseline points="1486,752 1516,752 1606,752 1695,746 1785,746 1874,740 1964,740 2054,728"/>
+                <TextEquiv>
+                    <Unicode>HIRTENFLßTE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="281,1292 983,1342 1277,1258 1784,1266 1957,1323 1985,1042 1649,1032 1535,964 1101,1046 744,991 290,1017"/>
+                <Baseline points="298,1182 376,1176 465,1176 555,1164 644,1164 734,1158 824,1158 913,1158 1003,1158 1092,1158 1182,1152 1271,1152 1361,1152 1451,1146 1540,1146 1630,1140 1719,1140 1809,1134 1898,1128 1988,1122"/>
+                <TextEquiv>
+                    <Unicode>Frankfurter Zeitung, July 16, 1913</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

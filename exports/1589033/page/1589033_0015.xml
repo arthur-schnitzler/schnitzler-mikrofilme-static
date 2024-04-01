@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:33</Creator>
+        <Created>2023-09-27T14:34:45.074+02:00</Created>
+        <LastChange>2024-01-22T18:33:02.841+01:00</LastChange>
+        <TranskribusMetadata docId="1589033" pageId="60123229" pageNr="15" tsid="145632779" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ETVVDDPSCGBGMZJZZZHNUGMB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZZHOMBUKRUZAEJYQBPURVSDE" imageId="48548307"/>
+    </Metadata>
+    <Page imageFilename="1589033_0015.jpg" imageWidth="2920" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793102477" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="686,556 686,1195 2580,1195 2580,556"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="673,677 988,637 1111,673 1308,635 1433,677 1727,632 1893,682 2028,630 2577,640 2577,561 2378,540 1720,535 1480,583 1225,514 1073,559 673,531"/>
+                <Baseline points="686,633 780,633 875,633 970,633 1064,633 1159,633 1254,630 1348,628 1443,632 1538,630 1633,630 1727,630 1822,630 1917,627 2011,624 2106,624 2201,624 2295,624 2390,622 2485,621 2580,618"/>
+                <TextEquiv>
+                    <Unicode>Nun weiht ihn Max ein, zeigt dem Zweifelnden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="673,791 791,834 978,770 1284,817 1393,765 1888,812 2035,765 2511,824 2535,680 1850,663 1293,718 675,677"/>
+                <Baseline points="686,764 778,764 871,764 963,764 1056,761 1149,758 1241,758 1334,761 1426,758 1519,761 1612,758 1704,758 1797,756 1889,758 1982,757 2075,758 2167,759 2260,755 2352,755 2445,752 2538,758"/>
+                <TextEquiv>
+                    <Unicode>den Abschiedsbrief. Rudolf aber; Auch die-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="673,945 1132,914 1402,952 1597,895 1755,926 1874,893 2063,948 2414,898 2414,777 2184,843 1971,789 1440,846 1251,808 1023,839 893,794 775,848 675,824"/>
+                <Baseline points="689,892 775,892 862,894 948,889 1035,889 1121,892 1208,889 1294,892 1381,889 1467,887 1554,888 1640,887 1727,888 1813,884 1900,885 1986,886 2073,884 2159,884 2246,884 2332,881 2419,881"/>
+                <TextEquiv>
+                    <Unicode>ser Brief ist schon mit dem Gedanken an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="673,1075 1478,1042 1668,1087 1878,1026 2201,1101 2373,1021 2454,1047 2454,924 2312,964 1973,921 1833,959 1698,910 1459,957 1338,926 1241,971 976,964 900,921 798,964 675,945"/>
+                <Baseline points="689,1021 777,1021 866,1022 954,1023 1043,1018 1131,1021 1220,1018 1308,1016 1397,1018 1485,1021 1574,1024 1663,1020 1751,1015 1840,1015 1928,1018 2017,1015 2105,1015 2194,1012 2282,1012 2371,1012 2460,1012"/>
+                <TextEquiv>
+                    <Unicode>mich geschrieben. Er geht dich nichts in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="675,1189 1007,1225 1732,1180 1916,1215 1916,1092 1812,1052 1414,1101 1343,1059 1272,1099 675,1087"/>
+                <Baseline points="689,1164 750,1153 812,1152 873,1152 935,1152 996,1149 1058,1149 1119,1149 1181,1150 1242,1149 1304,1152 1366,1150 1427,1146 1489,1146 1550,1146 1612,1149 1673,1146 1735,1146 1796,1146 1858,1146 1920,1155"/>
+                <TextEquiv>
+                    <Unicode>geringsten an. Raclie an mir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

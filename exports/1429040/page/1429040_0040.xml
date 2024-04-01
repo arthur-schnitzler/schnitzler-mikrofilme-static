@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:09</Creator>
+        <Created>2023-05-10T13:31:05.610+02:00</Created>
+        <LastChange>2023-08-15T08:09:47.743+02:00</LastChange>
+        <TranskribusMetadata docId="1429040" pageId="55435114" pageNr="40" tsid="132842174" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=AXHRISTJOIGCZPEEBNHXWJLS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SVYUTZPNWQSJCBAMYKCJCBNC" imageId="44709104"/>
+    </Metadata>
+    <Page imageFilename="1429040_0040.jpg" imageWidth="3560" imageHeight="4104">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799314007" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="686,731 3178,731 3178,1030 686,1030"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="672,887 2867,937 3165,903 3175,610 679,666"/>
+                <Baseline points="689,868 716,865 761,865 805,862 850,862 895,859 940,853 984,853 1029,853 1074,853 1119,850 1164,850 1208,847 1253,844 1298,844 1343,844 1387,841 1432,841 1477,838 1522,835 1566,835 1611,832 1656,835 1701,832 1746,829 1790,829 1835,826 1880,826 1925,823 1969,823 2014,823 2059,820 2104,817 2149,817 2193,817 2238,817 2283,817 2328,814 2372,814 2417,814 2462,811 2507,808 2551,808 2596,805 2641,802 2686,802 2731,802 2775,799 2820,799 2865,796 2910,793 2954,790 2999,790 3044,787 3089,787 3133,781 3178,787"/>
+                <TextEquiv>
+                    <Unicode>Frau Marcus: Und wie sich mein Mann plagt! Und nichts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="660,1298 772,1326 850,1282 968,1298 1083,1239 1220,1264 1236,865 1149,906 1108,890 850,952 713,962 672,940"/>
+                <Baseline points="686,1020 701,1017 746,1017 790,1014 835,1011 880,1011 925,1008 970,1008 1014,1005 1059,1005 1104,1002 1149,1002 1193,999 1238,1002"/>
+                <TextEquiv>
+                    <Unicode>als Undank!</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

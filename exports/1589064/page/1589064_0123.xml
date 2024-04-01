@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:25</Creator>
+        <Created>2023-09-27T14:40:54.693+02:00</Created>
+        <LastChange>2024-01-22T21:25:01.207+01:00</LastChange>
+        <TranskribusMetadata docId="1589064" pageId="60126712" pageNr="123" tsid="145642627" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DVWHIMVFYFTDWYNPXALMESCO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=UCPRLPGEMZPMCFJFVIMPNMGR" imageId="48551789"/>
+    </Metadata>
+    <Page imageFilename="1589064_0123.jpg" imageWidth="2904" imageHeight="3688">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788603966" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="468,604 468,1221 2527,1221 2527,604"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="515,700 556,682 636,695 664,677 688,688 724,677 775,706 850,716 845,600 796,592 713,608 605,551 512,564"/>
+                <Baseline points="528,665 553,667 578,668 603,668 628,668 653,668 678,668 703,668 728,668 753,668 778,672 803,674 828,676 853,677"/>
+                <TextEquiv>
+                    <Unicode>Kr. U. F.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1143,757 1236,747 1262,762 1298,752 1375,762 1372,628 1347,623 1318,639 1288,618 1246,633 1223,610 1190,626 1177,613 1164,621 1141,615"/>
+                <Baseline points="1157,745 1185,743 1213,742 1241,742 1269,744 1297,745 1325,745 1353,746 1381,748"/>
+                <TextEquiv>
+                    <Unicode>alle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="510,834 569,806 618,821 703,801 906,814 906,729 783,711 721,675 698,677 654,724 623,713 582,731 510,695"/>
+                <Baseline points="525,796 550,796 576,796 602,796 628,796 654,796 680,796 706,796 731,796 757,796 783,796 809,797 835,799 861,797 887,797 913,802"/>
+                <TextEquiv>
+                    <Unicode>Methoden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="453,950 1056,968 1213,932 1370,976 1509,940 1669,991 2024,927 2106,968 2524,930 2524,852 2397,863 2338,816 1993,852 1756,814 1615,852 1367,814 1313,855 1033,803 453,819"/>
+                <Baseline points="468,930 576,927 684,930 793,924 901,923 1009,922 1118,922 1226,919 1334,919 1443,919 1551,919 1660,919 1768,922 1876,919 1985,913 2093,915 2201,912 2310,910 2418,910 2527,916"/>
+                <TextEquiv>
+                    <Unicode>Ausspielen des einen Diehtöre gegen den andern.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="453,1110 976,1076 1097,1112 1437,1048 1671,1100 1751,1087 1754,963 1666,991 1524,950 1264,1004 1004,960 881,1004 456,966"/>
+                <Baseline points="471,1059 535,1056 599,1059 663,1056 728,1056 792,1056 856,1056 921,1056 985,1056 1049,1055 1114,1053 1178,1050 1242,1050 1306,1050 1371,1049 1435,1047 1499,1045 1564,1047 1628,1047 1692,1047 1757,1047"/>
+                <TextEquiv>
+                    <Unicode>Des Toten gegen den Labenden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="471,1226 613,1210 883,1272 1437,1208 1483,1244 1671,1203 1828,1228 1828,1063 1457,1118 1303,1071 471,1120"/>
+                <Baseline points="486,1190 553,1187 620,1187 688,1187 755,1187 823,1184 890,1187 958,1184 1025,1184 1093,1184 1160,1187 1227,1187 1295,1186 1362,1179 1430,1178 1497,1178 1565,1178 1632,1178 1700,1181 1767,1181 1835,1190"/>
+                <TextEquiv>
+                    <Unicode>Zweier Lebender gegen einander.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

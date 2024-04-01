@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:47.633+02:00</Created>
+        <LastChange>2024-01-22T21:15:04.226+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126532" pageNr="4" tsid="145642167" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WYIHMNTZBVMOWBEZGHKGWQHO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GDMNSCRHVRPATLCTIKFQMVRX" imageId="48551609"/>
+    </Metadata>
+    <Page imageFilename="1589068_0004.jpg" imageWidth="2920" imageHeight="3560">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787482504" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="585,675 585,1165 2419,1165 2419,675"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="572,766 1340,798 1848,759 2037,807 2188,747 2372,791 2359,613 2251,656 1919,629 1468,677 1192,645 1014,675 912,627 572,649"/>
+                <Baseline points="585,737 674,740 764,740 853,743 943,743 1033,743 1122,743 1212,743 1301,743 1391,746 1481,740 1570,746 1660,743 1749,743 1839,743 1929,743 2018,743 2108,740 2197,740 2287,740 2377,746"/>
+                <TextEquiv>
+                    <Unicode>Moral ist die Logik innerhalb des Sittlichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="583,930 891,930 1107,873 2153,884 2302,930 2415,898 2415,779 2379,777 2251,811 1358,811 1233,770 583,807"/>
+                <Baseline points="597,872 688,869 779,872 870,872 961,871 1052,870 1143,873 1234,873 1325,870 1416,872 1508,872 1599,872 1690,872 1781,872 1872,872 1963,873 2054,875 2145,872 2236,872 2327,869 2419,869"/>
+                <TextEquiv>
+                    <Unicode>Logik die Moral innerhalb des Geistigen. Darum</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="579,1005 2345,1035 2345,932 2286,923 2128,955 1955,907 1873,950 1062,900 579,934"/>
+                <Baseline points="591,1003 683,1000 776,997 868,1000 961,1000 1053,1000 1146,1000 1239,998 1331,1000 1424,1000 1516,997 1609,1000 1701,1000 1794,997 1887,997 1979,998 2072,1000 2164,1000 2257,997 2350,1000"/>
+                <TextEquiv>
+                    <Unicode>ist der Böse in seinem Geist immer auch aumm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="577,1130 841,1139 941,1192 1326,1162 1385,1194 1736,1130 1900,1183 2176,1158 2160,1037 2042,1080 1600,1071 1452,1023 1185,1073 577,1057"/>
+                <Baseline points="588,1128 667,1125 747,1127 827,1128 907,1128 986,1128 1066,1128 1146,1128 1226,1131 1305,1131 1385,1130 1465,1134 1545,1133 1624,1131 1704,1131 1784,1131 1864,1129 1943,1129 2023,1128 2103,1128 2183,1131"/>
+                <TextEquiv>
+                    <Unicode>und der Dumme in seiner Seele imner bös.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

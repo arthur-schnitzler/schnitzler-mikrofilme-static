@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_16:24</Creator>
+        <Created>2023-09-27T14:32:26.874+02:00</Created>
+        <LastChange>2024-01-22T16:24:13.728+01:00</LastChange>
+        <TranskribusMetadata docId="1589028" pageId="60122168" pageNr="108" tsid="145623575" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TMRBLOHQEMGICZISMHAOKLQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XAAAJMOSJENLDQLQESNETKJY" imageId="48547247"/>
+    </Metadata>
+    <Page imageFilename="1589028_0108.jpg" imageWidth="2755" imageHeight="3720">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711795641862" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="146,479 146,1098 1788,1098 1788,479"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="144,715 879,663 1119,748 1382,684 1616,746 1783,706 1742,557 1353,602 1132,561 988,589 752,481 361,505 240,458 131,503"/>
+                <Baseline points="146,576 228,582 310,591 392,602 474,609 556,615 638,615 720,618 802,620 884,624 967,628 1049,636 1131,641 1213,644 1295,649 1377,659 1459,664 1541,663 1623,671 1705,676 1788,692"/>
+                <TextEquiv>
+                    <Unicode>behale. der Krn wo in Shen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="368,838 419,854 437,842 491,854 546,840 659,848 655,766 631,772 585,754 550,766 489,725 472,735 429,717 394,741 364,743"/>
+                <Baseline points="379,829 405,827 431,826 457,824 483,826 509,829 535,832 561,835 587,833 613,833 639,837 665,844"/>
+                <TextEquiv>
+                    <Unicode>Rusan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="840,982 930,932 1002,920 1062,871 1134,879 1119,721 982,768 922,772 861,817 826,811"/>
+                <Baseline points="841,850 867,852 894,854 921,855 948,858 975,862 1002,862 1029,863 1056,867 1083,870 1110,874 1137,874"/>
+                <TextEquiv>
+                    <Unicode>Lns.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="230,1072 382,1056 429,1076 522,1045 680,1062 667,906 501,965 452,947 394,967 339,937 220,945"/>
+                <Baseline points="235,1006 261,1011 287,1015 314,1017 340,1020 366,1023 393,1027 419,1030 445,1032 472,1033 498,1033 524,1034 551,1035 577,1037 603,1039 630,1040 656,1045 683,1050"/>
+                <TextEquiv>
+                    <Unicode>Mattelde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

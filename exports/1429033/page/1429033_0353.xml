@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:01</Creator>
+        <Created>2023-05-10T15:11:28.836+02:00</Created>
+        <LastChange>2023-08-15T10:01:25.832+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436838" pageNr="353" tsid="132846536" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=IHTPLQUVEVTHIJXMBFNSKFCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PFYTNLONQCDPDKVSXGLJLMCZ" imageId="44710827"/>
+    </Metadata>
+    <Page imageFilename="1429033_0353.jpg" imageWidth="3544" imageHeight="5080">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800730553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="986,3819 2994,3819 2994,4558 986,4558"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1157,4097 1728,4092 2027,3997 2641,3941 2972,3995 3013,3686 1677,3847 1208,3725"/>
+                <Baseline points="1169,4099 1222,4093 1311,4081 1399,4069 1488,4058 1577,4046 1665,4040 1754,4022 1842,4010 1931,3993 2020,3981 2108,3963 2197,3957 2286,3945 2374,3939 2463,3928 2551,3916 2640,3904 2729,3892 2817,3886 2906,3869 2994,3869"/>
+                <TextEquiv>
+                    <Unicode>Heber. S' nicht die gesinnte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="970,4321 2556,4082 2911,4129 2940,3922 1903,4078 1592,4063 1327,4172 1094,4189 996,4124"/>
+                <Baseline points="986,4306 1069,4288 1157,4270 1246,4253 1334,4241 1423,4229 1512,4217 1600,4211 1689,4199 1778,4188 1866,4176 1955,4152 2043,4140 2132,4128 2221,4123 2309,4111 2398,4093 2486,4087 2575,4081 2664,4075 2752,4064 2841,4052 2929,4052"/>
+                <TextEquiv>
+                    <Unicode>mit den Reich gebort, die neulich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1021,4454 1183,4442 1285,4393 1373,4403 1516,4359 1791,4372 1801,4289 1606,4231 1519,4267 1368,4274 1244,4338 1040,4313"/>
+                <Baseline points="1039,4424 1092,4424 1181,4400 1270,4388 1358,4377 1447,4371 1535,4359 1624,4347 1713,4335 1801,4318"/>
+                <TextEquiv>
+                    <Unicode>passirt ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1089,4578 1908,4532 2445,4425 2814,4457 2855,4311 2347,4287 1995,4396 1531,4355 1106,4427"/>
+                <Baseline points="1104,4548 1169,4548 1258,4536 1346,4530 1435,4524 1524,4524 1612,4518 1701,4501 1789,4495 1878,4495 1967,4477 2055,4471 2144,4459 2232,4453 2321,4442 2410,4424 2498,4412 2587,4400 2675,4388 2764,4377 2853,4371"/>
+                <TextEquiv>
+                    <Unicode>Forderl. Was sie eine Zeuticht</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

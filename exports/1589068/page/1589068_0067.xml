@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:54.273+02:00</Created>
+        <LastChange>2024-01-22T21:15:16.996+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126818" pageNr="67" tsid="145642232" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=WLUMFMNYJSHQESPPVEQEZECB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WDJXBQRPZKLUAIOMGKWFSQYJ" imageId="48551895"/>
+    </Metadata>
+    <Page imageFilename="1589068_0067.jpg" imageWidth="2872" imageHeight="3512">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787576470" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="624,648 624,1184 2580,1184 2580,648"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="612,768 1377,744 1656,795 2177,712 2417,766 2495,739 2495,660 2084,668 1786,604 1610,643 1343,609 1150,658 1018,621 614,646"/>
+                <Baseline points="624,755 717,755 811,758 905,756 999,749 1093,746 1187,746 1281,741 1375,740 1469,740 1563,734 1656,734 1750,728 1844,726 1938,728 2032,728 2126,720 2220,719 2314,716 2408,711 2502,713"/>
+                <TextEquiv>
+                    <Unicode>Es liegt im Wesen der Revojurionen dass sie von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="614,908 2307,873 2449,859 2451,771 2285,753 1901,812 1749,766 1287,832 616,810"/>
+                <Baseline points="627,889 718,883 809,886 901,886 992,885 1083,881 1175,882 1266,878 1357,876 1449,872 1540,874 1631,868 1723,859 1814,858 1905,855 1997,852 2088,849 2179,845 2271,845 2362,842 2454,836"/>
+                <TextEquiv>
+                    <Unicode>Pedanten missverstanden, von Bösewichtern miss-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="612,1030 790,1057 937,1010 1526,1030 1593,996 1818,1076 1923,1015 2106,1040 2150,1003 2571,988 2573,905 2498,864 2429,903 2219,856 1947,927 1778,873 1150,966 612,961"/>
+                <Baseline points="624,1015 721,1012 819,1010 917,1009 1015,1006 1113,1003 1210,1001 1308,1000 1406,997 1504,994 1602,993 1699,988 1797,988 1895,985 1993,982 2091,979 2188,976 2286,976 2384,974 2482,968 2580,964"/>
+                <TextEquiv>
+                    <Unicode>braucht und von der Masse als Schicksal hiygenom-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="614,1157 724,1186 819,1152 864,1179 976,1152 1010,1179 1076,1177 1076,1093 1049,1079 996,1096 939,1071 895,1089 861,1062 807,1062 771,1040 675,1081 614,1081"/>
+                <Baseline points="627,1152 652,1149 677,1149 702,1149 727,1149 753,1149 778,1148 803,1147 828,1146 854,1146 879,1146 904,1146 929,1146 954,1145 980,1144 1005,1143 1030,1143 1055,1143 1081,1143"/>
+                <TextEquiv>
+                    <Unicode>men werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:51.911+02:00</Created>
+        <LastChange>2024-01-22T21:36:56.949+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127435" pageNr="103" tsid="145643100" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MTPZOUFYZNSWOQADCKSUAIDN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DECMADREFSVKNDEFXUXCGKAF" imageId="48552512"/>
+    </Metadata>
+    <Page imageFilename="1589070_0103.jpg" imageWidth="2984" imageHeight="3640">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787181717" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="268,1857 268,2161 572,2161 572,1857"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="347,1958 378,1971 414,1963 432,1978 509,1953 525,1937 548,1958 566,1958 577,1761 512,1761 484,1782 468,1774 458,1785 437,1774 367,1816 354,1813"/>
+                <Baseline points="361,1951 387,1953 413,1951 440,1948 466,1946 492,1945 519,1945 545,1943 572,1939"/>
+                <TextEquiv>
+                    <Unicode>veio.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="256,2222 279,2211 334,2219 365,2193 458,2219 543,2211 541,2022 520,2022 497,1999 434,2002 385,2025 341,1994 326,2004 308,1991 253,1999"/>
+                <Baseline points="268,2118 293,2116 318,2115 343,2115 369,2116 394,2117 419,2117 444,2115 470,2117 495,2118 520,2120 546,2121"/>
+                <TextEquiv>
+                    <Unicode>als 1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="551,949 551,1473 2625,1473 2625,949"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="543,1029 747,1066 957,1019 1477,1019 1717,1058 1903,1014 2090,1066 2617,1068 2617,944 2503,918 2191,959 1844,890 1735,931 1603,895 1006,970 781,905 543,936"/>
+                <Baseline points="557,1017 660,1017 763,1016 867,1017 970,1014 1074,1014 1177,1012 1280,1011 1384,1011 1487,1011 1591,1014 1694,1014 1797,1014 1901,1013 2004,1011 2108,1011 2211,1013 2314,1014 2418,1014 2521,1014 2625,1014"/>
+                <TextEquiv>
+                    <Unicode>Ein Paradoxon ist eine Lüge, die durch einen Tropfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="538,1179 628,1153 853,1200 1128,1146 1337,1182 1466,1159 1448,1047 1213,1091 1063,1037 972,1094 659,1102 538,1053"/>
+                <Baseline points="551,1142 597,1145 643,1142 689,1145 735,1145 781,1145 827,1145 873,1146 919,1147 965,1145 1012,1145 1058,1144 1104,1143 1150,1144 1196,1143 1242,1145 1288,1145 1334,1145 1380,1147 1426,1148 1473,1142"/>
+                <TextEquiv>
+                    <Unicode>Wahrheit vergiftet ist.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="895,1347 923,1345 947,1322 975,1332 1034,1309 1153,1335 1156,1192 1102,1195 1089,1182 1066,1192 1032,1172 1019,1182 972,1161 900,1166"/>
+                <Baseline points="912,1303 939,1296 966,1293 993,1291 1020,1291 1048,1289 1075,1288 1102,1288 1129,1291 1157,1297"/>
+                <TextEquiv>
+                    <Unicode>Gllankt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1084,1495 1200,1526 1272,1485 1428,1508 1627,1456 1707,1490 1919,1428 2108,1472 2325,1422 2222,1337 1810,1368 1655,1280 1479,1332 1389,1309 1244,1381 1086,1342"/>
+                <Baseline points="1100,1441 1161,1435 1223,1437 1284,1439 1346,1438 1408,1437 1469,1433 1531,1432 1592,1430 1654,1432 1716,1431 1777,1425 1839,1426 1900,1426 1962,1424 2024,1422 2085,1418 2147,1420 2208,1416 2270,1412 2332,1409"/>
+                <TextEquiv>
+                    <Unicode>ein leiher braslenn, den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

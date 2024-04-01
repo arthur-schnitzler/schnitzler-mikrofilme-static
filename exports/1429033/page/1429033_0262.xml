@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_10:01</Creator>
+        <Created>2023-05-10T15:11:11.849+02:00</Created>
+        <LastChange>2023-08-15T10:01:01.850+02:00</LastChange>
+        <TranskribusMetadata docId="1429033" pageId="55436384" pageNr="262" tsid="132846441" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=HFHLQOTBCCKKZIQSXVVTLJEI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TJZKYGTCPFQIDSKNQTSZYFRO" imageId="44710373"/>
+    </Metadata>
+    <Page imageFilename="1429033_0262.jpg" imageWidth="3763" imageHeight="5528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711800496695" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="955,857 3086,857 3086,1538 955,1538"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1088,1073 1648,1113 2588,949 3036,1009 3081,858 2630,749 1802,964 1108,848"/>
+                <Baseline points="1104,1050 1116,1050 1205,1050 1295,1050 1384,1044 1474,1044 1564,1032 1653,1020 1743,1014 1832,1008 1922,996 2011,990 2101,985 2190,973 2280,967 2369,955 2459,949 2549,943 2638,931 2728,925 2817,919 2907,913 2996,913 3086,907"/>
+                <TextEquiv>
+                    <Unicode>1 So ware das ein Beweis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="939,1351 1510,1353 1834,1227 2456,1222 2737,1133 2863,1187 2910,1031 2394,979 1371,1195 962,1133"/>
+                <Baseline points="955,1319 1026,1301 1116,1295 1205,1289 1295,1277 1384,1271 1474,1259 1564,1247 1653,1235 1743,1223 1832,1217 1922,1199 2011,1187 2101,1182 2190,1170 2280,1164 2369,1158 2459,1146 2549,1140 2638,1134 2728,1134 2817,1122 2907,1122"/>
+                <TextEquiv>
+                    <Unicode>seren sie - c. Und ihm</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="934,1633 1589,1557 1800,1708 2085,1708 2303,1611 2546,1604 2568,1348 2040,1242 1772,1291 1648,1378 957,1358"/>
+                <Baseline points="955,1528 961,1522 1050,1522 1140,1516 1229,1510 1319,1498 1408,1498 1498,1486 1587,1480 1677,1474 1767,1462 1856,1450 1946,1438 2035,1432 2125,1426 2214,1420 2304,1414 2393,1408 2483,1402 2572,1384"/>
+                <TextEquiv>
+                    <Unicode>I should offer bar</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

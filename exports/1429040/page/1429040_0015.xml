@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_08:09</Creator>
+        <Created>2023-05-10T13:31:02.445+02:00</Created>
+        <LastChange>2023-08-15T08:09:41.285+02:00</LastChange>
+        <TranskribusMetadata docId="1429040" pageId="55435020" pageNr="15" tsid="132842149" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=USTNVJVJWMLLLYDPTBTTGSKA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GTAQKNQTRVEIVXYQCBVTXRTH" imageId="44709010"/>
+    </Metadata>
+    <Page imageFilename="1429040_0015.jpg" imageWidth="3624" imageHeight="4168">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711799263410" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="961,448 3215,448 3215,908 961,908"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2704,516 2755,526 2783,500 2886,531 2952,516 3073,561 3134,541 3157,554 3207,526 3205,420 3144,425 3081,389 2975,430 2884,425 2836,399 2783,415 2750,387 2702,394"/>
+                <Baseline points="2719,498 2764,504 2809,504 2854,504 2899,504 2943,504 2988,504 3033,504 3078,504 3123,504 3167,510 3212,513 3215,510"/>
+                <TextEquiv>
+                    <Unicode>Juli 1903.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="953,773 2985,758 2985,652 2924,637 2110,612 1825,685 1375,624 1170,687 953,632"/>
+                <Baseline points="967,737 973,734 1018,734 1062,734 1107,737 1152,737 1197,737 1242,734 1286,734 1331,734 1376,734 1421,737 1465,737 1510,737 1555,737 1600,734 1645,734 1689,734 1734,734 1779,734 1824,731 1869,731 1913,734 1958,734 2003,734 2048,734 2092,734 2137,734 2182,737 2227,734 2272,734 2316,737 2361,737 2406,734 2451,734 2496,731 2540,731 2585,731 2630,731 2675,731 2719,731 2764,734 2809,731 2854,731 2899,731 2943,731 2988,734"/>
+                <TextEquiv>
+                    <Unicode>Oberndorfer, sehr erfreut, dass wieder eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="948,953 1380,948 1501,897 1762,958 1911,923 2318,953 2300,778 1716,842 1552,799 1405,837 948,819"/>
+                <Baseline points="961,892 1006,886 1050,889 1095,889 1140,889 1185,889 1230,889 1274,889 1319,889 1364,889 1409,889 1454,889 1498,886 1543,889 1588,889 1633,886 1677,889 1722,889 1767,889 1812,889 1857,889 1901,889 1946,889 1991,889 2036,889 2081,889 2125,889 2170,889 2215,889 2260,892 2304,895 2325,898"/>
+                <TextEquiv>
+                    <Unicode>Christin ins Bureau eintritt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

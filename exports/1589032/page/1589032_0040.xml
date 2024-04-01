@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_17:28</Creator>
+        <Created>2023-09-27T14:34:18.563+02:00</Created>
+        <LastChange>2024-01-22T17:28:16.189+01:00</LastChange>
+        <TranskribusMetadata docId="1589032" pageId="60122834" pageNr="40" tsid="145629655" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=KWSJHCYQJODWALDUUGHUYYGI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EVHTVPWLIANRIPFIXSRELXTA" imageId="48547912"/>
+    </Metadata>
+    <Page imageFilename="1589032_0040.jpg" imageWidth="2760" imageHeight="3352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711793797856" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="277,224 277,841 2462,841 2462,224"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="261,415 439,341 506,364 1078,317 1078,250 926,178 797,201 627,170 544,212 498,178 369,232 266,204"/>
+                <Baseline points="277,325 317,317 357,316 398,312 438,308 479,308 519,309 560,306 600,301 641,298 681,298 721,298 762,298 802,298 843,300 883,298 924,296 964,297 1005,296 1045,298 1086,298"/>
+                <TextEquiv>
+                    <Unicode>In 3. Kls. Fun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="328,539 580,508 826,542 877,488 1060,508 1246,457 1507,472 1775,557 1889,524 1886,392 1716,325 1442,402 1233,328 1035,390 820,333 645,408 322,346"/>
+                <Baseline points="340,438 417,445 495,444 573,450 651,453 728,442 806,445 884,446 962,444 1039,448 1117,450 1195,450 1273,453 1350,453 1428,457 1506,459 1584,467 1661,474 1739,489 1817,480 1895,483"/>
+                <TextEquiv>
+                    <Unicode>degele s sager Sie wr in Sype</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="384,707 823,712 1047,792 1151,751 1406,774 1522,740 1582,779 1785,738 2461,885 2448,648 2294,689 2005,645 1863,691 1718,658 1538,686 1068,529 844,601 601,583 382,642"/>
+                <Baseline points="399,689 502,693 605,694 708,695 811,695 914,694 1017,691 1121,692 1224,694 1327,697 1430,701 1533,714 1636,724 1739,731 1843,725 1946,727 2049,748 2152,761 2255,770 2358,789 2462,805"/>
+                <TextEquiv>
+                    <Unicode>In 1 Akt.- Kul: Ruse pert - hene Petreten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

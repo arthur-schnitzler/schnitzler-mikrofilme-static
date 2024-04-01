@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:43</Creator>
+        <Created>2023-09-27T14:37:22.000+02:00</Created>
+        <LastChange>2024-01-22T18:43:02.933+01:00</LastChange>
+        <TranskribusMetadata docId="1589043" pageId="60124670" pageNr="99" tsid="145633341" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=ALEEONVFVAJWQPMOUQNECAZM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HZFGNLWHBXOSPUAHYEIFDUXL" imageId="48549747"/>
+    </Metadata>
+    <Page imageFilename="1589043_0099.jpg" imageWidth="3080" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791847767" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="650,397 650,736 2724,736 2724,397"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="638,508 768,475 978,514 1053,482 1133,516 1232,475 1395,493 1375,337 1123,399 1019,353 929,399 638,368"/>
+                <Baseline points="653,462 690,465 727,462 765,462 802,462 840,462 877,461 915,459 952,462 990,462 1027,460 1064,458 1102,458 1139,462 1177,459 1214,461 1252,460 1289,459 1327,460 1364,461 1402,456"/>
+                <TextEquiv>
+                    <Unicode>Liebe, Der Soldate</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="635,659 903,599 1004,651 1328,599 1774,661 1969,578 2238,630 2363,581 2721,578 2721,506 2573,493 2490,532 2075,493 1717,524 1523,477 1237,529 1183,498 1019,540 635,524"/>
+                <Baseline points="650,581 753,581 857,580 961,581 1064,579 1168,579 1272,579 1375,576 1479,581 1583,579 1687,579 1790,579 1894,579 1998,578 2101,576 2205,573 2309,573 2412,573 2516,570 2620,573 2724,564"/>
+                <TextEquiv>
+                    <Unicode>Der Küstmeister /oder Capitain d’arnes hat Achl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="674,726 838,718 1017,804 1281,796 1416,731 1611,734 1595,615 1367,654 1286,615 674,654"/>
+                <Baseline points="689,704 735,707 781,707 828,704 874,707 921,706 967,703 1013,701 1060,703 1106,707 1153,706 1199,705 1245,707 1292,707 1338,707 1385,707 1431,705 1477,706 1524,707 1570,707 1617,707"/>
+                <TextEquiv>
+                    <Unicode>auf die Muniticu etc.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:10</Creator>
+        <Created>2023-09-27T14:40:56.764+02:00</Created>
+        <LastChange>2024-01-22T21:10:31.705+01:00</LastChange>
+        <TranskribusMetadata docId="1589065" pageId="60126302" pageNr="60" tsid="145642015" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=FJCUUCHGYOGMBSUMBOUKFDLO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ULRVNTNJDQIGUFFFMEABIMPO" imageId="48551379"/>
+    </Metadata>
+    <Page imageFilename="1589065_0060.jpg" imageWidth="2968" imageHeight="3592">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711788308761" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="537,430 537,888 2458,888 2458,430"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="521,604 1545,627 1720,545 2345,509 2319,422 1724,481 1083,472 885,533 528,484"/>
+                <Baseline points="537,599 627,593 718,588 808,584 899,577 990,570 1080,567 1171,561 1262,557 1352,552 1443,549 1534,540 1624,534 1715,531 1806,523 1896,522 1987,513 2078,507 2168,504 2259,498 2350,494"/>
+                <TextEquiv>
+                    <Unicode>Der Weg vom Priester zum Propheten ist kei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="557,752 1017,729 1210,788 1319,736 1658,748 1821,658 1967,686 2097,646 2177,682 2281,630 2451,639 2458,509 2399,502 2109,599 1288,604 1080,665 856,609 696,649 566,599"/>
+                <Baseline points="572,724 666,721 760,713 854,713 949,706 1043,701 1137,695 1232,690 1326,686 1420,678 1515,671 1609,671 1703,662 1797,656 1892,652 1986,644 2080,639 2175,633 2269,630 2363,623 2458,617"/>
+                <TextEquiv>
+                    <Unicode>wegs weiter als der von Staatsmann zum Pro-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="547,889 616,875 675,901 783,859 828,877 1104,877 1109,755 998,762 934,804 889,776 757,807 552,755"/>
+                <Baseline points="560,856 587,854 615,856 642,855 670,853 698,851 725,848 753,844 780,844 808,845 836,846 863,844 891,841 918,841 946,840 974,838 1001,836 1029,835 1056,835 1084,834 1112,832"/>
+                <TextEquiv>
+                    <Unicode>pheten u.s. W.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=14_08_2023_15:12</Creator>
+        <Created>2023-05-10T14:25:20.950+02:00</Created>
+        <LastChange>2023-08-14T15:12:09.665+02:00</LastChange>
+        <TranskribusMetadata docId="1428621" pageId="55419626" pageNr="19" tsid="132810664" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=KOASYSYPKZQPIBRRBDTMISMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZJQCQWVYLOQJNCRYSEECJBGP" imageId="44693729"/>
+    </Metadata>
+    <Page imageFilename="1428621_0019.jpg" imageWidth="3400" imageHeight="4152">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711821284071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="223,490 2050,490 2050,1454 223,1454"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="214,608 472,632 722,575 839,646 1085,594 1229,710 1606,616 1606,418 1420,363 1162,333 1012,469 823,495 738,436 668,469 394,373 214,387"/>
+                <Baseline points="223,555 268,561 313,561 358,561 402,561 447,558 492,552 537,543 582,540 626,543 671,549 716,546 761,546 805,549 850,549 895,552 940,558 985,555 1029,555 1074,558 1119,558 1164,558 1208,558 1253,558 1298,555 1343,552 1387,549 1432,552 1477,552 1522,555 1567,555 1611,564"/>
+                <TextEquiv>
+                    <Unicode>Wie Fälixberg zu Bettstieg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="309,840 504,776 748,898 978,787 1168,859 1514,880 1512,682 1419,703 1332,667 1123,748 1007,691 901,726 806,658 632,641 587,675 516,646 403,743 307,731"/>
+                <Baseline points="316,793 361,790 405,785 450,776 495,770 540,770 585,773 629,776 674,782 719,782 764,782 808,785 853,785 898,785 943,785 988,785 1032,788 1077,788 1122,790 1167,790 1211,790 1256,790 1301,793 1346,790 1390,790 1435,793 1480,793 1519,799"/>
+                <TextEquiv>
+                    <Unicode>zu deck schaut u nachtet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="323,1040 504,1078 550,1037 616,1035 688,1050 780,1127 1174,1092 1168,939 1092,938 1016,891 896,950 755,913 662,988 549,958 319,976"/>
+                <Baseline points="331,1032 376,1032 420,1029 465,1029 510,1029 555,1026 599,1029 644,1032 689,1035 734,1035 779,1044 823,1044 868,1044 913,1047 958,1047 1002,1050 1047,1053 1092,1053 1137,1053 1176,1050"/>
+                <TextEquiv>
+                    <Unicode>was in this holl</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="568,1436 601,1425 653,1452 677,1429 703,1450 747,1431 738,1351 700,1335 677,1346 637,1332 615,1337 594,1353 576,1346 561,1354"/>
+                <Baseline points="576,1411 620,1417 665,1423 710,1426 749,1426"/>
+                <TextEquiv>
+                    <Unicode>Et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1349,1483 1453,1495 1596,1458 1766,1530 1861,1497 2045,1531 2047,1269 1965,1288 1899,1243 1745,1340 1580,1394 1349,1387"/>
+                <Baseline points="1358,1441 1379,1441 1423,1438 1468,1435 1513,1438 1558,1435 1602,1438 1647,1438 1692,1438 1737,1438 1781,1441 1826,1438 1871,1438 1916,1432 1961,1435 2005,1435 2050,1426"/>
+                <TextEquiv>
+                    <Unicode>an aufgeß.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="872,1462 882,1462 896,1474 922,1474 941,1490 946,1484 965,1491 951,1366 936,1370 927,1365 917,1379 892,1384 873,1373 863,1375"/>
+                <Baseline points="877,1435 919,1438 964,1444"/>
+                <TextEquiv>
+                    <Unicode>'</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

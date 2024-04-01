@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.1.0:model_id=51170:date=15_08_2023_04:28</Creator>
+        <Created>2023-05-10T15:10:54.069+02:00</Created>
+        <LastChange>2023-08-15T04:28:22.650+02:00</LastChange>
+        <TranskribusMetadata docId="1428821" pageId="55431882" pageNr="109" tsid="132838840" status="IN_PROGRESS" userId="64420" imgUrl="https://files.transkribus.eu/Get?id=WIGZQGWIERFBNDAEEFMHGVIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HMYIRDGQSXMINJFFBXKVCSRQ" imageId="44705919"/>
+    </Metadata>
+    <Page imageFilename="1428821_0109.jpg" imageWidth="4024" imageHeight="5496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711803867512" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="621,1120 3237,1120 3237,1843 621,1843"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="775,1271 1329,1287 1640,1215 1945,1274 2039,1235 2045,1070 1903,1086 1724,992 1595,995 946,1115 781,1040"/>
+                <Baseline points="794,1218 884,1212 973,1218 1063,1212 1152,1212 1242,1206 1332,1206 1421,1206 1511,1200 1601,1194 1690,1188 1780,1188 1869,1176 1959,1170 2049,1170"/>
+                <TextEquiv>
+                    <Unicode>Rerne. Kaly 1895</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="622,1617 2719,1585 3225,1484 3235,1258 2651,1381 629,1326"/>
+                <Baseline points="645,1529 728,1535 818,1535 908,1529 997,1523 1087,1523 1176,1517 1266,1511 1356,1511 1445,1511 1535,1505 1624,1505 1714,1499 1804,1499 1893,1493 1983,1493 2072,1493 2162,1493 2252,1487 2341,1487 2431,1487 2520,1487 2610,1475 2700,1475 2789,1469 2879,1463 2969,1463 3058,1457 3148,1457 3237,1445"/>
+                <TextEquiv>
+                    <Unicode>Blätter für litterarische Unterhaltung, April 11, 1895</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="600,1974 791,2000 1355,1857 1614,1929 2142,1873 2178,1692 1692,1627 1128,1695 982,1624 609,1689"/>
+                <Baseline points="621,1833 663,1833 752,1833 842,1833 931,1833 1021,1828 1111,1822 1200,1816 1290,1816 1379,1810 1469,1810 1559,1810 1648,1804 1738,1798 1828,1798 1917,1792 2007,1786 2096,1780 2186,1774"/>
+                <TextEquiv>
+                    <Unicode>Signal (Paris), June 14, 1894</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

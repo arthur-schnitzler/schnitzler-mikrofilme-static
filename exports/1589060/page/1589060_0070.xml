@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_20:04</Creator>
+        <Created>2023-09-27T14:39:44.794+02:00</Created>
+        <LastChange>2024-01-22T20:04:14.133+01:00</LastChange>
+        <TranskribusMetadata docId="1589060" pageId="60125684" pageNr="70" tsid="145638223" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=TZZXHYEVVSJWLJXJWREWXMFM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GKCTNJJIJPFENIOEQGEHURZV" imageId="48550761"/>
+    </Metadata>
+    <Page imageFilename="1589060_0070.jpg" imageWidth="3352" imageHeight="3624">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711789494007" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="1023,548 1023,834 2850,834 2850,548"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1015,630 1184,630 1412,707 1592,666 2313,675 2404,725 2847,694 2842,611 2687,593 2523,616 2265,566 2108,611 1716,550 1298,543 1177,584 1011,554"/>
+                <Baseline points="1026,611 1117,614 1208,620 1299,623 1390,623 1482,627 1573,631 1664,635 1755,636 1846,644 1938,648 2029,653 2120,654 2211,660 2302,665 2394,667 2485,671 2576,674 2667,677 2758,680 2850,683"/>
+                <TextEquiv>
+                    <Unicode>Stossseufzer des Rezensenten: Ja, wenn man</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1013,773 1412,760 1773,849 2256,789 2509,842 2503,705 2169,725 2046,682 1905,723 1811,680 1684,725 1243,657 1011,687"/>
+                <Baseline points="1023,740 1097,745 1172,747 1246,749 1321,752 1395,755 1470,758 1544,761 1619,767 1693,770 1768,773 1842,775 1917,776 1991,781 2066,785 2140,785 2215,787 2289,792 2364,794 2438,797 2513,803"/>
+                <TextEquiv>
+                    <Unicode>bis zu den sternen spucken könnte!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

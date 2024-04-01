@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:46</Creator>
+        <Created>2023-09-27T14:42:03.105+02:00</Created>
+        <LastChange>2024-01-22T21:46:11.361+01:00</LastChange>
+        <TranskribusMetadata docId="1589067" pageId="60127542" pageNr="211" tsid="145643530" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=NBCGDPWXBHOMDWLWURXUCGTU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ORDFVFNLIJQYZDMCKSZQKQSH" imageId="48552619"/>
+    </Metadata>
+    <Page imageFilename="1589067_0211.jpg" imageWidth="3000" imageHeight="3800">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787964912" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="238,544 238,706 379,706 379,544"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="224,677 244,690 284,677 291,687 309,682 324,697 339,692 346,702 369,702 376,610 349,618 329,605 321,608 271,558 254,568 232,565"/>
+                <Baseline points="238,656 266,656 294,656 322,654 350,650 379,644"/>
+                <TextEquiv>
+                    <Unicode>Ip</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="334,314 334,2796 2501,2796 2501,314"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1392,431 1477,441 1499,426 1541,443 1571,431 1673,463 1768,426 1773,237 1599,274 1576,256 1551,269 1519,239 1454,274 1394,269"/>
+                <Baseline points="1408,373 1434,375 1460,373 1486,373 1513,373 1539,373 1565,371 1592,367 1618,369 1644,370 1670,372 1697,372 1723,370 1749,368 1776,366"/>
+                <TextEquiv>
+                    <Unicode>11 Se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1437,742 1496,742 1559,772 1611,754 1658,767 1691,503 1653,510 1569,488 1551,498 1506,463 1469,476"/>
+                <Baseline points="1459,671 1486,669 1514,667 1541,665 1569,660 1597,656 1624,654 1652,650 1680,644"/>
+                <TextEquiv>
+                    <Unicode>sr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="496,944 1200,984 1347,929 1604,971 2156,921 2283,966 2497,924 2500,817 2413,847 2221,797 2139,842 2074,814 1374,869 1200,819 1021,881 742,854 610,784 498,839"/>
+                <Baseline points="510,931 609,931 709,931 808,929 908,931 1007,928 1107,925 1206,925 1306,924 1405,922 1505,919 1605,919 1704,919 1804,915 1903,918 2003,913 2102,913 2202,909 2301,910 2401,910 2501,907"/>
+                <TextEquiv>
+                    <Unicode>Löbensklugheit bedeutet: alle Dinge möglichst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="503,1063 717,1108 1056,1053 1591,1091 1955,1043 2286,1111 2286,1006 1975,986 1917,944 1116,984 1066,1021 503,984"/>
+                <Baseline points="516,1053 604,1056 693,1059 782,1058 871,1059 960,1058 1048,1052 1137,1050 1226,1050 1315,1047 1404,1047 1492,1044 1581,1044 1670,1041 1759,1044 1848,1044 1936,1041 2025,1041 2114,1041 2203,1044 2292,1038"/>
+                <TextEquiv>
+                    <Unicode>richtig,aber keines völlig ernst nehmen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1011,1213 1153,1188 1208,1228 1307,1240 1492,1158 1773,1155 1760,1101 1439,1128 1155,1096 1016,1143"/>
+                <Baseline points="1029,1167 1066,1170 1104,1170 1141,1170 1179,1168 1217,1168 1254,1169 1292,1164 1330,1161 1367,1161 1405,1159 1443,1157 1480,1153 1518,1149 1556,1146 1593,1146 1631,1142 1669,1139 1706,1137 1744,1137 1782,1137"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="321,1178 378,1195 413,1178 491,1190 510,1175 535,1190 565,1165 622,1165 647,1188 737,1168 737,1130 722,1125 692,1138 645,1120 535,1128 443,1073 321,1111"/>
+                <Baseline points="334,1158 359,1162 385,1164 410,1162 436,1161 461,1163 487,1163 512,1161 538,1161 564,1161 589,1159 615,1158 640,1158 666,1158 691,1158 717,1157 743,1155"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1741,2786 1882,2786 1955,2756 2009,2784 2079,2766 2234,2796 2336,2751 2398,2766 2428,2751 2433,2637 2338,2672 2119,2627 1947,2669 1745,2652"/>
+                <Baseline points="1755,2770 1789,2769 1823,2769 1857,2767 1891,2764 1925,2760 1959,2757 1993,2755 2027,2755 2061,2753 2095,2752 2129,2752 2163,2752 2197,2746 2231,2744 2265,2746 2299,2746 2333,2746 2367,2745 2401,2741 2435,2734"/>
+                <TextEquiv>
+                    <Unicode>Herdhach R. 21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

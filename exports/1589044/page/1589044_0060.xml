@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_18:57</Creator>
+        <Created>2023-09-27T14:37:24.981+02:00</Created>
+        <LastChange>2024-01-22T18:57:14.604+01:00</LastChange>
+        <TranskribusMetadata docId="1589044" pageId="60124512" pageNr="60" tsid="145633932" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=BJMVYLFTTCOBAUHAIKXZTQOA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDFTHSDBPUCNWBNQUDQDORKX" imageId="48549589"/>
+    </Metadata>
+    <Page imageFilename="1589044_0060.jpg" imageWidth="2952" imageHeight="3528">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711791571818" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="537,704 537,1468 2029,1468 2029,704"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1237,780 1519,788 1572,826 1736,757 1919,785 2025,757 2027,719 1859,716 1786,664 1718,724 1375,745 1312,684 1239,742"/>
+                <Baseline points="1244,784 1283,787 1322,787 1361,787 1401,787 1440,790 1479,788 1518,787 1558,786 1597,783 1636,781 1675,776 1715,773 1754,765 1793,766 1832,769 1872,769 1911,767 1950,767 1989,767 2029,767"/>
+                <TextEquiv>
+                    <Unicode>Die eingen Thome</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="725,1058 1771,1051 1771,964 904,955 860,998 771,999 727,964"/>
+                <Baseline points="734,1050 786,1047 838,1047 890,1048 942,1050 994,1050 1046,1050 1098,1045 1150,1047 1202,1047 1254,1047 1306,1047 1358,1049 1410,1047 1462,1047 1514,1047 1566,1044 1618,1044 1670,1044 1722,1042 1775,1041"/>
+                <TextEquiv>
+                    <Unicode>Berthold Rembach,Advokat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="724,1184 1425,1183 1442,1133 1271,1110 1176,1137 1065,1118 982,1158 877,1118 724,1137"/>
+                <Baseline points="731,1178 766,1178 802,1180 837,1180 873,1178 909,1178 944,1176 980,1177 1016,1178 1051,1178 1087,1178 1123,1178 1158,1178 1194,1175 1230,1170 1265,1170 1301,1172 1337,1175 1372,1176 1408,1175 1444,1173"/>
+                <TextEquiv>
+                    <Unicode>Adele,seine Frau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="725,1334 1752,1318 1752,1241 1676,1233 727,1246"/>
+                <Baseline points="734,1298 785,1300 836,1305 887,1307 938,1305 989,1304 1040,1304 1091,1303 1142,1299 1193,1301 1244,1301 1295,1303 1346,1304 1397,1301 1448,1304 1499,1301 1550,1301 1601,1299 1652,1298 1703,1295 1755,1292"/>
+                <TextEquiv>
+                    <Unicode>Ferdinand Foddeg,Bankie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="530,1424 1345,1442 1345,1413 1283,1377 1118,1368 801,1379 744,1420 604,1364 530,1400"/>
+                <Baseline points="537,1423 577,1426 618,1428 658,1431 699,1432 740,1434 780,1435 821,1436 861,1438 902,1438 943,1435 983,1429 1024,1432 1064,1432 1105,1434 1146,1435 1186,1435 1227,1434 1267,1432 1308,1433 1349,1438"/>
+                <TextEquiv>
+                    <Unicode>eliwadchel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

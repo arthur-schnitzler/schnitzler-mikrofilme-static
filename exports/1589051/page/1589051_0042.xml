@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:39:00.303+02:00</Created>
+        <LastChange>2024-01-22T19:19:39.297+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125239" pageNr="42" tsid="145635150" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=IKFZGFMPODLZWWUEFVDLBRBE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXOUXWNMJEEQWPWMKPSXGHII" imageId="48550316"/>
+    </Metadata>
+    <Page imageFilename="1589051_0042.jpg" imageWidth="2840" imageHeight="3416">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790809570" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+                <RegionRefIndexed index="1" regionRef="tr_2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="483,513 483,855 2370,855 2370,513"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="470,602 986,616 1075,572 1395,598 1513,558 1668,602 1908,558 2094,590 2096,473 1811,508 1677,454 1451,532 1237,468 1019,522 849,475 473,489"/>
+                <Baseline points="483,576 563,573 644,573 725,573 806,573 887,573 967,571 1048,570 1129,566 1210,573 1291,567 1371,565 1452,561 1533,558 1614,558 1695,558 1775,555 1856,555 1937,556 2018,552 2099,555"/>
+                <TextEquiv>
+                    <Unicode>Bring in den Tempel, so erfüllt er sei-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="473,725 1181,729 1292,689 1931,715 2007,682 2247,710 2305,701 2308,616 1993,583 1280,661 1120,612 1019,654 939,623 788,659 732,614 609,659 473,642"/>
+                <Baseline points="486,704 577,704 668,704 759,704 850,703 941,698 1032,695 1123,692 1214,694 1305,688 1397,688 1488,689 1579,686 1670,684 1761,684 1852,683 1943,680 2034,680 2125,674 2216,674 2308,689"/>
+                <TextEquiv>
+                    <Unicode>Des Wegs Beschner und Einsamkeit mit dir,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1106,776 1162,779 1174,767 1190,772 1202,762 1214,767 1230,760 1273,765 1273,713 1254,718 1244,710 1214,732 1169,722 1132,701 1106,710"/>
+                <Baseline points="1119,761 1145,759 1172,758 1198,758 1225,758 1251,758 1278,761"/>
+                <TextEquiv>
+                    <Unicode>der mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="475,840 767,873 929,828 1052,877 1313,819 1609,873 1722,814 2054,854 2145,807 2367,835 2369,746 475,779"/>
+                <Baseline points="489,839 583,833 677,832 771,831 865,826 959,825 1053,825 1147,825 1241,822 1335,821 1429,818 1523,818 1617,818 1711,815 1805,812 1899,810 1993,810 2087,807 2181,806 2275,803 2370,809"/>
+                <TextEquiv>
+                    <Unicode>se rührt der Hauch der Meuge dich nicht an.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="tr_2" custom="readingOrder {index:1;}">
+            <Coords points="2394,133 2394,294 2609,294 2609,133"/>
+            <TextLine id="tr_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2381,252 2437,263 2461,247 2494,278 2520,278 2567,247 2604,247 2607,193 2576,169 2555,174 2538,162 2512,176 2477,160 2409,198 2383,200"/>
+                <Baseline points="2394,244 2420,242 2447,240 2474,238 2501,236 2528,234 2555,233 2582,233 2609,235"/>
+                <TextEquiv>
+                    <Unicode>191t</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

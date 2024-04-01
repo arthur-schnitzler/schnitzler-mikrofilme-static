@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:15</Creator>
+        <Created>2023-09-27T14:41:53.724+02:00</Created>
+        <LastChange>2024-01-22T21:15:16.085+01:00</LastChange>
+        <TranskribusMetadata docId="1589068" pageId="60126787" pageNr="61" tsid="145642226" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MBRCCZGGARGKGVVAUFPCJZGK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XUMKCIDYTSPEDKQMJYAKTNVA" imageId="48551864"/>
+    </Metadata>
+    <Page imageFilename="1589068_0061.jpg" imageWidth="2872" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787567383" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="632,540 632,902 2534,902 2534,540"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="622,622 2527,618 2527,518 2399,487 1753,530 1541,473 800,522 622,496"/>
+                <Baseline points="635,609 734,611 834,612 934,613 1034,615 1134,613 1234,612 1334,612 1434,610 1534,616 1634,615 1734,609 1834,609 1934,609 2034,608 2134,606 2234,608 2334,606 2434,604 2534,603"/>
+                <TextEquiv>
+                    <Unicode>Zuel Splegel einander gegenüber -: für den Kurz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="620,758 1147,746 1304,791 1389,746 2446,748 2446,665 2249,625 1948,663 1496,610 1081,651 620,627"/>
+                <Baseline points="632,743 727,740 823,740 919,743 1014,740 1110,740 1206,739 1302,737 1397,737 1493,741 1589,740 1685,737 1780,737 1876,738 1972,739 2068,737 2163,737 2259,737 2355,734 2451,731"/>
+                <TextEquiv>
+                    <Unicode>sichtigen bedeutet es Verwirrung, für den Meit-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="620,874 781,907 1071,869 1582,893 1582,788 1487,760 1404,793 1159,767 1097,796 983,750 822,788 620,758"/>
+                <Baseline points="632,871 679,871 727,869 775,868 823,868 871,871 918,871 966,868 1014,867 1062,866 1110,868 1157,868 1205,868 1253,868 1301,868 1349,868 1396,868 1444,868 1492,868 1540,865 1588,865"/>
+                <TextEquiv>
+                    <Unicode>sichtigen Unendlichkeit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

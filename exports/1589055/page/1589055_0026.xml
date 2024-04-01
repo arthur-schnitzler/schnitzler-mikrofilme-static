@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:42</Creator>
+        <Created>2023-09-27T14:39:27.553+02:00</Created>
+        <LastChange>2024-01-22T19:42:27.578+01:00</LastChange>
+        <TranskribusMetadata docId="1589055" pageId="60125386" pageNr="26" tsid="145636186" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=DDUMTBRWVFVJROMMUGDSGELH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MRQMCNWLKRLVMSMQBHLMFSXM" imageId="48550463"/>
+    </Metadata>
+    <Page imageFilename="1589055_0026.jpg" imageWidth="2888" imageHeight="3480">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790605129" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="561,473 561,980 2605,980 2605,473"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="920,580 1377,618 1583,568 1977,598 2118,548 2528,548 2492,437 2193,452 2083,503 1791,387 1510,510 922,540"/>
+                <Baseline points="934,587 1018,584 1102,579 1186,581 1270,579 1354,576 1438,571 1523,569 1607,562 1691,561 1775,561 1859,555 1943,555 2028,550 2112,545 2196,543 2280,540 2364,536 2448,537 2533,528"/>
+                <TextEquiv>
+                    <Unicode>mar's mehr als das gemohnte Schinpfen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="545,621 578,613 706,638 766,608 807,641 844,636 847,533 781,543 734,518 663,510 621,535 583,520 548,538"/>
+                <Baseline points="561,602 587,602 614,598 640,596 667,596 693,596 720,596 746,596 773,595 799,594 826,593 853,593"/>
+                <TextEquiv>
+                    <Unicode>Diesmal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="545,739 741,729 832,781 955,726 1319,759 1636,698 2435,698 2437,623 1995,590 1849,638 1666,593 1548,648 1241,600 809,678 548,656"/>
+                <Baseline points="561,731 655,722 749,722 843,718 937,716 1031,715 1125,710 1220,705 1314,705 1408,704 1502,695 1596,692 1690,689 1784,689 1879,685 1973,682 2067,680 2161,674 2255,671 2349,668 2444,668"/>
+                <TextEquiv>
+                    <Unicode>Es war ein Kreischen,Gröhlön,Johlen, Speifn-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="553,867 1369,832 1515,867 2183,804 2291,849 2294,756 2023,714 1937,774 1744,734 1528,791 1306,749 1163,801 746,799 558,741"/>
+                <Baseline points="567,853 653,849 740,846 826,844 913,841 999,841 1086,838 1172,835 1259,833 1345,828 1432,825 1519,822 1605,820 1692,818 1778,813 1865,811 1951,806 2038,804 2124,802 2211,799 2298,802"/>
+                <TextEquiv>
+                    <Unicode>sind Einer, der mich sah die Nase rümpfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="583,972 852,1002 1020,960 1106,997 1299,930 1804,952 2417,887 2533,932 2595,925 2598,849 2487,809 2317,859 2193,812 2060,862 1910,814 1814,867 1565,847 1445,884 1374,837 1186,889 1141,854 585,884"/>
+                <Baseline points="596,958 696,951 796,949 897,946 997,943 1098,937 1198,935 1299,929 1399,925 1500,922 1600,917 1700,910 1801,907 1901,906 2002,902 2102,898 2203,898 2303,890 2404,886 2504,886 2605,898"/>
+                <TextEquiv>
+                    <Unicode>Zief:Was,empfindlich will der Kerl noch sein?:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

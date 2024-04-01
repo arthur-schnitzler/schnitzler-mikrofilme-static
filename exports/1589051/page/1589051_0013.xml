@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_19:19</Creator>
+        <Created>2023-09-27T14:38:57.436+02:00</Created>
+        <LastChange>2024-01-22T19:19:34.219+01:00</LastChange>
+        <TranskribusMetadata docId="1589051" pageId="60125080" pageNr="13" tsid="145635120" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=MZODQTBCDZOEXGMZIIUMSEPF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HSTZLSHVIGHVQYIKFLPJEEMO" imageId="48550157"/>
+    </Metadata>
+    <Page imageFilename="1589051_0013.jpg" imageWidth="2824" imageHeight="3352">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711790775371" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="417,376 417,1118 1919,1118 1919,376"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1528,400 1564,402 1592,386 1644,393 1670,376 1752,392 1787,367 1787,324 1757,318 1724,339 1690,320 1650,324 1592,289 1547,278 1528,285"/>
+                <Baseline points="1537,399 1562,397 1587,396 1612,396 1638,397 1663,398 1688,398 1714,396 1739,396 1764,396 1790,399"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="522,461 1571,482 1583,400 1458,369 1401,400 522,378"/>
+                <Baseline points="531,450 583,449 636,450 689,447 742,447 795,449 847,447 900,445 953,446 1006,444 1059,443 1111,442 1164,441 1217,436 1270,438 1323,438 1375,439 1428,440 1481,438 1534,438 1587,441"/>
+                <TextEquiv>
+                    <Unicode>Schattenhaft wie die Eri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="525,612 726,599 957,646 1166,618 1402,666 1404,555 1171,503 957,539 658,517 527,555"/>
+                <Baseline points="537,588 580,586 624,582 667,583 711,584 754,581 798,579 841,579 885,579 928,579 972,578 1016,576 1059,575 1103,574 1146,576 1190,576 1233,576 1277,576 1320,576 1364,579 1408,579"/>
+                <TextEquiv>
+                    <Unicode>geträumten Seufzer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="519,853 1072,820 1281,863 1749,813 1902,846 1916,746 1747,783 1549,726 1408,785 964,746 520,778"/>
+                <Baseline points="528,835 597,835 667,835 736,832 806,832 875,829 945,829 1014,827 1084,826 1153,826 1223,825 1293,820 1362,819 1432,820 1501,820 1571,820 1640,818 1710,816 1779,814 1849,815 1919,814"/>
+                <TextEquiv>
+                    <Unicode>Als wenn die Natur von einem Alp</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="519,969 693,1000 1187,957 1272,992 1599,952 1790,990 1870,973 1872,898 1451,922 1348,879 729,931 520,884"/>
+                <Baseline points="528,961 595,963 662,961 730,961 797,958 865,959 932,964 1000,959 1067,961 1135,954 1202,955 1269,952 1337,952 1404,954 1472,949 1539,952 1607,949 1674,949 1742,946 1809,945 1877,946"/>
+                <TextEquiv>
+                    <Unicode>oder ein junges. Wädchen von ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="407,1145 696,1180 813,1128 1093,1108 1094,1046 861,1023 612,1049 557,1025 407,1074"/>
+                <Baseline points="417,1092 450,1094 484,1094 518,1092 552,1092 586,1090 620,1091 654,1091 688,1089 722,1091 756,1090 789,1090 823,1092 857,1087 891,1088 925,1089 959,1089 993,1089 1027,1089 1061,1091 1095,1092"/>
+                <TextEquiv>
+                    <Unicode>Rose, träumte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

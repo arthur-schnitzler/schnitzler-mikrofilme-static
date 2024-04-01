@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.7.0:model_id=50870:lm=none:date=22_01_2024_21:36</Creator>
+        <Created>2023-09-27T14:42:52.462+02:00</Created>
+        <LastChange>2024-01-22T21:36:58.018+01:00</LastChange>
+        <TranskribusMetadata docId="1589070" pageId="60127452" pageNr="109" tsid="145643106" status="IN_PROGRESS" userId="40391" imgUrl="https://files.transkribus.eu/Get?id=HZFFHTWEXTYYNPYWEEAUFJVQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OAPILUNTONYVHLBAXCCUWDDP" imageId="48552529"/>
+    </Metadata>
+    <Page imageFilename="1589070_0109.jpg" imageWidth="2872" imageHeight="3656">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1711787189627" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="477,704 477,1523 2572,1523 2572,704"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="542,786 555,791 567,781 580,783 585,778 603,783 626,768 642,773 655,786 668,786 670,698 637,703 608,673 596,678 585,668 544,665"/>
+                <Baseline points="555,764 584,764 613,762 642,761 671,761"/>
+                <TextEquiv>
+                    <Unicode>et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="462,893 1001,932 1428,881 2490,906 2490,796 2426,819 2262,768 1995,829 1507,770 1374,832 1266,796 906,834 745,791 593,845 462,811"/>
+                <Baseline points="477,874 578,880 679,880 780,880 881,877 982,880 1083,879 1184,879 1285,880 1386,880 1487,880 1588,875 1689,877 1790,876 1891,875 1992,877 2093,877 2194,871 2295,871 2396,871 2498,859"/>
+                <TextEquiv>
+                    <Unicode>Der Endzweck der Kultur, die Politk zu etwas Ueber-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="506,1022 1148,1068 1353,1017 1859,1022 2239,1068 2565,1017 2565,914 2372,968 1980,911 1869,971 1756,929 1471,976 506,935"/>
+                <Baseline points="519,1011 621,1011 724,1014 826,1011 929,1011 1032,1011 1134,1008 1237,1010 1340,1008 1442,1011 1545,1011 1648,1007 1750,1007 1853,1008 1956,1008 2058,1005 2161,1003 2264,1002 2366,1005 2469,1002 2572,1002"/>
+                <TextEquiv>
+                    <Unicode>lissigem und die Kunst zu etwas Notwendigem zu machen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="2205,1517 2241,1510 2254,1520 2311,1502 2362,1520 2401,1512 2437,1528 2465,1515 2488,1533 2519,1533 2519,1415 2473,1417 2437,1399 2385,1428 2339,1407 2205,1435"/>
+                <Baseline points="2220,1489 2245,1491 2270,1492 2296,1492 2321,1491 2346,1490 2372,1490 2397,1492 2422,1490 2448,1490 2473,1493 2498,1495 2524,1495"/>
+                <TextEquiv>
+                    <Unicode>als 1.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
