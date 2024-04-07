@@ -16,7 +16,7 @@ COL_URIS = set()
 
 
 files = glob.glob("exports/*/mets.xml")
-for x in tqdm(files[:3]):
+for x in tqdm(files):
     heads, _ = os.path.split(x)
     # document collection
     cur_col_id = x.split("/")[1]
@@ -97,4 +97,4 @@ for x in COL_URIS:
         g.add((x, p, o))
 
 print("writing graph to file")
-g.serialize("arche.ttl")
+g.serialize("arche_play.ttl")
