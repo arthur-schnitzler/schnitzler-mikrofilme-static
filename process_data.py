@@ -8,12 +8,16 @@ from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext
 from tqdm import tqdm
 
-from utils import get_id_and_title
+from utils import get_id_and_title, gsheet_to_df
+
 
 print("data crunching")
+sheet_id = "1cM9idjHpz-h_sr5DpO_UcVE3bJGI9pu2jwMM3OuJpxA"
 
+df = gsheet_to_df(sheet_id)
 files = sorted(glob.glob("exports/*/metadata.xml"))
-
+df = df.set_index("TranskribusDocId")
+lookup_dict = df.to_dict("index")
 data = []
 for doc_i, x in tqdm(enumerate(files), total=len(files)):
     heads, tail = os.path.split(x)
@@ -36,6 +40,12 @@ for doc_i, x in tqdm(enumerate(files), total=len(files)):
     title_str = doc.any_xpath(".//title")[0].text
     item["doc_id"], item["title"] = get_id_and_title(title_str)
     item["nr_of_pages"] = int(doc.any_xpath(".//nrOfPages")[0].text)
+    item["transkribus_id"] = int(doc.any_xpath("//docId")[0].text)
+    try:
+        item["metadata"] = lookup_dict[item["transkribus_id"]]
+    except KeyError:
+        item["metadata"] = {}
+        print(f'no match for doc {x} with {item["transkribus_id"]}')
     pages = sorted(glob.glob(f"{heads}/page/*.xml"))
     item["pages"] = []
     for i, x in enumerate(pages, start=1):
