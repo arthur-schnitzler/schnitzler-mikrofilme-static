@@ -46,6 +46,8 @@ for doc_i, x in tqdm(enumerate(files), total=len(files)):
     except KeyError:
         item["metadata"] = {}
         print(f'no match for doc {x} with {item["transkribus_id"]}')
+    if item["metadata"]:
+        item["quote"] = f'{item["metadata"]["Titel"]}, Mappe {item["metadata"]["Mappennummer1"]}'
     pages = sorted(glob.glob(f"{heads}/page/*.xml"))
     item["pages"] = []
     for i, x in enumerate(pages, start=1):
@@ -78,8 +80,8 @@ for doc_i, x in tqdm(enumerate(files), total=len(files)):
 
 print("writing temp files")
 with open("data.pickle", "wb") as fp:
-    pickle.dump(data, fp, protocol=pickle.HIGHEST_PROTOCOL)
+    pickle.dump(sorted(data, key=lambda x: x["doc_id"]), fp, protocol=pickle.HIGHEST_PROTOCOL)
 with open("data.json", "w", encoding="utf-8") as fp:
-    json.dump(data, fp, ensure_ascii=False, indent=2)
+    json.dump(sorted(data, key=lambda x: x["doc_id"]), fp, ensure_ascii=False, indent=2)
 
 print("done with data processing")

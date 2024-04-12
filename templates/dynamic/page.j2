@@ -12,7 +12,7 @@
     <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-            <li class="breadcrumb-item"><a href="{{ document_data.doc_id }}.html">{{ document_data.title }}</a></li>
+            <li class="breadcrumb-item"><a href="{{ document_data.doc_id }}.html">{{ document_data.quote }}</a></li>
             <li class="breadcrumb-item active" aria-current="page">Seite {{ page_data.page_nr }}</li>
         </ol>
     </nav>
@@ -23,7 +23,7 @@
             {% endif %}
         </div>
         <div class="col-8 text-center">
-            <h1 class="text-center">{{ document_data.metadata.Typ}}, {{ document_data.metadata.Mappennummer1}}, {{document_data.metadata.Titel}}, Seite {{ page_data.page_nr }}</h1
+            <h1 class="text-center">{{ document_data.quote }}, Seite {{ page_data.page_nr }}</h1>
         </div>
         <div class="col-2 text-end">
             {% if page_data.next_page %}
