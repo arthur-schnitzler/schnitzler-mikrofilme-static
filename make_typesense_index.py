@@ -26,6 +26,7 @@ current_schema = {
         {"name": "title", "type": "string"},
         {"name": "full_text", "type": "string"},
         {"name": "document", "type": "string", "facet": True},
+        {"name": "mappe", "type": "string", "facet": True},
     ],
 }
 
@@ -42,8 +43,9 @@ for x in tqdm(data, total=len(data)):
         record = {}
         record["id"] = y["page_id"]
         record["rec_id"] = f'{y["page_id"]}.html'
-        record["title"] = f'{x["title"]}, Seite {y["page_nr"]}'
-        record["document"] = x["title"]
+        record["title"] = f'{x["quote"]}, Seite {y["page_nr"]}'
+        record["document"] = x["quote"]
+        record["mappe"] = x["metadata"]["Mappennummer1"]
 
         cfts_record["id"] = record["id"]
         cfts_record["resolver"] = (
@@ -64,4 +66,4 @@ print(f"done with indexing {collection_name}")
 
 make_index = CFTS_COLLECTION.documents.import_(cfts_records, {"action": "upsert"})
 print(make_index)
-print("done with cfts-index {collection_name}")
+print(f"done with cfts-index {collection_name}")
