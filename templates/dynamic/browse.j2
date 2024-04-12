@@ -16,7 +16,7 @@
         <table class="table" id="tabulator-table">
             <thead>
                 <th tabulator-headerFilter="input">Signatur</th>
-                <th tabulator-formatter="html" tabulator-headerFilter="input">Titel</th>
+                <th tabulator-formatter="html" tabulator-headerFilter="input">Titel und Mappe</th>
                 <th tabulator-headerFilter="input">Seitenanzahl</th>
                 
                 <!-- <th>Faksimile</th> -->
@@ -28,7 +28,7 @@
                         {{ x.doc_id }}
                     </td>
                     <td>
-                        <a href="{{ x.doc_id }}.html">{{ x.title }}</a>
+                        <a href="{{ x.doc_id }}.html">{{ x.quote }}</a>
                     </td>
                     <td>
                         {{ x.nr_of_pages }}
