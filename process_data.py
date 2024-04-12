@@ -47,7 +47,7 @@ for doc_i, x in tqdm(enumerate(files), total=len(files)):
         item["metadata"] = {}
         print(f'no match for doc {x} with {item["transkribus_id"]}')
     if item["metadata"]:
-        item["quote"] = f'{item["metadata"]["Titel"]}, Mappe {item["metadata"]["Mappennummer1"]}'
+        item["quote"] = f'{item["metadata"]["Mappennummer1"]}: {item["metadata"]["Titel"]}'
     pages = sorted(glob.glob(f"{heads}/page/*.xml"))
     item["pages"] = []
     for i, x in enumerate(pages, start=1):
