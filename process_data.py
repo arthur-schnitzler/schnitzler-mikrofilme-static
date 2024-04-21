@@ -25,14 +25,16 @@ for doc_i, x in tqdm(enumerate(files), total=len(files)):
     try:
         next_doc = TeiReader(files[doc_i + 1])
         title_str = next_doc.any_xpath(".//title")[0].text
-        item["next_doc_id"], item["next_doc_title"] = get_id_and_title(title_str)
+        item["next_doc_title"] = get_id_and_title(title_str)[1]
+        item["next_doc_id"] = int(next_doc.any_xpath("//docId")[0].text)
     except IndexError:
         item["next_doc_id"] = None
         item["next_doc_title"] = None
     if doc_i > 0:
         prev_doc = TeiReader(files[doc_i - 1])
         title_str = prev_doc.any_xpath(".//title")[0].text
-        item["prev_doc_id"], item["prev_doc_title"] = get_id_and_title(title_str)
+        item["prev_doc_title"] = get_id_and_title(title_str)[1]
+        item["prev_doc_id"] = int(prev_doc.any_xpath("//docId")[0].text)
     else:
         item["prev_doc_id"] = None
         item["prev_doc_title"] = None
