@@ -33,3 +33,12 @@ def gsheet_to_df(sheet_id: str) -> pd.DataFrame:
     data = r.content
     df = pd.read_csv(BytesIO(data))
     return df
+
+
+def process_pmb_ids(pmb_ids: str) -> list:
+    results = []
+    if isinstance(pmb_ids, str):
+        for x in pmb_ids.split():
+            pmb_uri = f"https://pmb.acdh.oeaw.ac.at/entity/{x[3:]}"
+            results.append((x, pmb_uri))
+    return results

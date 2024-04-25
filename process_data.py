@@ -8,7 +8,7 @@ from acdh_tei_pyutils.tei import TeiReader
 from acdh_tei_pyutils.utils import extract_fulltext
 from tqdm import tqdm
 
-from utils import get_id_and_title, gsheet_to_df
+from utils import get_id_and_title, gsheet_to_df, process_pmb_ids
 
 
 print("data crunching")
@@ -50,6 +50,7 @@ for doc_i, x in tqdm(enumerate(files), total=len(files)):
         print(f'no match for doc {x} with {item["transkribus_id"]}')
     if item["metadata"]:
         item["quote"] = f'{item["metadata"]["Mappennummer1"]}: {item["metadata"]["Titel"]}'
+        item["pmb_tuples"] = process_pmb_ids(item["metadata"]["PMB"])
     pages = sorted(glob.glob(f"{heads}/page/*.xml"))
     item["pages"] = []
     for i, x in enumerate(pages, start=1):

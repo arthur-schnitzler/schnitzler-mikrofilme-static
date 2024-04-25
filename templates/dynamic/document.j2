@@ -22,6 +22,11 @@
         </div>
         <div class="col-8 text-center">
                 <h1 class="text-center">{{ document_data.quote }}</h1>
+                
+                {% for x in document_data.pmb_tuples %}
+                <a href="{{x.1}}" target="_blank" title="Link zur PMB für Entität: {{ x.0 }}"><span class="badge rounded-pill" style="background-color: #9B5F98; color: white; margin-top: 4px;">PMB</span></a>
+                {% endfor %}
+                
         </div>
         <div class="col-2 text-end">
             {% if document_data.next_doc_id %}
